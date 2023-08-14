@@ -20,14 +20,14 @@
 3. Dynaboard推出了一款低代码IDE，可以在60秒内构建Web应用程序。
 4. TypeScript 5.2即将发布，其中包括资源管理和其他一些新功能。
 5. esbuild 0.19.0发布，支持导入包含通配符的路径和高级CSS @import规则。
-6. Astro 2.10发布了，并发布了Astro 3的首个测试版。
-7. Node.js发布了安全更新，包括OpenSSL安全更新和权限策略修复。
-8. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-9. 作者列举了10篇优秀的JavaScript测试文章，并提供了自己的JavaScript和Node.js测试最佳实践清单。
-10. 文章介绍了HTMX，一种被认为是“改变游戏规则”的React替代方案。
-11. 作者讨论了Node.js项目中的配置问题，并提出了使用Deno来避免这些问题的建议。
-12. 文章介绍了如何使用浏览器API创建屏幕和摄像头录制器。
-13. 文</summary>
+6. Google展示了正在开发的名为Project IDX的新IDE，基于VS Code，支持强大的JS框架和智能AI功能。
+7. 提出了将可观察对象引入JavaScript的早期提案。
+8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
+9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
+10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
+11. 介绍了一个名为HTMX的替代React的库。
+12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
+13. 介绍了使用浏览器API记录屏幕</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -208,7 +208,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的范围内以纯 ASCII 文本“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的纯 ASCII 文本中“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
   <p>萨姆·戈托 / 谷歌</p>
 </td></tr></tbody></table>
 
@@ -277,7 +277,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143900/rss" title="npmgraph.js.org" style=" color: #3366aa;    font-size: 1.05em;">npmgraph：可视化包依赖关系图的有趣方式</a></span>— 一种 Web 工具，接受一个或多个包名称（或<code>包.json</code>）并呈现它们（可能相交）依赖图的可视化。 包可以根据各种标准进行着色（例如维护者的数量，如果您想了解世界有多脆弱），并且您可以下载输出的 SVG。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143900/rss" title="npmgraph.js.org" style=" color: #3366aa;    font-size: 1.05em;">npmgraph：可视化包依赖关系图的有趣方式</a></span>— 一种 Web 工具，接受一个或多个包名称（或<code>包.json</code>）并呈现它们（可能相交）依赖图的可视化。 包可以根据各种标准（例如维护者的数量，如果您想了解世界有多脆弱）进行着色，并且您可以下载输出的 SVG。</p>
   <p>基弗、布里甘特等人。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -665,14 +665,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143509/rss" title="vercel.com" style=" color: #3366aa;    font-size: 1.05em;">了解 React 服务器组件</a></span>— 如果您很难理解所涉及的想法，那么丹·阿布拉莫夫 (Dan Abramov) 的<a href="https://javascriptweekly.com/link/143510/rss" style=" color: #3366aa;   ">“让我们从头开始重新创建 RSC”</a>太深入了，这是对基础知识的一个很好的、高级的解释，涵盖了 RSC 解决的问题、为什么要使用它们，以及 Next.js 如何使这一切变得更容易。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143509/rss" title="vercel.com" style=" color: #3366aa;    font-size: 1.05em;">了解 React 服务器组件</a></span>— 如果您很难理解所涉及的想法，那么丹·阿布拉莫夫 (Dan Abramov) 的<a href="https://javascriptweekly.com/link/143510/rss" style=" color: #3366aa;   ">“让我们从头开始重新创建 RSC”</a>太深入了，这是对基础知识的一个很好的、高级的解释，涵盖了 RSC 解决的问题、为什么你可能会使用它们，以及 Next.js 如何使这一切变得更容易。</p>
   <p>爱丽丝·摩尔（维塞尔饰演）</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143559/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">类型与接口：2023 年您应该使用哪个？</a></span>— 了解 TypeScript 中接口和类型别名之间的主要区别，包括它们的用例和需要考虑的重要功能。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -726,7 +726,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143524/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Vite React Boilerplate：生产就绪的入门模板</a></span>— 一个新的“包含电池”Vite + React 应用程序模板，它依赖于<em>很多</em>从 Zustand 到 Zod 到 Storybook 的电池。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143524/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Vite React Boilerplate：生产就绪的入门模板</a></span>— 一个新的“包含电池”Vite + React 应用程序模板，它依赖于<em>很多</em>从 Zustand 到 Zod 再到 Storybook。</p>
   <p>里卡多·瓦尔多维诺斯</p>
 </td></tr></tbody></table>
 
@@ -809,7 +809,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）之外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
   <p>Felix Rieseberg，苹果公司等。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1122,20 +1122,20 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/143182/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/6e5f101b.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及钩子等技术，培养 UI 开发的底层知识，一切从头开始！</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及挂钩等技术，培养 UI 开发的底层知识，一切从头开始！</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（首先是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（对于初学者来说是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
   <p>海尔斯伯格、卢科、罗森瓦瑟等人。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>⚡️ 简而言之：</strong></p>
 <ul>
 <li>
-<p>🐦<a href="https://javascriptweekly.com/link/143184/rss" style=" color: #3366aa; font-weight: 600;   ">React/Redux 的 Dan Abramov 即将离开 Meta。</a>Dan 取得了如此多的成就，并感到自己已经准备好继续前进，他将离开 Meta，但仍将作为独立第三方留在 React 团队。 💙</p>
+<p>🐦<a href="https://javascriptweekly.com/link/143184/rss" style=" color: #3366aa; font-weight: 600;   ">React/Redux 的 Dan Abramov 即将离开 Meta。</a>在取得了如此多的成就并达到了他认为已经准备好继续前进的程度后，Dan 将离开 Meta，但仍将作为独立第三方留在 React 团队。 💙</p>
 </li>
 <li>
 <p>📘<a href="https://javascriptweekly.com/link/143185/rss" style=" color: #3366aa; font-weight: 600;   ">简洁 TypeScript 书</a>毫不奇怪，这是使用 TypeScript 的指南。 更令人惊讶的是，这些内容都在 GitHub 上并且免费阅读。 欢呼。</p>
@@ -1545,17 +1545,13 @@
 
 4. Storybook 7.1发布了，引入了一些新功能，包括为新成员提供的应用内引导、对Tailwind、MUI、styled-components和MUI的零配置样式支持，以及Vue 3源代码片段等。
 
-5. 文章提醒人们关于TypeScript的一些现实问题，指出如果想使用TypeScript，不能完全抛弃JavaScript。
+5. 文章提醒人们关于TypeScript的一些现实问题，指出如果想使用TypeScript，不能完全抛弃JavaScript，因为它们是相互关联的。
 
-6. 文章介绍了一些有关更新代码的技巧，包括使用jscodeshift自动化更新代码。
+6. 文章列举了一些最新的发布，包括Deno的Web框架Fresh 1.3、React自动完成组件库Downshift 8.0、Node.js v18.17.0和Fastify 4.20等。
 
-7. 文章回顾了React 18在应用性能方面的改进，包括并发渲染、过渡效果、Suspense和React Server Components等新功能。
+7. Promise.withResolvers提案在TC39中从阶段2进展到了阶段3，数组分组提案和源阶段导入也有了进展。
 
-8. 文章介绍了如何减少Wikipedia的总阻塞时间（TBT）来提高性能。
-
-9. 文章讨论了JSX的起源和存在的原因。
-
-10.</summary>
+8. 文章讨论了为什么最</summary>
     <div>
     <div>OriginTitle: The tale of how static typing came to JavaScript</div>
 
@@ -1639,7 +1635,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/142862/rss" title="postgresml.org" style=" color: #3366aa;    font-size: 1.05em;">“我们如何从 Canonical Rust SDK 生成 JS 和 Python SDK”</a></span>—<a href="https://javascriptweekly.com/link/142863/rss" style=" color: #3366aa;   ">PostgresML</a>是一个将机器学习功能添加到 Postgres 中的扩展。 它的团队热爱并且更喜欢 Rust，但它的大多数用户都使用 JavaScript 或 Python。 该怎么办？ 使用 Rust 同时编写多语言库..</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/142862/rss" title="postgresml.org" style=" color: #3366aa;    font-size: 1.05em;">“我们如何从 Canonical Rust SDK 生成 JS 和 Python SDK”</a></span>—<a href="https://javascriptweekly.com/link/142863/rss" style=" color: #3366aa;   ">PostgresML</a>是一个将机器学习功能添加到 Postgres 中的扩展。 它的团队喜欢并且更喜欢 Rust，但它的大多数用户都使用 JavaScript 或 Python。 该怎么办？ 使用 Rust 同时编写多语言库..</p>
   <p>塞拉斯·马文 (PostgresML)</p>
 </td></tr></tbody></table>
 
