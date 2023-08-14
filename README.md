@@ -1,5 +1,3 @@
-web.dev rss源, 中文翻译+gpt总结
+javascript weekly rss源, 中文翻译+gpt总结
 
-
-
-https://eighthundreds.github.io/web.dev.rss/feed.xml
+https://eighthundreds.github.io/javascript-weekly-rss/feed.xml
