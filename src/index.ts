@@ -14,7 +14,7 @@ const parser = new FeedParse({
 
 const main = async () => {
   console.log('开始解析原始feed')
-  const webDevFeed = await parser.parseURL("https://web.dev/feed.xml");
+  const webDevFeed = await parser.parseURL("https://cprss.s3.amazonaws.com/javascriptweekly.com.xml");
   console.log('解析完成')
   const translatedWebDevFeed = await parser.parseString(fs.readFileSync(resolve("./feed.xml"), "utf-8"));
 
