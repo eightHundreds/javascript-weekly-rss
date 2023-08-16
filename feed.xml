@@ -24,9 +24,10 @@
 7. 提出了将可观察对象引入JavaScript的早期提案。
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-10. 作者列出了一些优秀的JavaScript测试文章，并提到了自己的JavaScript和Node.js测试最佳实践列表。
-11. 作者推荐学习htmx，认为它是一种值得掌握的前端工具。
-12. 文章讨论了Node.js项目中的配置问题，并提出了使用</summary>
+10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
+11. 作者分享了一个关于HTMX的视频，认为它是一个值得学习的工具。
+12. 文章讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
+13. 介绍了</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -566,7 +567,7 @@
             <guid>https://javascriptweekly.com/issues/650</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的项目，它是一个通过Electron运行的虚拟Macintosh系统，可以模拟运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools对自定义对象格式化的支持等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建、快速排序算法等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个虚拟的Macintosh电脑，可以在Electron中运行，包括一些预装的应用程序和游戏，如Oregon Trail。</summary>
     <div>
     <div>OriginTitle: Taking JavaScript into Python</div>
 
@@ -1090,11 +1091,7 @@
             <guid>https://javascriptweekly.com/issues/649</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，这是一种新的堆栈选择，可以简化全栈JavaScript开发。然后，文章介绍了VS Code团队如何通过名称混淆来减小代码的大小。接下来，提到了一个名为TypeChat的项目，旨在解决大型语言模型输出难以解析的问题。此外，还提到了一些发布的新版本和一些有用的工具和库。
-
-文章还包括一些有趣的文章和教程，如如何构建一个使用GPT-3的应用程序，以及如何升级一个古老的React应用程序。此外，还介绍了一些有用的工具和库，如a11y-dialog、Mapkick.js和RxDB。
-
-最后，文章提到了一些招聘信息和一些有趣的项目，如使用170MB的HTML实现井字棋游戏。</summary>
+    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，Hono是一个类似于Express的Web框架，支持JSX渲染，可以与Cloudflare Workers和D1一起使用，提供简化的全栈JavaScript体验。接下来，文章介绍了VS Code团队如何通过名称混淆来减小代码体积。然后，文章推荐了一本免费的TypeScript指南和一个用于学习逻辑和数学的交互式页面。此外，还介绍了一些新发布的工具和框架，如Bun、Astro、Neutralinojs和Remix。最后，文章提到了一些有关代码和工具的文章和教程，并列出了一些招聘信息。</summary>
     <div>
     <div>OriginTitle: Name mangling</div>
 
@@ -1548,13 +1545,15 @@
 
 4. Storybook 7.1发布了，引入了一些新功能，包括为新成员提供的应用内引导、对Tailwind、MUI、styled-components和MUI的零配置样式支持，以及Vue 3源代码片段等。
 
-5. 文章提醒人们关于TypeScript的一些现实问题，指出如果想使用TypeScript，不能完全抛弃JavaScript，因为它们是相互关联的。
+5. 文章提醒人们关于TypeScript的一些现实问题，指出如果想使用TypeScript，不能完全抛弃JavaScript。
 
-6. 文章列举了一些最新的发布，包括Deno的Web框架Fresh 1.3、React自动完成组件库Downshift 8.0、Node.js v18.17.0和Fastify 4.20等。
+6. 文章介绍了一些有关更新代码的技巧，包括使用jscodeshift自动化更新代码的方法。
 
-7. Promise.withResolvers提案在TC39中从阶段2进展到了阶段3，数组分组提案和源阶段导入也有了进展。
+7. 文章讨论了React 18如何改善应用程序性能的一些方面，包括并发渲染、过渡效果、Suspense和React Server Components等新功能。
 
-8. 文章讨论了为什么最</summary>
+8. 文章介绍了如何减少Wikipedia的总阻塞时间（TBT）的措施。
+
+9. 文章回顾了JSX的起源和</summary>
     <div>
     <div>OriginTitle: The tale of how static typing came to JavaScript</div>
 
