@@ -16,7 +16,7 @@
     <summary>这篇文章是JavaScript Weekly的一期新闻简报，主要介绍了一些与JavaScript相关的新闻、教程和工具。以下是文章的要点：
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
-2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0版本。
+2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
 3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
 4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
 5. 文章介绍了使用three.js创建3D Web体验的完整指南。
@@ -25,7 +25,8 @@
 8. 文章介绍了JavaScript中删除事件监听器的常见方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等</summary>
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等。
+</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -640,9 +641,10 @@
 7. 提出了将可观察对象引入JavaScript的早期提案。
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-10. 作者列出了一些优秀的JavaScript测试文章，并提到了自己的JavaScript和Node.js测试最佳实践列表。
-11. 作者推荐学习htmx，认为它是一种值得掌握的“改变游戏规则”的React替代方案。
-12. 文章讨论了Node</summary>
+10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
+11. 作者分享了一个关于HTMX的视频，认为它是一个值得学习的工具。
+12. 文章讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
+13. 介绍了</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -729,7 +731,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143864/rss" title="practica.dev" style=" color: #3366aa;    font-size: 1.05em;">优秀 JS 测试文章合集</a></span>— 一份固执己见的清单<em>10篇优秀测试文章</em>，都带有 JS 倾向。 他还提到了自己的<a href="https://javascriptweekly.com/link/143865/rss" style=" color: #3366aa;   ">JavaScript 和 Node.js 测试最佳实践列表</a>这也值得重新审视。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143864/rss" title="practica.dev" style=" color: #3366aa;    font-size: 1.05em;">优秀JS测试文章合集</a></span>——一份固执己见的清单<em>10篇优秀测试文章</em>，都带有 JS 倾向。 他还提到了自己的<a href="https://javascriptweekly.com/link/143865/rss" style=" color: #3366aa;   ">JavaScript 和 Node.js 测试最佳实践列表</a>这也值得重新审视。</p>
   <p>约尼·戈德堡</p>
 </td></tr></tbody></table>
 
@@ -742,7 +744,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/143866/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">看看 HTMX：React 的“改变游戏规则”的替代品？</a></span>— Jack 典型的制作精良的短途巡演之一（仅 14 分钟）。 他喜欢<a href="https://javascriptweekly.com/link/143867/rss" style=" color: #3366aa;   ">HTMX</a>并认为值得学习，以便您的工具箱中有更多选择。</p>
-  <p>杰克·赫灵顿</p>
+  <p>杰克·赫林顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 更喜欢传统的文章？<a href="https://javascriptweekly.com/link/143868/rss" style=" color: #3366aa; font-weight: 600;">詹姆斯·希巴德 (James Hibbard) 这里有一个</a>。</p></td></tr></tbody></table>
@@ -1246,7 +1248,7 @@
 <p>谷歌已经揭晓<a href="https://javascriptweekly.com/link/143557/rss" style=" color: #3366aa; font-weight: 600;   ">一些重大改进<em>谷歌地图</em>可以加载 JavaScript 代码。</a></p>
 </li>
 <li>
-<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期以来支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
+<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
 </li>
 <li>
 <p>Svelte 项目已发布<a href="https://javascriptweekly.com/link/143504/rss" style=" color: #3366aa; font-weight: 600;   ">最新每月更新。</a>有一个<em>很多</em>Svelte 世界正在发生。</p>
@@ -1424,7 +1426,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）之外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
   <p>Felix Rieseberg，苹果公司等。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1737,13 +1739,13 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/143182/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/6e5f101b.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及挂钩等技术，培养 UI 开发的底层知识，一切从头开始！</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及钩子等技术，培养 UI 开发的底层知识，一切从头开始！</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（对于初学者来说是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（首先是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
   <p>海尔斯伯格、卢科、罗森瓦瑟等人。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
