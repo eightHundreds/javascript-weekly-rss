@@ -16,17 +16,16 @@
     <summary>这篇文章是JavaScript Weekly的一期新闻简报，主要介绍了一些与JavaScript相关的新闻、教程和工具。以下是文章的要点：
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
-2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
+2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0版本。
 3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
 4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
-5. 文章介绍了使用three.js创建3D Web体验的完整指南。
+5. 文章介绍了使用three.js创建3D Web体验的完整指南，并提供了一些有用的技巧和窍门。
 6. 一种名为NakedJSX的新工具可以在不使用完整的React框架的情况下渲染JSX。
-7. Userfront是一个简化身份验证和访问控制的工具，使工程师可以专注于核心业务。
-8. 文章介绍了JavaScript中删除事件监听器的常见方法。
+7. Userfront是一个简化身份验证和访问控制的工具，可以帮助工程师专注于核心业务。
+8. 文章介绍了一些常见的JavaScript事件监听器的移除方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial。
-12</summary>
+11. 文章介绍了</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -642,9 +641,9 @@
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
 10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
-11. 介绍了HTMX，一种被认为是“改变游戏规则”的React替代选择。
-12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
-13. 介绍了</summary>
+11. 介绍了一个名为HTMX的替代React的库。
+12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
+13. 介绍了使用浏览器API创建屏</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -744,7 +743,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/143866/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">看看 HTMX：React 的“改变游戏规则”的替代品？</a></span>— Jack 典型的制作精良的短途巡演之一（仅 14 分钟）。 他喜欢<a href="https://javascriptweekly.com/link/143867/rss" style=" color: #3366aa;   ">HTMX</a>并认为值得学习，以便您的工具箱中有更多选择。</p>
-  <p>杰克·赫灵顿</p>
+  <p>杰克·赫林顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 更喜欢传统的文章？<a href="https://javascriptweekly.com/link/143868/rss" style=" color: #3366aa; font-weight: 600;">詹姆斯·希巴德 (James Hibbard) 这里有一个</a>。</p></td></tr></tbody></table>
@@ -1184,7 +1183,7 @@
             <guid>https://javascriptweekly.com/issues/650</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的项目，它是一个通过Electron运行的虚拟Macintosh系统，可以模拟运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools对自定义对象格式化的支持等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建、快速排序算法等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的项目，它是一个通过Electron运行的虚拟Macintosh系统，可以模拟运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
     <div>
     <div>OriginTitle: Taking JavaScript into Python</div>
 
@@ -1289,7 +1288,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143559/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">类型与接口：2023 年您应该使用哪个？</a></span>— 了解 TypeScript 中接口和类型别名之间的主要区别，包括它们的用例和需要考虑的重要功能。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1708,7 +1707,7 @@
             <guid>https://javascriptweekly.com/issues/649</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，Hono是一个类似于Express的Web框架，可以用于渲染JSX，并结合Cloudflare Workers和D1实现简化的全栈JS体验。接下来，文章介绍了VS Code团队如何通过名称混淆来减小代码体积。然后，文章推荐了一本免费的TypeScript指南和一个用于学习逻辑和数学的交互式页面。此外，还介绍了一些新发布的工具和框架，如Bun、Astro、Neutralinojs和Remix。最后，文章提到了一些有关代码和工具的文章和教程，并列出了一些招聘信息。</summary>
+    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，Hono是一个类似于Express的Web框架，可以用于渲染JSX。作者还展示了如何使用Cloudflare Workers和D1来实现简化的全栈JavaScript体验。接下来，文章介绍了VS Code团队如何通过名称混淆来减小代码的大小。然后，文章推荐了一本免费的TypeScript指南和一个用于学习逻辑和数学的交互式页面。此外，还介绍了一些新发布的工具和框架，如Bun、Astro和Remix。最后，文章提到了一些有关编码和开发的文章和教程，以及一些招聘信息。</summary>
     <div>
     <div>OriginTitle: Name mangling</div>
 
@@ -1910,7 +1909,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>😱</span>&nbsp;<a href="https://javascriptweekly.com/link/143228/rss" title="portswigger.net" style=" color: #3366aa;    font-size: 1.05em;">使用 170MB HTML 实现 Tic Tac Toe</a></span>— 不出所料，演示（我们已经<em>不是</em>链接到这里）使我的浏览器崩溃了，但是看到开发人员接受挑战，使用 Chrome 对弹出窗口的支持以及所述弹出窗口的状态以及大量 HTML 来处理 Tic Tac Toe 游戏，这很有趣。 不要在生产中重复这个，伙计们..</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>😱</span>&nbsp;<a href="https://javascriptweekly.com/link/143228/rss" title="portswigger.net" style=" color: #3366aa;    font-size: 1.05em;">使用 170MB HTML 实现 Tic Tac Toe</a></span>— 不出所料，演示（我们已经<em>不是</em>链接到这里）让我的浏览器崩溃了，但是看到开发人员接受挑战，使用 Chrome 对弹出窗口的支持以及所述弹出窗口的状态以及大量 HTML 来处理 Tic Tac Toe 游戏，这很有趣。 不要在生产中重复这个，伙计们..</p>
   <p>加雷斯·海耶斯</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
