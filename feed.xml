@@ -16,17 +16,17 @@
     <summary>这篇文章是JavaScript Weekly的一期新闻简报，主要介绍了一些与JavaScript相关的新闻、教程和工具。以下是文章的要点：
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
-2. htmx是GitHub加速器计划的一部分，它是一个流行的库，用于创建Web应用程序。
-3. 有一些纯JavaScript的替代方案，可以替代Lodash和Underscore等常用的实用工具库。
-4. 介绍了一些有关JavaScript的新闻和活动，如Bun 1.0的发布、C++的改进、React Jam游戏开发比赛等。
-5. 提供了一些有关使用three.js创建3D Web体验的教程和技巧。
-6. 探索了一种名为NakedJSX的工具，可以在不使用完整的React框架的情况下渲染JSX。
-7. 介绍了一些有关JavaScript中删除事件监听器的常用方法。
-8. 讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
-9. 提供了一些有关Angular信号的应用程序状态管理的教程。
-10. 介绍了一些有趣的JavaScript工具和库，如Croner、Linkify、Tagger等。
-11. 发布了一些新版本的JavaScript框架和库，如Fresh、jest-dom、NodeBB等。
-12. 提供了一些有关JavaScript</summary>
+2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
+3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
+4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
+5. 文章介绍了使用three.js创建3D Web体验的完整指南。
+6. 一种名为NakedJSX的新工具可以在不使用完整的React框架的情况下渲染JSX。
+7. Userfront是一个简化身份验证和访问控制的工具，使工程师可以专注于核心业务。
+8. 文章介绍了JavaScript中删除事件监听器的常见方法。
+9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
+10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等。
+</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -283,7 +283,7 @@
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/144157/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">块注0.9</a><br>
- ↳ 在 Prosemirror 之上构建的“Notion-style”基于块的编辑器。 （<a href="https://javascriptweekly.com/link/144158/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>）</p>
+ ↳ 在 Prosemirror 之上构建的“Notion-style”基于块的编辑器。 (<a href="https://javascriptweekly.com/link/144158/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/144159/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">反应数字格式 5.3</a><br>
@@ -297,7 +297,7 @@
 <p><a href="https://javascriptweekly.com/link/144161/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">瓜JS 15.9</a>– 轻量级 HTML5 游戏引擎。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/144162/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">可排序2.3</a>– Vanilla JS 表排序。 （<a href="https://javascriptweekly.com/link/144163/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>）</p>
+<p><a href="https://javascriptweekly.com/link/144162/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">可排序2.3</a>– Vanilla JS 表排序。 (<a href="https://javascriptweekly.com/link/144163/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/144136/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">预反应 10.17.0</a></p>
@@ -637,14 +637,14 @@
 3. Dynaboard推出了一款低代码IDE，可以在60秒内构建Web应用程序。
 4. TypeScript 5.2即将发布，其中包括资源管理和其他一些新功能。
 5. esbuild 0.19.0发布，支持导入包含通配符的路径和高级CSS @import规则。
-6. Astro 2.10发布了，并发布了Astro 3的首个测试版。
-7. Node.js发布了安全更新，包括OpenSSL安全更新和权限策略修复。
-8. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-9. 作者列举了10篇优秀的JavaScript测试文章，并提供了自己的JavaScript和Node.js测试最佳实践清单。
-10. 文章介绍了HTMX，一种被认为是“改变游戏规则”的React替代方案。
-11. 作者讨论了Node.js项目中的配置问题，并提出了使用Deno来避免这些问题的建议。
-12. 文章介绍了如何使用浏览器API创建屏幕和摄像头录制器。
-13. 文</summary>
+6. Google展示了正在开发的名为Project IDX的新IDE，基于VS Code，支持强大的JS框架和智能AI功能。
+7. 提出了将可观察对象引入JavaScript的早期提案。
+8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
+9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
+10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
+11. 作者分享了一个关于HTMX的视频，认为它是一个值得学习的工具。
+12. 文章讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
+13. 介绍了</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -744,14 +744,14 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/143866/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">看看 HTMX：React 的“改变游戏规则”的替代品？</a></span>— Jack 典型的制作精良的短途巡演之一（仅 14 分钟）。 他喜欢<a href="https://javascriptweekly.com/link/143867/rss" style=" color: #3366aa;   ">HTMX</a>并认为值得学习，以便您的工具箱中有更多选择。</p>
-  <p>杰克·赫灵顿</p>
+  <p>杰克·赫林顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 更喜欢传统的文章？<a href="https://javascriptweekly.com/link/143868/rss" style=" color: #3366aa; font-weight: 600;">詹姆斯·希巴德 (James Hibbard) 这里有一个</a>。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143870/rss" title="deno.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js 的“配置地狱”问题</a></span>— Andy 思考为什么 Next.js 项目有超过 30 个配置文件，以及我们可以采取哪些措施来避免它（毫不奇怪，它涉及使用<a href="https://javascriptweekly.com/link/143871/rss" style=" color: #3366aa;   ">德诺</a>，但我喜欢这种大胆）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143870/rss" title="deno.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js 的“配置地狱”问题</a></span>— Andy 思考为什么 Next.js 项目有超过 30 个配置文件，以及我们可以采取哪些措施来避免它（不出所料，它涉及使用<a href="https://javascriptweekly.com/link/143871/rss" style=" color: #3366aa;   ">德诺</a>，但我喜欢这种大胆）。</p>
   <p>安迪·江（德诺）</p>
 </td></tr></tbody></table>
 
@@ -825,7 +825,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的范围内以纯 ASCII 文本“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的纯 ASCII 文本中“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
   <p>萨姆·戈托 / 谷歌</p>
 </td></tr></tbody></table>
 
@@ -1248,7 +1248,7 @@
 <p>谷歌已经揭晓<a href="https://javascriptweekly.com/link/143557/rss" style=" color: #3366aa; font-weight: 600;   ">一些重大改进<em>谷歌地图</em>可以加载 JavaScript 代码。</a></p>
 </li>
 <li>
-<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
+<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期以来支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
 </li>
 <li>
 <p>Svelte 项目已发布<a href="https://javascriptweekly.com/link/143504/rss" style=" color: #3366aa; font-weight: 600;   ">最新每月更新。</a>有一个<em>很多</em>Svelte 世界正在发生。</p>
@@ -1426,7 +1426,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）之外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
   <p>Felix Rieseberg，苹果公司等。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1708,7 +1708,7 @@
             <guid>https://javascriptweekly.com/issues/649</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，Hono是一个类似于Express的Web框架，可以用于渲染JSX。作者还展示了如何使用Cloudflare Workers和D1来实现简化的全栈JavaScript体验。接下来，文章介绍了VS Code团队如何通过名称混淆来减小代码的大小。然后，文章推荐了一本免费的TypeScript指南和一个用于学习逻辑和数学的交互式页面。此外，还介绍了一些新发布的工具和框架，如Bun、Astro和Remix。最后，文章提到了一些有关代码和工具的文章和教程，并列出了一些招聘信息。</summary>
+    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，Hono是一个类似于Express的Web框架，可以用于渲染JSX，并结合Cloudflare Workers和D1实现简化的全栈JS体验。接下来，文章介绍了VS Code团队如何通过名称混淆来减小代码体积。然后，文章推荐了一本免费的TypeScript指南和一个用于学习逻辑和数学的交互式页面。此外，还介绍了一些新发布的工具和框架，如Bun、Astro、Neutralinojs和Remix。最后，文章提到了一些有关代码和工具的文章和教程，并列出了一些招聘信息。</summary>
     <div>
     <div>OriginTitle: Name mangling</div>
 
@@ -1739,13 +1739,13 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/143182/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/6e5f101b.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及挂钩等技术，培养 UI 开发的底层知识，一切从头开始！</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及钩子等技术，培养 UI 开发的底层知识，一切从头开始！</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（对于初学者来说是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（首先是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
   <p>海尔斯伯格、卢科、罗森瓦瑟等人。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1758,7 +1758,7 @@
 <p>📘<a href="https://javascriptweekly.com/link/143185/rss" style=" color: #3366aa; font-weight: 600;   ">简洁 TypeScript 书</a>毫不奇怪，这是使用 TypeScript 的指南。 更令人惊讶的是，这些内容都在 GitHub 上并且免费阅读。 欢呼。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/143186/rss" style=" color: #3366aa; font-weight: 600;   ">蒂克西</a>是一个交互式页面，用于通过使用视觉网格解决谜题来学习逻辑、数学和表达式。 它开始了<em>非常</em>简单，但很快就会变得详细。 这是获取一些所需技能的好方法<a href="https://javascriptweekly.com/link/143187/rss" style=" color: #3366aa; font-weight: 600;   ">德维特</a>。</p>
+<p><a href="https://javascriptweekly.com/link/143186/rss" style=" color: #3366aa; font-weight: 600;   ">蒂克西</a>是一个交互式页面，用于通过使用视觉网格解决谜题来学习逻辑、数学和表达式。 它开始了<em>非常</em>简单，但很快就会变得详细。 这是获取一些所需技能的好方法<a href="https://javascriptweekly.com/link/143187/rss" style=" color: #3366aa; font-weight: 600;   ">德维特尔</a>。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/143188/rss" style=" color: #3366aa; font-weight: 600;   ">JS游乐场</a>是一个新的基于Web的JavaScript沙箱工具。</p>
