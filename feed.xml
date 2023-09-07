@@ -25,8 +25,8 @@
 8. 文章介绍了JavaScript中删除事件监听器的常见方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial。
-12</summary>
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等。
+</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -641,10 +641,9 @@
 7. 提出了将可观察对象引入JavaScript的早期提案。
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
-11. 作者分享了一个关于HTMX的视频，认为它是一个值得学习的工具。
-12. 文章讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
-13. 介绍了</summary>
+10. 作者列出了一些优秀的JavaScript测试文章，并提到了自己的JavaScript和Node.js测试最佳实践列表。
+11. 作者推荐学习htmx，认为它是一种值得掌握的前端工具。
+12. 文章讨论了Node.js项目中的配置问题，并提出了使用</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -825,7 +824,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的纯 ASCII 文本中“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的范围内以纯 ASCII 文本“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
   <p>萨姆·戈托 / 谷歌</p>
 </td></tr></tbody></table>
 
@@ -894,7 +893,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143900/rss" title="npmgraph.js.org" style=" color: #3366aa;    font-size: 1.05em;">npmgraph：可视化包依赖关系图的有趣方式</a></span>— 一种 Web 工具，接受一个或多个包名称（或<code>包.json</code>）并呈现它们（可能相交）依赖图的可视化。 包可以根据各种标准进行着色（例如维护者的数量，如果您想了解世界有多脆弱），并且您可以下载输出的 SVG。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143900/rss" title="npmgraph.js.org" style=" color: #3366aa;    font-size: 1.05em;">npmgraph：可视化包依赖关系图的有趣方式</a></span>— 一种 Web 工具，接受一个或多个包名称（或<code>包.json</code>）并呈现它们（可能相交）依赖图的可视化。 包可以根据各种标准（例如维护者的数量，如果您想了解世界有多脆弱）进行着色，并且您可以下载输出的 SVG。</p>
   <p>基弗、布里甘特等人。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1184,7 +1183,7 @@
             <guid>https://javascriptweekly.com/issues/650</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的项目，它是一个通过Electron运行的虚拟Macintosh系统，可以模拟运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的虚拟机，可以在Electron中运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
     <div>
     <div>OriginTitle: Taking JavaScript into Python</div>
 
@@ -1248,7 +1247,7 @@
 <p>谷歌已经揭晓<a href="https://javascriptweekly.com/link/143557/rss" style=" color: #3366aa; font-weight: 600;   ">一些重大改进<em>谷歌地图</em>可以加载 JavaScript 代码。</a></p>
 </li>
 <li>
-<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
+<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期以来支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
 </li>
 <li>
 <p>Svelte 项目已发布<a href="https://javascriptweekly.com/link/143504/rss" style=" color: #3366aa; font-weight: 600;   ">最新每月更新。</a>有一个<em>很多</em>Svelte 世界正在发生。</p>
@@ -1343,7 +1342,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143524/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Vite React Boilerplate：生产就绪的入门模板</a></span>— 一个新的“包含电池”Vite + React 应用程序模板，它依赖于<em>很多</em>从 Zustand 到 Zod 到 Storybook 的电池。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143524/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Vite React Boilerplate：生产就绪的入门模板</a></span>— 一个新的“包含电池”Vite + React 应用程序模板，它依赖于<em>很多</em>从 Zustand 到 Zod 再到 Storybook。</p>
   <p>里卡多·瓦尔多维诺斯</p>
 </td></tr></tbody></table>
 
@@ -1426,7 +1425,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）之外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
   <p>Felix Rieseberg，苹果公司等。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1739,26 +1738,26 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/143182/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/6e5f101b.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及钩子等技术，培养 UI 开发的底层知识，一切从头开始！</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及挂钩等技术，培养 UI 开发的底层知识，一切从头开始！</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（首先是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（对于初学者来说是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
   <p>海尔斯伯格、卢科、罗森瓦瑟等人。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>⚡️ 简而言之：</strong></p>
 <ul>
 <li>
-<p>🐦<a href="https://javascriptweekly.com/link/143184/rss" style=" color: #3366aa; font-weight: 600;   ">React/Redux 的 Dan Abramov 即将离开 Meta。</a>在取得了如此多的成就并达到了他觉得已经准备好继续前进的程度后，Dan 将离开 Meta，但仍将作为独立第三方留在 React 团队。 💙</p>
+<p>🐦<a href="https://javascriptweekly.com/link/143184/rss" style=" color: #3366aa; font-weight: 600;   ">React/Redux 的 Dan Abramov 即将离开 Meta。</a>在取得了如此多的成就并达到了他认为已经准备好继续前进的程度后，Dan 将离开 Meta，但仍将作为独立第三方留在 React 团队。 💙</p>
 </li>
 <li>
 <p>📘<a href="https://javascriptweekly.com/link/143185/rss" style=" color: #3366aa; font-weight: 600;   ">简洁 TypeScript 书</a>毫不奇怪，这是使用 TypeScript 的指南。 更令人惊讶的是，这些内容都在 GitHub 上并且免费阅读。 欢呼。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/143186/rss" style=" color: #3366aa; font-weight: 600;   ">蒂克西</a>是一个交互式页面，用于通过使用视觉网格解决谜题来学习逻辑、数学和表达式。 它开始了<em>非常</em>简单，但很快就会变得详细。 这是获取一些所需技能的好方法<a href="https://javascriptweekly.com/link/143187/rss" style=" color: #3366aa; font-weight: 600;   ">德维特尔</a>。</p>
+<p><a href="https://javascriptweekly.com/link/143186/rss" style=" color: #3366aa; font-weight: 600;   ">蒂克西</a>是一个交互式页面，用于通过使用视觉网格解决谜题来学习逻辑、数学和表达式。 它开始了<em>非常</em>简单，但很快就会变得详细。 这是获取一些所需技能的好方法<a href="https://javascriptweekly.com/link/143187/rss" style=" color: #3366aa; font-weight: 600;   ">德维特</a>。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/143188/rss" style=" color: #3366aa; font-weight: 600;   ">JS游乐场</a>是一个新的基于Web的JavaScript沙箱工具。</p>
