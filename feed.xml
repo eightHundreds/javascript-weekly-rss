@@ -8,6 +8,560 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[TypeScript 5.2、Node 20.6 和 Astro 3.0]]></title>
+            <link>https://javascriptweekly.com/issues/653</link>
+            <guid>https://javascriptweekly.com/issues/653</guid>
+            <content:encoded><![CDATA[<div>
+    <h1>GPT总结</h1>
+    <summary>本篇文章是2023年9月7日的JavaScript周报。文章中介绍了一些JavaScript的新闻和更新。其中包括Astro 3.0发布，这是一个全能的网页框架，支持静态和动态网站的生成；Node.js 20.6发布，新增了对.env文件的内置支持；Rome项目的维护者分叉出了Biome项目；还有一些其他的新闻和更新。
+
+文章还列举了一些新发布的版本，如TypeScript 5.2、Node-RED 3.1、jq 1.7等。
+
+在文章的教程和文章部分，介绍了一些有关React、Svelte、JavaScript等的教程和文章，如React服务器组件、Svelte的重要性、JavaScript中使用标签循环等。
+
+文章还推荐了一些代码和工具，如Peaks.js、SVGuitar、FormKit等。
+
+最后，文章还提供了一些招聘信息和一些新发布的软件版本。</summary>
+    <div>
+    <div>OriginTitle: TypeScript 5.2, Node 20.6, and Astro 3.0</div>
+
+    </div></div><table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
+  <div>    
+    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+<td align="left" style="padding-left: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p>#​653 — 2023 年 9 月 7 日</p></td>
+<td align="right" style="padding-right: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p><a href="https://javascriptweekly.com/link/144604/rss" style=" color: #3366aa;">在网上阅读</a></p></td>
+</tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><strong>😅我们回来了！</strong>在享受了拉斯维加斯酷热的沙漠和希拉里风暴的倾盆大雨两周后，我准备好回到每周的 JavaScript 综述了——祈祷我们每周都在这里，直到圣诞节:-)<br>__<br><em>彼得·库珀和 Cooperpress 团队</em></p></td></tr></tbody></table>
+    
+    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 12px;  padding-left: 12px;"><p>JavaScript 周刊</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
+  <a href="https://javascriptweekly.com/link/144664/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dkqz7wxpcyx9vkv3iob5.jpg" width="640" style="    line-height: 100%;       "></a>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击此处</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
+  <p>天文队</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>好消息——现在<a href="https://javascriptweekly.com/link/144669/rss" style=" color: #3366aa; font-weight: 600;">SvelteKit 支持视图转换 API</a>也😉</p></td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144670/rss" title="philna.sh" style=" color: #3366aa;    font-size: 1.05em;">Node.js 20.6 发布，内置支持<code>.env</code>文件</a></span>- 这<a href="https://javascriptweekly.com/link/144671/rss" style=" color: #3366aa;   ">官方发布帖子</a>涵盖了 20.6 中的所有新内容，但亮点是支持<code>.env</code>环境文件，用于在脚本运行时动态设置环境变量，而不需要第三方库，例如<code>多滕夫</code>。</p>
+  <p>菲尔·纳什</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <a href="https://javascriptweekly.com/link/144605/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/35cd7ef1.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144605/rss" title="pangea.cloud" style=" color: #3366aa;    font-size: 1.05em;">简化应用程序的安全性和合规性</a></span>— Pangea 简介：为开发人员提供基于 API 的综合安全服务。 轻松集成身份验证、授权和审核日志记录等基础安全服务，打造更安全的应用体验并加快上市时间。</p>
+  <p>盘古大陆<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群系</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
+  <p>埃马努埃莱·斯托帕 (Emanuele Stoppa) 和生物群落团队</p>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+<p><strong>⚡️ 简而言之：</strong></p>
+<ul>
+<li>
+<p>1.0版本<a href="https://javascriptweekly.com/link/144606/rss" style=" color: #3366aa; font-weight: 600;   ">包子</a>，特别快<em>JavaScript核心</em>基于 JS 运行时，预计将在未来几个小时内推出。 有一个直播，我们假设有一个发布帖子，因为<a href="https://javascriptweekly.com/link/144607/rss" style=" color: #3366aa; font-weight: 600;   ">很快就降落在这里。</a></p>
+</li>
+<li>
+<p>在其他“替代运行时新闻”中，Deno 团队宣布<a href="https://javascriptweekly.com/link/144608/rss" style=" color: #3366aa; font-weight: 600;   ">其原生 npm 支持<em>德诺部署</em>平台。</a>他们还宣布<a href="https://javascriptweekly.com/link/144609/rss" style=" color: #3366aa; font-weight: 600;   "><em>德诺KV</em>处于公开测试阶段。</a></p>
+</li>
+<li>
+<p><strong>莫兹拉：</strong> <a href="https://javascriptweekly.com/link/144610/rss" style=" color: #3366aa; font-weight: 600;   "><em>“在这一年中，Firefox 在 Vue.js 基准测试中提高了约 40%”</em></a>- 找出为什么。</p>
+</li>
+<li>
+<p>大卫·海涅迈尔·汉森 (David Heinemeier Hansson)，<em>红宝石 on Rails</em>,<a href="https://javascriptweekly.com/link/144676/rss" style=" color: #3366aa; font-weight: 600;   ">宣布他们将放弃 TypeScript</a>从<em>涡轮</em>（Rails 常用的库）支持简单的旧式 JavaScript。 社交媒体上的戏剧性事件随之而来。</p>
+</li>
+<li>
+<p>这是怎么回事<a href="https://javascriptweekly.com/link/144611/rss" style=" color: #3366aa; font-weight: 600;   ">盖茨比</a>反应框架？ 乡亲们<a href="https://javascriptweekly.com/link/144612/rss" style=" color: #3366aa; font-weight: 600;   ">正在注意到</a>最近没什么事情发生<a href="https://javascriptweekly.com/link/144613/rss" style=" color: #3366aa; font-weight: 600;   ">🐦 Netlify 裁员影响很大。</a>然而，Netlify 确实表示<a href="https://javascriptweekly.com/link/144614/rss" style=" color: #3366aa; font-weight: 600;   ">🐦更新即将到来。</a></p>
+</li>
+<li>
+<p>GitHub 已经做了<a href="https://javascriptweekly.com/link/144615/rss" style=" color: #3366aa; font-weight: 600;   ">更改其主页提要。</a>相当多的人<a href="https://javascriptweekly.com/link/144616/rss" style=" color: #3366aa; font-weight: 600;   ">不高兴</a>不过，关于它。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144617/rss" style=" color: #3366aa; font-weight: 600;   "><em>“CSS-in-JS 领域已经趋于稳定，”</em></a>说最新的<em>CSS 现状</em>民意调查。</p>
+</li>
+<li>
+<p>截至 2023 年 9 月，Svelte 有哪些新变化？<a href="https://javascriptweekly.com/link/144618/rss" style=" color: #3366aa; font-weight: 600;   ">非常多。</a></p>
+</li>
+</ul>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+<p><strong>🎉 发布：</strong></p>
+<ul>
+<li>
+<p><a href="https://javascriptweekly.com/link/144677/rss" style=" color: #3366aa; font-weight: 600;   ">打字稿 5.2</a>– 完成期待已久的事情<a href="https://javascriptweekly.com/link/144678/rss" style=" color: #3366aa; font-weight: 600;   "><code>使用</code>声明..</a></p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144619/rss" style=" color: #3366aa; font-weight: 600;   ">节点-RED 3.1</a>– 强大的低代码/可视化编程环境在其编辑器中得到了一些关键改进。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144679/rss" style=" color: #3366aa; font-weight: 600;   ">杰q 1.7</a>– 它不是 JavaScript，但无疑是现有的最好的 JSON 处理工具。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144620/rss" style=" color: #3366aa; font-weight: 600;   ">凯1.0</a>– 基于浏览器、Node 和 Deno 的 Fetch 的简单 HTTP 客户端。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144621/rss" style=" color: #3366aa; font-weight: 600;   ">jQuery 3.7.1</a>– 哦，是的，确实🎉</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144622/rss" style=" color: #3366aa; font-weight: 600;   ">柏树 13</a></p>
+</li>
+</ul>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>📒 文章和教程</p></td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144624/rss" title="www.joshwcomeau.com" style=" color: #3366aa;    font-size: 1.05em;">理解 React 服务器组件</a></span>- 这太棒了，正如它在罐头上所说的那样， - 我们将在下周更多地关注它<a href="https://javascriptweekly.com/link/144625/rss" style=" color: #3366aa;   ">反应状态</a>不过时事通讯😉</p>
+  <p>乔什·W·科莫</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144626/rss" title="kaviisuri.com" style=" color: #3366aa;    font-size: 1.05em;">您不需要学习 Svelte – 这就是原因</a></span>— 我的意思是..你有点<em>做</em>，但 Kavii 的兴奋具有感染力，而 Svelte 的方法仍然令人耳目一新。</p>
+  <p>卡维·苏瑞</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>物品：</span>&nbsp;<a href="https://javascriptweekly.com/link/144628/rss" title="www.bennadel.com" style=" color: #3366aa;    font-size: 1.05em;">在 JavaScript 中使用带标签的循环</a></span>— 如果使用标签会让你回想起 BASIC 和<code>去</code>我很同情声明，但在 JavaScript 中，标签开辟了一种有趣的控制流技术。<a href="https://javascriptweekly.com/link/144629/rss" style=" color: #3366aa;   ">有关此内容的更多信息，请访问 MDN。</a> <code>继续项目；</code></p>
+  <p>本·纳德尔</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144627/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">使用 ChatGPT 和 EdgeDB 构建文档聊天机器人</a></span>— 让我们使用 EdgeDB 直观的数据模型和查询语言以及强大的 TypeScript 查询生成器来完成此操作。</p>
+  <p>边缘数据库<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144630/rss" title="reacthandbook.dev" style=" color: #3366aa;    font-size: 1.05em;">React 应用程序中自动化测试的广阔视野</a></span>— 简单明了地介绍了为什么可以使用自动化测试、如何进入 React 应用程序的范围，以及<em>什么</em>待测试。</p>
+  <p>反应手册</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144631/rss" title="hexagon.56k.guru" style=" color: #3366aa;    font-size: 1.05em;">如何创建双模式跨运行时 JavaScript 包</a></span>— 具体来说，支持 ESM 和 CommonJS，以及跨 Node、Deno 和浏览器等运行时。</p>
+  <p>六边形</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144632/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">对 24 种 CSV 解析方法进行基准测试</a></span>— 我见过的最广泛的 CSV 解析基准。 作者本人就是该作品的创造者<a href="https://javascriptweekly.com/link/144633/rss" style=" color: #3366aa;   ">μDSV CSV 解析库</a>并想查看其他库常见的“闪电般的性能”声明。</p>
+  <p>莱昂·索罗金</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144634/rss" title="www.specfy.io" style=" color: #3366aa;    font-size: 1.05em;">构建高效 Node.js Docker 镜像的复杂性</a></span>— 可以大幅减少图像大小和构建时间，Samuel 在这里分享了他的方法，但他也质疑所有这些工作是否有必要。</p>
+  <p>塞缪尔·博丹</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144635/rss" title="www.dmitrysoshnikov.education" style=" color: #3366aa;    font-size: 1.05em;">学习高级编译器、工具和技术——用 JavaScript！</a></span></p>
+  <p>德米特里·索什尼科夫教育<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/144636/rss" style=" color: #3366aa; font-size: 1.0em !important;    font-weight: 400;">帮助您编写异步 JS 代码的 14 条 Linting 规则</a></span>
+  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">马克西姆·奥尔洛夫</span> 
+  </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/144637/rss" style=" color: #3366aa; font-size: 1.0em !important;    font-weight: 400;">如何在 10 分钟内创建 Chrome 扩展程序</a></span>
+  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">詹姆斯·希巴德</span> 
+  </p>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
+  <a href="https://javascriptweekly.com/link/144638/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/wnk1bcwttjdmqjxfzv28.jpg" width="640" style="    line-height: 100%;         "></a>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144638/rss" title="waveform.prototyping.bbc.co.uk" style=" color: #3366aa;    font-size: 1.05em;">Peaks.js 3.0：查看音频波形并与之交互</a></span>— 来自 BBC 研发部门的用于基于浏览器的音频波形可视化的 JavaScript 组件。 主页上有一个实例。<a href="https://javascriptweekly.com/link/144639/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p>英国广播公司</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>🎸</span>&nbsp;<a href="https://javascriptweekly.com/link/144640/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">SVGuitar：创建基于 SVG 的吉他和弦图表</a></span>— 为什么不继续音乐主题呢？ 😁 你可以尝试一下这个<a href="https://javascriptweekly.com/link/144641/rss" style=" color: #3366aa;   ">通过这个现场演示。</a></p>
+  <p>拉斐尔·沃尔米</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144642/rss" title="formkit.com" style=" color: #3366aa;    font-size: 1.05em;">FormKit 1.0：Vue 的开源表单框架</a></span>— 附带生产就绪的脚手架，例如输入、表单、提交和错误处理以及验证规则。</p>
+  <p>FormKit 公司</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144643/rss" title="fusionauth.io" style=" color: #3366aa;    font-size: 1.05em;">只需几分钟即可将授权、MFA、生物识别等添加到您的 JavaScript 应用程序</a></span>— 是时候有人谈谈 OAuth 和 JavaScript 了。 所以我们做到了。 不客气。</p>
+  <p>融合认证<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144644/rss" title="platejs.org" style=" color: #3366aa;    font-size: 1.05em;">Plate：打造您自己的基于 Slate 的富文本编辑器</a></span>— 用于构建基于 React 的富文本编辑器的框架，您可以在其中选择所需的特定特性和功能。<a href="https://javascriptweekly.com/link/144645/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p>齐亚德·拜恩斯</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144646/rss" title="mathjs.org" style=" color: #3366aa;    font-size: 1.05em;">Math.js：适用于节点和浏览器的广泛数学库</a></span>— 使用复数、分数、单位、矩阵、符号计算等。现在是一个长期存在的库，但继续频繁更新。<a href="https://javascriptweekly.com/link/144647/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p>何塞·德容</p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖性的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
+  <p>威廉·特鲁普</p>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>💻 职位</p></td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/144649/rss" style=" color: #3366aa; font-size: 1.2em !important;    font-weight: 400;">通过 Hired 查找 JavaScript 工作</a></span>— Hired 让求职变得容易——公司不再追逐招聘人员，而是预先向您提供薪资详细信息。 立即创建免费个人资料。 
+  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">雇用</span> 
+  </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🧑‍💻 有工作清单可以分享吗？<em><a href="https://javascriptweekly.com/link/144650/rss" style=" color: #3366aa; font-weight: 600;">就是这样</a></em>。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+<ul>
+<li>
+<p><a href="https://javascriptweekly.com/link/144651/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">NPM 到纱线</a>- 转变<code>新项目管理</code>命令到<code>纱</code>反之亦然。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144652/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">导出至 csv</a>- 将对象数组导出到 CSV。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144653/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">评分8.0</a>– 快速 Markdown 解析库。 （<a href="https://javascriptweekly.com/link/144654/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144656/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">完美主义者2.0</a>– 用于对各种数据进行排序的 ESLint 插件。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144655/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">React Native 视觉相机 3.0</a><br>
+↳ React Native 应用程序的强大相机控制。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144657/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">YouTube.js 6.3</a><br>
+↳ YouTube 内部 API 的客户端库。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144658/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">墨水4.4</a>– 使用 React 构建 CLI 应用程序。</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144659/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">棱镜5.2</a></p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144660/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">ffmpeg.wasm 0.12.6</a></p>
+</li>
+</ul>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
+</div>
+  </td></tr>
+</tbody></table>
+
+
+
+
+<img src="https://javascriptweekly.com/open/653/rss" width="1" height="1"><hr>
+
+  
+
+    
+    
+    
+    
+    
+  
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
+  <div>    
+    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+<td align="left" style="padding-left: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p>#​653 — September 7, 2023</p></td>
+<td align="right" style="padding-right: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p><a href="https://javascriptweekly.com/link/144604/rss" style=" color: #3366aa;">Read on the Web</a></p></td>
+</tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><strong>😅 We're back!</strong> After two weeks enjoying the blistering desert heat of Las Vegas and downpours of Storm Hilary, I'm ready to get back to the weekly JavaScript roundups –&nbsp;fingers crossed we're here each week till Christmas now :-)<br>__<br><em>Peter Cooper and the Cooperpress team</em></p></td></tr></tbody></table>
+    
+    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 12px;  padding-left: 12px;"><p>JavaScript Weekly</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
+  <a href="https://javascriptweekly.com/link/144664/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dkqz7wxpcyx9vkv3iob5.jpg" width="640" style="    line-height: 100%;       "></a>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 Released: The All-in-One Web Framework</a></span> — An increasingly popular, turbo-charged site generator comfortable with not just static sites, but dynamic and interactive ones too by way of its <a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">‘islands’ approach.</a> You can use React, Vue, Svelte, Solid, and others, with it, and v3 adds View Transitions API support (<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">more on that here</a>) which can result in striking creations like <a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">this Spotify 'clone'</a>. It requires a play to really 'get it' but it's&nbsp;great.</p>
+  <p>Astro Team </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>Good news – now <a href="https://javascriptweekly.com/link/144669/rss" style=" color: #3366aa; font-weight: 600;">SvelteKit supports the View Transitions API</a> too 😉</p></td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144670/rss" title="philna.sh" style=" color: #3366aa;    font-size: 1.05em;">Node.js 20.6 Released with Built-In Support for <code>.env</code> Files</a></span> — The <a href="https://javascriptweekly.com/link/144671/rss" style=" color: #3366aa;   ">official release post</a> covers everything new in 20.6, but the highlight is support for <code>.env</code> environment files to set environment variables dynamically when a script is run without requiring a third-party library like <code>dotenv</code>.</p>
+  <p>Phil Nash </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <a href="https://javascriptweekly.com/link/144605/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/35cd7ef1.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144605/rss" title="pangea.cloud" style=" color: #3366aa;    font-size: 1.05em;">Simplify Security and Compliance for Your Apps</a></span> — Introducing Pangea: comprehensive API-based security services for developers. Effortlessly integrate foundational security services like Authentication, Authorization, and Audit Logging to create a safer app experience and accelerate your time&nbsp;to&nbsp;market.</p>
+  <p>Pangea <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Bye to <em>Rome</em> and Hi to <em>Biome</em> for JS Formatting and Linting</a></span> — First announced in 2020, Rome is/was an ambitious effort to create a unified frontend dev tool to bring ideas from Babel, ESLint, webpack, etc. into one place. After forming a company around Rome and raising money two years ago, things seem to have gone awry, with its key maintainers forking the project as <a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>Biome.</em></a></p>
+  <p>Emanuele Stoppa and the Biome Team </p>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+<p><strong>⚡️ IN BRIEF:</strong></p>
+<ul>
+<li>
+<p>Version 1.0 of <a href="https://javascriptweekly.com/link/144606/rss" style=" color: #3366aa; font-weight: 600;   ">Bun</a>, the notably fast <em>JavaScriptCore</em>-based JS runtime, is due to launch in the coming hours. There's a livestream and, we assume, a launch post due to <a href="https://javascriptweekly.com/link/144607/rss" style=" color: #3366aa; font-weight: 600;   ">land here very soon.</a></p>
+</li>
+<li>
+<p>In other 'alternative runtime news', the Deno team has announced <a href="https://javascriptweekly.com/link/144608/rss" style=" color: #3366aa; font-weight: 600;   ">native npm support on its <em>Deno Deploy</em> platform.</a> They've also announced <a href="https://javascriptweekly.com/link/144609/rss" style=" color: #3366aa; font-weight: 600;   "><em>Deno KV</em> is in open beta.</a></p>
+</li>
+<li>
+<p><strong>Mozilla:</strong> <a href="https://javascriptweekly.com/link/144610/rss" style=" color: #3366aa; font-weight: 600;   "><em>"Over the course of the year Firefox has improved by around 40% on the Vue.js benchmark"</em></a> – find out why.</p>
+</li>
+<li>
+<p>David Heinemeier Hansson, the creator of <em>Ruby on Rails</em>, <a href="https://javascriptweekly.com/link/144676/rss" style=" color: #3366aa; font-weight: 600;   ">announced that they're dropping TypeScript</a> from <em>Turbo</em> (a library commonly used with Rails) in favor of plain old JavaScript. Social media drama ensued.</p>
+</li>
+<li>
+<p>What's going on with the <a href="https://javascriptweekly.com/link/144611/rss" style=" color: #3366aa; font-weight: 600;   ">Gatsby</a> React framework? Folks <a href="https://javascriptweekly.com/link/144612/rss" style=" color: #3366aa; font-weight: 600;   ">are noticing</a> there's not a lot going on with it lately and that <a href="https://javascriptweekly.com/link/144613/rss" style=" color: #3366aa; font-weight: 600;   ">🐦 Netlify layoffs had a big impact.</a> Netlify does, however, say <a href="https://javascriptweekly.com/link/144614/rss" style=" color: #3366aa; font-weight: 600;   ">🐦 updates are coming.</a></p>
+</li>
+<li>
+<p>GitHub has made <a href="https://javascriptweekly.com/link/144615/rss" style=" color: #3366aa; font-weight: 600;   ">changes to its homepage feeds.</a> Quite a few people <a href="https://javascriptweekly.com/link/144616/rss" style=" color: #3366aa; font-weight: 600;   ">are unhappy</a> about it, though.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144617/rss" style=" color: #3366aa; font-weight: 600;   "><em>"The CSS-in-JS sector has plateaued,"</em></a> says the latest <em>State of CSS</em> survey.</p>
+</li>
+<li>
+<p>What's new in Svelte as of September 2023? <a href="https://javascriptweekly.com/link/144618/rss" style=" color: #3366aa; font-weight: 600;   ">Quite a&nbsp;lot.</a></p>
+</li>
+</ul>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+<p><strong>🎉 RELEASES:</strong></p>
+<ul>
+<li>
+<p><a href="https://javascriptweekly.com/link/144677/rss" style=" color: #3366aa; font-weight: 600;   ">TypeScript 5.2</a> – Complete with the much awaited <a href="https://javascriptweekly.com/link/144678/rss" style=" color: #3366aa; font-weight: 600;   "><code>using</code> declarations..</a></p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144619/rss" style=" color: #3366aa; font-weight: 600;   ">Node-RED 3.1</a> – The powerful low-code/visual programming environment gets some key improvements in its editor.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144679/rss" style=" color: #3366aa; font-weight: 600;   ">jq 1.7</a> – It's not JavaScript, but surely the best JSON processing tool to exist.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144620/rss" style=" color: #3366aa; font-weight: 600;   ">Ky 1.0</a> – Simple HTTP client based upon Fetch for browsers, Node&nbsp;&amp;&nbsp;Deno.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144621/rss" style=" color: #3366aa; font-weight: 600;   ">jQuery 3.7.1</a> – Oh yes indeedy 🎉</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144622/rss" style=" color: #3366aa; font-weight: 600;   ">Cypress 13</a></p>
+</li>
+</ul>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>📒&nbsp;Articles &amp; Tutorials</p></td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144624/rss" title="www.joshwcomeau.com" style=" color: #3366aa;    font-size: 1.05em;">Making Sense of React Server Components</a></span> — This is fantastic and exactly what it says on the tin, – we'll be focusing on it more in next week's <a href="https://javascriptweekly.com/link/144625/rss" style=" color: #3366aa;   ">React Status</a> newsletter though&nbsp;😉</p>
+  <p>Josh W Comeau </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144626/rss" title="kaviisuri.com" style=" color: #3366aa;    font-size: 1.05em;">You Don't Need to Learn Svelte – Here's Why</a></span> — I mean.. you kinda <em>do</em>, but Kavii’s excitement is infectious and Svelte’s approach remains&nbsp;refreshing.</p>
+  <p>Kavii Suri </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>item:</span>&nbsp;<a href="https://javascriptweekly.com/link/144628/rss" title="www.bennadel.com" style=" color: #3366aa;    font-size: 1.05em;">Using Labeled Loops in JavaScript</a></span> — If using labels gives you flashbacks to BASIC and <code>GOTO</code> statements, I sympathize, but in JavaScript, labels open up an interesting control flow&nbsp;technique. <a href="https://javascriptweekly.com/link/144629/rss" style=" color: #3366aa;   ">More about this on MDN.</a> <code>continue&nbsp;item;</code></p>
+  <p>Ben Nadel </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144627/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">Build a Documentation Chatbot with ChatGPT and EdgeDB</a></span> — Let's do it using EdgeDB's intuitive data model &amp; query language, as well as its powerful TypeScript query&nbsp;builder.</p>
+  <p>EdgeDB <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144630/rss" title="reacthandbook.dev" style=" color: #3366aa;    font-size: 1.05em;">A Wide View of Automated Testing in React Apps</a></span> — A straightforward and to the point introduction to why you might use automated testing, how to get going in the scope of a React app, and <em>what</em> to be&nbsp;testing.</p>
+  <p>The React Handbook </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144631/rss" title="hexagon.56k.guru" style=" color: #3366aa;    font-size: 1.05em;">How to Create a Dual-Mode Cross-Runtime JavaScript Package</a></span> — Specifically, supporting both ESM and CommonJS, and across runtimes like Node, Deno and the&nbsp;browser.</p>
+  <p>Hexagon </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144632/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Benchmarking 24 CSV Parsing Approaches</a></span> — The most extensive CSV parsing benchmark I’ve seen. The author is himself the creator of the <a href="https://javascriptweekly.com/link/144633/rss" style=" color: #3366aa;   ">μDSV CSV parsing library</a> and wanted to check out the common ‘lightning fast performance’ claims of other&nbsp;libaries.</p>
+  <p>Leon Sorokin </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144634/rss" title="www.specfy.io" style=" color: #3366aa;    font-size: 1.05em;">The Complexity of Building an Efficient Node.js Docker Image</a></span> — It’s possible to get huge reductions in image size and build time and Samuel shares his approach here, but he also questions whether all this work should be&nbsp;necessary.</p>
+  <p>Samuel Bodin </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144635/rss" title="www.dmitrysoshnikov.education" style=" color: #3366aa;    font-size: 1.05em;">Learn High-Level Compilers, Tools, &amp; Techniques – in JavaScript!</a></span></p>
+  <p>Dmitry Soshnikov Education <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/144636/rss" style=" color: #3366aa; font-size: 1.0em !important;    font-weight: 400;">14 Linting Rules To Help You Write Asynchronous JS Code</a></span>
+  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">Maxim Orlov</span> 
+  </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/144637/rss" style=" color: #3366aa; font-size: 1.0em !important;    font-weight: 400;">How to Create a Chrome Extension in 10 Minutes Flat</a></span>
+  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">James Hibbard</span> 
+  </p>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠&nbsp;Code &amp; Tools </p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
+  <a href="https://javascriptweekly.com/link/144638/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/wnk1bcwttjdmqjxfzv28.jpg" width="640" style="    line-height: 100%;         "></a>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144638/rss" title="waveform.prototyping.bbc.co.uk" style=" color: #3366aa;    font-size: 1.05em;">Peaks.js 3.0: View and Interact with Audio Waveforms</a></span> — A JavaScript component for browser-based audio waveform visualization that comes from the BBC’s R&amp;D department. There’s a live example on the homepage. <a href="https://javascriptweekly.com/link/144639/rss" style=" color: #3366aa;   ">GitHub&nbsp;repo.</a></p>
+  <p>BBC </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>🎸</span>&nbsp;<a href="https://javascriptweekly.com/link/144640/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">SVGuitar: Create SVG-Based Guitar Chord Charts</a></span> — Why not continue with the musical theme? 😁 You can experiment with this one <a href="https://javascriptweekly.com/link/144641/rss" style=" color: #3366aa;   ">via this live&nbsp;demo.</a></p>
+  <p>Raphael Voellmy </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144642/rss" title="formkit.com" style=" color: #3366aa;    font-size: 1.05em;">FormKit 1.0: The Open-Source Form Framework for Vue</a></span> — Ships with production-ready scaffolding like inputs, forms, submission and error handling, and validation&nbsp;rules.</p>
+  <p>FormKit, Inc. </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144643/rss" title="fusionauth.io" style=" color: #3366aa;    font-size: 1.05em;">Add Authorization, MFA, Biometrics and More to Your JavaScript App in Just Minutes</a></span> — It's about time that somebody talked some sense about OAuth and JavaScript. So we did. You're&nbsp;welcome.</p>
+  <p>FusionAuth <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144644/rss" title="platejs.org" style=" color: #3366aa;    font-size: 1.05em;">Plate: Roll Your Own Slate-Based Rich-Text Editor</a></span> — A framework for building React-based rich text editors where you can select the specific features and functionality you need. <a href="https://javascriptweekly.com/link/144645/rss" style=" color: #3366aa;   ">GitHub&nbsp;repo.</a></p>
+  <p>Ziad Beyens </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144646/rss" title="mathjs.org" style=" color: #3366aa;    font-size: 1.05em;">Math.js: An Extensive Math Library for Node and Browser</a></span> — Work with complex numbers, fractions, units, matrices, symbolic computation, etc. A long standing library now, but continuing to get frequent updates. <a href="https://javascriptweekly.com/link/144647/rss" style=" color: #3366aa;   ">GitHub&nbsp;repo.</a></p>
+  <p>Jos de Jong </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js: A Calendar Control with Drag and Drop</a></span> — A responsive calendar with no dependencies, full drag and drop support (even between calendars) and many ways to manage events with recurring events, exporting, holidays, and&nbsp;more.</p>
+  <p>William Troup </p>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>💻 Jobs</p></td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/144649/rss" style=" color: #3366aa; font-size: 1.2em !important;    font-weight: 400;">Find JavaScript Jobs with Hired</a></span> — Hired makes job hunting easy-instead of chasing recruiters, companies approach you with salary details up front. Create a free profile&nbsp;now.
+  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">Hired</span> 
+  </p>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🧑‍💻 Got a job listing to share? <em><a href="https://javascriptweekly.com/link/144650/rss" style=" color: #3366aa; font-weight: 600;">Here's how</a></em>.</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
+<ul>
+<li>
+<p><a href="https://javascriptweekly.com/link/144651/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">npm-to-yarn</a> – Convert <code>npm</code> commands to <code>yarn</code> and vice versa.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144652/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">export-to-csv</a> - Export arrays of objects to CSV.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144653/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">Marked 8.0</a> – Fast Markdown parsing library. (<a href="https://javascriptweekly.com/link/144654/rss" style=" color: #3366aa; font-weight: 600;   ">Demo.</a>)</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144656/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">Perfectionist 2.0</a> – ESLint plugin for sorting various data.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144655/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">React Native Vision Camera 3.0</a><br>
+↳ Powerful camera control for React Native apps.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144657/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">YouTube.js 6.3</a><br>
+↳ Client library for YouTube's internal API.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144658/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">Ink 4.4</a> – Use React to build CLI apps.</p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144659/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">Prisma 5.2</a></p>
+</li>
+<li>
+<p><a href="https://javascriptweekly.com/link/144660/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">ffmpeg.wasm 0.12.6</a></p>
+</li>
+</ul>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
+</div>
+  </td></tr>
+</tbody></table>
+
+
+
+
+<img src="https://javascriptweekly.com/open/653/rss" width="1" height="1">]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[我们要休息几周，但是..]]></title>
             <link>https://javascriptweekly.com/issues/652</link>
             <guid>https://javascriptweekly.com/issues/652</guid>
@@ -25,8 +579,8 @@
 8. 文章介绍了JavaScript中删除事件监听器的常见方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等。
-</summary>
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial。
+12</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -641,9 +1195,10 @@
 7. 提出了将可观察对象引入JavaScript的早期提案。
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-10. 作者列出了一些优秀的JavaScript测试文章，并提到了自己的JavaScript和Node.js测试最佳实践列表。
-11. 作者推荐学习htmx，认为它是一种值得掌握的前端工具。
-12. 文章讨论了Node.js项目中的配置问题，并提出了使用</summary>
+10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
+11. 介绍了HTMX，一种被认为是“改变游戏规则”的React替代选择。
+12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
+13. 介绍了</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -743,7 +1298,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/143866/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">看看 HTMX：React 的“改变游戏规则”的替代品？</a></span>— Jack 典型的制作精良的短途巡演之一（仅 14 分钟）。 他喜欢<a href="https://javascriptweekly.com/link/143867/rss" style=" color: #3366aa;   ">HTMX</a>并认为值得学习，以便您的工具箱中有更多选择。</p>
-  <p>杰克·赫林顿</p>
+  <p>杰克·赫灵顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 更喜欢传统的文章？<a href="https://javascriptweekly.com/link/143868/rss" style=" color: #3366aa; font-weight: 600;">詹姆斯·希巴德 (James Hibbard) 这里有一个</a>。</p></td></tr></tbody></table>
@@ -824,7 +1379,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的范围内以纯 ASCII 文本“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143885/rss" title="google.github.io" style=" color: #3366aa;    font-size: 1.05em;">Typograms：一种更优雅地渲染 ASCII 图的方法</a></span>— 一个有趣的项目，您可以在特殊的纯 ASCII 文本中“绘制”图表<code>脚本</code>标签，这些标签会被渲染成更好看的版本。 一个有趣的方法如果<a href="https://javascriptweekly.com/link/143886/rss" style=" color: #3366aa;   ">美人鱼</a>太满了，无法满足您的需求。</p>
   <p>萨姆·戈托 / 谷歌</p>
 </td></tr></tbody></table>
 
@@ -1183,7 +1738,7 @@
             <guid>https://javascriptweekly.com/issues/650</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的虚拟机，可以在Electron中运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的虚拟机，可以在Electron中运行一个模拟的1991年Macintosh Quadra 900，其中包括一些预装的应用程序和游戏，如Oregon Trail。</summary>
     <div>
     <div>OriginTitle: Taking JavaScript into Python</div>
 
@@ -1281,7 +1836,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143509/rss" title="vercel.com" style=" color: #3366aa;    font-size: 1.05em;">了解 React 服务器组件</a></span>— 如果您很难理解所涉及的想法，那么丹·阿布拉莫夫 (Dan Abramov) 的<a href="https://javascriptweekly.com/link/143510/rss" style=" color: #3366aa;   ">“让我们从头开始重新创建 RSC”</a>太深入了，这是对基础知识的一个很好的、高级的解释，涵盖了 RSC 解决的问题、为什么要使用它们，以及 Next.js 如何使这一切变得更容易。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143509/rss" title="vercel.com" style=" color: #3366aa;    font-size: 1.05em;">了解 React 服务器组件</a></span>— 如果您很难理解所涉及的想法，那么丹·阿布拉莫夫 (Dan Abramov) 的<a href="https://javascriptweekly.com/link/143510/rss" style=" color: #3366aa;   ">“让我们从头开始重新创建 RSC”</a>太深入了，这是对基础知识的一个很好的、高级的解释，涵盖了 RSC 解决的问题、为什么你可能会使用它们，以及 Next.js 如何使这一切变得更容易。</p>
   <p>爱丽丝·摩尔（维塞尔饰演）</p>
 </td></tr></tbody></table>
 
@@ -1425,7 +1980,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）之外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
   <p>Felix Rieseberg，苹果公司等。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1700,450 +2255,6 @@
 
 
 <img src="https://javascriptweekly.com/open/650/rss" width="1" height="1">]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[名称修改]]></title>
-            <link>https://javascriptweekly.com/issues/649</link>
-            <guid>https://javascriptweekly.com/issues/649</guid>
-            <content:encoded><![CDATA[<div>
-    <h1>GPT总结</h1>
-    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先，作者提到了Hono和htmx，Hono是一个类似于Express的Web框架，可以用于渲染JSX，并结合Cloudflare Workers和D1实现简化的全栈JS体验。接下来，文章介绍了VS Code团队如何通过名称混淆来减小代码体积。然后，文章推荐了一本免费的TypeScript指南和一个用于学习逻辑和数学的交互式页面。此外，还介绍了一些新发布的工具和框架，如Bun、Astro、Neutralinojs和Remix。最后，文章提到了一些有关代码和工具的文章和教程，并列出了一些招聘信息。</summary>
-    <div>
-    <div>OriginTitle: Name mangling</div>
-
-    </div></div><table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <div>    
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td align="left" style="padding-left: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p>#​649 — 2023 年 7 月 27 日</p></td>
-<td align="right" style="padding-right: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p><a href="https://javascriptweekly.com/link/143180/rss" style=" color: #3366aa;">在网上阅读</a></p></td>
-</tr></tbody></table>
-    
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 12px;  padding-left: 12px;"><p>JavaScript 周刊</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <a href="https://javascriptweekly.com/link/143196/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/vgrhvmxknfbuarmij9da.jpg" width="640" style="    line-height: 100%;       "></a>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143196/rss" title="blog.yusu.ke" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Hono + Htmx + Cloudflare：新堆栈？</a></span>— 很多人似乎都在跳<a href="https://javascriptweekly.com/link/143197/rss" style=" color: #3366aa;   ">HTMX</a>最近作为 React 等复杂框架的替代方案，但如果您想继续使用 JSX 该怎么办？<a href="https://javascriptweekly.com/link/143198/rss" style=" color: #3366aa;   ">霍诺</a>是一个（有点像 Express）针对边缘功能用例的 Web 框架，并包含用于渲染 JSX 的中间件。 Yusuke 提供了一个快速示例，说明如何将所有这些与 Cloudflare Workers 和 D1 结合起来，以获得更简单的全栈 JS 体验。</p>
-  <p>和田佑介</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143181/rss" title="code.visualstudio.com" style=" color: #3366aa;    font-size: 1.05em;">使用名称修改缩小 VS Code</a></span>— VS Code 中有相当多的 JavaScript，但团队已成功将交付代码的大小减少了近 4MB<em>没有</em>由于新的“名称修改”构建步骤，实际上可以进行任何删除或重构。 这是一本关于团队如何处理事情并使其发挥作用的好读物。</p>
-  <p>马特·比尔纳</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <a href="https://javascriptweekly.com/link/143182/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/6e5f101b.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">新课程：UI 开发的难点</a></span>— 通过学习数据绑定、UI 组合、模板、虚拟 DOM 及其协调以及挂钩等技术，培养 UI 开发的底层知识，一切从头开始！</p>
-  <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat：一种类型安全的 LLM 响应方法</a></span>— 一个带有一些知名名字的新项目（对于初学者来说是 C# 和 TypeScript PM 的设计者），展示了 MS 内部对大型语言模型 (LLM) 的兴奋。<em>打字聊天</em>旨在解决法学硕士输出难以解析的自然语言的问题，并将此类输出引导为可预测的、<em>打字的</em>形式。</p>
-  <p>海尔斯伯格、卢科、罗森瓦瑟等人。</p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p><strong>⚡️ 简而言之：</strong></p>
-<ul>
-<li>
-<p>🐦<a href="https://javascriptweekly.com/link/143184/rss" style=" color: #3366aa; font-weight: 600;   ">React/Redux 的 Dan Abramov 即将离开 Meta。</a>在取得了如此多的成就并达到了他认为已经准备好继续前进的程度后，Dan 将离开 Meta，但仍将作为独立第三方留在 React 团队。 💙</p>
-</li>
-<li>
-<p>📘<a href="https://javascriptweekly.com/link/143185/rss" style=" color: #3366aa; font-weight: 600;   ">简洁 TypeScript 书</a>毫不奇怪，这是使用 TypeScript 的指南。 更令人惊讶的是，这些内容都在 GitHub 上并且免费阅读。 欢呼。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143186/rss" style=" color: #3366aa; font-weight: 600;   ">蒂克西</a>是一个交互式页面，用于通过使用视觉网格解决谜题来学习逻辑、数学和表达式。 它开始了<em>非常</em>简单，但很快就会变得详细。 这是获取一些所需技能的好方法<a href="https://javascriptweekly.com/link/143187/rss" style=" color: #3366aa; font-weight: 600;   ">德维特</a>。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143188/rss" style=" color: #3366aa; font-weight: 600;   ">JS游乐场</a>是一个新的基于Web的JavaScript沙箱工具。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143229/rss" style=" color: #3366aa; font-weight: 600;   ">“Jamstack”这个词结束了吗？</a>布莱恩·里纳尔迪想知道。</p>
-</li>
-</ul>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p><strong>🎉 发布：</strong></p>
-<ul>
-<li>
-<p><a href="https://javascriptweekly.com/link/143189/rss" style=" color: #3366aa; font-weight: 600;   ">包子0.7</a>– 基于 JavaScriptCore 的替代 JS 运行时添加了（实验性）Vite 支持、Web Workers 支持，并包括<code>--smol</code>在内存受限环境中运行的选项（帖子中显示内存显着减少）。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143190/rss" style=" color: #3366aa; font-weight: 600;   ">天文2.9</a>– “默认情况下零 JS”框架添加了实验性支持<a href="https://javascriptweekly.com/link/143191/rss" style=" color: #3366aa; font-weight: 600;   ">视图转换</a>和<a href="https://javascriptweekly.com/link/143192/rss" style=" color: #3366aa; font-weight: 600;   ">更多的。</a></p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143193/rss" style=" color: #3366aa; font-weight: 600;   ">Neutralinojs v4.13.0</a>– 轻量级跨平台桌面应用程序框架。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143194/rss" style=" color: #3366aa; font-weight: 600;   ">混音1.19</a>– 现代全栈 JS 框架。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143195/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js v20.5.0（当前）</a></p>
-</li>
-</ul>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>📒 文章和教程</p></td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>💛</span>&nbsp;<a href="https://javascriptweekly.com/link/143202/rss" title="addyosmani.com" style=" color: #3366aa;    font-size: 1.05em;">“好的代码就像写给下一个维护它的开发人员的情书”</a></span>——”<em>然而，我们的创作之美不仅仅取决于我们算法的优雅或代码的效率，还取决于其他人可以在我们的工作基础上构建的快乐和轻松。</em>”</p>
-  <p>阿迪·奥斯马尼</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>更实际的是，阿迪还告诉我们<a href="https://javascriptweekly.com/link/143203/rss" style=" color: #3366aa; font-weight: 600;">尽可能长时间地坚持“无聊的架构”。</a></p></td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>📅</span>&nbsp;<a href="https://javascriptweekly.com/link/143199/rss" title="www.react-native.eu" style=" color: #3366aa;    font-size: 1.05em;">与 Guenther Steiner 一起反应欧盟原住民会议：预订最后一张普通门票</a></span></p>
-  <p>调用栈<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143200/rss" title="github.blog" style=" color: #3366aa;    font-size: 1.05em;">如何使用 Next.js、React 和 GitHub Copilot 构建 GPT-3 应用程序</a></span>— GitHub 并不经常在其博客上运行教程，但他们似乎热衷于推广现代 Copilot 导向的开发过程的想法，这无疑展示了一些潜力。</p>
-  <p>科达莎·克尔 (GitHub)</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/143201/rss" style=" color: #3366aa; font-size: 1.0em !important;    font-weight: 400;">升级古老的 React 应用程序</a></span>
-  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">杰弗里·卡尔·法登</span> 
-  </p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <a href="https://javascriptweekly.com/link/143204/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/zlfg0mm57cdusj3nugcg.jpg" width="640" style="        line-height: 100%;     "></a>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143204/rss" title="a11y-dialog.netlify.app" style=" color: #3366aa;    font-size: 1.05em;">a11y-dialog 8.0：一种轻量级、易于访问的创建对话框的方法</a></span>— 支持 WAI-ARIA 的警报对话框、嵌套对话框，并提供 DOM 和 JavaScript API。 有一个<a href="https://javascriptweekly.com/link/143205/rss" style=" color: #3366aa;   ">现场 CodeSandbox 演示</a>你可以玩。<a href="https://javascriptweekly.com/link/143206/rss" style=" color: #3366aa;   ">v8.0</a>不再支持 IE（如果这对您很重要）。</p>
-  <p>凯蒂·吉罗德尔</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143207/rss" title="chartkick.com" style=" color: #3366aa;    font-size: 1.05em;">Mapkick.js：一行 JavaScript 中的交互式地图</a></span>— 支持 Mapbox 和 MapLibre。 它也进来了<a href="https://javascriptweekly.com/link/143208/rss" style=" color: #3366aa;   ">Python</a>和<a href="https://javascriptweekly.com/link/143209/rss" style=" color: #3366aa;   ">红宝石</a>针对服务器端渲染用例的变体。</p>
-  <p>安德鲁·凯恩</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143210/rss" title="rxdb.info" style=" color: #3366aa;    font-size: 1.05em;">RxDB - JavaScript 应用程序的本地数据库</a></span>— 使用 RxDB，您可以构建具有出色性能的实时应用程序，甚至在用户离线时也能运行。</p>
-  <p>接收数据库<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143211/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PLJS：Postgres 的 JavaScript 语言插件</a></span>—<a href="https://javascriptweekly.com/link/143212/rss" style=" color: #3366aa;   ">PLV8</a>是在 Postgres 中使用 JavaScript 的“转到”扩展，但是这个<a href="https://javascriptweekly.com/link/143213/rss" style=" color: #3366aa;   ">快速JS</a>基于 的变体，来自同一创建者，更紧凑，更易于维护，并且可能足以满足您的需求。</p>
-  <p>杰里·西弗特</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143214/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Twin 3.4：在 CSS-in-JS 库中使用 Tailwind 类</a></span>— Twin v3 引入了完整的 Tailwind 插件支持，并且<a href="https://javascriptweekly.com/link/143215/rss" style=" color: #3366aa;   ">v3.4</a>添加了新的 SolidJS 预设以及 styled-components 6 支持。</p>
-  <p>本·罗杰森</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143216/rss" title="praxis.a6s.nz" style=" color: #3366aa;    font-size: 1.05em;">Praxis：一款阻止 JavaScript 的 iOS 浏览器</a></span>— 嗯，这当然是反击提示、模式和电池消耗脚本的一种方法，但它并不适用于每个网站。</p>
-  <p>阿诺德·萨赫诺夫</p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143217/rss" title="formidable.com" style=" color: #3366aa;    font-size: 1.05em;">Spectacle 10：基于 React 和 JSX 的演示库</a></span>— 有一个演示要进行吗？ 也许可以用 JSX 构建你的套牌。<a href="https://javascriptweekly.com/link/143218/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
-  <p>强大</p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>💻 职位</p></td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/143219/rss" style=" color: #3366aa; font-size: 1.2em !important;    font-weight: 400;">高级软件工程师（前端主管）</a></span>— 领导 Emerge 的 Web 平台，由 DoorDash、Square、Dropbox 和 Airbnb 等团队使用（我们的堆栈：Next.js、React、TS、Vercel）。
-  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">🛸 新兴工具</span> 
-  </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/143220/rss" style=" color: #3366aa; font-size: 1.2em !important;    font-weight: 400;">通过 Hired 查找 JavaScript 工作</a></span>— Hired 让求职变得容易——公司不再追逐招聘人员，而是预先向您提供薪资详细信息。 立即创建免费个人资料。 
-  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">雇用</span> 
-  </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🧑‍💻 有工作清单可以分享吗？<em><a href="https://javascriptweekly.com/link/143221/rss" style=" color: #3366aa; font-weight: 600;">就是这样</a></em>。</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<ul>
-<li>
-<p><a href="https://javascriptweekly.com/link/143222/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">gridstack.js 8.4</a><br>
-↳ 与框架无关的仪表板布局和创建。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143223/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">amqp-client.js 3.0</a><br>
-↳ 用于节点和浏览器的 AMQP 0-9-1 客户端（通过 WebSocket）。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143224/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">指纹JS 4.0</a><br>
- ↳ 浏览器指纹识别库。 不再开源。</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143225/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">MQTT.js 5.0</a>– 用于节点和浏览器的 MQTT 客户端。</p>
-</li>
-</ul>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🙈 事情太过分了..</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>我们将支持任何热衷于减少网络上不必要的 JavaScript 数量的人 (👋<a href="https://javascriptweekly.com/link/143226/rss" style=" color: #3366aa; font-weight: 600;   ">阿斯特罗</a>或者<a href="https://javascriptweekly.com/link/143227/rss" style=" color: #3366aa; font-weight: 600;   ">奎克</a>）但有时，只是有时，你可能会为了几乎喜剧效果而走得太远：</p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <a href="https://javascriptweekly.com/link/143228/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/lbs06qqqzkpdrtbtodig.jpg" width="640" style="    line-height: 100%;         "></a>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>😱</span>&nbsp;<a href="https://javascriptweekly.com/link/143228/rss" title="portswigger.net" style=" color: #3366aa;    font-size: 1.05em;">使用 170MB HTML 实现 Tic Tac Toe</a></span>— 不出所料，演示（我们已经<em>不是</em>链接到这里）让我的浏览器崩溃了，但是看到开发人员接受挑战，使用 Chrome 对弹出窗口的支持以及所述弹出窗口的状态以及大量 HTML 来处理 Tic Tac Toe 游戏，这很有趣。 不要在生产中重复这个，伙计们..</p>
-  <p>加雷斯·海耶斯</p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
-</div>
-  </td></tr>
-</tbody></table>
-
-
-
-
-<img src="https://javascriptweekly.com/open/649/rss" width="1" height="1"><hr>
-
-  
-
-    
-    
-    
-    
-    
-  
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <div>    
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td align="left" style="padding-left: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p>#​649 — July 27, 2023</p></td>
-<td align="right" style="padding-right: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p><a href="https://javascriptweekly.com/link/143180/rss" style=" color: #3366aa;">Read on the Web</a></p></td>
-</tr></tbody></table>
-    
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 12px;  padding-left: 12px;"><p>JavaScript Weekly</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <a href="https://javascriptweekly.com/link/143196/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/vgrhvmxknfbuarmij9da.jpg" width="640" style="    line-height: 100%;       "></a>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143196/rss" title="blog.yusu.ke" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Hono + Htmx + Cloudflare: A New Stack?</a></span> — A lot of people seem to be jumping on <a href="https://javascriptweekly.com/link/143197/rss" style=" color: #3366aa;   ">htmx</a> lately as an alternative to the complexity of frameworks like React, but what if you want to keep using JSX? <a href="https://javascriptweekly.com/link/143198/rss" style=" color: #3366aa;   ">Hono</a> is a (vaguely Express-like) Web framework targeting edge function use cases and includes middleware for rendering JSX. Yusuke gives a quick example of how all this can come together with Cloudflare Workers and D1 for a simpler, full-stack JS&nbsp;experience.</p>
-  <p>Yusuke Wada </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143181/rss" title="code.visualstudio.com" style=" color: #3366aa;    font-size: 1.05em;">Shrinking VS Code with Name Mangling</a></span> — There’s a fair bit of JavaScript in VS Code but the team has managed to reduce the size of the shipped code by almost 4MB <em>without</em> actually doing any deleting or refactoring thanks to a new ‘name mangling’ build step. This is a great read on how the team approached things and got it&nbsp;working.</p>
-  <p>Matt Bierner </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <a href="https://javascriptweekly.com/link/143182/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/6e5f101b.png" width="110" height="110" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143182/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">New Course: The Hard Parts of UI Development</a></span> — Develop an under-the-hood knowledge of UI development by learning techniques such as data binding, UI composition, templating, virtual DOM and its reconciliation, and hooks, all from&nbsp;scratch!</p>
-  <p>Frontend Masters <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143183/rss" title="microsoft.github.io" style=" color: #3366aa;    font-size: 1.05em;">Microsoft TypeChat: An Approach for Type-Safe LLM Responses</a></span> — A new project with some prominent names attached (the designer of C# and PM for TypeScript, for starters) that demonstrates the excitement within MS for large language models (LLMs). <em>TypeChat</em> aims to work around the problem of LLMs outputting hard-to-parse natural language and to direct such output into a predictable, <em>typed</em> form.</p>
-  <p>Hejlsberg, Lucco, Rosenwasser et al. </p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p><strong>⚡️ IN BRIEF:</strong></p>
-<ul>
-<li>
-<p>🐦 <a href="https://javascriptweekly.com/link/143184/rss" style=" color: #3366aa; font-weight: 600;   ">React/Redux's Dan Abramov is leaving Meta.</a> Having achieved so much and reaching a point where he feels ready to move on, Dan is departing Meta but will remain on the React team as an independent third&nbsp;party.&nbsp;💙</p>
-</li>
-<li>
-<p>📘 <a href="https://javascriptweekly.com/link/143185/rss" style=" color: #3366aa; font-weight: 600;   ">The Concise TypeScript Book</a> is, unsurprisingly, a guide to using TypeScript. More surprisingly, it's all on GitHub and free to read. Hurrah.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143186/rss" style=" color: #3366aa; font-weight: 600;   ">Tixy</a> is an interactive page for learning logic, math and expressions by solving puzzles using a visual grid. It starts off <em>very</em> simply, but gets elaborate quickly. This is a neat way to pick up some of the skills needed for&nbsp;<a href="https://javascriptweekly.com/link/143187/rss" style=" color: #3366aa; font-weight: 600;   ">Dwitter</a>.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143188/rss" style=" color: #3366aa; font-weight: 600;   ">JSPlayground</a> is a new Web-based JavaScript sandbox tool.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143229/rss" style=" color: #3366aa; font-weight: 600;   ">Is the term 'Jamstack' finished?</a> Brian Rinaldi wonders.</p>
-</li>
-</ul>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p><strong>🎉 RELEASES:</strong></p>
-<ul>
-<li>
-<p><a href="https://javascriptweekly.com/link/143189/rss" style=" color: #3366aa; font-weight: 600;   ">Bun 0.7</a> – The JavaScriptCore-based alternative JS runtime adds (experimental) Vite support, Web Workers support, and includes a <code>--smol</code> option to run in memory constrained environments (with a significant memory reduction shown off in the&nbsp;post).</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143190/rss" style=" color: #3366aa; font-weight: 600;   ">Astro 2.9</a> – The 'zero JS by default' framework adds experimental support for <a href="https://javascriptweekly.com/link/143191/rss" style=" color: #3366aa; font-weight: 600;   ">view transitions</a> and <a href="https://javascriptweekly.com/link/143192/rss" style=" color: #3366aa; font-weight: 600;   ">more.</a></p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143193/rss" style=" color: #3366aa; font-weight: 600;   ">Neutralinojs v4.13.0</a> – Lightweight cross-platform desktop app framework.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143194/rss" style=" color: #3366aa; font-weight: 600;   ">Remix 1.19</a> – Modern full-stack JS framework.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143195/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js v20.5.0 (Current)</a></p>
-</li>
-</ul>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>📒&nbsp;Articles &amp; Tutorials</p></td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>💛 </span>&nbsp;<a href="https://javascriptweekly.com/link/143202/rss" title="addyosmani.com" style=" color: #3366aa;    font-size: 1.05em;">'Good Code is Like a Love Letter to The Next Developer Who Will Maintain&nbsp;It'</a></span> — “<em>The beauty of our creations, however, is not judged solely by the elegance of our algorithms or the efficiency of our code, but by the joy and ease with which others can build upon our&nbsp;work.</em>”</p>
-  <p>Addy Osmani </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>More practically, Addy also tells us <a href="https://javascriptweekly.com/link/143203/rss" style=" color: #3366aa; font-weight: 600;">to stick to 'boring architecture' for as long as possible.</a></p></td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>📅 </span>&nbsp;<a href="https://javascriptweekly.com/link/143199/rss" title="www.react-native.eu" style=" color: #3366aa;    font-size: 1.05em;">React Native EU Conf with Guenther Steiner: Book Last&nbsp;Regular&nbsp;Tickets</a></span></p>
-  <p>Callstack <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143200/rss" title="github.blog" style=" color: #3366aa;    font-size: 1.05em;">How to Build a GPT-3 App with Next.js, React, and GitHub Copilot</a></span> — GitHub doesn't often run tutorials on its blog, but they appear keen to promote the idea of a modern Copilot-oriented development&nbsp;process, and this certainly shows off some of the&nbsp;potential.</p>
-  <p>Kedasha Kerr (GitHub) </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/143201/rss" style=" color: #3366aa; font-size: 1.0em !important;    font-weight: 400;">Upgrading an Ancient React App</a></span>
-  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">Jeffrey Carl Faden</span> 
-  </p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠&nbsp;Code &amp; Tools </p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <a href="https://javascriptweekly.com/link/143204/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/zlfg0mm57cdusj3nugcg.jpg" width="640" style="        line-height: 100%;     "></a>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143204/rss" title="a11y-dialog.netlify.app" style=" color: #3366aa;    font-size: 1.05em;">a11y-dialog 8.0: A Lightweight, Accessible Way to Create Dialogs</a></span> — Supports alert dialogs as per WAI-ARIA, nested dialogs, and provides both a DOM and JavaScript API. There’s a <a href="https://javascriptweekly.com/link/143205/rss" style=" color: #3366aa;   ">live CodeSandbox demo</a> you can play&nbsp;with. <a href="https://javascriptweekly.com/link/143206/rss" style=" color: #3366aa;   ">v8.0</a> no longer supports IE, if that's important to&nbsp;you.</p>
-  <p>Kitty Giraudel </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143207/rss" title="chartkick.com" style=" color: #3366aa;    font-size: 1.05em;">Mapkick.js: Interactive Maps in One Line of JavaScript</a></span> — Supports Mapbox and MapLibre. It also comes in <a href="https://javascriptweekly.com/link/143208/rss" style=" color: #3366aa;   ">Python</a> and <a href="https://javascriptweekly.com/link/143209/rss" style=" color: #3366aa;   ">Ruby</a> variants targeting server-side rendered use&nbsp;cases.</p>
-  <p>Andrew Kane </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143210/rss" title="rxdb.info" style=" color: #3366aa;    font-size: 1.05em;">RxDB - Local Database For JavaScript Applications</a></span> — With RxDB you can build realtime applications with great performance that even works when your users are&nbsp;offline.</p>
-  <p>RxDB <span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">sponsor</span></p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143211/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PLJS: JavaScript Language Plugin for Postgres</a></span> — <a href="https://javascriptweekly.com/link/143212/rss" style=" color: #3366aa;   ">PLV8</a> is the ‘go to’ extension to use JavaScript within Postgres, but this <a href="https://javascriptweekly.com/link/143213/rss" style=" color: #3366aa;   ">QuickJS</a>-based variant, from the same creator, is more compact, easier to maintain, and may be enough for&nbsp;your&nbsp;needs.</p>
-  <p>Jerry Sievert </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143214/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Twin 3.4: Use Tailwind Classes in CSS-in-JS Libraries</a></span> — Twin v3 introduced full Tailwind plugin support, and <a href="https://javascriptweekly.com/link/143215/rss" style=" color: #3366aa;   ">v3.4</a> adds a new SolidJS preset as well as styled-components 6&nbsp;support.</p>
-  <p>Ben Rogerson </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143216/rss" title="praxis.a6s.nz" style=" color: #3366aa;    font-size: 1.05em;">Praxis: An iOS Browser That Blocks JavaScript</a></span> — Well, that’s certainly one way to fight back against prompts, modals, and battery sapping scripts, but it won’t work with every&nbsp;site..</p>
-  <p>Arnold Sakhnov </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143217/rss" title="formidable.com" style=" color: #3366aa;    font-size: 1.05em;">Spectacle 10: A React and JSX-Based Presentation Library</a></span> — Got a presentation coming up? Build your decks with JSX, perhaps. <a href="https://javascriptweekly.com/link/143218/rss" style=" color: #3366aa;   ">GitHub repo.</a></p>
-  <p>Formidable </p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>💻 Jobs</p></td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/143219/rss" style=" color: #3366aa; font-size: 1.2em !important;    font-weight: 400;">Senior Software Engineer (Frontend Lead)</a></span> — Come lead Emerge's web platform, used by teams like DoorDash, Square, Dropbox &amp; Airbnb (our stack: Next.js, React, TS,&nbsp;Vercel).
-  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">🛸 Emerge Tools</span> 
-  </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  <p><span style="font-weight: 600; font-size: 1.0em; color: #000;"><a href="https://javascriptweekly.com/link/143220/rss" style=" color: #3366aa; font-size: 1.2em !important;    font-weight: 400;">Find JavaScript Jobs with Hired</a></span> — Hired makes job hunting easy-instead of chasing recruiters, companies approach you with salary details up front. Create a free profile&nbsp;now.
-  <br><span style="color: #666666 !important; margin-top: 4px; text-transform: uppercase; font-size: 11px; line-height: 1.8em;">Hired</span> 
-  </p>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🧑‍💻 Got a job listing to share? <em><a href="https://javascriptweekly.com/link/143221/rss" style=" color: #3366aa; font-weight: 600;">Here's how</a></em>.</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<ul>
-<li>
-<p><a href="https://javascriptweekly.com/link/143222/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">gridstack.js 8.4</a><br>
-↳ Framework agnostic dashboard layout and creation.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143223/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">amqp-client.js 3.0</a><br>
-↳ AMQP 0-9-1 client for both Node and browser (via WebSocket).</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143224/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">FingerprintJS 4.0</a><br>
-↳ Browser fingerprinting library. No longer open source.</p>
-</li>
-<li>
-<p><a href="https://javascriptweekly.com/link/143225/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">MQTT.js 5.0</a> – MQTT client for Node and browser.</p>
-</li>
-</ul>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🙈&nbsp;Taking things too far..</p></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>We'll support anyone who's keen to reduce the amount of needless JavaScript that goes over the wire (👋 <a href="https://javascriptweekly.com/link/143226/rss" style=" color: #3366aa; font-weight: 600;   ">Astro</a> or <a href="https://javascriptweekly.com/link/143227/rss" style=" color: #3366aa; font-weight: 600;   ">Qwik</a>) but sometimes, just sometimes, you can go too far with the endeavor to almost comedic effect:</p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
-  <a href="https://javascriptweekly.com/link/143228/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/lbs06qqqzkpdrtbtodig.jpg" width="640" style="    line-height: 100%;         "></a>
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-  
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>😱 </span>&nbsp;<a href="https://javascriptweekly.com/link/143228/rss" title="portswigger.net" style=" color: #3366aa;    font-size: 1.05em;">Implementing Tic Tac Toe with 170MB of HTML</a></span> — Unsurprisingly, the demo (which we’ve <em>not</em> linked to here) brought my browser to a crashing halt, but it’s fun to see a developer take on the challenge of using Chrome’s support for popovers and the state of said popovers along with a huge pile of HTML to handle a game of Tic Tac Toe. Don’t repeat this in production,&nbsp;folks..</p>
-  <p>Gareth Heyes </p>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
-</div>
-  </td></tr>
-</tbody></table>
-
-
-
-
-<img src="https://javascriptweekly.com/open/649/rss" width="1" height="1">]]></content:encoded>
         </item>
     </channel>
 </rss>
