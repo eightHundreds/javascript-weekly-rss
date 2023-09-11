@@ -17,11 +17,11 @@
 
 文章还列举了一些新发布的版本，如TypeScript 5.2、Node-RED 3.1、jq 1.7等。
 
-在文章的教程和文章部分，介绍了一些有关React、Svelte、JavaScript等方面的内容，如React服务器组件、使用标签循环、构建文档聊天机器人等。
+在文章的教程和文章部分，介绍了一些有关React、Svelte、JavaScript等的教程和文章，如React服务器组件、Svelte的重要性、JavaScript中使用标签循环等。
 
-最后，文章还提供了一些代码和工具，如Peaks.js、SVGuitar、FormKit等。
+文章还推荐了一些代码和工具，如Peaks.js、SVGuitar、FormKit等。
 
-整体而言，本篇文章涵盖了JavaScript领域的一些新闻、更新、教程和工具。</summary>
+最后，文章还提供了一些招聘信息和一些新发布的软件版本。</summary>
     <div>
     <div>OriginTitle: TypeScript 5.2, Node 20.6, and Astro 3.0</div>
 
@@ -227,7 +227,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖性的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖关系的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
   <p>威廉·特鲁普</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
@@ -570,7 +570,7 @@
     <summary>这篇文章是JavaScript Weekly的一期新闻简报，主要介绍了一些与JavaScript相关的新闻、教程和工具。以下是文章的要点：
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
-2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0版本。
+2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
 3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
 4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
 5. 文章介绍了使用three.js创建3D Web体验的完整指南。
@@ -579,7 +579,8 @@
 8. 文章介绍了JavaScript中删除事件监听器的常见方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等</summary>
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等。
+</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -1195,8 +1196,8 @@
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
 10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
-11. 作者分享了一个关于HTMX的视频，认为它是一个值得学习的工具。
-12. 文章讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
+11. 介绍了HTMX，一种被认为是“改变游戏规则”的React替代选择。
+12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
 13. 介绍了</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
@@ -1323,7 +1324,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/143875/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">构建和部署全栈 MERN Next.js 13<em>线程数</em>克隆</a></span>— 长达 5 小时的内容丰富的截屏视频，介绍了使用 Next.js 13 和 Threads/Twitter/X 风格的应用程序的创建过程<a href="https://javascriptweekly.com/link/143876/rss" style=" color: #3366aa;   ">文员</a>用于用户管理。</p>
-  <p>阿德里安·哈丁</p>
+  <p>阿德里安·哈伊丁</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1737,7 +1738,7 @@
             <guid>https://javascriptweekly.com/issues/650</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools对自定义对象格式化的支持等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建、快速排序算法等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个虚拟的Macintosh电脑项目，可以在Electron中运行一个模拟的1991年Macintosh Quadra 900，其中包括一些预装的应用程序和游戏，如Oregon Trail。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个与JavaScript相关的主题。文章首先介绍了在调试第三方代码时可能遇到的JavaScript反调试技术，并提供了一些应对方法。接着介绍了VanJS 1.0，一个轻量且优雅的反应式UI框架，以及SpreadJS，一个用于在JavaScript应用程序中添加类似Excel的电子表格功能的工具。文章还介绍了PythonMonkey，一种将Python和JavaScript结合起来的新方法，以及dnt，一个用于发布支持ESM和CommonJS的混合npm模块的工具。此外，文章还提到了一些其他的JavaScript相关主题，如Syntax.fm播客的一些有趣的话题、npm恶意软件的传播、Google地图JavaScript代码的改进、Firefox 116的DevTools支持自定义对象格式化等。文章还列举了一些新发布的工具和库，以及一些有关React Server Components、TypeScript接口和类型别名、多语言网站构建等的文章和教程。最后，文章还提供了一些招聘信息和一些新发布的代码和工具。此外，文章还介绍了一个名为Macintosh.js的项目，它是一个通过Electron运行的虚拟Macintosh系统，可以模拟运行1991年的Macintosh Quadra 900，并提供了一些预装的应用程序和游戏。</summary>
     <div>
     <div>OriginTitle: Taking JavaScript into Python</div>
 
@@ -1801,7 +1802,7 @@
 <p>谷歌已经揭晓<a href="https://javascriptweekly.com/link/143557/rss" style=" color: #3366aa; font-weight: 600;   ">一些重大改进<em>谷歌地图</em>可以加载 JavaScript 代码。</a></p>
 </li>
 <li>
-<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期以来支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
+<p>Firefox 116 的开发工具<a href="https://javascriptweekly.com/link/143503/rss" style=" color: #3366aa; font-weight: 600;   ">现在支持自定义对象格式化程序</a>。 Chrome 长期支持此功能，让站点可以确定某些类型的对象表示在控制台和调试器中的格式。</p>
 </li>
 <li>
 <p>Svelte 项目已发布<a href="https://javascriptweekly.com/link/143504/rss" style=" color: #3366aa; font-weight: 600;   ">最新每月更新。</a>有一个<em>很多</em>Svelte 世界正在发生。</p>
@@ -1835,7 +1836,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143509/rss" title="vercel.com" style=" color: #3366aa;    font-size: 1.05em;">了解 React 服务器组件</a></span>— 如果您很难理解所涉及的想法，那么丹·阿布拉莫夫 (Dan Abramov) 的<a href="https://javascriptweekly.com/link/143510/rss" style=" color: #3366aa;   ">“让我们从头开始重新创建 RSC”</a>太深入了，这是对基础知识的一个很好的、高级的解释，涵盖了 RSC 解决的问题、为什么要使用它们，以及 Next.js 如何使这一切变得更容易。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143509/rss" title="vercel.com" style=" color: #3366aa;    font-size: 1.05em;">了解 React 服务器组件</a></span>— 如果您很难理解所涉及的想法，那么丹·阿布拉莫夫 (Dan Abramov) 的<a href="https://javascriptweekly.com/link/143510/rss" style=" color: #3366aa;   ">“让我们从头开始重新创建 RSC”</a>太深入了，这是对基础知识的一个很好的、高级的解释，涵盖了 RSC 解决的问题、为什么你可能会使用它们，以及 Next.js 如何使这一切变得更容易。</p>
   <p>爱丽丝·摩尔（维塞尔饰演）</p>
 </td></tr></tbody></table>
 
@@ -1979,7 +1980,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/143540/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Macintosh.js：通过 Electron 运行的虚拟 Macintosh</a></span>— 令人印象深刻的虚拟机，模拟 1991 年配备 System 8 的 Macintosh Quadra 900，全部在 Electron 中运行。 我们几年前就链接到了这个，但从那时起它有了一些更新，并且运行得比以前更快。 除了一些游戏（例如 Oregon Trail）之外，还预装了各种应用程序，包括 Adob​​e Photoshop 3 试用版，它的启动速度比我的要快<em>真实的</em>现在用Photoshop..<em>（下载必要的，因为它是一个 Electron 应用程序等等......）</em></p>
   <p>Felix Rieseberg，苹果公司等。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
