@@ -1143,15 +1143,16 @@
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
 2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
-3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖于库或框架的纯JavaScript方法。
+3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
 4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
 5. 文章介绍了使用three.js创建3D Web体验的完整指南。
 6. 一种名为NakedJSX的新工具可以在不使用完整的React框架的情况下渲染JSX。
 7. Userfront是一个简化身份验证和访问控制的工具，使工程师可以专注于核心业务。
-8. 文章介绍了JavaScript中常用的事件监听器的删除方法。
+8. 文章介绍了JavaScript中删除事件监听器的常见方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial</summary>
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial。
+12</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -1762,14 +1763,14 @@
 3. Dynaboard推出了一款低代码IDE，可以在60秒内构建Web应用程序。
 4. TypeScript 5.2即将发布，其中包括资源管理和其他一些新功能。
 5. esbuild 0.19.0发布，支持导入包含通配符的路径和高级CSS @import规则。
-6. Astro 2.10发布了，并发布了Astro 3的首个测试版。
-7. Node.js发布了安全更新，包括OpenSSL安全更新和权限策略修复。
-8. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-9. 作者列举了10篇优秀的JavaScript测试文章，并提供了自己的JavaScript和Node.js测试最佳实践清单。
-10. 文章介绍了HTMX，一种被认为是“改变游戏规则”的React替代方案。
-11. 作者讨论了Node.js项目中的配置问题，并提出了使用Deno来避免这些问题的建议。
-12. 文章介绍了如何使用浏览器API创建屏幕和摄像头录制器。
-13. 文</summary>
+6. Google展示了正在开发的名为Project IDX的新IDE，基于VS Code，支持强大的JS框架和智能AI功能。
+7. 提出了将可观察对象引入JavaScript的早期提案。
+8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
+9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
+10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
+11. 介绍了一个名为HTMX的替代React的库。
+12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
+13. 介绍了使用浏览器API记录屏幕</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
