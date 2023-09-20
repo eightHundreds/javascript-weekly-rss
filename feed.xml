@@ -43,7 +43,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— Nicholas 想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— 尼古拉斯想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
   <p>尼古拉斯·扎卡斯</p>
 </td></tr></tbody></table>
 
@@ -56,7 +56,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144982/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">初步了解 TypeScript 5.3</a></span>—<a href="https://javascriptweekly.com/link/144983/rss" style=" color: #3366aa;   ">打字稿 5.2</a>几周前发布，这意味着 TypeScript 5.3 已经在开发中（最终版本是<a href="https://javascriptweekly.com/link/145050/rss" style=" color: #3366aa;   ">十一月到期</a>），需要考虑的可能功能包括导入属性、抛出表达式和隔离声明。</p>
-  <p>马特·波科克</p>
+  <p>马特·波考克</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>⚡️ 简而言之：</strong></p>
@@ -585,11 +585,15 @@
             <guid>https://javascriptweekly.com/issues/653</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章是2023年9月7日的JavaScript周报。文章中介绍了一些JavaScript的新闻和更新。其中包括Astro 3.0发布，这是一个全能的网页框架，支持静态和动态网站的生成；Node.js 20.6发布，新增了对.env环境文件的支持；Rome项目的维护者分叉出了Biome项目；还有一些其他的新闻和更新。
+    <summary>本篇文章是2023年9月7日的JavaScript周报。文章中介绍了一些JavaScript的新闻和更新。其中包括Astro 3.0发布，这是一个全能的网页框架，支持静态和动态网站的生成；Node.js 20.6发布，新增了对.env文件的内置支持；Rome项目的维护者分叉出了Biome项目；还有一些其他的新闻和更新。
 
-文章还列举了一些发布的版本和一些有用的工具和库。同时还分享了一些教程和文章，包括React服务器组件、Svelte的使用、JavaScript中的标签循环、构建文档聊天机器人、React应用中的自动化测试等。
+文章还列举了一些新发布的版本，如TypeScript 5.2、Node-RED 3.1、jq 1.7等。
 
-最后还提供了一些招聘信息和一些有用的工具和库的更新。</summary>
+在文章的教程和文章部分，介绍了一些有关React、Svelte、JavaScript等方面的内容，如React服务器组件、Svelte的使用、JavaScript中的标签循环、在React应用中进行自动化测试等。
+
+文章还推荐了一些工具和代码库，如Peaks.js、SVGuitar、FormKit、Math.js等。
+
+最后，文章还提供了一些招聘信息和一些新发布的软件版本。</summary>
     <div>
     <div>OriginTitle: TypeScript 5.2, Node 20.6, and Astro 3.0</div>
 
@@ -1138,16 +1142,14 @@
     <summary>这篇文章是JavaScript Weekly的一期新闻简报，主要介绍了一些与JavaScript相关的新闻、教程和工具。以下是文章的要点：
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
-2. htmx是一个流行的JavaScript库，最近被GitHub的开源加速器计划接纳，将推出2.0版本。
-3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖于库或框架的原生JavaScript方法。
-4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
-5. 文章推荐了一个免费的在线教程，介绍了使用three.js创建3D Web体验的完整指南。
-6. 介绍了一个名为NakedJSX的新工具，可以在不使用完整的React框架的情况下渲染JSX。
-7. Userfront是一个简化身份验证和访问控制的工具，使工程师可以专注于核心业务。
-8. 文章介绍了几种常见的JavaScript中删除事件监听器的方法。
-9. Mozilla的一篇文章介绍了如何为即将发布的Android版本准备Firefox桌面扩展。
-10. 提供了一些新的JavaScript工具和库，如Croner、Linkify和Tagger。
-11.</summary>
+2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
+3. Maximiliano Firtman分享了一门视频课程，教授如何在构建丰富的Web应用和网站时不依赖于库或框架。
+4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，取代了像Lodash这样的常用实用库。
+5. 文章介绍了一些有关JavaScript的新闻和活动，如Bun 1.0的即将发布、C++专家Herb Sutter的演讲、React Jam游戏开发比赛等。
+6. 文章还列举了一些新发布的JavaScript工具和库，如Fresh 1.4、jest-dom 6.0、NodeBB 3.3等。
+7. 文章提供了一些有关使用three.js创建3D Web体验的教程和技巧。
+8. 文章介绍了一种名为NakedJSX的工具，可以在不使用完整的React框架的情况下渲染JSX。
+9. 文章还包括一些关于JavaScript事件监听</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -1763,8 +1765,8 @@
 8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
 9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
 10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
-11. 作者分享了一个关于HTMX的视频，认为它是一个值得学习的工具。
-12. 文章讨论了Node.js项目中的配置问题，并提出使用Deno来避免这些问题。
+11. 介绍了HTMX，一种被认为是“改变游戏规则”的React替代选择。
+12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
 13. 介绍了</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
