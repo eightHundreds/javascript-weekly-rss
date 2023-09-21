@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/654</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的AI和机器学习项目，以及即将举行的AI工程师峰会。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的新版本和工具。此外，还介绍了一些与JavaScript AI/ML相关的项目和活动，包括Transformers.js、Microsoft TypeChat和WebLLM等。最后，还提到了一个即将举行的AI工程师峰会，该峰会由Swyx和Benjamin Dunphy组织，将有来自OpenAI、Microsoft等公司的演讲者参与。</summary>
     <div>
     <div>OriginTitle: JavaScript, ML and LLMs</div>
 
@@ -143,7 +143,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>🕑 Lei Mao 有一个在网页上以临时方式使用 React 的可爱示例<a href="https://javascriptweekly.com/link/145004/rss" style=" color: #3366aa; font-weight: 600;   ">动态渲染模拟时钟。</a>没有构建步骤。 没有 JSX。</p>
-<p>▶️杰克·海林顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
+<p>▶️杰克·海灵顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
@@ -183,7 +183,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145014/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Goxygen 0.7：快速生成 JS 项目的 Go 后端</a></span>— 一个工具，可在前端使用 Angular、React 或 Vue 设置一个新的基于 Go 的项目，并使用 Docker 和 Docker Compose 文件使其全部正常工作。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145014/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Goxygen 0.7：快速生成 JS 项目的 Go 后端</a></span>— 一个工具，可在前端使用 Angular、React 或 Vue 建立一个新的基于 Go 的项目，并使用 Docker 和 Docker Compose 文件使其全部正常工作。</p>
   <p>萨莎·什波塔</p>
 </td></tr></tbody></table>
 
@@ -589,9 +589,9 @@
 
 文章还列举了一些新发布的版本，如TypeScript 5.2、Node-RED 3.1、jq 1.7等。
 
-在文章的教程和文章部分，介绍了一些有关React、Svelte、JavaScript等方面的内容，如React服务器组件、Svelte的使用、JavaScript中的标签循环、在React应用中进行自动化测试等。
+在文章的教程和文章部分，介绍了一些有关React、Svelte、JavaScript等的教程和文章，如React服务器组件、Svelte的重要性、JavaScript中使用标签循环等。
 
-文章还推荐了一些工具和代码库，如Peaks.js、SVGuitar、FormKit、Math.js等。
+文章还推荐了一些代码和工具，如Peaks.js、SVGuitar、FormKit等。
 
 最后，文章还提供了一些招聘信息和一些新发布的软件版本。</summary>
     <div>
@@ -1143,13 +1143,16 @@
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
 2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
-3. Maximiliano Firtman分享了一门视频课程，教授如何在构建丰富的Web应用和网站时不依赖于库或框架。
-4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，取代了像Lodash这样的常用实用库。
-5. 文章介绍了一些有关JavaScript的新闻和活动，如Bun 1.0的即将发布、C++专家Herb Sutter的演讲、React Jam游戏开发比赛等。
-6. 文章还列举了一些新发布的JavaScript工具和库，如Fresh 1.4、jest-dom 6.0、NodeBB 3.3等。
-7. 文章提供了一些有关使用three.js创建3D Web体验的教程和技巧。
-8. 文章介绍了一种名为NakedJSX的工具，可以在不使用完整的React框架的情况下渲染JSX。
-9. 文章还包括一些关于JavaScript事件监听</summary>
+3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
+4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
+5. 文章介绍了使用three.js创建3D Web体验的完整指南。
+6. 一种名为NakedJSX的新工具可以在不使用完整的React框架的情况下渲染JSX。
+7. Userfront是一个简化身份验证和访问控制的工具，使工程师可以专注于核心业务。
+8. 文章介绍了JavaScript中删除事件监听器的常见方法。
+9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
+10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial。
+12</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -1182,7 +1185,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/144091/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/8cb49dca.png" width="130" height="130" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144091/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">您可能不需要框架</a></span>— Maximiliano Firtman 在本视频课程中分享了在不依赖框架库的情况下构建丰富的 Web 应用程序和网站的普通方法。 它涵盖了 DOM、事件处理、路由、Web 组件等等。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144091/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">您可能不需要框架</a></span>— Maximiliano Firtman 在本视频课程中分享了如何在不依赖框架库的情况下构建丰富的 Web 应用程序和网站的普通方法。 它涵盖了 DOM、事件处理、路由、Web 组件等等。</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -1753,21 +1756,17 @@
             <guid>https://javascriptweekly.com/issues/651</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章是《JavaScript Weekly》的一期内容，涵盖了JavaScript领域的一些重要新闻和更新。以下是文章的要点：
+    <summary>本篇文章是2023年8月10日的JavaScript周报，其中包含了一些有关JavaScript的新闻、文章和工具。
 
-1. Mark Erikson分享了他将Redux包迁移到ES模块的经验和教训。
-2. 作者讨论了React的一些问题，并提出了一些超越React的替代选择。
-3. Dynaboard推出了一款低代码IDE，可以在60秒内构建Web应用程序。
-4. TypeScript 5.2即将发布，其中包括资源管理和其他一些新功能。
-5. esbuild 0.19.0发布，支持导入包含通配符的路径和高级CSS @import规则。
-6. Google展示了正在开发的名为Project IDX的新IDE，基于VS Code，支持强大的JS框架和智能AI功能。
-7. 提出了将可观察对象引入JavaScript的早期提案。
-8. Nim 2.0发布，Nim是一种受C++和Python启发的静态类型系统语言，支持编译为JavaScript。
-9. 文章介绍了如何将Node.js图像处理模块Sharp引入浏览器。
-10. 提供了一份关于JavaScript和Node.js测试的优秀文章的清单。
-11. 介绍了HTMX，一种被认为是“改变游戏规则”的React替代选择。
-12. 讨论了Node.js项目中的配置问题，并提出使用Deno来避免配置问题。
-13. 介绍了</summary>
+文章中提到了React的创始人Mark Erikson的一篇关于将Redux包迁移到ES模块的经验分享，以及一些关于React的思考和一些替代选项。
+
+还提到了一些新发布的版本和工具，如TypeScript 5.2 RC、esbuild 0.19.0、Astro 2.10和Node.js的安全更新。
+
+文章中还包含了一些有关JavaScript的教程和文章，如将Sharp带入浏览器、JS测试文章的合集、HTMX的介绍、Node.js的配置问题等。
+
+最后还介绍了一些有关代码和工具的内容，如Fuite 3.0、Luxon 3.4、JavaScript前端错误监控、Typograms等。
+
+总的来说，这篇文章涵盖了JavaScript领域的一些新闻、教程和工具，对于关注JavaScript开发的人来说是一份有价值的资讯。</summary>
     <div>
     <div>OriginTitle: Svelte 5 is going to be radical</div>
 
@@ -1867,7 +1866,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/143866/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">看看 HTMX：React 的“改变游戏规则”的替代品？</a></span>— Jack 典型的制作精良的短途巡演之一（仅 14 分钟）。 他喜欢<a href="https://javascriptweekly.com/link/143867/rss" style=" color: #3366aa;   ">HTMX</a>并认为值得学习，以便您的工具箱中有更多选择。</p>
-  <p>杰克·赫林顿</p>
+  <p>杰克·赫灵顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 更喜欢传统的文章？<a href="https://javascriptweekly.com/link/143868/rss" style=" color: #3366aa; font-weight: 600;">詹姆斯·希巴德 (James Hibbard) 这里有一个</a>。</p></td></tr></tbody></table>
