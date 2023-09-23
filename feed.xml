@@ -197,7 +197,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145390/rss" title="swup.js.org" style=" color: #3366aa;    font-size: 1.05em;">Swup：用于服务器端渲染站点的灵活页面转换库</a></span>— 一个受益匪浅的图书馆<a href="https://javascriptweekly.com/link/145391/rss" style=" color: #3366aa;   ">查看演示。</a>v4.4 添加实验性<a href="https://javascriptweekly.com/link/145392/rss" style=" color: #3366aa;   ">视图转换</a>支持。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145390/rss" title="swup.js.org" style=" color: #3366aa;    font-size: 1.05em;">Swup：用于服务器端渲染站点的灵活页面转换库</a></span>— 一个从中受益匪浅的图书馆<a href="https://javascriptweekly.com/link/145391/rss" style=" color: #3366aa;   ">查看演示。</a>v4.4 添加实验性<a href="https://javascriptweekly.com/link/145392/rss" style=" color: #3366aa;   ">视图转换</a>支持。</p>
   <p>乔治·马尔丘克</p>
 </td></tr></tbody></table>
 
@@ -534,12 +534,12 @@
 <img src="https://javascriptweekly.com/open/655/rss" width="1" height="1">]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JavaScript、机器学习和法学硕士]]></title>
+            <title><![CDATA[JavaScript、ML 和 LLM]]></title>
             <link>https://javascriptweekly.com/issues/654</link>
             <guid>https://javascriptweekly.com/issues/654</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的AI和机器学习项目，以及即将举行的AI工程师峰会。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的新版本和工具。此外，还介绍了一些与JavaScript人工智能和机器学习相关的项目和活动。</summary>
     <div>
     <div>OriginTitle: JavaScript, ML and LLMs</div>
 
@@ -569,7 +569,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— Nicholas 想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— 尼古拉斯想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
   <p>尼古拉斯·扎卡斯</p>
 </td></tr></tbody></table>
 
@@ -582,7 +582,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144982/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">初步了解 TypeScript 5.3</a></span>—<a href="https://javascriptweekly.com/link/144983/rss" style=" color: #3366aa;   ">打字稿 5.2</a>几周前发布，这意味着 TypeScript 5.3 已经在开发中（最终版本是<a href="https://javascriptweekly.com/link/145050/rss" style=" color: #3366aa;   ">十一月到期</a>），需要考虑的可能功能包括导入属性、抛出表达式和隔离声明。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>⚡️ 简而言之：</strong></p>
@@ -761,7 +761,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🤖 一点 JavaScript AI 方面..</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>人工智能、法学硕士和机器学习最近吸引了许多开发人员的想象力，无论是通过训练和部署模型、调用第三方 API（如 OpenAI 提供的 API），还是使用诸如<a href="https://javascriptweekly.com/link/145037/rss" style=" color: #3366aa; font-weight: 600;   ">GitHub 副驾驶</a>编写代码。 然而，许多 AI/LLM 实验通常是在 Python 中进行，而不是 JavaScript。</p>
-<p>尽管如此，JavaScript AI/ML 领域仍有越来越多的项目值得关注，而且 JavaScript 领域的两位人员即将组织一场人工智能开发者活动：</p>
+<p>尽管如此，JavaScript AI/ML 领域有越来越多的项目值得关注，而且 JavaScript 领域的两位人员即将组织一场人工智能开发者活动：</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1140,7 +1140,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击此处</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击这里</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
   <p>天文队</p>
 </td></tr></tbody></table>
 
@@ -1160,7 +1160,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群系</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群落</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
   <p>埃马努埃莱·斯托帕 (Emanuele Stoppa) 和生物群落团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1669,16 +1669,15 @@
 
 1. Dropbox通过优化模块打包过程，将JavaScript包的大小减少了33%。
 2. htmx是一个流行的JavaScript库，最近被GitHub的开源Accelerator计划接受，将有机会开发htmx 2.0。
-3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖库或框架的纯JavaScript方法。
+3. 一篇文章介绍了在构建丰富的Web应用程序和网站时，不依赖于库或框架的纯JavaScript方法。
 4. 一份详细的文档提供了几乎100个纯JavaScript替代方案，用于常用的实用程序库，如Lodash。
 5. 文章介绍了使用three.js创建3D Web体验的完整指南。
 6. 一种名为NakedJSX的新工具可以在不使用完整的React框架的情况下渲染JSX。
 7. Userfront是一个简化身份验证和访问控制的工具，使工程师可以专注于核心业务。
-8. 文章介绍了JavaScript中删除事件监听器的常见方法。
+8. 文章介绍了JavaScript中常用的事件监听器的删除方法。
 9. 文章讨论了如何为即将发布的Android版本准备Firefox桌面扩展。
 10. 文章介绍了使用Angular Signals进行应用程序状态管理的方法。
-11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial等。
-</summary>
+11. 文章介绍了几个新的JavaScript API，包括WebHID、WebNFC和WebSerial</summary>
     <div>
     <div>OriginTitle: We're taking a few weeks off, but..</div>
 
@@ -1711,7 +1710,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/144091/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/8cb49dca.png" width="130" height="130" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144091/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">您可能不需要框架</a></span>— Maximiliano Firtman 在本视频课程中分享了在不依赖框架库的情况下构建丰富的 Web 应用程序和网站的普通方法。 它涵盖了 DOM、事件处理、路由、Web 组件等等。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144091/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">您可能不需要框架</a></span>— Maximiliano Firtman 在本视频课程中分享了如何在不依赖框架库的情况下构建丰富的 Web 应用程序和网站的普通方法。 它涵盖了 DOM、事件处理、路由、Web 组件等等。</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
