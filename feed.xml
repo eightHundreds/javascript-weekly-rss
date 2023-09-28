@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/655</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻、教程和工具。其中包括了一部关于TypeScript起源的纪录片，以及使用现代纯JavaScript实现响应性的模式。此外，还介绍了一款名为Handsontable的数据网格工具，以及Deno 1.37中的Jupyter Notebook集成功能。文章还提到了JavaScript代码压缩的基准测试、Svelte 5的预览、JScript的27周年、Node.js是否需要自己的吉祥物等话题。此外，还列举了一些新版本的发布和一些有用的文章、教程和工具。最后，还提供了一些招聘信息和求职平台的链接。</summary>
+    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻、教程和工具。其中包括了一部关于TypeScript起源的纪录片，以及使用现代纯JavaScript实现响应性的模式。此外，还介绍了一款名为Handsontable的数据网格工具，以及Deno 1.37中的Jupyter Notebook集成功能。文章还提到了JavaScript代码压缩的基准测试、Svelte 5的预览、JScript的27岁生日、Node.js是否需要自己的吉祥物等话题。此外，还列举了一些新版本的发布和一些有用的文章和工具。最后，还提供了一些招聘信息和求职平台。</summary>
     <div>
     <div>OriginTitle: Microsoft spills the tea on TypeScript</div>
 
@@ -36,7 +36,7 @@
   <p>OfferZen 起源</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 多分钟，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 分钟以上，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -68,7 +68,7 @@
 <p>Svelte 团队抢先预览即将推出的 Svelte 5 和<a href="https://javascriptweekly.com/link/145402/rss" style=" color: #3366aa; font-weight: 600;   ">引入“符文”的概念</a>:<em>“与其他所有框架一样，我们已经意识到<a href="https://javascriptweekly.com/link/145403/rss" style=" color: #3366aa; font-weight: 600;   ">昏死</a>一直以来都是对的。”</em></p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/145354/rss" style=" color: #3366aa; font-weight: 600;   ">JScript 27 岁生日快乐！</a>JScript 是 Microsoft 将 JavaScript 引入 IE 3.0 的一个版本，主要是为了避免与 JavaScript 名称相关的商标问题。 没有人再关心这个了，尽管<a href="https://javascriptweekly.com/link/145355/rss" style=" color: #3366aa; font-weight: 600;   ">技术上甲骨文仍持有</a>这<em>JavaScript</em>商标。</p>
+<p><a href="https://javascriptweekly.com/link/145354/rss" style=" color: #3366aa; font-weight: 600;   ">JScript 27 岁生日快乐！</a>JScript 是 Microsoft 将 JavaScript 放入 IE 3.0 中的一个版本，主要是为了避免围绕 JavaScript 名称的商标问题。 没有人再关心这个了，尽管<a href="https://javascriptweekly.com/link/145355/rss" style=" color: #3366aa; font-weight: 600;   ">技术上甲骨文仍持有</a>这<em>JavaScript</em>商标。</p>
 </li>
 <li>
 <p>人们正在讨论是否<a href="https://javascriptweekly.com/link/145353/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js 需要一个吉祥物</a>它自己的。</p>
@@ -185,7 +185,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145389/rss" title="www.theatrejs.com" style=" color: #3366aa;    font-size: 1.05em;">Theatre.js 0.7：网络动效设计</a></span>— 可以通过编程方式或通过可视化编辑器来为使用 Three.js、React Three Fiber、HTML/SVG 甚至只是补间变量值等创建的对象添加动画效果。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145389/rss" title="www.theatrejs.com" style=" color: #3366aa;    font-size: 1.05em;">Theatre.js 0.7：网络动效设计</a></span>— 可以通过编程方式或通过可视化编辑器使用，为使用 Three.js、React Three Fiber、HTML/SVG 甚至补间变量值等创建的对象添加动画效果。</p>
   <p>Theater.js 项目</p>
 </td></tr></tbody></table>
 
@@ -203,7 +203,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明暗模式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多个框架、HMR 和明/暗模式。</p>
   <p>雅尔达</p>
 </td></tr></tbody></table>
 
@@ -534,12 +534,12 @@
 <img src="https://javascriptweekly.com/open/655/rss" width="1" height="1">]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JavaScript、ML 和 LLM]]></title>
+            <title><![CDATA[JavaScript、机器学习和法学硕士]]></title>
             <link>https://javascriptweekly.com/issues/654</link>
             <guid>https://javascriptweekly.com/issues/654</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻、文章和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的文章和教程，以及一些与AI和机器学习相关的JavaScript项目。最后，还提到了一个即将举行的AI工程师峰会。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的AI和机器学习项目，以及即将举行的AI工程师峰会。</summary>
     <div>
     <div>OriginTitle: JavaScript, ML and LLMs</div>
 
@@ -669,7 +669,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>🕑 Lei Mao 有一个在网页上以临时方式使用 React 的可爱示例<a href="https://javascriptweekly.com/link/145004/rss" style=" color: #3366aa; font-weight: 600;   ">动态渲染模拟时钟。</a>没有构建步骤。 没有 JSX。</p>
-<p>▶️杰克·海林顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
+<p>▶️杰克·海灵顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
@@ -1140,7 +1140,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击这里</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击此处</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
   <p>天文队</p>
 </td></tr></tbody></table>
 
@@ -1160,7 +1160,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群落</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群落</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，它是/曾经是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
   <p>埃马努埃莱·斯托帕 (Emanuele Stoppa) 和生物群落团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1325,7 +1325,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖关系的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖性的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
   <p>威廉·特鲁普</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
