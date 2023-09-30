@@ -576,7 +576,7 @@
   <p>OfferZen 起源</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 多分钟，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 分钟以上，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -725,7 +725,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145389/rss" title="www.theatrejs.com" style=" color: #3366aa;    font-size: 1.05em;">Theatre.js 0.7：网络动效设计</a></span>— 可以通过编程方式或通过可视化编辑器来为使用 Three.js、React Three Fiber、HTML/SVG 甚至只是补间变量值等创建的对象添加动画效果。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145389/rss" title="www.theatrejs.com" style=" color: #3366aa;    font-size: 1.05em;">Theatre.js 0.7：网络动效设计</a></span>— 可以通过编程方式或通过可视化编辑器使用，为使用 Three.js、React Three Fiber、HTML/SVG 甚至补间变量值等创建的对象添加动画效果。</p>
   <p>Theater.js 项目</p>
 </td></tr></tbody></table>
 
@@ -1122,7 +1122,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144982/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">初步了解 TypeScript 5.3</a></span>—<a href="https://javascriptweekly.com/link/144983/rss" style=" color: #3366aa;   ">打字稿 5.2</a>几周前发布，这意味着 TypeScript 5.3 已经在开发中（最终版本是<a href="https://javascriptweekly.com/link/145050/rss" style=" color: #3366aa;   ">十一月到期</a>），需要考虑的可能功能包括导入属性、抛出表达式和隔离声明。</p>
-  <p>马特·波科克</p>
+  <p>马特·波考克</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>⚡️ 简而言之：</strong></p>
@@ -1696,7 +1696,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群落</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群系</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
   <p>埃马努埃莱·斯托帕 (Emanuele Stoppa) 和生物群落团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
