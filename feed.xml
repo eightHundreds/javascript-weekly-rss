@@ -32,7 +32,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见的陷阱。 一段简洁的 JavaScript 历史。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见陷阱。 一段简洁的 JavaScript 历史。</p>
   <p>丹·范德卡姆</p>
 </td></tr></tbody></table>
 
@@ -170,7 +170,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减小导致运行时大小减少 50%，内存使用量也减少了 50%，并且 iOS 17 兼容性也得到了类似的减少。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减少导致运行时大小减少 50%，内存使用量也减少了 50%，并提高了 iOS 17 兼容性。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
   <p>宇宙立方团队</p>
 </td></tr></tbody></table>
 
@@ -576,7 +576,7 @@
   <p>OfferZen 起源</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 分钟以上，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 多分钟，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -743,7 +743,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多个框架、HMR 和明/暗模式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明暗模式。</p>
   <p>雅尔达</p>
 </td></tr></tbody></table>
 
@@ -1079,7 +1079,7 @@
             <guid>https://javascriptweekly.com/issues/654</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的AI和机器学习项目，以及即将举行的AI工程师峰会。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的AI和机器学习项目，以及即将举办的AI工程师峰会。</summary>
     <div>
     <div>OriginTitle: JavaScript, ML and LLMs</div>
 
@@ -1209,7 +1209,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>🕑 Lei Mao 有一个在网页上以临时方式使用 React 的可爱示例<a href="https://javascriptweekly.com/link/145004/rss" style=" color: #3366aa; font-weight: 600;   ">动态渲染模拟时钟。</a>没有构建步骤。 没有 JSX。</p>
-<p>▶️杰克·海林顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
+<p>▶️杰克·海灵顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
@@ -1268,7 +1268,7 @@
 <ul>
 <li>
 <p><a href="https://javascriptweekly.com/link/145018/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">Gridstack.js 9.2</a><br>
- ↳ 在几分钟内构建交互式仪表板。 (<a href="https://javascriptweekly.com/link/145019/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+ ↳ 在几分钟内构建交互式仪表板。 （<a href="https://javascriptweekly.com/link/145019/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/145020/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">无障碍 Astro Starter 3.0</a><br>
@@ -1680,7 +1680,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击此处</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击这里</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
   <p>天文队</p>
 </td></tr></tbody></table>
 
@@ -1700,7 +1700,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群落</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，它是/曾经是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144672/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">再见<em>罗马</em>你好<em>生物群系</em>用于 JS 格式化和 Linting</a></span>— Rome 于 2020 年首次宣布，是一项雄心勃勃的努力，旨在创建一个统一的前端开发工具，将 Babel、ESLint、webpack 等的想法整合到一个地方。 两年前在罗马周围成立了一家公司并筹集资金后，事情似乎出了问题，其主要维护者将该项目分叉为<a href="https://javascriptweekly.com/link/144674/rss" style=" color: #3366aa;   "><em>生物群落。</em></a></p>
   <p>埃马努埃莱·斯托帕 (Emanuele Stoppa) 和生物群落团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1891,7 +1891,7 @@
 <p><a href="https://javascriptweekly.com/link/144652/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">导出至 csv</a>- 将对象数组导出到 CSV。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/144653/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">评分8.0</a>– 快速 Markdown 解析库。 (<a href="https://javascriptweekly.com/link/144654/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/144653/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">评分8.0</a>– 快速 Markdown 解析库。 （<a href="https://javascriptweekly.com/link/144654/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/144656/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">完美主义者2.0</a>– 用于对各种数据进行排序的 ESLint 插件。</p>
