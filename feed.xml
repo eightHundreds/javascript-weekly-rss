@@ -32,7 +32,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见陷阱。 一段简洁的 JavaScript 历史。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见的陷阱。 一段简洁的 JavaScript 历史。</p>
   <p>丹·范德卡姆</p>
 </td></tr></tbody></table>
 
@@ -605,7 +605,7 @@
 <p><strong>⚡️ 简而言之：</strong></p>
 <ul>
 <li>
-<p>Svelte 团队抢先预览即将推出的 Svelte 5 和<a href="https://javascriptweekly.com/link/145402/rss" style=" color: #3366aa; font-weight: 600;   ">引入“符文”的概念</a>：<em>“与其他所有框架一样，我们已经意识到<a href="https://javascriptweekly.com/link/145403/rss" style=" color: #3366aa; font-weight: 600;   ">昏死</a>一直以来都是对的。”</em></p>
+<p>Svelte 团队抢先预览即将推出的 Svelte 5 和<a href="https://javascriptweekly.com/link/145402/rss" style=" color: #3366aa; font-weight: 600;   ">引入“符文”的概念</a>:<em>“与其他所有框架一样，我们已经意识到<a href="https://javascriptweekly.com/link/145403/rss" style=" color: #3366aa; font-weight: 600;   ">昏死</a>一直以来都是对的。”</em></p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/145354/rss" style=" color: #3366aa; font-weight: 600;   ">JScript 27 岁生日快乐！</a>JScript 是 Microsoft 将 JavaScript 引入 IE 3.0 的一个版本，主要是为了避免与 JavaScript 名称相关的商标问题。 没有人再关心这个了，尽管<a href="https://javascriptweekly.com/link/145355/rss" style=" color: #3366aa; font-weight: 600;   ">技术上甲骨文仍持有</a>这<em>JavaScript</em>商标。</p>
@@ -743,7 +743,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明/暗模式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明暗模式。</p>
   <p>雅尔达</p>
 </td></tr></tbody></table>
 
@@ -1079,7 +1079,7 @@
             <guid>https://javascriptweekly.com/issues/654</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的AI和机器学习项目，以及即将举行的AI工程师峰会。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的新版本和工具。此外，还介绍了一些与JavaScript人工智能和机器学习相关的项目和活动。</summary>
     <div>
     <div>OriginTitle: JavaScript, ML and LLMs</div>
 
@@ -1109,7 +1109,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— Nicholas 想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— 尼古拉斯想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
   <p>尼古拉斯·扎卡斯</p>
 </td></tr></tbody></table>
 
@@ -1122,7 +1122,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144982/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">初步了解 TypeScript 5.3</a></span>—<a href="https://javascriptweekly.com/link/144983/rss" style=" color: #3366aa;   ">打字稿 5.2</a>几周前发布，这意味着 TypeScript 5.3 已经在开发中（最终版本是<a href="https://javascriptweekly.com/link/145050/rss" style=" color: #3366aa;   ">十一月到期</a>），需要考虑的可能功能包括导入属性、抛出表达式和隔离声明。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>⚡️ 简而言之：</strong></p>
@@ -1680,7 +1680,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击这里</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144664/rss" title="astro.build" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Astro 3.0 发布：一体化 Web 框架</a></span>— 一种日益流行的涡轮增压站点生成器，不仅适用于静态站点，还适用于动态和交互式站点<a href="https://javascriptweekly.com/link/144666/rss" style=" color: #3366aa;   ">“岛屿”方法。</a>您可以使用 React、Vue、Svelte、Solid 等，并且 v3 添加了 View Transitions API 支持（<a href="https://javascriptweekly.com/link/144667/rss" style=" color: #3366aa;   ">更多相关内容请点击此处</a>）这可能会产生引人注目的创作，例如<a href="https://javascriptweekly.com/link/144668/rss" style=" color: #3366aa;   ">这个 Spotify 的“克隆”</a>。 它需要一场比赛才能真正“掌握”，但这很棒。</p>
   <p>天文队</p>
 </td></tr></tbody></table>
 
@@ -1865,7 +1865,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖关系的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144648/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Calendar.js：具有拖放功能的日历控件</a></span>— 没有依赖性的响应式日历，完全拖放支持（甚至在日历之间）以及管理重复事件、导出、假期等事件的多种方式。</p>
   <p>威廉·特鲁普</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
