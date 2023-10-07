@@ -25,11 +25,11 @@
 
 此外，还介绍了Adobe推出的基于Web的Photoshop版本，以及一个名为val.town的网站，可以在社交和无服务器环境中编写和部署TypeScript。
 
-文章中还包括了一些有关JavaScript和TypeScript开发的文章和教程，以及一些新发布的工具和库。
+文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库本地测试等主题。
 
-最后，还列出了一些招聘信息和一个VS Code的额外奖励，即一个精选的VS Code主题和扩展列表。
+在工具和代码方面，介绍了一些新发布的版本和库，如Tailwind Elements、Lite YouTube Embed、Day.js等。
 
-总的来说，本篇文章涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来</summary>
+最后，还提供了一些招聘信息和一个VS Code的额外奖励，即一个精选的</summary>
     <div>
     <div>OriginTitle: Comparing test assertion styles in JavaScript</div>
 
@@ -48,7 +48,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146135/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">CRDT 的交互式介绍</a></span>— 无冲突复制数据类型（所谓的 CRDT）提供了一种在众多客户端之间复制数据的流行方法，并允许它们之间进行实时协作而不会发生冲突。 这篇文章真正深入探讨了 CRDT 发挥作用的原因，并提供了交互式示例。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146135/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">CRDT 的交互式介绍</a></span>— 无冲突复制数据类型（所谓的 CRDT）提供了一种在众多客户端之间复制数据的流行方法，并允许它们之间进行实时协作而不会发生冲突。 这篇文章深入探讨了 CRDT 发挥作用的原因，并提供了交互式示例。</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 
@@ -107,7 +107,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146082/rss" title="www.svix.com" style=" color: #3366aa;    font-size: 1.05em;">“强静态打字，一座我愿意死在上面的山……”</a></span>— 从 TypeScript 开始，然后转向 Rust，作者分享了为什么他如此强烈地认为，当谈到在语言中使用静态类型时，确实没有任何争议。 （这随后导致<a href="https://javascriptweekly.com/link/146083/rss" style=" color: #3366aa;   ">广泛讨论</a>黑客新闻。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146082/rss" title="www.svix.com" style=" color: #3366aa;    font-size: 1.05em;">“强静态打字，一座我愿意死在上面的山……”</a></span>— 从 TypeScript 开始，然后转向 Rust，作者分享了为什么他如此强烈地认为，当谈到在语言中使用静态类型时，确实没有任何争论。 （这随后导致<a href="https://javascriptweekly.com/link/146083/rss" style=" color: #3366aa;   ">广泛讨论</a>黑客新闻。）</p>
   <p>汤姆·哈科恩</p>
 </td></tr></tbody></table>
 
@@ -131,7 +131,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146087/rss" title="www.propelauth.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Yalc 在本地测试您的 React 库</a></span>—<a href="https://javascriptweekly.com/link/146088/rss" style=" color: #3366aa;   ">雅尔克</a>简化了使用和“发布”包的过程<em>完全本地化</em>因此您可以尝试一些事情，而无需发布到远程且可能是公共的注册表。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146087/rss" title="www.propelauth.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Yalc 在本地测试您的 React 库</a></span>—<a href="https://javascriptweekly.com/link/146088/rss" style=" color: #3366aa;   ">雅尔茨</a>简化了使用和“发布”包的过程<em>完全本地化</em>因此您可以尝试一些事情，而无需发布到远程且可能是公共的注册表。</p>
   <p>安德鲁·以色列（PropelAuth 博客）</p>
 </td></tr></tbody></table>
 
@@ -177,7 +177,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为具有大部分兼容 API 的 Moment.js 替代品。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为 Moment.js 的替代品，具有大部分兼容的 API。</p>
   <p>亚姆昆</p>
 </td></tr></tbody></table>
 
@@ -228,7 +228,7 @@
 <p>📅<a href="https://javascriptweekly.com/link/146107/rss" style=" color: #3366aa; font-weight: 600;   ">React Native 大日历 4.3</a>– Google Calendar/Outlook 风格的大日历控件。</p>
 </li>
 <li>
-<p>📊<a href="https://javascriptweekly.com/link/146108/rss" style=" color: #3366aa; font-weight: 600;   ">轻量级图表 4.1</a>– 画布的高性能财务图表。<a href="https://javascriptweekly.com/link/146109/rss" style=" color: #3366aa; font-weight: 600;   ">发行说明</a>。</p>
+<p>📊<a href="https://javascriptweekly.com/link/146108/rss" style=" color: #3366aa; font-weight: 600;   ">轻量级图表 4.1</a>– 画布上的高性能财务图表。<a href="https://javascriptweekly.com/link/146109/rss" style=" color: #3366aa; font-weight: 600;   ">发行说明</a>。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146110/rss" style=" color: #3366aa; font-weight: 600;   ">CKEditor5 40.0</a>– 商业富文本编辑器框架。 现在有了一个<a href="https://javascriptweekly.com/link/146111/rss" style=" color: #3366aa; font-weight: 600;   ">AI助手功能</a>。</p>
@@ -640,7 +640,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145746/rss" title="docusaurus.io" style=" color: #3366aa;    font-size: 1.05em;">充满信心地升级前端依赖项</a></span>— 为以下内容编写测试<em>逻辑</em>在我们的应用程序中很容易，但如何确定组件是否未正确渲染？ 视觉回归测试。 这是基于 GitHub Actions、Playwright 和 Argos 的工作流程。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145746/rss" title="docusaurus.io" style=" color: #3366aa;    font-size: 1.05em;">充满信心地升级前端依赖项</a></span>— 为以下内容编写测试<em>逻辑</em>在我们的应用程序中很容易，但是如何确定组件是否未正确渲染？ 视觉回归测试。 这是基于 GitHub Actions、Playwright 和 Argos 的工作流程。</p>
   <p>塞巴斯蒂安·洛伯</p>
 </td></tr></tbody></table>
 
@@ -1116,7 +1116,7 @@
   <p>OfferZen 起源</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 分钟以上，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 多分钟，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -1283,7 +1283,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明暗模式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明/暗模式。</p>
   <p>雅尔达</p>
 </td></tr></tbody></table>
 
@@ -1614,12 +1614,12 @@
 <img src="https://javascriptweekly.com/open/655/rss" width="1" height="1">]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JavaScript、机器学习和法学硕士]]></title>
+            <title><![CDATA[JavaScript、ML 和 LLM]]></title>
             <link>https://javascriptweekly.com/issues/654</link>
             <guid>https://javascriptweekly.com/issues/654</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻、教程和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的新版本和工具。此外，还介绍了一些与JavaScript人工智能和机器学习相关的项目和活动。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻、文章和工具。其中包括Bun 1.0，一个性能优化的服务器端JS运行时；every()方法在空数组中返回true的原因；TypeScript 5.3的一些新特性；以及一些发布的工具和库。此外，还介绍了一些有关JavaScript的文章和教程，以及一些与AI和机器学习相关的JavaScript项目。最后，还提到了一个即将举行的AI工程师峰会。</summary>
     <div>
     <div>OriginTitle: JavaScript, ML and LLMs</div>
 
@@ -1649,7 +1649,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— Nicholas 想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/144981/rss" title="humanwhocodes.com" style=" color: #3366aa;    font-size: 1.05em;">为什么<code>每一个（）</code>返回<code>真的</code>对于空数组？</a></span>— 尼古拉斯想知道当没有任何值可供测试时如何可能满足条件，因此他深入研究了语言规范以理解逻辑。</p>
   <p>尼古拉斯·扎卡斯</p>
 </td></tr></tbody></table>
 
@@ -1749,7 +1749,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>🕑 Lei Mao 有一个在网页上以临时方式使用 React 的可爱示例<a href="https://javascriptweekly.com/link/145004/rss" style=" color: #3366aa; font-weight: 600;   ">动态渲染模拟时钟。</a>没有构建步骤。 没有 JSX。</p>
-<p>▶️杰克·海林顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
+<p>▶️杰克·海灵顿反驳<a href="https://javascriptweekly.com/link/145005/rss" style=" color: #3366aa; font-weight: 600;   ">不使用 React 的六个理由。</a></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
@@ -1789,7 +1789,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145014/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Goxygen 0.7：快速生成 JS 项目的 Go 后端</a></span>— 一个工具，可在前端使用 Angular、React 或 Vue 建立一个新的基于 Go 的项目，并使用 Docker 和 Docker Compose 文件使其全部正常工作。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145014/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Goxygen 0.7：快速生成 JS 项目的 Go 后端</a></span>— 一个工具，可在前端使用 Angular、React 或 Vue 设置一个新的基于 Go 的项目，并使用 Docker 和 Docker Compose 文件使其全部正常工作。</p>
   <p>萨莎·什波塔</p>
 </td></tr></tbody></table>
 
@@ -1808,7 +1808,7 @@
 <ul>
 <li>
 <p><a href="https://javascriptweekly.com/link/145018/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">Gridstack.js 9.2</a><br>
- ↳ 在几分钟内构建交互式仪表板。 (<a href="https://javascriptweekly.com/link/145019/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+ ↳ 在几分钟内构建交互式仪表板。 （<a href="https://javascriptweekly.com/link/145019/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/145020/rss" style=" color: #3366aa; font-weight: 600;    font-size: 1.08em; line-height: 1.5em;">无障碍 Astro Starter 3.0</a><br>
@@ -1841,7 +1841,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🤖 一点 JavaScript AI 方面..</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>人工智能、法学硕士和机器学习最近吸引了许多开发人员的想象力，无论是通过训练和部署模型、调用第三方 API（如 OpenAI 提供的 API），还是使用诸如<a href="https://javascriptweekly.com/link/145037/rss" style=" color: #3366aa; font-weight: 600;   ">GitHub 副驾驶</a>编写代码。 然而，许多 AI/LLM 实验通常是在 Python 中进行，而不是 JavaScript。</p>
-<p>尽管如此，JavaScript AI/ML 领域仍有越来越多的项目值得关注，而且 JavaScript 领域的两位人员即将组织一场人工智能开发者活动：</p>
+<p>尽管如此，JavaScript AI/ML 领域有越来越多的项目值得关注，而且 JavaScript 领域的两位人员即将组织一场人工智能开发者活动：</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1884,7 +1884,7 @@
 <p><strong>📅 另外，两个 JavaScript 人员正在举办一场 AI 活动。</strong></p>
 <p>作为我对人工智能和机器学习兴趣的一部分，我将参加下个月在旧金山举行的年度技术人工智能活动：<a href="https://javascriptweekly.com/link/145030/rss" style=" color: #3366aa; font-weight: 600;   ">人工智能工程师峰会。</a></p>
 <p>新兴的“人工智能工程师”类别处于人工智能/机器学习和代码的交叉点：软件工程师只需使用 API 即可访问和实施强大的人工智能模型。 安德烈·卡帕蒂认为<em>“人工智能工程师的数量可能会比机器学习工程师/法学硕士工程师多得多。”</em></p>
-<p>代表 OpenAI、Microsoft、Replit、Vercel、AutoGPT、Adept、LlamaIndex 和 Notion 等公司的发言人将于 10 月 8 日至 10 日在日航酒店举办，该活动由我们领域的两位知名人士组织：Swyx（您可能会想到他）记得从他受欢迎的<a href="https://javascriptweekly.com/link/145032/rss" style=" color: #3366aa; font-weight: 600;   ">JavaScript 的第三个时代</a>帖子）和 Benjamin Dunphy，前 Reactathon 和 Jamstack Conf 成员。 你可以<a href="https://javascriptweekly.com/link/145034/rss" style=" color: #3366aa; font-weight: 600;   ">申请参加</a>或者<a href="https://javascriptweekly.com/link/145034/rss" style=" color: #3366aa; font-weight: 600;   ">获得免费的远程门票</a>无论您身在何处都可以收听。</p>
+<p>代表 OpenAI、Microsoft、Replit、Vercel、AutoGPT、Adept、LlamaIndex 和 Notion 等公司的发言人将于 10 月 8 日至 10 日在日航酒店举办，该活动由我们领域的两位知名人士组织：Swyx（您可能会想到他）还记得他的受欢迎程度<a href="https://javascriptweekly.com/link/145032/rss" style=" color: #3366aa; font-weight: 600;   ">JavaScript 的第三个时代</a>帖子）和 Benjamin Dunphy，前 Reactathon 和 Jamstack Conf 成员。 你可以<a href="https://javascriptweekly.com/link/145034/rss" style=" color: #3366aa; font-weight: 600;   ">申请参加</a>或者<a href="https://javascriptweekly.com/link/145034/rss" style=" color: #3366aa; font-weight: 600;   ">获得免费的远程门票</a>无论您身在何处都可以收听。</p>
 <p>如果您要去<em>人工智能工程师峰会，</em>我会在那里见你！</p>
 <p>👋</p>
 </td></tr></tbody></table>
