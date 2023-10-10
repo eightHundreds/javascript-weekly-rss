@@ -23,13 +23,13 @@
 
 在新闻方面，提到了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的全面可用性。
 
-此外，还介绍了Adobe推出的基于Web的Photoshop版本，以及一个名为val.town的网站，可以在其中以社交和无服务器的方式编写和部署TypeScript。
+此外，还介绍了Adobe推出的基于Web的Photoshop版本，以及一个名为val.town的网站，可以在社交和无服务器环境中编写和部署TypeScript。
 
-文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库等方面的内容。
+文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库本地测试等主题。
 
-在工具和代码方面，介绍了一些有用的工具和库，如Tailwind Elements、Lite YouTube Embed、Day.js等。
+在工具方面，介绍了一些有用的代码库和工具，如Tailwind Elements、Lite YouTube Embed、Day.js等。
 
-最后，列出了一些新发布的版本和一些招聘信息。
+最后，列举了一些最新的发布版本和招聘信息。
 
 此外，还附带了一个VS</summary>
     <div>
@@ -109,7 +109,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146082/rss" title="www.svix.com" style=" color: #3366aa;    font-size: 1.05em;">“强静态打字，一座我愿意死在上面的山……”</a></span>— 从 TypeScript 开始，然后转向 Rust，作者分享了为什么他如此强烈地认为，当谈到在语言中使用静态类型时，确实没有任何争论。 （这随后导致<a href="https://javascriptweekly.com/link/146083/rss" style=" color: #3366aa;   ">广泛讨论</a>黑客新闻。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146082/rss" title="www.svix.com" style=" color: #3366aa;    font-size: 1.05em;">“强静态打字，一座我愿意死在上面的山……”</a></span>— 从 TypeScript 开始，然后转向 Rust，作者分享了为什么他如此强烈地认为，当谈到在语言中使用静态类型时，确实没有任何争议。 （这随后导致<a href="https://javascriptweekly.com/link/146083/rss" style=" color: #3366aa;   ">广泛讨论</a>黑客新闻。）</p>
   <p>汤姆·哈科恩</p>
 </td></tr></tbody></table>
 
@@ -133,7 +133,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146087/rss" title="www.propelauth.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Yalc 在本地测试您的 React 库</a></span>—<a href="https://javascriptweekly.com/link/146088/rss" style=" color: #3366aa;   ">雅尔茨</a>简化了使用和“发布”包的过程<em>完全本地化</em>因此您可以尝试一些事情，而无需发布到远程且可能是公共的注册表。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146087/rss" title="www.propelauth.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Yalc 在本地测试您的 React 库</a></span>—<a href="https://javascriptweekly.com/link/146088/rss" style=" color: #3366aa;   ">雅尔克</a>简化了使用和“发布”包的过程<em>完全本地化</em>因此您可以尝试一些事情，而无需发布到远程且可能是公共的注册表。</p>
   <p>安德鲁·以色列（PropelAuth 博客）</p>
 </td></tr></tbody></table>
 
@@ -179,7 +179,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为具有大部分兼容 API 的 Moment.js 替代品。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为 Moment.js 的替代品，具有大部分兼容的 API。</p>
   <p>亚姆昆</p>
 </td></tr></tbody></table>
 
@@ -574,7 +574,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见的陷阱。 一段简洁的 JavaScript 历史。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见陷阱。 一段简洁的 JavaScript 历史。</p>
   <p>丹·范德卡姆</p>
 </td></tr></tbody></table>
 
@@ -712,7 +712,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减少导致运行时大小减少 50%，内存使用量也减少了 50%，并且 iOS 17 兼容性也得到了类似的减少。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减小导致运行时大小减少 50%，内存使用量也减少了 50%，并且 iOS 17 兼容性也得到了类似的减少。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
   <p>宇宙立方团队</p>
 </td></tr></tbody></table>
 
@@ -1095,7 +1095,7 @@
             <guid>https://javascriptweekly.com/issues/655</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻、教程和工具。其中包括了一部关于TypeScript起源的纪录片，以及使用现代纯JavaScript实现响应性的模式。此外，还介绍了一款名为Handsontable的数据网格工具，以及Deno 1.37中的Jupyter Notebook集成功能。文章还提到了JavaScript代码压缩的基准测试、Svelte 5的预览、JScript的27岁生日、Node.js是否需要自己的吉祥物等话题。此外，还列举了一些新版本的发布和一些有用的文章、教程和工具。最后，还提供了一些招聘信息和求职平台的链接。</summary>
+    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻、教程和工具。其中包括了一部关于TypeScript起源的纪录片，以及使用现代纯JavaScript实现响应性的模式。此外，还介绍了一款名为Handsontable的数据网格工具，以及Deno 1.37中的Jupyter Notebook集成功能。文章还提到了JavaScript代码压缩的基准测试、Svelte 5的预览、JScript的27岁生日、Node.js是否需要自己的吉祥物等话题。此外，还列举了一些新版本的发布和一些有用的文章和工具。最后，还提供了一些招聘信息和求职平台。</summary>
     <div>
     <div>OriginTitle: Microsoft spills the tea on TypeScript</div>
 
@@ -1118,7 +1118,7 @@
   <p>OfferZen 起源</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 分钟以上，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🔥 拍摄时间长达 25 多分钟，各种 TypeScript 用户纷纷发表自己的意见，甚至连现在 TypeScript 团队的项目经理 Daniel Rosenwasser 也表示，他最初担心微软可能会<em>“把这一切都搞砸了。”</em>😅 Ryan Dahl 也会在大约一个小时后出现......所以我希望你有一些空闲时间。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -1147,7 +1147,7 @@
 <p><strong>⚡️ 简而言之：</strong></p>
 <ul>
 <li>
-<p>Svelte 团队抢先预览即将推出的 Svelte 5 和<a href="https://javascriptweekly.com/link/145402/rss" style=" color: #3366aa; font-weight: 600;   ">引入“符文”的概念</a>：<em>“与其他所有框架一样，我们已经意识到<a href="https://javascriptweekly.com/link/145403/rss" style=" color: #3366aa; font-weight: 600;   ">昏死</a>一直以来都是对的。”</em></p>
+<p>Svelte 团队抢先预览即将推出的 Svelte 5 和<a href="https://javascriptweekly.com/link/145402/rss" style=" color: #3366aa; font-weight: 600;   ">引入“符文”的概念</a>:<em>“与其他所有框架一样，我们已经意识到<a href="https://javascriptweekly.com/link/145403/rss" style=" color: #3366aa; font-weight: 600;   ">昏死</a>一直以来都是对的。”</em></p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/145354/rss" style=" color: #3366aa; font-weight: 600;   ">JScript 27 岁生日快乐！</a>JScript 是 Microsoft 将 JavaScript 引入 IE 3.0 的一个版本，主要是为了避免与 JavaScript 名称相关的商标问题。 没有人再关心这个了，尽管<a href="https://javascriptweekly.com/link/145355/rss" style=" color: #3366aa; font-weight: 600;   ">技术上甲骨文仍持有</a>这<em>JavaScript</em>商标。</p>
@@ -1285,7 +1285,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多个框架、HMR 和明/暗模式。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145393/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">创建 Chrome 扩展：Chrome 扩展的脚手架工具</a></span>— 与 create-react-app 或 Yeoman 类似，专门用于启动扩展开发，支持多种框架、HMR 和明暗模式。</p>
   <p>雅尔达</p>
 </td></tr></tbody></table>
 
