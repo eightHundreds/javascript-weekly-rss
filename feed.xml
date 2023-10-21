@@ -861,17 +861,15 @@
 
 还推荐了一门免费的视频课程，教授如何在软件工程领域找到工作，包括简历技巧、社交网络建立、优化GitHub个人资料等。
 
-在新闻方面，提到了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的正式推出。
+在新闻方面，介绍了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的全面可用性。
 
-此外，还介绍了Adobe推出的Web版Photoshop，以及一个名为val.town的网站，该网站提供了一种社交和无服务器的方式来编写和部署TypeScript。
+此外，还提到了Adobe推出的Web版Photoshop，展示了实现这一功能所需的各种Web技术。
 
-文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库的本地测试等主题。
+在文章的后半部分，列举了一些有关JavaScript和TypeScript开发的文章和教程，以及一些代码和工具的发布和更新。
 
-在工具方面，介绍了一些新发布的工具，如Tailwind Elements、Lite YouTube Embed、Day.js等。
+最后，还提供了一些招聘信息和一个VS Code的额外奖励，即一个精选的VS Code主题和扩展列表。
 
-最后，列出了一些新发布的版本和一些招聘信息。
-
-此外，还附带了一个VS Code</summary>
+总的来说，本篇文章涵盖了多个JavaScript相关的主题和新闻，提供了丰富的信息和资源。</summary>
     <div>
     <div>OriginTitle: Comparing test assertion styles in JavaScript</div>
 
@@ -949,7 +947,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146082/rss" title="www.svix.com" style=" color: #3366aa;    font-size: 1.05em;">“强静态打字，一座我愿意死在上面的山……”</a></span>— 从 TypeScript 开始，然后转向 Rust，作者分享了为什么他如此强烈地认为，当谈到在语言中使用静态类型时，确实没有任何争论。 （这随后导致<a href="https://javascriptweekly.com/link/146083/rss" style=" color: #3366aa;   ">广泛讨论</a>黑客新闻。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146082/rss" title="www.svix.com" style=" color: #3366aa;    font-size: 1.05em;">“强静态打字，一座我愿意死在上面的山……”</a></span>— 从 TypeScript 开始，然后转向 Rust，作者分享了为什么他如此强烈地认为，当谈到在语言中使用静态类型时，确实没有任何争议。 （这随后导致<a href="https://javascriptweekly.com/link/146083/rss" style=" color: #3366aa;   ">广泛讨论</a>黑客新闻。）</p>
   <p>汤姆·哈科恩</p>
 </td></tr></tbody></table>
 
@@ -1019,7 +1017,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为 Moment.js 的替代品，具有大部分兼容的 API。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为具有大部分兼容 API 的 Moment.js 替代品。</p>
   <p>亚姆昆</p>
 </td></tr></tbody></table>
 
@@ -1414,7 +1412,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见的陷阱。 一段简洁的 JavaScript 历史。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145712/rss" title="effectivetypescript.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Google 闭包编译器的传奇</a></span>— Dan 回顾 Google<a href="https://javascriptweekly.com/link/145713/rss" style=" color: #3366aa;   "><em>闭包编译器</em></a>是 Google 于 2004 年构建的 JavaScript 转译器，在 TypeScript 之前的时代使用最多，用于减小 JavaScript 文件的大小、检查类型以及处理常见陷阱。 一段简洁的 JavaScript 历史。</p>
   <p>丹·范德卡姆</p>
 </td></tr></tbody></table>
 
@@ -1552,7 +1550,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减小导致运行时大小减少 50%，内存使用量也减少了 50%，并且 iOS 17 兼容性也得到了类似的减少。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减少导致运行时大小减少 50%，内存使用量也减少了 50%，并提高了 iOS 17 兼容性。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
   <p>宇宙立方团队</p>
 </td></tr></tbody></table>
 
