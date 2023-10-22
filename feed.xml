@@ -159,7 +159,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146643/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PureImage：用于 Node.js 的纯 JS HTML Canvas 2D</a></span>— 如果您想在 Node 中获得类似于浏览器的 2D 画布体验，但没有任何本机依赖项，​​那么这适合您。 然后，您可以将输出保存为 PNG 或 JPEG。 （<a href="https://javascriptweekly.com/link/146644/rss" style=" color: #3366aa;   ">节点画布</a>是同一地区长期流行的选择，但依赖开罗作为依赖。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146643/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PureImage：用于 Node.js 的纯 JS HTML Canvas 2D</a></span>— 如果您想在 Node 中获得类似于浏览器的 2D 画布体验，但没有任何本机依赖项，​​那么这适合您。 然后，您可以将输出保存为 PNG 或 JPEG。 (<a href="https://javascriptweekly.com/link/146644/rss" style=" color: #3366aa;   ">节点画布</a>是同一地区长期流行的选择，但依赖开罗作为依赖。）</p>
   <p>乔什·马里纳奇</p>
 </td></tr></tbody></table>
 
@@ -193,7 +193,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/146651/rss" style=" color: #3366aa; font-weight: 600;   ">eslint-插件-正则表达式 2.0</a>– 用于查找正则表达式相关问题的 ESLint 插件。 （<a href="https://javascriptweekly.com/link/146652/rss" style=" color: #3366aa; font-weight: 600;   ">互动演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/146651/rss" style=" color: #3366aa; font-weight: 600;   ">eslint-插件-正则表达式 2.0</a>– 用于查找正则表达式相关问题的 ESLint 插件。 (<a href="https://javascriptweekly.com/link/146652/rss" style=" color: #3366aa; font-weight: 600;   ">互动演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146653/rss" style=" color: #3366aa; font-weight: 600;   ">小老鼠</a>– Chrome 扩展程序可监控（并阻止）其他扩展程序的网络调用。</p>
@@ -514,7 +514,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/146316/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/a1148dc7.png" width="140" height="140" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146316/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">强类型和⛅：认识 EdgeDB 4.0</a></span>— EdgeDB 是一个专注于开发人员体验的开源数据库。 它具有高级、现代数据模型、集成模式迁移和 TypeScript 查询生成器，可以轻松编写高级、快速查询，让 ORM 相形见绌。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146316/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">强类型和⛅：认识 EdgeDB 4.0</a></span>— EdgeDB 是一个专注于开发者体验的开源数据库。 它具有高级、现代数据模型、集成模式迁移和 TypeScript 查询生成器，可以轻松编写高级、快速查询，让 ORM 相形见绌。</p>
   <p>边缘数据库<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -604,7 +604,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146343/rss" title="audiomotion.dev" style=" color: #3366aa;    font-size: 1.05em;">audioMotion-analyzer：实时音频频谱分析仪</a></span>— 没有依赖项的高分辨率实时音频频谱分析仪 JavaScript 模块。 提供单通道或双通道视图。 （<em>注意 AGPL 许可证</em>.)<a href="https://javascriptweekly.com/link/146344/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146343/rss" title="audiomotion.dev" style=" color: #3366aa;    font-size: 1.05em;">audioMotion-analyzer：实时音频频谱分析仪</a></span>— 没有依赖项的高分辨率实时音频频谱分析仪 JavaScript 模块。 提供单通道或双通道视图。 (<em>注意 AGPL 许可证</em>.)<a href="https://javascriptweekly.com/link/146344/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>恩里克·阿维拉·维亚纳</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -865,11 +865,11 @@
 
 此外，还提到了Adobe推出的Web版Photoshop，展示了实现这一功能所需的各种Web技术。
 
-在文章的后半部分，列举了一些有关JavaScript和TypeScript开发的文章和教程，以及一些代码和工具的发布和更新。
+在文章的后半部分，列举了一些有关JavaScript和TypeScript开发的文章和教程，以及一些代码和工具推荐。
 
-最后，还提供了一些招聘信息和一个VS Code的额外奖励，即一个精选的VS Code主题和扩展列表。
+最后，还列出了一些最新的软件发布和招聘信息。
 
-总的来说，本篇文章涵盖了多个JavaScript相关的主题和新闻，提供了丰富的信息和资源。</summary>
+总的来说，本篇文章涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的资讯。</summary>
     <div>
     <div>OriginTitle: Comparing test assertion styles in JavaScript</div>
 
@@ -900,7 +900,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/146070/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/b59c08d3.png" width="125" height="125" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146070/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">免费课程：担任软件工程角色</a></span>— 杰罗姆·哈达威 (Jerome Hardaway) 帮助 300 多人获得了软件开发工作 — 现在他在这个视频课程中分享了他的建议 — 包括简历技巧、网络建议、如何优化您的 GitHub 个人资料以进行技术审查等等。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146070/rss" title="frontendmasters.com" style=" color: #3366aa;    font-size: 1.05em;">免费课程：担任软件工程角色</a></span>— 杰罗姆·哈达威 (Jerome Hardaway) 已帮助 300 多人获得软件开发工作 — 现在他在此视频课程中分享了自己的建议 — 包括简历技巧、网络建议、如何优化您的 GitHub 个人资料以进行技术审查等等。</p>
   <p>前端大师<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -953,7 +953,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>📗</span>&nbsp;<a href="https://javascriptweekly.com/link/146131/rss" title="benv.ca" style=" color: #3366aa;    font-size: 1.05em;">第三方 JavaScript 的故事（书籍）</a></span>— 曼宁十年前出版了一本由 Ben Vinegar 和 Anton Kovalyov 撰写的书，该书完全专注于编写运行于其上的 JavaScript<em>其他</em>人们的网站——非常贴切，因为作者当时在 Disqus 工作！ 这篇文章不是关于这个主题本身，而是深入探讨这本书是如何组合在一起的以及它的表现如何。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>📗</span>&nbsp;<a href="https://javascriptweekly.com/link/146131/rss" title="benv.ca" style=" color: #3366aa;    font-size: 1.05em;">第三方 JavaScript 的故事（书籍）</a></span>— 曼宁十年前出版了一本由 Ben Vinegar 和 Anton Kovalyov 撰写的书，该书完全专注于编写运行的 JavaScript<em>其他</em>人们的网站——非常贴切，因为作者当时在 Disqus 工作！ 这篇文章不是关于这个主题本身，而是深入探讨这本书是如何组合在一起的以及它的表现如何。</p>
   <p>本醋</p>
 </td></tr></tbody></table>
 
@@ -971,7 +971,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146087/rss" title="www.propelauth.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Yalc 在本地测试您的 React 库</a></span>—<a href="https://javascriptweekly.com/link/146088/rss" style=" color: #3366aa;   ">雅尔克</a>简化了使用和“发布”包的过程<em>完全本地化</em>因此您可以尝试一些事情，而无需发布到远程且可能是公共的注册表。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146087/rss" title="www.propelauth.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Yalc 在本地测试您的 React 库</a></span>—<a href="https://javascriptweekly.com/link/146088/rss" style=" color: #3366aa;   ">雅尔茨</a>简化了使用和“发布”包的过程<em>完全本地化</em>因此您可以尝试一些事情，而无需发布到远程且可能是公共的注册表。</p>
   <p>安德鲁·以色列（PropelAuth 博客）</p>
 </td></tr></tbody></table>
 
@@ -1017,7 +1017,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为具有大部分兼容 API 的 Moment.js 替代品。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为 Moment.js 的替代品，具有大部分兼容的 API。</p>
   <p>亚姆昆</p>
 </td></tr></tbody></table>
 
@@ -1550,7 +1550,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减少导致运行时大小减少 50%，内存使用量也减少了 50%，并提高了 iOS 17 兼容性。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/145758/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Tesseract.js 5.0：适用于 100 多种语言的 JavaScript OCR</a></span>— 基于 C++ 的端口<a href="https://javascriptweekly.com/link/145759/rss" style=" color: #3366aa;   ">超立方体</a>用于从图像中提取文本的库。<a href="https://javascriptweekly.com/link/145760/rss" style=" color: #3366aa;   ">v5.0</a>是一件大事，因为有<em>巨大的</em>文件大小的减小导致运行时大小减少 50%，内存使用量也减少了 50%，并且 iOS 17 兼容性也得到了类似的减少。<a href="https://javascriptweekly.com/link/145758/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
   <p>宇宙立方团队</p>
 </td></tr></tbody></table>
 
