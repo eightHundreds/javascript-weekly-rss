@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/659</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和资源。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性和改进。然后介绍了几种减少JavaScript代码大小的方法。接下来是一些相关的新闻和活动，包括TC39成立新的任务组、WebAssembly的最新进展、React Jam游戏开发活动等。文章还列举了一些最新的发布和工具，以及一些有关JavaScript编码和技术的文章和教程。最后，文章介绍了一个名为QX82的JavaScript库，可以用于创建复古风格的游戏和体验。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和工具。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性，如V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。然后介绍了几种减少JavaScript代码体积的方法，包括代码拆分、渐进式加载和混合路由等。此外，还提到了TC39成立了一个新的任务组来标准化源代码映射，以及一些其他的开发者活动和工具发布。文章最后介绍了一个名为QX82的JavaScript库，可以用于创建复古风格的游戏和体验。</summary>
     <div>
     <div>OriginTitle: Ways to serve up less JavaScript</div>
 
@@ -159,7 +159,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146643/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PureImage：用于 Node.js 的纯 JS HTML Canvas 2D</a></span>— 如果您想在 Node 中获得类似于浏览器的 2D 画布体验，但没有任何本机依赖项，​​那么这适合您。 然后，您可以将输出保存为 PNG 或 JPEG。 (<a href="https://javascriptweekly.com/link/146644/rss" style=" color: #3366aa;   ">节点画布</a>是同一地区长期流行的选择，但依赖开罗作为依赖。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146643/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PureImage：用于 Node.js 的纯 JS HTML Canvas 2D</a></span>— 如果您想在 Node 中获得类似于浏览器的 2D 画布体验，但没有任何本机依赖项，​​那么这适合您。 然后，您可以将输出保存为 PNG 或 JPEG。 （<a href="https://javascriptweekly.com/link/146644/rss" style=" color: #3366aa;   ">节点画布</a>是同一地区长期流行的选择，但依赖开罗作为依赖。）</p>
   <p>乔什·马里纳奇</p>
 </td></tr></tbody></table>
 
@@ -193,7 +193,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/146651/rss" style=" color: #3366aa; font-weight: 600;   ">eslint-插件-正则表达式 2.0</a>– 用于查找正则表达式相关问题的 ESLint 插件。 (<a href="https://javascriptweekly.com/link/146652/rss" style=" color: #3366aa; font-weight: 600;   ">互动演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/146651/rss" style=" color: #3366aa; font-weight: 600;   ">eslint-插件-正则表达式 2.0</a>– 用于查找正则表达式相关问题的 ESLint 插件。 （<a href="https://javascriptweekly.com/link/146652/rss" style=" color: #3366aa; font-weight: 600;   ">互动演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146653/rss" style=" color: #3366aa; font-weight: 600;   ">小老鼠</a>– Chrome 扩展程序可监控（并阻止）其他扩展程序的网络调用。</p>
@@ -604,7 +604,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146343/rss" title="audiomotion.dev" style=" color: #3366aa;    font-size: 1.05em;">audioMotion-analyzer：实时音频频谱分析仪</a></span>— 没有依赖项的高分辨率实时音频频谱分析仪 JavaScript 模块。 提供单通道或双通道视图。 (<em>注意 AGPL 许可证</em>.)<a href="https://javascriptweekly.com/link/146344/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146343/rss" title="audiomotion.dev" style=" color: #3366aa;    font-size: 1.05em;">audioMotion-analyzer：实时音频频谱分析仪</a></span>— 没有依赖项的高分辨率实时音频频谱分析仪 JavaScript 模块。 提供单通道或双通道视图。 （<em>注意 AGPL 许可证</em>.)<a href="https://javascriptweekly.com/link/146344/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>恩里克·阿维拉·维亚纳</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -859,19 +859,19 @@
 
 接着，作者分享了他对JavaScript测试API中两种常见的断言风格的看法，并表达了自己的偏好。
 
-还推荐了一门免费的视频课程，由Jerome Hardaway分享如何在软件工程领域找到工作的建议和技巧。
+还推荐了一门免费的视频课程，教授如何在软件工程领域找到工作，包括简历技巧、社交网络建立、优化GitHub个人资料等。
 
-在新闻方面，提到了TypeScript 5.3 beta版本的发布，以及npm provenance在npm注册表上的正式推出。
+在新闻方面，提到了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的正式推出。
 
 此外，还介绍了Adobe推出的Web版Photoshop，以及一个名为val.town的网站，该网站提供了一种社交和无服务器的方式来编写和部署TypeScript。
 
-文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript的第三方库、TypeScript的monorepo、React库的本地测试等主题。
+文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库的本地测试等主题。
 
-在工具方面，介绍了一些有用的代码库和工具，如Tailwind Elements、Lite YouTube Embed、Day.js等。
+在工具方面，介绍了一些新发布的工具，如Tailwind Elements、Lite YouTube Embed、Day.js等。
 
-最后，列举了一些新发布的版本和一些招聘信息。
+最后，列出了一些新发布的版本和一些招聘信息。
 
-此外，还附带了一个VS Code的奖励，是一个精选的</summary>
+此外，还附带了一个VS Code</summary>
     <div>
     <div>OriginTitle: Comparing test assertion styles in JavaScript</div>
 
