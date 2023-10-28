@@ -529,7 +529,7 @@
             <guid>https://javascriptweekly.com/issues/659</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和工具。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性，如V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。然后介绍了几种减少JavaScript代码体积的方法，包括代码拆分、渐进式加载和混合路由等。此外，还提到了TC39成立了一个新的任务组来标准化源代码映射，以及一些其他的开发者活动和工具发布。文章还包括了一些技术文章和教程，如在JavaScript中进行Base64编码和解码、使用closest方法返回最接近的DOM节点、使用UI组件库进行项目管理和资源规划等。最后，还介绍了一些代码和工具，如Postgres.js、PureImage、Cronicle等。文章最后提到了一个名为QX82的JavaScript库，可以用于创建复古风格的游戏和体验。</summary>
+    <summary>本文介绍了几个与JavaScript相关的主题和工具。首先介绍了ApexCharts，一个用于构建交互式数据可视化的图表库。然后介绍了Node.js 21的发布，其中包括V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。接下来是关于减少JavaScript代码大小的八种方法的系列文章。还提到了TC39成立了一个新的任务组来标准化源映射，以及WebAssembly的最新动态和相关活动。此外，还介绍了一些新的发布和工具，如TanStack Query v5、Storybook 7.5、Lit 3.0等。文章还包括了一些教程和文章，如在JavaScript中进行Base64编码和解码、使用closest方法返回最接近的DOM节点、使用UI组件库进行项目管理和资源规划等。最后，还介绍了一些有趣的工具和库，如Postgres.js、PureImage、Cronicle等。文章以一款名为QX82的JavaScript库作为结尾，该库可以用于创建复古风格的游戏和体验。</summary>
     <div>
     <div>OriginTitle: Ways to serve up less JavaScript</div>
 
