@@ -17,7 +17,7 @@
 
 1. Transformers.js 2.7发布，引入了文本转语音的功能。
 2. Jake Lazaroff认为Web组件将会比JavaScript框架更加持久。
-3. Crunchy Bridge赞助商提供了一个可靠的Postgres集群解决方案。
+3. Crunchy Bridge赞助商提供了一个可靠的Postgres集群部署解决方案。
 4. Yarn 4.0发布，引入了新的“hardened mode”以提高安全性。
 5. Node v21.1发布，引入了ESM检测功能。
 6. React团队宣布Server Actions和Client Actions功能现已在React Canary中可用。
