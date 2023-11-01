@@ -112,7 +112,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/147013/rss" title="sveltebyexample.com" style=" color: #3366aa;    font-size: 1.05em;">Svelte 示例：简单介绍</a></span>— 对 Svelte 的简洁、温和且以代码为中心的介绍<em>和</em>SvelteKit。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/147013/rss" title="sveltebyexample.com" style=" color: #3366aa;    font-size: 1.05em;">Svelte 示例：温和介绍</a></span>— 对 Svelte 的简洁、温和且以代码为中心的介绍<em>和</em>SvelteKit。</p>
   <p>塞巴斯蒂安·德·戴因</p>
 </td></tr></tbody></table>
 
@@ -675,7 +675,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146643/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PureImage：用于 Node.js 的纯 JS HTML Canvas 2D</a></span>— 如果您想在 Node 中获得类似于浏览器的 2D 画布体验，但没有任何本机依赖项，​​那么这适合您。 然后，您可以将输出保存为 PNG 或 JPEG。 (<a href="https://javascriptweekly.com/link/146644/rss" style=" color: #3366aa;   ">节点画布</a>是同一地区长期流行的选择，但依赖开罗作为依赖。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146643/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PureImage：用于 Node.js 的纯 JS HTML Canvas 2D</a></span>— 如果您想在 Node 中获得类似于浏览器的 2D 画布体验，但没有任何本机依赖项，​​那么这适合您。 然后，您可以将输出保存为 PNG 或 JPEG。 （<a href="https://javascriptweekly.com/link/146644/rss" style=" color: #3366aa;   ">节点画布</a>是同一地区长期流行的选择，但依赖开罗作为依赖。）</p>
   <p>乔什·马里纳奇</p>
 </td></tr></tbody></table>
 
@@ -709,7 +709,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/146651/rss" style=" color: #3366aa; font-weight: 600;   ">eslint-插件-正则表达式 2.0</a>– 用于查找正则表达式相关问题的 ESLint 插件。 (<a href="https://javascriptweekly.com/link/146652/rss" style=" color: #3366aa; font-weight: 600;   ">互动演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/146651/rss" style=" color: #3366aa; font-weight: 600;   ">eslint-插件-正则表达式 2.0</a>– 用于查找正则表达式相关问题的 ESLint 插件。 （<a href="https://javascriptweekly.com/link/146652/rss" style=" color: #3366aa; font-weight: 600;   ">互动演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146653/rss" style=" color: #3366aa; font-weight: 600;   ">小老鼠</a>– Chrome 扩展程序可监控（并阻止）其他扩展程序的网络调用。</p>
@@ -731,7 +731,7 @@
 </li>
 </ul>
 </td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🎁 还有一个祝你好运..</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🎁 还有一个运气..</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
   <a href="https://javascriptweekly.com/link/146665/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/r0ksqndgxpkhrc2rw0zi.jpg" width="640" style="        line-height: 100%;     "></a>
 </td></tr></tbody></table>
@@ -1069,7 +1069,7 @@
 <p><strong>🎉 发布：</strong></p>
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/146329/rss" style=" color: #3366aa; font-weight: 600;   ">电子27</a>– 跨平台桌面应用程序工具包获得了 Chromium 118、Node.js 18.17.1 和 V8 11.8，但失去了 macOS 10.13/14 支持。</p>
+<p><a href="https://javascriptweekly.com/link/146329/rss" style=" color: #3366aa; font-weight: 600;   ">电子27</a>– 跨平台桌面应用工具包获得了 Chromium 118、Node.js 18.17.1 和 V8 11.8，但失去了 macOS 10.13/14 支持。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146330/rss" style=" color: #3366aa; font-weight: 600;   ">新鲜1.5</a>– 用于构建全栈 Web 应用程序的 Deno-native 框架。 v1.5 添加了支持<em>部分</em>– 更新的能力<em>部分</em>现有页面的。</p>
@@ -1078,7 +1078,7 @@
 <p><a href="https://javascriptweekly.com/link/146331/rss" style=" color: #3366aa; font-weight: 600;   ">地块2.10</a>– 零配置构建工具得到了一些<em>严肃的</em>性能改进（大型项目的速度提高了 7 倍）。 德文·戈维特写道<a href="https://javascriptweekly.com/link/146332/rss" style=" color: #3366aa; font-weight: 600;   ">🐦 Twitter 帖子解释了如何操作。</a></p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/146333/rss" style=" color: #3366aa; font-weight: 600;   ">包子1.0.5</a>– 主要是针对性能导向的 JS 运行时的错误修复和温和改进。 还没有 HTTP/2，但它指日可待。</p>
+<p><a href="https://javascriptweekly.com/link/146333/rss" style=" color: #3366aa; font-weight: 600;   ">包子1.0.5</a>– 主要是错误修复和面向性能的 JS 运行时的温和改进。 还没有 HTTP/2，但它指日可待。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146334/rss" style=" color: #3366aa; font-weight: 600;   ">实心1.8</a>– 用于构建 UI 的声明性和高性能反应性。</p>
@@ -1120,7 +1120,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146343/rss" title="audiomotion.dev" style=" color: #3366aa;    font-size: 1.05em;">audioMotion-analyzer：实时音频频谱分析仪</a></span>— 没有依赖项的高分辨率实时音频频谱分析仪 JavaScript 模块。 提供单通道或双通道视图。 (<em>注意 AGPL 许可证</em>.)<a href="https://javascriptweekly.com/link/146344/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146343/rss" title="audiomotion.dev" style=" color: #3366aa;    font-size: 1.05em;">audioMotion-analyzer：实时音频频谱分析仪</a></span>— 没有依赖项的高分辨率实时音频频谱分析仪 JavaScript 模块。 提供单通道或双通道视图。 （<em>注意 AGPL 许可证</em>.)<a href="https://javascriptweekly.com/link/146344/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>恩里克·阿维拉·维亚纳</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1377,17 +1377,15 @@
 
 还推荐了一门免费的视频课程，教授如何在软件工程领域找到工作，包括简历技巧、社交网络建立、优化GitHub个人资料等。
 
-在新闻方面，提到了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的正式推出。
+在新闻方面，介绍了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的全面可用性。
 
-此外，还介绍了Adobe推出的Web版Photoshop，以及一个名为val.town的网站，该网站提供了一种社交和无服务器的方式来编写和部署TypeScript。
+此外，还提到了Adobe推出的Web版Photoshop，展示了实现这一功能所需的各种Web技术。
 
-文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库的本地测试等主题。
+在文章的后半部分，列举了一些有关JavaScript和TypeScript开发的文章和教程，以及一些代码和工具推荐。
 
-在工具方面，介绍了一些新发布的工具，如Tailwind Elements、Lite YouTube Embed、Day.js等。
+最后，还列出了一些最新的软件发布和招聘信息。
 
-最后，列出了一些新发布的版本和一些招聘信息。
-
-此外，还附带了一个VS Code</summary>
+总的来说，本篇文章涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的资讯。</summary>
     <div>
     <div>OriginTitle: Comparing test assertion styles in JavaScript</div>
 
@@ -1535,7 +1533,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为具有大部分兼容 API 的 Moment.js 替代品。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146096/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Day.js：2KB 不可变日期库</a></span>— Day 是一个较小的库，用于解析、验证、操作和显示日期和时间，被定位为 Moment.js 的替代品，具有大部分兼容的 API。</p>
   <p>亚姆昆</p>
 </td></tr></tbody></table>
 
