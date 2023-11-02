@@ -112,7 +112,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/147013/rss" title="sveltebyexample.com" style=" color: #3366aa;    font-size: 1.05em;">Svelte 示例：温和介绍</a></span>— 对 Svelte 的简洁、温和且以代码为中心的介绍<em>和</em>SvelteKit。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/147013/rss" title="sveltebyexample.com" style=" color: #3366aa;    font-size: 1.05em;">Svelte 示例：简单介绍</a></span>— 对 Svelte 的简洁、温和且以代码为中心的介绍<em>和</em>SvelteKit。</p>
   <p>塞巴斯蒂安·德·戴因</p>
 </td></tr></tbody></table>
 
@@ -529,7 +529,7 @@
             <guid>https://javascriptweekly.com/issues/659</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和工具。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性，如V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。然后介绍了几种减少JavaScript代码体积的方法，包括代码拆分、渐进式加载和混合路由等。此外，还提到了TC39成立了一个新的任务组来标准化源代码映射，以及一些其他的开发者活动和工具发布。文章最后介绍了一个名为QX82的JavaScript库，可以用于创建复古风格的游戏和体验。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和工具。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性，如V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。然后介绍了几种减少JavaScript代码体积的方法，包括代码拆分、渐进式加载和混合路由等。此外，还提到了TC39成立了一个新的任务组来标准化源代码映射，以及一些其他的开发者活动和工具发布。文章还包括了一些技术文章和教程，如在JavaScript中进行Base64编码和解码、使用closest方法返回最接近的DOM节点、使用UI组件库进行项目管理和资源规划等。最后，还介绍了一些代码和工具，如Postgres.js、PureImage、Cronicle等。文章最后提到了一个名为QX82的JavaScript库，可以用于创建复古风格的游戏和体验。</summary>
     <div>
     <div>OriginTitle: Ways to serve up less JavaScript</div>
 
@@ -731,7 +731,7 @@
 </li>
 </ul>
 </td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🎁 还有一个运气..</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🎁 还有一个祝你好运..</p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
   <a href="https://javascriptweekly.com/link/146665/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/r0ksqndgxpkhrc2rw0zi.jpg" width="640" style="        line-height: 100%;     "></a>
 </td></tr></tbody></table>
@@ -1030,7 +1030,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/146316/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/a1148dc7.png" width="140" height="140" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146316/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">强类型和⛅：认识 EdgeDB 4.0</a></span>— EdgeDB 是一个专注于开发人员体验的开源数据库。 它具有高级、现代数据模型、集成模式迁移和 TypeScript 查询生成器，可以轻松编写高级、快速查询，让 ORM 相形见绌。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146316/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">强类型和⛅：认识 EdgeDB 4.0</a></span>— EdgeDB 是一个专注于开发者体验的开源数据库。 它具有高级、现代数据模型、集成模式迁移和 TypeScript 查询生成器，可以轻松编写高级、快速查询，让 ORM 相形见绌。</p>
   <p>边缘数据库<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -1069,7 +1069,7 @@
 <p><strong>🎉 发布：</strong></p>
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/146329/rss" style=" color: #3366aa; font-weight: 600;   ">电子27</a>– 跨平台桌面应用工具包获得了 Chromium 118、Node.js 18.17.1 和 V8 11.8，但失去了 macOS 10.13/14 支持。</p>
+<p><a href="https://javascriptweekly.com/link/146329/rss" style=" color: #3366aa; font-weight: 600;   ">电子27</a>– 跨平台桌面应用程序工具包获得了 Chromium 118、Node.js 18.17.1 和 V8 11.8，但失去了 macOS 10.13/14 支持。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146330/rss" style=" color: #3366aa; font-weight: 600;   ">新鲜1.5</a>– 用于构建全栈 Web 应用程序的 Deno-native 框架。 v1.5 添加了支持<em>部分</em>– 更新的能力<em>部分</em>现有页面的。</p>
@@ -1078,7 +1078,7 @@
 <p><a href="https://javascriptweekly.com/link/146331/rss" style=" color: #3366aa; font-weight: 600;   ">地块2.10</a>– 零配置构建工具得到了一些<em>严肃的</em>性能改进（大型项目的速度提高了 7 倍）。 德文·戈维特写道<a href="https://javascriptweekly.com/link/146332/rss" style=" color: #3366aa; font-weight: 600;   ">🐦 Twitter 帖子解释了如何操作。</a></p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/146333/rss" style=" color: #3366aa; font-weight: 600;   ">包子1.0.5</a>– 主要是错误修复和面向性能的 JS 运行时的温和改进。 还没有 HTTP/2，但它指日可待。</p>
+<p><a href="https://javascriptweekly.com/link/146333/rss" style=" color: #3366aa; font-weight: 600;   ">包子1.0.5</a>– 主要是针对性能导向的 JS 运行时的错误修复和温和改进。 还没有 HTTP/2，但它指日可待。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/146334/rss" style=" color: #3366aa; font-weight: 600;   ">实心1.8</a>– 用于构建 UI 的声明性和高性能反应性。</p>
@@ -1377,15 +1377,17 @@
 
 还推荐了一门免费的视频课程，教授如何在软件工程领域找到工作，包括简历技巧、社交网络建立、优化GitHub个人资料等。
 
-在新闻方面，介绍了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的全面可用性。
+在新闻方面，提到了TypeScript 5.3 beta版本的发布，以及npm provenance在主要的npm注册表上的正式推出。
 
-此外，还提到了Adobe推出的Web版Photoshop，展示了实现这一功能所需的各种Web技术。
+此外，还介绍了Adobe推出的Web版Photoshop，以及一个名为val.town的网站，该网站提供了一种社交和无服务器的方式来编写和部署TypeScript。
 
-在文章的后半部分，列举了一些有关JavaScript和TypeScript开发的文章和教程，以及一些代码和工具推荐。
+文章中还包括了一些技术文章和教程，涵盖了静态类型、JavaScript第三方库、TypeScript Monorepo、React库的本地测试等主题。
 
-最后，还列出了一些最新的软件发布和招聘信息。
+在工具方面，介绍了一些新发布的工具，如Tailwind Elements、Lite YouTube Embed、Day.js等。
 
-总的来说，本篇文章涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的资讯。</summary>
+最后，列出了一些新发布的版本和一些招聘信息。
+
+此外，还附带了一个VS Code</summary>
     <div>
     <div>OriginTitle: Comparing test assertion styles in JavaScript</div>
 
