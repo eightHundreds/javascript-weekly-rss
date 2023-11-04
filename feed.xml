@@ -483,7 +483,7 @@
 
 1. Transformers.js 2.7发布，引入了文本转语音的功能。
 2. Jake Lazaroff认为Web组件将会比JavaScript框架更加持久。
-3. Crunchy Bridge赞助商提供了一个可靠的Postgres集群解决方案。
+3. Crunchy Bridge赞助商提供了一个可靠的Postgres集群部署解决方案。
 4. Yarn 4.0发布，引入了新的“hardened mode”以提高安全性。
 5. Node v21.1发布，引入了ESM检测功能。
 6. React团队宣布Server Actions和Client Actions功能现已在React Canary中可用。
@@ -720,7 +720,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>引述：</em></p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 20px;  padding-left: 20px;">
-  <p>“软件设计有两种方法。 一是让程序变得如此简单，明显没有错误。 另一种就是搞得这么复杂，没有明显的错误。”</p>
+  <p>“软件设计有两种方法。 一是让程序变得如此简单，明显没有错误。 另一种是搞得这么复杂，没有明显的错误。”</p>
 
   
     <p>___<br><a href="https://javascriptweekly.com/link/147009/rss" style=" color: #3366aa;">托尼·霍尔</a>，发明者<a href="https://javascriptweekly.com/link/147010/rss" style=" color: #3366aa;">快速排序算法。</a></p>
@@ -1496,7 +1496,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/146316/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/a1148dc7.png" width="140" height="140" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146316/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">强类型和⛅：认识 EdgeDB 4.0</a></span>— EdgeDB 是一个专注于开发人员体验的开源数据库。 它具有高级、现代数据模型、集成模式迁移和 TypeScript 查询生成器，可以轻松编写高级、快速查询，让 ORM 相形见绌。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/146316/rss" title="www.edgedb.com" style=" color: #3366aa;    font-size: 1.05em;">强类型和⛅：认识 EdgeDB 4.0</a></span>— EdgeDB 是一个专注于开发者体验的开源数据库。 它具有高级、现代数据模型、集成模式迁移和 TypeScript 查询生成器，可以轻松编写高级、快速查询，让 ORM 相形见绌。</p>
   <p>边缘数据库<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
