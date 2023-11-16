@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/662</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions和React Components for Google Maps JavaScript API。</summary>
+    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案，推出全新的文档站点Angular.dev，支持服务器端应用程序的改进，以及改进的内置控制流等。此外，还介绍了一些与JavaScript相关的文章和教程，以及一些发布的工具和库。</summary>
     <div>
     <div>OriginTitle: Angular is back</div>
 
@@ -997,7 +997,7 @@
 
 1. Transformers.js 2.7发布，引入了文本转语音的功能。
 2. Jake Lazaroff认为Web组件将会比JavaScript框架更加持久。
-3. Crunchy Bridge赞助商提供了一个可靠的Postgres集群解决方案。
+3. Crunchy Bridge赞助商提供了一个可靠的Postgres集群部署解决方案。
 4. Yarn 4.0发布，引入了新的“hardened mode”以提高安全性。
 5. Node v21.1发布，引入了ESM检测功能。
 6. React团队宣布Server Actions和Client Actions功能现已在React Canary中可用。
@@ -1509,7 +1509,7 @@
             <guid>https://javascriptweekly.com/issues/659</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和工具。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性，如V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。然后介绍了几种减少JavaScript代码体积的方法，包括代码拆分、渐进式加载和混合路由等。此外，还提到了一些其他的新闻和工具，如TC39成立了一个新的任务组来标准化源映射、WebAssembly的最新进展、React Jam游戏开发活动等。最后，列举了一些新发布的工具和库，如TanStack Query v5、Storybook 7.5、Lit 3.0等。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript领域的一些最新动态和工具。文章首先介绍了ApexCharts，这是一个成熟且经常更新的图表库，可以用于构建交互式数据可视化。接着介绍了Node.js 21的发布，该版本引入了一些新特性，如V8 11.8、npm 10.2、稳定的Web Streams支持和实验性的浏览器兼容的WebSocket实现。然后介绍了几种减少JavaScript代码体积的方法，包括代码拆分、渐进式加载和混合路由等。此外，还提到了TC39成立了一个新的任务组来标准化源代码映射，以及一些其他的开发者活动和工具发布。文章最后介绍了一个名为QX82的JavaScript库，可以用于创建复古风格的游戏和体验。</summary>
     <div>
     <div>OriginTitle: Ways to serve up less JavaScript</div>
 
