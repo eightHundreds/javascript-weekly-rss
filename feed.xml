@@ -544,7 +544,7 @@
             <guid>https://javascriptweekly.com/issues/662</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案，推出全新的文档站点和项目主页，以及对服务器端应用程序的改进支持。此外，还介绍了JavaScript虚拟机和DOM操作的相关内容。文章还提到了一些工具和库的发布，以及一些有关JavaScript开发的文章和教程。最后，还介绍了一些有趣的代码和工具，如用于拖拽、缩放等操作的Moveable库，以及用于获取图像尺寸的image-dimensions库。</summary>
+    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions、main-thread-scheduling和React Components for Google Maps JavaScript API。</summary>
     <div>
     <div>OriginTitle: Angular is back</div>
 
