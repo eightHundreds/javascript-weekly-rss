@@ -22,8 +22,9 @@
 5. 对轻量级JavaScript框架的综述，介绍了一些替代React和Angular等大型框架的选择。
 6. AWS Amplify JavaScript库发布了v6版本，全面支持Next.js App Router和Server Actions。
 7. Node.js TSC成员建议在Node中使用Biome进行代码格式化，因为ESLint已经弃用了其核心格式化规则。
-8. React Jam比赛的获奖者已经揭晓，其中一项作品是基于React的棋盘游戏。
-9. Astro的介绍，Astro是一个静态网站生成器，可以将多种技术（如React、Vue和Svelte）组合在一起使用</summary>
+8. React Jam比赛的获奖者已经揭晓，其中一项作品是基于React的棋类谜题。
+9. Astro的介绍，Astro是一个静态网站生成器，可以将多种技术（如React、Vue和Svelte）组合在一起使用。
+</summary>
     <div>
     <div>OriginTitle: Digging into explicit resource management</div>
 
@@ -1622,7 +1623,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/147013/rss" title="sveltebyexample.com" style=" color: #3366aa;    font-size: 1.05em;">Svelte 示例：简单介绍</a></span>— 对 Svelte 的简洁、温和且以代码为中心的介绍<em>和</em>SvelteKit。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/147013/rss" title="sveltebyexample.com" style=" color: #3366aa;    font-size: 1.05em;">Svelte 示例：温和介绍</a></span>— 对 Svelte 的简洁、温和且以代码为中心的介绍<em>和</em>SvelteKit。</p>
   <p>塞巴斯蒂安·德·戴因</p>
 </td></tr></tbody></table>
 
@@ -1726,7 +1727,7 @@
 <p><a href="https://javascriptweekly.com/link/147000/rss" style=" color: #3366aa; font-weight: 600;   ">npm 发布 3.0</a>– GitHub Action 将包发布到 npm。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/147001/rss" style=" color: #3366aa; font-weight: 600;   ">http-fake-backend 5.0</a>– 通过提供 JSON 构建一个假后端。</p>
+<p><a href="https://javascriptweekly.com/link/147001/rss" style=" color: #3366aa; font-weight: 600;   ">http-假后端 5.0</a>– 通过提供 JSON 构建一个假后端。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/147002/rss" style=" color: #3366aa; font-weight: 600;   ">蛋白石1.8</a>– Ruby 到 JavaScript 转译器。</p>
@@ -1764,7 +1765,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>引述：</em></p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 20px;  padding-left: 20px;">
-  <p>“软件设计有两种方法。 一是让程序变得如此简单，明显没有错误。 另一种是搞得这么复杂，没有明显的错误。”</p>
+  <p>“软件设计有两种方法。 一是让程序变得如此简单，明显没有错误。 另一种就是搞得这么复杂，没有明显的错误。”</p>
 
   
     <p>___<br><a href="https://javascriptweekly.com/link/147009/rss" style=" color: #3366aa;">托尼·霍尔</a>，发明者<a href="https://javascriptweekly.com/link/147010/rss" style=" color: #3366aa;">快速排序算法。</a></p>
