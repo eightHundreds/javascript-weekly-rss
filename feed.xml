@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/664</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal，并对类型缩小、编辑器中的交互式提示等方面进行了改进。此外，还介绍了Vite 5.0的发布，该工具现在使用Rollup 4，并提供了迁移指南。文章还列举了一些其他的工具和服务的最新版本和发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal等新特性。此外，还介绍了Vite 5.0的发布，该工具现在被许多项目使用。文章还列举了一些开发工具和服务的黑色星期五优惠，以及一些新版本的发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
     <div>
     <div>OriginTitle: The unbearable weight of massive JavaScript</div>
 
@@ -32,7 +32,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148133/rss" title="survey.devographics.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">是时候采取<em>2023 年 JavaScript 现状</em></a></span>— 长期存在<em>JavaScript 的状态</em>调查又回来了，旨在了解社区在做什么以及我们正在使用什么工具。 结果总是很有启发性，我们将分享最美味的部分。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148133/rss" title="survey.devographics.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">是时候采取<em>2023 年 JavaScript 现状</em></a></span>— 长期存在<em>JavaScript 的现状</em>调查又回来了，旨在了解社区在做什么以及我们正在使用什么工具。 结果总是很有启发性，我们将分享最美味的部分。</p>
   <p>地形学</p>
 </td></tr></tbody></table>
 
@@ -512,8 +512,9 @@
 5. 对轻量级JavaScript框架的综述，介绍了一些替代React和Angular等大型框架的选择。
 6. AWS Amplify JavaScript库发布了v6版本，全面支持Next.js App Router和Server Actions。
 7. Node.js TSC成员建议在Node中使用Biome进行代码格式化，因为ESLint已经弃用了其核心格式化规则。
-8. React Jam比赛的获奖者已经揭晓，其中一个入围作品是基于国际象棋的谜题游戏useChess。
-9. Astro的介绍，Astro是一个新兴的静态网站生成器，James Q Quick在Software Engineering Daily的播客</summary>
+8. React Jam比赛的获奖者已经揭晓，其中一项作品是基于React的棋类谜题。
+9. Astro的介绍，Astro是一个静态网站生成器，可以将多种技术（如React、Vue和Svelte）组合在一起使用。
+</summary>
     <div>
     <div>OriginTitle: Digging into explicit resource management</div>
 
@@ -1033,7 +1034,7 @@
             <guid>https://javascriptweekly.com/issues/662</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions、main-thread-scheduling和React Components for Google Maps JavaScript API。</summary>
+    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions和React Components for Google Maps JavaScript API。</summary>
     <div>
     <div>OriginTitle: Angular is back</div>
 
@@ -1232,7 +1233,7 @@
 <p><a href="https://javascriptweekly.com/link/147566/rss" style=" color: #3366aa; font-weight: 600;   ">Vuetify v3.4</a>– Vue 组件框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/147567/rss" style=" color: #3366aa; font-weight: 600;   ">迷你搜索 6.2</a>– 内存中全文搜索引擎。 （<a href="https://javascriptweekly.com/link/147568/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/147567/rss" style=" color: #3366aa; font-weight: 600;   ">迷你搜索 6.2</a>– 内存中全文搜索引擎。 (<a href="https://javascriptweekly.com/link/147568/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/147569/rss" style=" color: #3366aa; font-weight: 600;   ">TanStack 表格 0.9</a>– 无头类型安全形式状态管理。</p>
@@ -1587,7 +1588,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p>🗳 背后的人<em>JavaScript 的状态</em>调查公布了一项新的<a href="https://javascriptweekly.com/link/147291/rss" style=" color: #3366aa; font-weight: 600;   "><em>反应状态</em>民意调查</a>采取。 与他们的其他调查一样，您可以测试您的知识并提供有用的见解。</p>
+<p>🗳 背后的人<em>JavaScript 的现状</em>调查公布了一项新的<a href="https://javascriptweekly.com/link/147291/rss" style=" color: #3366aa; font-weight: 600;   "><em>反应状态</em>民意调查</a>采取。 与他们的其他调查一样，您可以测试您的知识并提供有用的见解。</p>
 </li>
 <li>
 <p>🔁<a href="https://javascriptweekly.com/link/147292/rss" style=" color: #3366aa; font-weight: 600;   ">阴影</a>是一个用 JavaScript 本身构建的新的实验性浏览器引擎。 它使用 HTML 画布在您常用的浏览器中呈现其输出。<a href="https://javascriptweekly.com/link/147293/rss" style=" color: #3366aa; font-weight: 600;   ">源代码。</a></p>
