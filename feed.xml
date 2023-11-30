@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/664</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal，并对类型缩小、编辑器中的交互式提示等方面进行了改进。此外，还介绍了Vite 5.0的发布，该工具现在使用Rollup 4，并提供了迁移指南。文章还列举了一些其他的工具和服务的最新版本和发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal，并对类型缩小、编辑器中的交互式提示等方面进行了改进。此外，还介绍了Vite 5.0的发布，该工具现在使用Rollup 4，并提供了迁移指南。文章还列举了一些其他的工具和服务的最新版本和发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
     <div>
     <div>OriginTitle: The unbearable weight of massive JavaScript</div>
 
@@ -38,7 +38,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/148134/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">海量 JavaScript 难以承受的重量</a></span>— 一次广泛的讨论，探讨通过简化 Web 架构可以实现什么，主要是通过使用新的或即将推出的 Web 平台 API，并返回构建快速、可维护、用户友好的前端。<a href="https://javascriptweekly.com/link/148135/rss" style=" color: #3366aa;   ">幻灯片。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/148134/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">海量 JavaScript 难以承受的重量</a></span>— 一次广泛的讨论，探讨通过简化 Web 架构可以实现什么，主要是通过使用新的或即将推出的 Web 平台 API，并回到构建快速、可维护、用户友好的前端。<a href="https://javascriptweekly.com/link/148135/rss" style=" color: #3366aa;   ">幻灯片。</a></p>
   <p>瑞安·汤森</p>
 </td></tr></tbody></table>
 
@@ -50,7 +50,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148136/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript 5.3 发布</a></span>— 类型增强型 JavaScript 超集的最新版本就在这里。 头条功能全面支持<a href="https://javascriptweekly.com/link/148137/rss" style=" color: #3366aa;   ">导入属性建议</a>（目前处于 TC39 的第 3 阶段），但在类型缩小、编辑器中类型的交互式嵌入提示等方面还有许多增强功能。 虽然不是最大的更新，但仍然取得了进步。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148136/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript 5.3 发布</a></span>— 类型增强型 JavaScript 超集的最新版本就在这里。 头条功能全面支持<a href="https://javascriptweekly.com/link/148137/rss" style=" color: #3366aa;   ">导入属性建议</a>（目前处于 TC39 的第 3 阶段），但在类型缩小、编辑器中类型的交互式嵌入提示等方面有许多增强功能。 虽然不是最大的更新，但仍然取得了进步。</p>
   <p>丹尼尔·罗森瓦瑟（微软）</p>
 </td></tr></tbody></table>
 
@@ -1034,7 +1034,7 @@
             <guid>https://javascriptweekly.com/issues/662</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案，推出全新的文档站点和项目主页，以及对服务器端应用程序的改进支持。此外，还介绍了JavaScript虚拟机和DOM操作的相关内容。文章还提到了一些工具和库的发布，以及一些有关JavaScript开发的文章和教程。最后，还介绍了一些有趣的代码和工具，如用于拖拽、缩放等操作的Moveable库，以及用于获取图像尺寸的image-dimensions库。</summary>
+    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions和React Components for Google Maps JavaScript API。</summary>
     <div>
     <div>OriginTitle: Angular is back</div>
 
