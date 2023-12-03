@@ -104,7 +104,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但是如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
   <p>斯特凡·朱迪斯</p>
 </td></tr></tbody></table>
 
@@ -473,7 +473,7 @@
             <guid>https://javascriptweekly.com/issues/664</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal等新特性。此外，还介绍了Vite 5.0的发布，该工具现在被许多项目使用。文章还列举了一些开发工具和服务的黑色星期五优惠，以及一些新版本的发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal，并对类型缩小、编辑器中的交互式提示等方面进行了改进。此外，还介绍了Vite 5.0的发布，该工具现在使用Rollup 4，并提供了迁移指南。文章还列举了一些工具和服务的最新版本和发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
     <div>
     <div>OriginTitle: The unbearable weight of massive JavaScript</div>
 
@@ -972,8 +972,9 @@
 5. 对轻量级JavaScript框架的综述，介绍了一些替代React和Angular等大型框架的选择。
 6. AWS Amplify JavaScript库发布了v6版本，全面支持Next.js App Router和Server Actions。
 7. Node.js TSC成员建议在Node中使用Biome进行代码格式化，因为ESLint已经弃用了其核心格式化规则。
-8. React Jam比赛的获奖者已经揭晓，其中一项作品是基于React的棋盘游戏。
-9. Astro的介绍，Astro是一个静态网站生成器，可以将多种技术（如React、Vue和Svelte）组合在一起使用</summary>
+8. React Jam比赛的获奖者已经揭晓，其中一项作品是基于React的棋类谜题。
+9. Astro的介绍，Astro是一个静态网站生成器，可以将多种技术（如React、Vue和Svelte）组合在一起使用。
+</summary>
     <div>
     <div>OriginTitle: Digging into explicit resource management</div>
 
