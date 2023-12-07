@@ -104,7 +104,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但是如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
   <p>斯特凡·朱迪斯</p>
 </td></tr></tbody></table>
 
@@ -473,7 +473,7 @@
             <guid>https://javascriptweekly.com/issues/664</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal，并对类型缩小、编辑器中的交互式提示等方面进行了改进。此外，还介绍了Vite 5.0的发布，该工具现在使用Rollup 4，并提供了迁移指南。文章还列举了一些其他的工具和服务的最新版本和发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal等新特性。此外，还介绍了Vite 5.0的发布，该工具现在被许多项目使用。文章还列举了一些开发工具和服务的黑色星期五优惠，以及一些新版本的发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
     <div>
     <div>OriginTitle: The unbearable weight of massive JavaScript</div>
 
@@ -492,13 +492,13 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148133/rss" title="survey.devographics.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">是时候采取<em>2023 年 JavaScript 现状</em></a></span>— 长期存在<em>JavaScript 的现状</em>调查又回来了，旨在了解社区在做什么以及我们正在使用什么工具。 结果总是很有启发性，我们将分享最美味的部分。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148133/rss" title="survey.devographics.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">是时候采取<em>2023 年 JavaScript 现状</em></a></span>— 长期存在<em>JavaScript 的状态</em>调查又回来了，旨在了解社区在做什么以及我们正在使用什么工具。 结果总是很有启发性，我们将分享最美味的部分。</p>
   <p>地形学</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/148134/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">海量 JavaScript 难以承受的重量</a></span>— 一次广泛的讨论，探讨通过简化 Web 架构可以实现什么，主要是通过使用新的或即将推出的 Web 平台 API，并返回构建快速、可维护、用户友好的前端。<a href="https://javascriptweekly.com/link/148135/rss" style=" color: #3366aa;   ">幻灯片。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/148134/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">海量 JavaScript 难以承受的重量</a></span>— 一次广泛的讨论，探讨通过简化 Web 架构可以实现什么，主要是通过使用新的或即将推出的 Web 平台 API，并回到构建快速、可维护、用户友好的前端。<a href="https://javascriptweekly.com/link/148135/rss" style=" color: #3366aa;   ">幻灯片。</a></p>
   <p>瑞安·汤森</p>
 </td></tr></tbody></table>
 
@@ -1494,7 +1494,7 @@
             <guid>https://javascriptweekly.com/issues/662</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions、main-thread-scheduling和React Components for Google Maps JavaScript API。</summary>
+    <summary>本文介绍了Angular v17的一些新特性和改进，包括重新定位Angular作为现代解决方案、新的文档站点和指南、生产就绪的Hydration、默认使用Vite和esbuild等。此外，还介绍了一些与JavaScript相关的文章和工具，如JavaScript虚拟机、DOM操作、React Hooks和测试工具的更新。最后，还提到了一些代码和工具，如Moveable、image-dimensions和React Components for Google Maps JavaScript API。</summary>
     <div>
     <div>OriginTitle: Angular is back</div>
 
