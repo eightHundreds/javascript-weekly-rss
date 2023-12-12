@@ -63,7 +63,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用）如何通过其 Maglev JIT 编译器的工作而继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用的）如何通过 Maglev JIT 编译器继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
   <p>V8团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -99,7 +99,7 @@
 <p><a href="https://javascriptweekly.com/link/148790/rss" style=" color: #3366aa; font-weight: 600;   ">新鲜1.6</a>– 基于 Deno 的 Web 框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/148791/rss" style=" color: #3366aa; font-weight: 600;   ">反应本机 0.73</a>– 现在，凭借对 Android 14 的全面支持，Kotlin 成为 Android 等的推荐语言。</p>
+<p><a href="https://javascriptweekly.com/link/148791/rss" style=" color: #3366aa; font-weight: 600;   ">反应本机 0.73</a>– 现在有了对 Android 14 的全面支持，Kotlin 成为 Android 等的推荐语言。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/148792/rss" style=" color: #3366aa; font-weight: 600;   ">HTML5 样板 v9.0</a>– 来自过去的爆炸！</p>
@@ -202,7 +202,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型 Web 性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以获取首次绘制、总阻塞时间等方面的精确指标。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型 Web 性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以精确衡量首次绘制、总阻塞时间等指标。</p>
   <p>莱昂纳多·齐扎米亚</p>
 </td></tr></tbody></table>
 
@@ -964,7 +964,7 @@
             <guid>https://javascriptweekly.com/issues/664</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal等新特性。此外，还介绍了Vite 5.0的发布，该工具现在被许多项目使用。文章还列举了一些开发工具和服务的黑色星期五优惠，以及一些新版本的发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript社区的最新动态和工具。文章首先介绍了JavaScript 2023年的现状调查，该调查旨在了解社区的最新动态和使用的工具。接着，文章推荐了一场关于简化Web架构的演讲，介绍了如何利用新的Web平台API来构建快速、易于维护和用户友好的前端。然后，文章介绍了EdgeDB和Next.js的结合，以及如何利用它们快速构建应用程序。接下来，文章提到了TypeScript 5.3的发布，该版本支持了import attributes proposal，并对类型缩小、编辑器中的交互式提示等方面进行了改进。此外，还介绍了Vite 5.0的发布，该工具现在使用Rollup 4，并提供了迁移指南。文章还列举了一些其他的工具和服务的最新版本和发布。最后，文章推荐了一些文章和教程，以及一些代码和工具。</summary>
     <div>
     <div>OriginTitle: The unbearable weight of massive JavaScript</div>
 
@@ -1143,7 +1143,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148170/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">🖼medium-zoom 1.1：中等风格图像缩放库</a></span>— 响应式，可以在缩放时加载更高清版本的图像，并且对鼠标、键盘和手势友好。 现在我们只需要一个库，它可以像 Medium 一样用垃圾覆盖页面的下半部分。<a href="https://javascriptweekly.com/link/148171/rss" style=" color: #3366aa;   ">演示</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148170/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">🖼medium-zoom 1.1：中等风格图像缩放库</a></span>— 响应式，可以在缩放时加载更高清版本的图像，并且对鼠标、键盘和手势友好。 现在我们只需要一个库，可以像 Medium 现在一样用垃圾覆盖页面的下半部分。<a href="https://javascriptweekly.com/link/148171/rss" style=" color: #3366aa;   ">演示</a>。</p>
   <p>弗朗索瓦·夏利福</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
