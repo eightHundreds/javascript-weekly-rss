@@ -102,7 +102,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149052/rss" title="frontside.com" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 中的等待事件范围</a></span>— 当某人通过谈论黑洞周围的事件视界以及如何来开始一篇 JavaScript 文章时，你知道有人变得沉重了<em>“每个 JavaScript Promise 都存在类似的边界。”</em>享受。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149052/rss" title="frontside.com" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 中的等待事件范围</a></span>— 当有人通过谈论黑洞周围的事件视界以及如何来开始一篇 JavaScript 文章时，你知道有人变得沉重了<em>“每个 JavaScript Promise 都存在类似的边界。”</em>享受。</p>
   <p>查尔斯·洛厄尔</p>
 </td></tr></tbody></table>
 
@@ -509,17 +509,18 @@
 2. Astro 4.0发布，包括新的开发工具栏、自动i18n路由和增量内容缓存等功能。
 3. Postman Workspaces可以帮助团队共享API工具，提高开发效率。
 4. V8引擎的Maglev JIT编译器的工作原理，以及如何提高V8的性能。
-5. WebAssembly比JavaScript更快、更节能的比较研究。
+5. WebAssembly比JavaScript更快、更节能的研究结果。
 6. Electron生态系统的回顾。
 7. 使用Nuxt、Vue和Tailwind CSS构建Adobe Premier Pro插件的方法。
 8. ngrok发布了JavaScript SDK，为Node应用程序添加安全入口。
 9. Construct 3 2D游戏引擎现在支持TypeScript。
 10. 发布了Electron 28、Fresh 1.6、React Native 0.73、HTML5 Boilerplate v9.0、Redux 5.0等工具和框架的新版本。
-11. Prettier项目的性能改进和CLI的介绍。
-12. Puppeteer的完整速查表和使用方法。
+11. Prettier项目的性能改进。
+12. Puppeteer的完整速查表。
 13. 使用Postman Collection Templates加速API开发。
-14. JavaScript的面向对象编程(OOP)在营销中的应用。
-15. Dan Abramov警告我们避免过</summary>
+14. JavaScript中面向对象编程的变化。
+15. Dan Abramov警告我们避免过早重构和去重。
+16. 作者用pnpm替代了</summary>
     <div>
     <div>OriginTitle: Learning JS framework concepts by building one</div>
 
@@ -671,7 +672,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148808/rss" title="stylexjs.com" style=" color: #3366aa;    font-size: 1.05em;">StyleX：Meta 的 CSS-in-JS 样式系统</a></span>— 来自 Meta 的新开源“CSS-in-JS”库，由 JavaScript 语法和编译器组成，用于设计 Web 应用程序样式。 杰克·海林顿有<a href="https://javascriptweekly.com/link/148809/rss" style=" color: #3366aa;   ">▶️ 13 分钟的截屏视频</a>实际看看。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148808/rss" title="stylexjs.com" style=" color: #3366aa;    font-size: 1.05em;">StyleX：Meta 的 CSS-in-JS 样式系统</a></span>— 来自 Meta 的新开源“CSS-in-JS”库，由 JavaScript 语法和编译器组成，用于设置 Web 应用程序的样式。 杰克·海林顿有<a href="https://javascriptweekly.com/link/148809/rss" style=" color: #3366aa;   ">▶️ 13 分钟的截屏视频</a>实际看看。</p>
   <p>戈埃尔和加拉格尔（Meta）</p>
 </td></tr></tbody></table>
 
@@ -997,7 +998,7 @@
             <guid>https://javascriptweekly.com/issues/665</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的新闻和工具。其中包括使用Web组件消除JavaScript框架锁定的方法，Deno Cron的发布，Biome Formatter赢得Prettier挑战，以及Passport、eta和Fable等工具的更新。此外，还提到了一些有趣的文章和教程，如JavaScript的十个变化、使用Playwright Fixtures跟踪前端JS异常、避免React编码中的常见错误等。此外，还介绍了一些代码和工具，如FullCalendar、Knip、Inline REPL、Syntax.js、ai2html和aws-lite等。最后，引用了Nicole Tietz的一句名言，强调了保持技术创新与高速发展之间的平衡。</summary>
+    <summary>本文介绍了一些与JavaScript相关的新闻和工具。其中包括使用Web组件消除JavaScript框架锁定的方法，Deno添加了一个cron-style功能，用于按预定时间运行代码，Biome赢得了Prettier挑战赛的奖金，Passport和eta等工具的新版本发布，以及其他一些有趣的文章和工具。</summary>
     <div>
     <div>OriginTitle: Every Framework Everywhere All at Once</div>
 
@@ -1088,7 +1089,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但是如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
   <p>斯特凡·朱迪斯</p>
 </td></tr></tbody></table>
 
@@ -1476,7 +1477,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148133/rss" title="survey.devographics.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">是时候采取<em>2023 年 JavaScript 现状</em></a></span>— 长期存在<em>JavaScript 的状态</em>调查又回来了，旨在了解社区在做什么以及我们正在使用什么工具。 结果总是很有启发性，我们将分享最美味的部分。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148133/rss" title="survey.devographics.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">是时候采取<em>2023 年 JavaScript 现状</em></a></span>— 长期存在<em>JavaScript 的现状</em>调查又回来了，旨在了解社区在做什么以及我们正在使用什么工具。 结果总是很有启发性，我们将分享最美味的部分。</p>
   <p>地形学</p>
 </td></tr></tbody></table>
 
@@ -1494,7 +1495,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148136/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript 5.3 发布</a></span>— 类型增强型 JavaScript 超集的最新版本就在这里。 头条功能全面支持<a href="https://javascriptweekly.com/link/148137/rss" style=" color: #3366aa;   ">导入属性建议</a>（目前处于 TC39 的第 3 阶段），但在类型缩小、编辑器中类型的交互式嵌入提示等方面还有许多增强功能。 虽然不是最大的更新，但仍然取得了进步。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148136/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript 5.3 发布</a></span>— 类型增强型 JavaScript 超集的最新版本就在这里。 头条功能全面支持<a href="https://javascriptweekly.com/link/148137/rss" style=" color: #3366aa;   ">导入属性建议</a>（目前处于 TC39 的第 3 阶段），但在类型缩小、编辑器中类型的交互式嵌入提示等方面有许多增强功能。 虽然不是最大的更新，但仍然取得了进步。</p>
   <p>丹尼尔·罗森瓦瑟（微软）</p>
 </td></tr></tbody></table>
 
