@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/668</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，包括JavaScript中深度克隆对象的现代方法、Web组件的持久性、Sonar的SAST在JavaScript应用中检测安全漏洞的能力等。同时，文章还介绍了2023年最受欢迎的代码和工具，如UnsuckJS、React Libraries、Playwright、You Don't Need Lodash等。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
+    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，以及最受欢迎的代码和工具。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
     <div>
     <div>OriginTitle: Reflecting on a big year for JavaScript</div>
 
@@ -52,7 +52,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的 200 多个函数套件已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的套件，包含 200 多个用于处理日期的函数，已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>萨莎·科斯</p>
 </td></tr></tbody></table>
 
@@ -110,7 +110,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web Components 今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web 组件今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
@@ -140,10 +140,10 @@
   <p>朱莉娅·埃文斯</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>朱莉娅没有提到，但 2023 年也是<a href="https://javascriptweekly.com/link/149373/rss" style=" color: #3366aa; font-weight: 600;">导入地图在浏览器中得到广泛支持</a>，为免构建 JavaScript 提供了额外的机会。 不过，从对 DHH 的反应来看，整个话题仍然有点悬而未决。<em>红宝石 on Rails</em>名声)<a href="https://javascriptweekly.com/link/149374/rss" style=" color: #3366aa; font-weight: 600;">对“无构建”体验感到兴奋。</a></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>朱莉娅没有提到，但 2023 年也是<a href="https://javascriptweekly.com/link/149373/rss" style=" color: #3366aa; font-weight: 600;">导入地图在浏览器中得到广泛支持</a>，为免构建 JavaScript 提供了额外的机会。 不过，从对 DHH 的反应来看，整个话题仍然有点悬而未决。<em>红宝石 on Rails</em>名声）<a href="https://javascriptweekly.com/link/149374/rss" style=" color: #3366aa; font-weight: 600;">对“无构建”体验感到兴奋。</a></p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 2023 年顶级代码和工具</p></td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>由它们在 JavaScript Weekly 中的受欢迎程度决定。</em></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>由它们在《JavaScript Weekly》中的受欢迎程度决定。</em></p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -159,7 +159,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149377/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重播基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149377/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重放基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
   <p>哨兵<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -419,7 +419,7 @@
             <guid>https://javascriptweekly.com/issues/667</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻和工具。其中包括一个比ESLint快50-100倍的新的JS Linter工具Oxlint，一个旨在取代Node.js的JS Runtime工具Bun，以及一些新的TypeScript课程和Visual Studio Code的更新。此外，还介绍了一些有趣的项目和工具，如GitHub Unwrapped、Safari 17.2、State of JS 2023调查等。文章还包括一些教程和文章，涵盖了JavaScript的各个方面。最后，还介绍了一些新发布的工具和库，如Million 3.0、Croner 8.0、Rollup 4.9等。文章最后还分享了一个关于Three.js的漂亮的星球生成器。</summary>
+    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻和工具。其中包括一个比ESLint快50-100倍的新的JS Linter工具Oxlint，一个旨在取代Node.js的JS Runtime工具Bun，以及一些新的TypeScript课程和Visual Studio Code的更新。此外，还介绍了一些有趣的项目和工具，如GitHub Unwrapped、Safari 17.2、State of JS 2023调查等。文章还包括一些教程和文章，涵盖了JavaScript的各个方面。最后，还介绍了一些新发布的工具和库，如Million 3.0、Croner 8.0、Rollup 4.9等。文章最后以一个关于Three.js的漂亮的星球模拟项目结束。</summary>
     <div>
     <div>OriginTitle: JS Runtime Royale</div>
 
@@ -1098,7 +1098,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型网络性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以精确衡量首次绘制、总阻塞时间等指标。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型 Web 性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以获取首次绘制、总阻塞时间等方面的精确指标。</p>
   <p>莱昂纳多·齐扎米亚</p>
 </td></tr></tbody></table>
 
