@@ -52,7 +52,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的套件，包含 200 多个用于处理日期的函数，已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的 200 多个函数套件已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>萨莎·科斯</p>
 </td></tr></tbody></table>
 
@@ -143,7 +143,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>朱莉娅没有提到，但 2023 年也是<a href="https://javascriptweekly.com/link/149373/rss" style=" color: #3366aa; font-weight: 600;">导入地图在浏览器中得到广泛支持</a>，为免构建 JavaScript 提供了额外的机会。 不过，从对 DHH 的反应来看，整个话题仍然有点悬而未决。<em>红宝石 on Rails</em>名声）<a href="https://javascriptweekly.com/link/149374/rss" style=" color: #3366aa; font-weight: 600;">对“无构建”体验感到兴奋。</a></p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 2023 年顶级代码和工具</p></td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>由它们在《JavaScript Weekly》中的受欢迎程度决定。</em></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>由它们在 JavaScript Weekly 中的受欢迎程度决定。</em></p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -159,7 +159,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149377/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重放基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149377/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重播基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
   <p>哨兵<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -909,20 +909,24 @@
             <guid>https://javascriptweekly.com/issues/666</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript和Web开发领域的一些最新动态和工具。以下是文章的要点：
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了JavaScript和Web开发的最新动态和工具。以下是文章的要点：
 
-1. 介绍了通过构建现代JS框架来学习的方法，作者分享了一些经验和建议。
-2. Astro 4.0发布了，包括新的开发工具栏、自动i18n路由、新的视图过渡API等功能。
-3. Postman Workspaces可以帮助团队更好地协作和解决API开发问题。
-4. V8团队介绍了Maglev JIT编译器，它在现有的Sparkplug和TurboFan编译器之间起到了加速V8引擎的作用。
-5. 文章比较了WebAssembly和JavaScript在能源消耗和性能方面的差异。
-6. 回顾了2023年Electron生态系统的发展。
-7. 讨论了使用React的利弊。
-8. 介绍了使用Nuxt、Vue和Tailwind CSS构建Adobe Premier Pro插件的方法。
-9. ngrok发布了JavaScript SDK，用于为Node应用程序添加安全入口。
-10. Construct 3 2D游戏引擎现在支持TypeScript。
-11. 发布了Electron 28、Fresh 1.6、React Native 0.73、HTML5 Boilerplate v9.0、Redux 5.0等版本。
-12. 文章介绍了Prettier的CLI性能优化、Puppeteer的使用、Postman</summary>
+1. 介绍了通过构建现代JS框架来学习的方法，并推荐了一个成功的案例。
+2. Astro 4.0发布，包括新的开发工具栏、自动i18n路由和增量内容缓存等功能。
+3. Postman Workspaces可以帮助团队共享API工具，提高开发效率。
+4. V8引擎的Maglev JIT编译器的工作原理，以及如何提高V8的性能。
+5. WebAssembly比JavaScript更快、更节能的研究结果。
+6. Electron生态系统的回顾。
+7. 使用Nuxt、Vue和Tailwind CSS构建Adobe Premier Pro插件的方法。
+8. ngrok发布了JavaScript SDK，为Node应用程序添加安全入口。
+9. Construct 3 2D游戏引擎现在支持TypeScript。
+10. 发布了Electron 28、Fresh 1.6、React Native 0.73、HTML5 Boilerplate v9.0、Redux 5.0等工具和框架的新版本。
+11. Prettier项目的性能改进。
+12. Puppeteer的完整速查表。
+13. 使用Postman Collection Templates加速API开发。
+14. JavaScript中面向对象编程的变化。
+15. Dan Abramov警告我们避免过早重构和去重。
+16. 作者用pnpm替代了</summary>
     <div>
     <div>OriginTitle: Learning JS framework concepts by building one</div>
 
