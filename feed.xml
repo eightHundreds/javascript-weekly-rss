@@ -110,7 +110,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web Components 今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web 组件今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
@@ -159,7 +159,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149377/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重播基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149377/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重放基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
   <p>哨兵<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -167,7 +167,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149378/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">剧作家的重要一年</a></span>— 流行的 Web 测试和自动化框架在 2023 年取得了一些重大进展，特别是 v1.32.0（上面链接）提供了“UI 模式”，让您可以在 UI 环境中探索、运行和调试测试，并配有内置功能观看模式。<a href="https://javascriptweekly.com/link/149379/rss" style=" color: #3366aa;   ">▶️这个视频</a>提供了很好的介绍。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149378/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">对于剧作家来说是重要的一年</a></span>— 流行的 Web 测试和自动化框架在 2023 年取得了一些重大进展，特别是 v1.32.0（上面链接）提供了“UI 模式”，让您可以在 UI 环境中探索、运行和调试测试，并配有内置功能观看模式。<a href="https://javascriptweekly.com/link/149379/rss" style=" color: #3366aa;   ">▶️这个视频</a>提供了很好的介绍。</p>
   <p>微软</p>
 </td></tr></tbody></table>
 
@@ -179,7 +179,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149383/rss" title="driverjs.com" style=" color: #3366aa;    font-size: 1.05em;">Driver.js：游览、亮点、上下文帮助等</a></span>— 一个无依赖库，用于整合页面游览和上下文帮助。 该项目已有几年历史，但在 2023 年用 TypeScript 重写，获得了<a href="https://javascriptweekly.com/link/149384/rss" style=" color: #3366aa;   ">许多增强功能</a>，并得到了新鲜的油漆。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149383/rss" title="driverjs.com" style=" color: #3366aa;    font-size: 1.05em;">Driver.js：游览、亮点、上下文帮助等</a></span>— 一个无依赖库，用于整合页面游览和上下文帮助。 该项目已有几年历史，但在 2023 年用 TypeScript 重写，获得了<a href="https://javascriptweekly.com/link/149384/rss" style=" color: #3366aa;   ">众多增强功能</a>，并得到了新鲜的油漆。</p>
   <p>卡姆兰·艾哈迈德</p>
 </td></tr></tbody></table>
 
@@ -917,12 +917,12 @@
 4. V8团队介绍了Maglev JIT编译器，它在现有的Sparkplug和TurboFan编译器之间起到了加速V8引擎的作用。
 5. 文章比较了WebAssembly和JavaScript在能源消耗和性能方面的差异。
 6. 回顾了2023年Electron生态系统的发展。
-7. 权衡了使用React的利弊。
+7. 讨论了使用React的利弊。
 8. 介绍了使用Nuxt、Vue和Tailwind CSS构建Adobe Premier Pro插件的方法。
 9. ngrok发布了JavaScript SDK，用于为Node应用程序添加安全入口。
 10. Construct 3 2D游戏引擎现在支持TypeScript。
 11. 发布了Electron 28、Fresh 1.6、React Native 0.73、HTML5 Boilerplate v9.0、Redux 5.0等版本。
-12. 介绍了Prettier的CLI性能优化、Puppeteer的使用、Postman</summary>
+12. 文章介绍了Prettier的CLI性能优化、Puppeteer的使用、Postman</summary>
     <div>
     <div>OriginTitle: Learning JS framework concepts by building one</div>
 
@@ -959,7 +959,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用）如何通过其 Maglev JIT 编译器的工作而继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用的）如何通过 Maglev JIT 编译器继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
   <p>V8团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1074,7 +1074,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148808/rss" title="stylexjs.com" style=" color: #3366aa;    font-size: 1.05em;">StyleX：Meta 的 CSS-in-JS 样式系统</a></span>— 来自 Meta 的新开源“CSS-in-JS”库，由 JavaScript 语法和编译器组成，用于设置 Web 应用程序的样式。 杰克·海林顿有<a href="https://javascriptweekly.com/link/148809/rss" style=" color: #3366aa;   ">▶️ 13 分钟的截屏视频</a>实际看看。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148808/rss" title="stylexjs.com" style=" color: #3366aa;    font-size: 1.05em;">StyleX：Meta 的 CSS-in-JS 样式系统</a></span>— 来自 Meta 的新开源“CSS-in-JS”库，由 JavaScript 语法和编译器组成，用于设计 Web 应用程序样式。 杰克·海林顿有<a href="https://javascriptweekly.com/link/148809/rss" style=" color: #3366aa;   ">▶️ 13 分钟的截屏视频</a>实际看看。</p>
   <p>戈埃尔和加拉格尔（Meta）</p>
 </td></tr></tbody></table>
 
@@ -1098,7 +1098,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型网络性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以精确衡量首次绘制、总阻塞时间等指标。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型 Web 性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以获取首次绘制、总阻塞时间等方面的精确指标。</p>
   <p>莱昂纳多·齐扎米亚</p>
 </td></tr></tbody></table>
 
@@ -1437,8 +1437,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148440/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome Formatter 赢得“更漂亮的挑战”</a></span>— 两周前，创始人<em>更漂亮</em> <a href="https://javascriptweekly.com/link/148441/rss" style=" color: #3366aa;   ">悬赏 1 万美元</a>一个由 Rust 支持的代码格式化程序，可以通过超过 95% 的 Prettier 测试。<em>生物群落</em>, 工具链<a href="https://javascriptweekly.com/link/148442/rss" style=" color: #3366aa;   ">分叉自<em>罗马</em></a>, 已经成功领取奖金，并由<a href="https://javascriptweekly.com/link/148443/rss" style=" color: #3366aa;   ">更多贡献者。</a></p>
-  <p>生物群落</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148440/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome Formatter 赢得“更漂亮的挑战”</a></span>— 两周前，创始人<em>更漂亮</em> <a href="https://javascriptweekly.com/link/148441/rss" style=" color: #3366aa;   ">悬赏 1 万美元</a>一个由 Rust 支持的代码格式化程序，可以通过超过 95% 的 Prettier 测试。<em>生物群系</em>, 工具链<a href="https://javascriptweekly.com/link/148442/rss" style=" color: #3366aa;   ">分叉自<em>罗马</em></a>, 已经成功领取奖金，并由<a href="https://javascriptweekly.com/link/148443/rss" style=" color: #3366aa;   ">更多贡献者。</a></p>
+  <p>生物群系</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🤔 有<a href="https://javascriptweekly.com/link/148444/rss" style=" color: #3366aa; font-weight: 600;">来自 Prettier POV 的帖子</a>@vjeux 解释的地方<em>为什么</em>他提出了悬赏：他觉得“缺乏竞争”阻碍了普雷蒂尔的发展。</p></td></tr></tbody></table>
@@ -1491,7 +1491,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148458/rss" title="www.checklyhq.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Playwright Fixtures 跟踪前端 JS 异常</a></span>— Playwright 通常用于测试前端应用程序并确保它们正确渲染和行为，但是如果您想确保底层 JavaScript 也按预期工作怎么办？ 斯特凡有一些建议。</p>
   <p>斯特凡·朱迪斯</p>
 </td></tr></tbody></table>
 
