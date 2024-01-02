@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/668</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，以及最受欢迎的代码和工具。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
+    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，包括JavaScript中深度克隆对象的现代方法、Web组件的持久性、Sonar的SAST在JavaScript应用中检测安全漏洞的能力等。同时，文章还介绍了2023年最受欢迎的代码和工具，如UnsuckJS、React Libraries、Playwright、You Don't Need Lodash等。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
     <div>
     <div>OriginTitle: Reflecting on a big year for JavaScript</div>
 
@@ -110,7 +110,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web 组件今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web Components 今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
@@ -959,7 +959,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用的）如何通过 Maglev JIT 编译器继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用）如何通过其 Maglev JIT 编译器的工作而继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
   <p>V8团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -995,7 +995,7 @@
 <p><a href="https://javascriptweekly.com/link/148790/rss" style=" color: #3366aa; font-weight: 600;   ">新鲜1.6</a>– 基于 Deno 的 Web 框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/148791/rss" style=" color: #3366aa; font-weight: 600;   ">反应本机 0.73</a>– 现在有了对 Android 14 的全面支持，Kotlin 成为 Android 等的推荐语言。</p>
+<p><a href="https://javascriptweekly.com/link/148791/rss" style=" color: #3366aa; font-weight: 600;   ">反应本机 0.73</a>– 现在，凭借对 Android 14 的全面支持，Kotlin 成为 Android 等的推荐语言。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/148792/rss" style=" color: #3366aa; font-weight: 600;   ">HTML5 样板 v9.0</a>– 来自过去的爆炸！</p>
@@ -1098,7 +1098,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型网络性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以精确衡量首次绘制、总阻塞时间等指标。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型 Web 性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以获取首次绘制、总阻塞时间等方面的精确指标。</p>
   <p>莱昂纳多·齐扎米亚</p>
 </td></tr></tbody></table>
 
@@ -1437,8 +1437,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148440/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome Formatter 赢得“更漂亮的挑战”</a></span>— 两周前，创始人<em>更漂亮</em> <a href="https://javascriptweekly.com/link/148441/rss" style=" color: #3366aa;   ">悬赏 1 万美元</a>一个由 Rust 支持的代码格式化程序，可以通过超过 95% 的 Prettier 测试。<em>生物群系</em>, 工具链<a href="https://javascriptweekly.com/link/148442/rss" style=" color: #3366aa;   ">分叉自<em>罗马</em></a>, 已经成功领取奖金，并由<a href="https://javascriptweekly.com/link/148443/rss" style=" color: #3366aa;   ">更多贡献者。</a></p>
-  <p>生物群系</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148440/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome Formatter 赢得“更漂亮的挑战”</a></span>— 两周前，创始人<em>更漂亮</em> <a href="https://javascriptweekly.com/link/148441/rss" style=" color: #3366aa;   ">悬赏 1 万美元</a>一个由 Rust 支持的代码格式化程序，可以通过超过 95% 的 Prettier 测试。<em>生物群落</em>, 工具链<a href="https://javascriptweekly.com/link/148442/rss" style=" color: #3366aa;   ">分叉自<em>罗马</em></a>, 已经成功领取奖金，并由<a href="https://javascriptweekly.com/link/148443/rss" style=" color: #3366aa;   ">更多贡献者。</a></p>
+  <p>生物群落</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>🤔 有<a href="https://javascriptweekly.com/link/148444/rss" style=" color: #3366aa; font-weight: 600;">来自 Prettier POV 的帖子</a>@vjeux 解释的地方<em>为什么</em>他提出了悬赏：他觉得“缺乏竞争”阻碍了普雷蒂尔的发展。</p></td></tr></tbody></table>
