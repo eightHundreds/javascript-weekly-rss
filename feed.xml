@@ -109,7 +109,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149512/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重播基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重放如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149512/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">会话重播基础知识 - 更快地调试 Web 应用程序问题</a></span>— 1 月 11 日加入我们，了解会话重播如何帮助查找和解决 JavaScript 中最难重现的问题。</p>
   <p>哨兵<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -496,7 +496,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>🎉</span>&nbsp;<a href="https://javascriptweekly.com/link/149348/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">V8 比以往更快、更安全</a></span>— V8 团队希望以高水平结束这一年，他们确实在性能方面取得了成功。 这篇文章涵盖了 2023 年 V8 发动机的亮点，包括新款<em>磁悬浮</em>中层 JIT 编译器、更快的 HTML 解析器以及对多个新 JS 功能的支持。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>🎉</span>&nbsp;<a href="https://javascriptweekly.com/link/149348/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">V8 比以往更快、更安全</a></span>— V8 团队希望以高水平结束这一年，他们在性能方面确实取得了成功。 这篇文章涵盖了 2023 年 V8 发动机的亮点，包括新款<em>磁悬浮</em>中层 JIT 编译器、更快的 HTML 解析器以及对多个新 JS 功能的支持。</p>
   <p>维克多·戈麦斯 (V8)</p>
 </td></tr></tbody></table>
 
@@ -572,7 +572,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web Components 今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web 组件今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
@@ -602,7 +602,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
   <p>朱莉娅·埃文斯</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>朱莉娅没有提到，但 2023 年也是<a href="https://javascriptweekly.com/link/149373/rss" style=" color: #3366aa; font-weight: 600;">导入地图在浏览器中得到广泛支持</a>，为免构建 JavaScript 提供了额外的机会。 不过，从对 DHH 的反应来看，整个话题仍然有点悬而未决。<em>红宝石 on Rails</em>名声)<a href="https://javascriptweekly.com/link/149374/rss" style=" color: #3366aa; font-weight: 600;">对“无构建”体验感到兴奋。</a></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>朱莉娅没有提到，但 2023 年也是<a href="https://javascriptweekly.com/link/149373/rss" style=" color: #3366aa; font-weight: 600;">导入地图在浏览器中得到广泛支持</a>，为免构建 JavaScript 提供了额外的机会。 不过，从对 DHH 的反应来看，整个话题仍然有点悬而未决。<em>红宝石 on Rails</em>名声）<a href="https://javascriptweekly.com/link/149374/rss" style=" color: #3366aa; font-weight: 600;">对“无构建”体验感到兴奋。</a></p></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 2023 年顶级代码和工具</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p><em>由它们在 JavaScript Weekly 中的受欢迎程度决定。</em></p></td></tr></tbody></table>
@@ -908,7 +908,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149029/rss" title="bun.sh" style=" color: #3366aa;    font-size: 1.05em;">Bun v1.0.18：JS 运行时准备接管世界</a></span>- 我<em>可能</em>标题夸大了，但 Bun 肩负着一项严肃的使命，至少要用它来取代 Node.js<a href="https://javascriptweekly.com/link/149030/rss" style=" color: #3366aa;   ">他们的“2024 年唯一目标”</a>存在于<em>“将默认后端 JavaScript 运行时从 Node.js 翻转到 Bun。”</em>他们还放置了一个<a href="https://javascriptweekly.com/link/149031/rss" style=" color: #3366aa;   ">专注于提供 Windows 支持</a>尽快。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149029/rss" title="bun.sh" style=" color: #3366aa;    font-size: 1.05em;">Bun v1.0.18：JS 运行时准备接管世界</a></span>- 我<em>可能</em>虽然标题夸大了，但 Bun 肩负着一项严肃的使命，至少要用它来取代 Node.js<a href="https://javascriptweekly.com/link/149030/rss" style=" color: #3366aa;   ">他们的“2024 年唯一目标”</a>存在于<em>“将默认后端 JavaScript 运行时从 Node.js 翻转到 Bun。”</em>他们还放置了一个<a href="https://javascriptweekly.com/link/149031/rss" style=" color: #3366aa;   ">专注于提供 Windows 支持</a>尽快。</p>
   <p>贾里德·萨姆纳等人。</p>
 </td></tr></tbody></table>
 
@@ -1379,12 +1379,12 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 4. V8团队介绍了Maglev JIT编译器，它在现有的Sparkplug和TurboFan编译器之间起到了加速V8引擎的作用。
 5. 文章比较了WebAssembly和JavaScript在能源消耗和性能方面的差异。
 6. 回顾了2023年Electron生态系统的发展。
-7. 权衡了使用React的利弊。
+7. 讨论了使用React的利弊。
 8. 介绍了使用Nuxt、Vue和Tailwind CSS构建Adobe Premier Pro插件的方法。
 9. ngrok发布了JavaScript SDK，用于为Node应用程序添加安全入口。
 10. Construct 3 2D游戏引擎现在支持TypeScript。
 11. 发布了Electron 28、Fresh 1.6、React Native 0.73、HTML5 Boilerplate v9.0、Redux 5.0等版本。
-12. 介绍了Prettier的CLI性能优化、Puppeteer的使用、Postman</summary>
+12. 文章介绍了Prettier的CLI性能优化、Puppeteer的使用、Postman</summary>
     <div>
     <div>OriginTitle: Learning JS framework concepts by building one</div>
 
@@ -1421,7 +1421,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用）如何通过其 Maglev JIT 编译器的工作而继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148781/rss" title="v8.dev" style=" color: #3366aa;    font-size: 1.05em;">Maglev：V8 最快的优化 JIT</a></span>— 有趣的是，V8 JavaScript 引擎（在 Chrome、Node.js 和其他地方使用的）如何通过 Maglev JIT 编译器继续变得更快，该编译器位于现有的 Sparkplug 和 TurboFan 编译器（两者都具有不同的编译速度与代码性能权衡）。</p>
   <p>V8团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1457,7 +1457,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 <p><a href="https://javascriptweekly.com/link/148790/rss" style=" color: #3366aa; font-weight: 600;   ">新鲜1.6</a>– 基于 Deno 的 Web 框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/148791/rss" style=" color: #3366aa; font-weight: 600;   ">反应本机 0.73</a>– 现在，凭借对 Android 14 的全面支持，Kotlin 成为 Android 等的推荐语言。</p>
+<p><a href="https://javascriptweekly.com/link/148791/rss" style=" color: #3366aa; font-weight: 600;   ">反应本机 0.73</a>– 现在有了对 Android 14 的全面支持，Kotlin 成为 Android 等的推荐语言。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/148792/rss" style=" color: #3366aa; font-weight: 600;   ">HTML5 样板 v9.0</a>– 来自过去的爆炸！</p>
@@ -1560,7 +1560,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型 Web 性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以获取首次绘制、总阻塞时间等方面的精确指标。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/148812/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Perfume.js 9.2：用于测量以用户为中心的指标的 Web 性能库</a></span>— 一个小型网络性能监控库，可将数据报告回您最喜欢的分析工具，并支持最新的浏览器性能 API，以精确衡量首次绘制、总阻塞时间等指标。</p>
   <p>莱昂纳多·齐扎米亚</p>
 </td></tr></tbody></table>
 
