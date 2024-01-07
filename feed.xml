@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/669</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布和Vue 2的“终止生命周期”，以及一些2024年的预测。此外，还有一些有关JavaScript的文章和教程，包括关于JavaScript的一些特性和方法的解释，以及一些有趣的JavaScript工具和库的介绍。</summary>
+    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布，以及Oracle在MySQL中引入JavaScript支持的消息。此外，还有一些关于JavaScript特性、Angular开发者调查、Storybook、依赖关系可视化工具Dependency Cruiser等的文章和教程。最后是一些发布的代码和工具，包括React Aria 1.0、Schedule-X、quick-lint-js 3.0等。</summary>
     <div>
     <div>OriginTitle: JavaScript's rising stars</div>
 
@@ -475,7 +475,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
             <guid>https://javascriptweekly.com/issues/668</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，包括JavaScript中深度克隆对象的现代方法、Web组件的持久性、Sonar的SAST在JavaScript应用中检测安全漏洞的能力等。同时，文章还介绍了2023年最受欢迎的代码和工具，如UnsuckJS、React Libraries、Playwright、You Don't Need Lodash等。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
+    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，以及最受欢迎的代码和工具。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
     <div>
     <div>OriginTitle: Reflecting on a big year for JavaScript</div>
 
@@ -881,7 +881,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
             <guid>https://javascriptweekly.com/issues/667</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻和工具。其中包括一个比ESLint快50-100倍的新的JS Linter工具Oxlint，一个旨在取代Node.js的JS Runtime工具Bun，以及一些新的TypeScript课程和Visual Studio Code的更新。此外，还介绍了一些有趣的项目和工具，如GitHub Unwrapped、Safari 17.2、State of JS 2023调查等。文章还包括一些教程和文章，涵盖了JavaScript的各个方面。最后，还介绍了一些新发布的工具和库，如Million 3.0、Croner 8.0、Rollup 4.9等。文章最后以一个关于Three.js的漂亮的星球模拟项目结束。</summary>
+    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻和工具。其中包括一个比ESLint快50-100倍的新的JS Linter工具Oxlint，以及一个旨在取代Node.js的JS运行时Bun。此外，还有关于TypeScript课程、Visual Studio Code和Deno的更新。文章还提到了一些有趣的项目和工具，如GitHub Unwrapped、Safari 17.2和Storybook beta的新功能。此外，还有一些文章和教程，涵盖了JavaScript的各个方面，以及一些新发布的工具和库。最后，文章还分享了一个关于Three.js的漂亮的星球生成器。</summary>
     <div>
     <div>OriginTitle: JS Runtime Royale</div>
 
