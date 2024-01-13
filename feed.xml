@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/670</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。在文章的后半部分，提到了一些发布的工具和库，以及一些有趣的文章和教程。最后，文章列出了一些最新的版本发布。</summary>
+    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。文章还提到了一些发布和工具，如Docusaurus 3.1、Rspack 0.5和MikroORM 6等。在文章的后半部分，作者分享了一些有关网站和Web应用程序的思考，以及有关Rust驱动的JavaScript Linters和Node.js性能基准测试的讨论。最后，文章列出了一些代码和工具，如zip.js、Element Plus和RE2JS等。</summary>
     <div>
     <div>OriginTitle: Is htmx Just Another JS Framework?</div>
 
@@ -97,7 +97,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，任何数量的技术都可以以各种有趣的方式组合起来。</em>”</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，可以以各种有趣的方式组合任意数量的技术。</em>”</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 
@@ -435,7 +435,7 @@
             <guid>https://javascriptweekly.com/issues/669</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布和Vue 2的“终止生命周期”，以及一些其他的JavaScript相关新闻和发布。接着是一些关于JavaScript特性、数组方法、类型映射等的文章和教程。最后是一些代码和工具的介绍，包括React Aria 1.0、Schedule-X、quick-lint-js 3.0等。</summary>
+    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布和Vue 2的“终止生命周期”，以及一些2024年的预测。此外，还有一些有关JavaScript的文章和教程，包括关于JavaScript的一些特性和方法的解释，以及一些有趣的JavaScript工具和库的介绍。</summary>
     <div>
     <div>OriginTitle: JavaScript's rising stars</div>
 
@@ -936,7 +936,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的套件，包含 200 多个用于处理日期的函数，已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的 200 多个函数套件已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>萨莎·科斯</p>
 </td></tr></tbody></table>
 
