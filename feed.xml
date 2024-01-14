@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/670</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。文章还提到了一些发布和工具，如Docusaurus 3.1、Rspack 0.5和MikroORM 6等。在文章的后半部分，作者分享了一些有关网站和Web应用程序的思考，以及有关Rust驱动的JavaScript Linters和Node.js性能基准测试的讨论。最后，文章列出了一些代码和工具，如zip.js、Element Plus和RE2JS等。</summary>
+    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。在文章的后半部分，提到了一些发布的工具和库，以及一些有趣的文章和教程。最后，文章列出了一些最新的版本发布。</summary>
     <div>
     <div>OriginTitle: Is htmx Just Another JS Framework?</div>
 
