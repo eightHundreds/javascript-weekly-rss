@@ -1303,7 +1303,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
             <guid>https://javascriptweekly.com/issues/667</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻和工具。其中包括一个比ESLint快50-100倍的新的JS Linter工具Oxlint，一个旨在取代Node.js的JS Runtime工具Bun，以及一些新的TypeScript课程和Visual Studio Code的更新。此外，还介绍了一些有趣的项目和工具，如GitHub Unwrapped、Safari 17.2、State of JS 2023调查等。文章还包括一些教程和文章，涵盖了JavaScript的各个方面。最后，还介绍了一些新发布的工具和库，如Million 3.0、Croner 8.0、Rollup 4.9等。文章最后以一个关于Three.js的漂亮的星球模拟项目结束。</summary>
+    <summary>本篇文章主要介绍了一些与JavaScript相关的新闻和工具。其中包括一个比ESLint快50-100倍的新的JS Linter工具Oxlint，一个旨在取代Node.js的JS Runtime工具Bun，以及一些新的TypeScript课程和Visual Studio Code的更新。此外，还介绍了一些有趣的项目和工具，如GitHub Unwrapped、Safari 17.2、State of JS 2023调查等。文章还包括一些教程和文章，涵盖了JavaScript的各个方面。最后，还介绍了一些新发布的工具和库，如Million 3.0、Croner 8.0、Rollup 4.9等。文章最后还分享了一个关于Three.js的漂亮的星球生成器。</summary>
     <div>
     <div>OriginTitle: JS Runtime Royale</div>
 
