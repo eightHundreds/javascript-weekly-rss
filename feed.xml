@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/670</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代文件系统API，旨在改进JavaScript运行时的文件系统API。文章还提到了一些发布和工具，如Docusaurus 3.1、Rspack 0.5和MikroORM 6等。在文章的后半部分，作者分享了一些有趣的文章和教程，包括关于网站与Web应用的区别、基于Rust的JavaScript Linters、Vercel Edge Functions的性能优化、Node.js的基准测试等。最后，文章列出了一些代码和工具，如zip.js、Element Plus、RE2JS等。</summary>
+    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。在文章的后半部分，提到了一些发布的工具和库，以及一些有趣的文章和教程。最后，文章列出了一些最新的版本发布。</summary>
     <div>
     <div>OriginTitle: Is htmx Just Another JS Framework?</div>
 
@@ -41,7 +41,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/149898/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">10 分钟内为 React 开发人员提供 HTMX</a></span>— 你对语义讨论不感兴趣..你只是想得到一些东西<em>完毕</em>和<a href="https://javascriptweekly.com/link/149899/rss" style=" color: #3366aa;   ">HTMX</a>？ 在这里，杰克花了十分钟展示了必需品。</p>
-  <p>杰克·赫林顿</p>
+  <p>杰克·赫灵顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -97,7 +97,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，可以以各种有趣的方式组合任意数量的技术。</em>”</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，任何数量的技术都可以以各种有趣的方式组合起来。</em>”</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 
@@ -143,7 +143,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149925/rss" title="element-plus.org" style=" color: #3366aa;    font-size: 1.05em;">Element Plus：Vue 3 组件库</a></span>— 开箱即用，您可以获得各种干净的组件，并且具有最小的氛围。 你可以<a href="https://javascriptweekly.com/link/149926/rss" style=" color: #3366aa;   ">在这里查看他们的行动</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149925/rss" title="element-plus.org" style=" color: #3366aa;    font-size: 1.05em;">Element Plus：Vue 3 组件库</a></span>— 开箱即用，您可以获得各种干净的组件，并且具有最小的氛围。 你可以<a href="https://javascriptweekly.com/link/149926/rss" style=" color: #3366aa;   ">在这里查看他们的实际行动</a>。</p>
   <p>元素加团队</p>
 </td></tr></tbody></table>
 
@@ -435,7 +435,7 @@
             <guid>https://javascriptweekly.com/issues/669</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布和Vue 2的“终止生命周期”，以及一些2024年的预测。此外，还有一些有关JavaScript的文章和教程，包括关于JavaScript的一些特性和方法的解释，以及一些有趣的JavaScript工具和库的介绍。</summary>
+    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布，以及Oracle在MySQL中引入JavaScript支持的消息。此外，还有一些关于JavaScript特性、Angular开发者调查结果、Storybook的现状和未来、以及一些新的发布和工具的文章和教程。最后，列出了一些新的代码和工具，如React Aria 1.0、Schedule-X、quick-lint-js 3.0、Plotteus、LIPS和lowdb等。</summary>
     <div>
     <div>OriginTitle: JavaScript's rising stars</div>
 
@@ -936,7 +936,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的套件，包含 200 多个用于处理日期的函数，已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的 200 多个函数套件已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>萨莎·科斯</p>
 </td></tr></tbody></table>
 
@@ -994,7 +994,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web 组件今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149366/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">Web 组件将比 JavaScript 框架更长寿</a></span>— Web Components 今年已经“风靡一时”，而且这种情况看起来将在 2024 年继续下去。这是一篇辛辣的观点文章，但提出的观点引发了很多讨论，并且在 JS 时代精神中仍然具有高度相关性。</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;">
