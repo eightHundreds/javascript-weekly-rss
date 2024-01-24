@@ -63,7 +63,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150190/rss" title="www.robinwieruch.de" style=" color: #3366aa;    font-size: 1.05em;">2024 年的 React 库</a></span>— 流行的、固执己见的年度指南的最新更新，适用于构建 React 应用程序时的各种任务，涵盖状态管理、UI 库、身份验证和测试等领域。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150190/rss" title="www.robinwieruch.de" style=" color: #3366aa;    font-size: 1.05em;">2024 年的 React 库</a></span>— 流行的、固执己见的年度指南的最新更新，适用于构建 React 应用程序时的各种任务的库和工具，涵盖状态管理、UI 库、身份验证和测试等领域。</p>
   <p>罗宾·维鲁奇</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -512,7 +512,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/149898/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">10 分钟内为 React 开发人员提供 HTMX</a></span>— 你对语义讨论不感兴趣..你只是想得到一些东西<em>完毕</em>和<a href="https://javascriptweekly.com/link/149899/rss" style=" color: #3366aa;   ">HTMX</a>？ 在这里，杰克花了十分钟展示了必需品。</p>
-  <p>杰克·赫灵顿</p>
+  <p>杰克·赫林顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -568,7 +568,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，可以以各种有趣的方式组合任意数量的技术。</em>”</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与网络应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，任何数量的技术都可以以各种有趣的方式组合起来。</em>”</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 
@@ -1368,7 +1368,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
             <guid>https://javascriptweekly.com/issues/668</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，包括JavaScript中深度克隆对象的现代方法、Web组件的持久性、Sonar的SAST在JavaScript应用中检测安全漏洞的能力等。同时，文章还介绍了2023年最受欢迎的代码和工具，如UnsuckJS、React Libraries、Playwright、You Don't Need Lodash等。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
+    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，以及最受欢迎的代码和工具。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
     <div>
     <div>OriginTitle: Reflecting on a big year for JavaScript</div>
 
@@ -1407,7 +1407,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的套件，包含 200 多个用于处理日期的函数，已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149352/rss" title="blog.date-fns.org" style=" color: #3366aa;    font-size: 1.05em;">date-fns v3 发布</a></span>— 用于在 JavaScript 中处理日期的非常流行的 200 多个函数套件已在 TypeScript 中进行了重写，重新引入了字符串日期参数，在 Node 上具有 ESM 支持，并且所有函数现在都通过命名导出进行导出。<a href="https://javascriptweekly.com/link/149353/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>萨莎·科斯</p>
 </td></tr></tbody></table>
 
@@ -1485,7 +1485,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149369/rss" title="joshcollinsworth.com" style=" color: #3366aa;    font-size: 1.05em;">由于 React 而你忘记（或从来不知道）的事情</a></span>—<em>这</em>在本通讯和<a href="https://javascriptweekly.com/link/149370/rss" style=" color: #3366aa;   ">我们的 React 时事通讯</a>并轻松成为年度“经典”之一。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149369/rss" title="joshcollinsworth.com" style=" color: #3366aa;    font-size: 1.05em;">由于 React 而你忘记（或从来不知道）的事情</a></span>—<em>这</em>在本通讯和<a href="https://javascriptweekly.com/link/149370/rss" style=" color: #3366aa;   ">我们的 React 时事通讯</a>很容易成为年度“经典”之一。</p>
   <p>乔什·柯林斯沃斯</p>
 </td></tr></tbody></table>
 
@@ -1522,7 +1522,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149378/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">对于剧作家来说是重要的一年</a></span>— 流行的 Web 测试和自动化框架在 2023 年取得了一些重大进展，特别是 v1.32.0（上面链接）提供了“UI 模式”，让您可以在 UI 环境中探索、运行和调试测试，并配有内置功能观看模式。<a href="https://javascriptweekly.com/link/149379/rss" style=" color: #3366aa;   ">▶️这个视频</a>提供了很好的介绍。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149378/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">剧作家的重要一年</a></span>— 流行的 Web 测试和自动化框架在 2023 年取得了一些重大进展，特别是 v1.32.0（上面链接）提供了“UI 模式”，让您可以在 UI 环境中探索、运行和调试测试，并配有内置功能观看模式。<a href="https://javascriptweekly.com/link/149379/rss" style=" color: #3366aa;   ">▶️这个视频</a>提供了很好的介绍。</p>
   <p>微软</p>
 </td></tr></tbody></table>
 
@@ -1534,7 +1534,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149383/rss" title="driverjs.com" style=" color: #3366aa;    font-size: 1.05em;">Driver.js：游览、亮点、上下文帮助等</a></span>— 一个无依赖库，用于整合页面游览和上下文帮助。 该项目已有几年历史，但在 2023 年用 TypeScript 重写，获得了<a href="https://javascriptweekly.com/link/149384/rss" style=" color: #3366aa;   ">众多增强功能</a>，并得到了新鲜的油漆。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149383/rss" title="driverjs.com" style=" color: #3366aa;    font-size: 1.05em;">Driver.js：游览、亮点、上下文帮助等</a></span>— 一个无依赖库，用于整合页面游览和上下文帮助。 该项目已有几年历史，但在 2023 年用 TypeScript 重写，获得了<a href="https://javascriptweekly.com/link/149384/rss" style=" color: #3366aa;   ">许多增强功能</a>，并得到了新鲜的油漆。</p>
   <p>卡姆兰·艾哈迈德</p>
 </td></tr></tbody></table>
 
