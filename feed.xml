@@ -484,7 +484,7 @@
             <guid>https://javascriptweekly.com/issues/670</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。在文章的后半部分，提到了一些发布的工具和库，以及一些有趣的文章和教程。最后，文章列出了一些最新的版本发布。</summary>
+    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代文件系统API，旨在改进JavaScript运行时的文件系统API。文章还提到了一些发布和工具，如Docusaurus 3.1、Rspack 0.5和MikroORM 6等。在文章的后半部分，作者分享了一些有关网站和Web应用程序的思考，并介绍了一些有用的工具和库，如zip.js、Element Plus和RE2JS等。最后，文章列出了一些更新的版本和发布，如eslint-plugin-vue 9.20.0和React Icons 5.0等。</summary>
     <div>
     <div>OriginTitle: Is htmx Just Another JS Framework?</div>
 
@@ -1368,7 +1368,7 @@ With prebuilt UI components and feature-rich SDKs &amp; APIs, <a href="https://j
             <guid>https://javascriptweekly.com/issues/668</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，以及最受欢迎的代码和工具。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
+    <summary>这篇文章是JavaScript Weekly的最后一期，回顾了2023年的一些热门话题和工具。文章提到了V8引擎的性能提升、SvelteKit 2.0的发布、date-fns v3的发布、Vercel的AI-Powered React组件创建工具v0的开放、Vue 2.x的即将结束生命周期等。此外，文章还列举了2023年最受欢迎的文章和教程，包括JavaScript中深度克隆对象的现代方法、Web组件的持久性、Sonar的SAST在JavaScript应用中检测安全漏洞的能力等。同时，文章还介绍了2023年最受欢迎的代码和工具，如UnsuckJS、React Libraries、Playwright、You Don't Need Lodash等。最后，文章提到了一些其他重要的项目发布，如Deno、Astro、TypeScript、Node.js、Ember和Bun。</summary>
     <div>
     <div>OriginTitle: Reflecting on a big year for JavaScript</div>
 
