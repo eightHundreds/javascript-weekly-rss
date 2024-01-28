@@ -13,11 +13,13 @@
             <guid>https://javascriptweekly.com/issues/672</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来，文章介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，并增加了更多的类型安全性和新的验证库。然后，文章推荐了一个关于Vite的视频课程，介绍了Vite的功能和插件生态系统。接着，文章介绍了一个小巧的JavaScript引擎QuickJS，它支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JavaScript特性支持。
+    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，整体上增加了更多的类型安全性，并引入了新的验证库等功能。然后是关于Vite的视频教程，介绍了Vite的能力，包括打包、优化静态资源、热模块重载和插件生态系统等。接着介绍了QuickJS，一个小巧且可嵌入的JavaScript引擎，支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JS特性支持。
 
-文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间和地点等。
+文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间等。
 
-在文章的后半部分，列举了一些发布的更新和一些文章和教程。其中包括一个关于使用Web Components和JavaScript构建整个应用程序的教程，一个使用Alpine、HTMX和Astro构建Wordle克隆应用的教程，以及一些关于React项目启动、Next.js开发和反向工程的教程</summary>
+在发布方面，介绍了Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1、Qwik 1.4、Expo Router v3和Redux Toolkit 2.1等版本的发布。
+
+文章还包括了一些教程</summary>
     <div>
     <div>OriginTitle: Modern shell scripting with JavaScript</div>
 
@@ -150,7 +152,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150524/rss" title="userfront.com" style=" color: #3366aa;    font-size: 1.05em;">身份验证不复杂——在简单的平台中进行身份验证</a></span>— 用户前端简化了身份验证和访问控制，以便工程师可以专注于他们的核心业务。<a href="https://javascriptweekly.com/link/150524/rss" style=" color: #3366aa;   ">立即阅读文档</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150524/rss" title="userfront.com" style=" color: #3366aa;    font-size: 1.05em;">无需复杂性的身份验证 — 在简单的平台中进行身份验证</a></span>— 用户前端简化了身份验证和访问控制，以便工程师可以专注于他们的核心业务。<a href="https://javascriptweekly.com/link/150524/rss" style=" color: #3366aa;   ">立即阅读文档</a>。</p>
   <p>用户界面<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -460,15 +462,15 @@
     <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个JavaScript相关的主题和工具。以下是文章的要点：
 
 1. 介绍了console.delight，它可以在浏览器控制台中渲染SVG和HTML等内容。
-2. 推荐了AHA Stack，这是一种全栈Web应用程序开发方法，结合了Astro、htmx和Alpine.js，可以通过网络发送HTML。
-3. 介绍了SurveyJS Form Libraries，它可以帮助开发者轻松构建、编辑和样式化基于JSON的动态表单。
+2. 推荐了AHA Stack，这是一种全栈Web应用程序开发方法，结合了Astro、htmx和Alpine.js，通过发送HTML来实现。
+3. 介绍了SurveyJS Form Libraries，它可以帮助开发者轻松构建、编辑和样式化动态JSON表单。
 4. 提供了React Libraries for 2024，这是一份年度指南，介绍了适用于构建React应用程序的各种任务的库和工具。
-5. 其他文章和教程包括：如何编写更好的测试、用JavaScript实现扫雷游戏、JavaScript前端错误监控和调试、CSS技巧、从Zod迁移到Valibot的经验等。
+5. 其他文章和教程包括关于测试断言的黄金法则、使用JavaScript编写扫雷游戏、JavaScript前端错误监控和调试、CSS技巧等。
 6. 介绍了一些发布的工具和库，如Prettier 3.2、Knip 4.0、ReScript 11.0等。
-7. 提供了一些代码和工具，如Heat.js、Tinybench、Orbital Object Toolkit、worker-timers等。
+7. 提供了一些代码和工具，如Heat.js热图可视化库、Tinybench基准测试库、Sutra.js行为树库等。
 8. 列出了一些即将发布的工具和库，如Schedule-X 1.9、LangChain 0.1.0、Frappe 15.10等。
 
-总的来说，本文涵盖了JavaScript的各个</summary>
+总的来说，本文涵盖了JavaScript的各个方</summary>
     <div>
     <div>OriginTitle: Astro + htmx + Alpine.js == AHA</div>
 
@@ -637,7 +639,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150219/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">工人定时器：<code>设置时间间隔</code>/<code>设置超时时间</code>对于未聚焦的 Windows</a></span>— 当选项卡失去焦点时，其中使用的任何计时器都会受到限制。 解决方法是使用 Web Worker。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150219/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">工人计时器：<code>设置时间间隔</code>/<code>设置超时时间</code>对于未聚焦的 Windows</a></span>— 当选项卡失去焦点时，其中使用的任何计时器都会受到限制。 解决方法是使用 Web Worker。</p>
   <p>克里斯托夫·古坦丁</p>
 </td></tr></tbody></table>
 
@@ -1012,7 +1014,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，可以以各种有趣的方式组合任意数量的技术。</em>”</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149913/rss" title="jakelazaroff.com" style=" color: #3366aa;    font-size: 1.05em;">网站与 Web 应用程序的二分法并不存在</a></span>— 一篇有趣的思考文章将帮助您充实自己对此事的看法：“<em>如果说这一切有一个要点的话，那就是网络是一种灵活的媒介，任何数量的技术都可以以各种有趣的方式组合起来。</em>”</p>
   <p>杰克·拉扎罗夫</p>
 </td></tr></tbody></table>
 
@@ -1058,7 +1060,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149925/rss" title="element-plus.org" style=" color: #3366aa;    font-size: 1.05em;">Element Plus：Vue 3 组件库</a></span>— 开箱即用，您可以获得各种干净的组件，且氛围极简。 你可以<a href="https://javascriptweekly.com/link/149926/rss" style=" color: #3366aa;   ">在这里查看他们的行动</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149925/rss" title="element-plus.org" style=" color: #3366aa;    font-size: 1.05em;">Element Plus：Vue 3 组件库</a></span>— 开箱即用，您可以获得各种干净的组件，并且具有最小的氛围。 你可以<a href="https://javascriptweekly.com/link/149926/rss" style=" color: #3366aa;   ">在这里查看他们的行动</a>。</p>
   <p>元素加团队</p>
 </td></tr></tbody></table>
 
@@ -1350,7 +1352,7 @@
             <guid>https://javascriptweekly.com/issues/669</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布和Vue 2的“终止生命周期”，以及一些2024年的预测。此外，还有一些有关JavaScript的文章和教程，包括关于JavaScript的一些特性和方法的解释，以及一些有趣的JavaScript工具和库的介绍。</summary>
+    <summary>本文是2024年1月4日的JavaScript周报。文章首先介绍了2023年GitHub上最受欢迎的JavaScript项目，其中包括React组件库shadcn/ui、Bun、Next.js、htmx和Drizzle ORM等。接下来是一篇关于2024年每个JavaScript开发者都应该了解的10个面试问题的文章。然后是一个关于Clerk身份验证和用户管理工具的广告。文章还提到了Vue 3.4的发布，以及Oracle在MySQL中引入JavaScript支持的消息。此外，还有一些关于JavaScript特性、Angular开发者调查、Storybook、依赖关系可视化工具Dependency Cruiser等的文章和教程。最后是一些发布的代码和工具，包括React Aria 1.0、Schedule-X、quick-lint-js 3.0等。</summary>
     <div>
     <div>OriginTitle: JavaScript's rising stars</div>
 
