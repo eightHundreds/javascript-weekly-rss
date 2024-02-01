@@ -460,15 +460,15 @@
     <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个JavaScript相关的主题和工具。以下是文章的要点：
 
 1. 介绍了console.delight，它可以在浏览器控制台中渲染SVG和HTML等内容。
-2. 推荐了AHA Stack，这是一种全栈Web应用程序开发方法，结合了Astro、htmx和Alpine.js，通过发送HTML来实现。
-3. 介绍了SurveyJS Form Libraries，它可以帮助开发者轻松构建、编辑和样式化动态JSON表单。
-4. 提供了React Libraries for 2024，这是一份年度指南，介绍了适用于构建React应用程序的各种库和工具。
-5. 其他文章和教程包括关于测试断言的黄金法则、使用JavaScript编写扫雷游戏、JavaScript前端错误监控和调试、CSS技巧等。
+2. 推荐了AHA Stack，这是一种全栈Web应用程序开发方法，结合了Astro、htmx和Alpine.js，可以通过网络发送HTML。
+3. 介绍了SurveyJS Form Libraries，它可以帮助开发者轻松构建、编辑和样式化基于JSON的动态表单。
+4. 提供了React Libraries for 2024，这是一份年度指南，介绍了适用于构建React应用程序的各种任务的库和工具。
+5. 其他文章和教程包括：如何编写更好的测试、用JavaScript实现扫雷游戏、JavaScript前端错误监控和调试、CSS技巧、从Zod迁移到Valibot的经验等。
 6. 介绍了一些发布的工具和库，如Prettier 3.2、Knip 4.0、ReScript 11.0等。
-7. 提供了一些代码和工具，如Heat.js热力图可视化库、Tinybench基准测试库、Sutra.js行为树库等。
+7. 提供了一些代码和工具，如Heat.js、Tinybench、Orbital Object Toolkit、worker-timers等。
 8. 列出了一些即将发布的工具和库，如Schedule-X 1.9、LangChain 0.1.0、Frappe 15.10等。
 
-总的来说，本文涵盖了JavaScript的各个方面</summary>
+总的来说，本文涵盖了JavaScript的各个</summary>
     <div>
     <div>OriginTitle: Astro + htmx + Alpine.js == AHA</div>
 
