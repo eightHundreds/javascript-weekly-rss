@@ -496,13 +496,11 @@
             <guid>https://javascriptweekly.com/issues/672</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，整体上增加了更多的类型安全性，并引入了新的验证库等功能。然后是关于Vite的视频教程，介绍了Vite的能力，包括打包、优化静态资源、热模块重载和插件生态系统等。接着介绍了QuickJS，一个小巧且可嵌入的JavaScript引擎，支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JS特性支持。
+    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来，文章介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，并增加了更多的类型安全性和新的验证库。然后，文章推荐了一个关于Vite的视频课程，介绍了Vite的功能和插件生态系统。接着，文章介绍了QuickJS，一个小巧且完整的JavaScript引擎，最新版本支持ES2023，并添加了模块中的顶级等待和一些前沿的JavaScript特性支持。
 
-文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间等。
+文章还提到了一些其他内容，包括检测到的恶意包、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间和地点，以及一些软件的发布。
 
-在发布方面，介绍了Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1、Qwik 1.4、Expo Router v3和Redux Toolkit 2.1等版本的发布。
-
-文章还包括了一些教程</summary>
+在文章的后半部分，列举了一些文章和教程，包括使用Web Components构建应用程序、使用Alpine、HTMX和Astro构建Wordle应用程序、使用Wallaby.js完善AI代码编写体验、在2024年开始一个React项目的方法，以及使用React Server Components和Mock Service Worker在Storybook中构建Next</summary>
     <div>
     <div>OriginTitle: Modern shell scripting with JavaScript</div>
 
@@ -584,7 +582,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/150513/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">基于 Alpine、HTMX 和 Astro 的 Wordle 应用程序</a></span>— 流行的 YouTube 开发者 Jack 演示了使用现代 Alpine、HTMX 和 Astro 堆栈构建 Wordle 克隆。 或者你可以去<a href="https://javascriptweekly.com/link/150514/rss" style=" color: #3366aa;   ">直接看代码</a>， 如果你更喜欢。</p>
-  <p>杰克·赫林顿</p>
+  <p>杰克·赫灵顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1413,7 +1411,7 @@
             <guid>https://javascriptweekly.com/issues/670</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代JavaScript文件系统API。在文章的后半部分，提到了一些发布的工具和库，以及一些有趣的文章和教程。最后，文章列出了一些最新的版本发布。</summary>
+    <summary>本文介绍了一些与JavaScript相关的主题和工具。首先，作者讨论了近年来htm的流行，尽管它是一个框架，但由于其简单的基于HTML的方法，吸引了越来越多的开发者。接下来，作者提供了一个10分钟的教程，向React开发者展示了如何使用htmx。然后，文章列出了33个JavaScript概念，每个开发者都应该了解。接着，作者介绍了一个名为fsx的现代文件系统API，旨在改进JavaScript运行时的文件系统API。文章还提到了一些发布和工具，如Docusaurus 3.1、Rspack 0.5和MikroORM 6等。在文章的后半部分，作者分享了一些有趣的文章和教程，包括关于网站与Web应用的区别、基于Rust的JavaScript Linters、Vercel Edge Functions的性能优化、Node.js的基准测试等。最后，文章列出了一些代码和工具，如zip.js、Element Plus、RE2JS等。</summary>
     <div>
     <div>OriginTitle: Is htmx Just Another JS Framework?</div>
 
@@ -1441,7 +1439,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/149898/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">10 分钟内为 React 开发人员提供 HTMX</a></span>— 你对语义讨论不感兴趣..你只是想得到一些东西<em>完毕</em>和<a href="https://javascriptweekly.com/link/149899/rss" style=" color: #3366aa;   ">HTMX</a>？ 在这里，杰克花了十分钟展示了必需品。</p>
-  <p>杰克·赫林顿</p>
+  <p>杰克·赫灵顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1543,7 +1541,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149925/rss" title="element-plus.org" style=" color: #3366aa;    font-size: 1.05em;">Element Plus：Vue 3 组件库</a></span>— 开箱即用，您可以获得各种干净的组件，且氛围极简。 你可以<a href="https://javascriptweekly.com/link/149926/rss" style=" color: #3366aa;   ">在这里查看他们的行动</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/149925/rss" title="element-plus.org" style=" color: #3366aa;    font-size: 1.05em;">Element Plus：Vue 3 组件库</a></span>— 开箱即用，您可以获得各种干净的组件，并且具有最小的氛围。 你可以<a href="https://javascriptweekly.com/link/149926/rss" style=" color: #3366aa;   ">在这里查看他们的行动</a>。</p>
   <p>元素加团队</p>
 </td></tr></tbody></table>
 
