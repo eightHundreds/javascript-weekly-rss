@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些工具和库的更新和发布。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些文章和教程，以及一些发布的代码和工具。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
@@ -75,7 +75,7 @@
 <p><em>新堆栈</em>理查德·麦克马纳斯 (Richard MacManus) 采访了 Remix 首席执行官迈克尔·杰克逊 (Michael Jackson)<a href="https://javascriptweekly.com/link/151144/rss" style=" color: #3366aa; font-weight: 600;   ">说说Remix和Next.js的作用</a>在 React 框架生态系统的背景下。</p>
 </li>
 <li>
-<p>🎙<a href="https://javascriptweekly.com/link/151145/rss" style=" color: #3366aa; font-weight: 600;   ">丹·阿布拉莫夫最近接受采访</a>于<em>火箭舱</em>播客，如果您想了解他的想法。</p>
+<p>🎙<a href="https://javascriptweekly.com/link/151145/rss" style=" color: #3366aa; font-weight: 600;   ">丹·阿布拉莫夫最近接受采访</a>在<em>火箭舱</em>播客，如果您想了解他的想法。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/151147/rss" style=" color: #3366aa; font-weight: 600;   ">一些 Node.js 安全版本</a>预计今天发布，其中包括四个严重问题的修复。 🤞</p>
@@ -217,7 +217,7 @@
 <p><a href="https://javascriptweekly.com/link/151188/rss" style=" color: #3366aa; font-weight: 600;   ">傀儡师重播3.0</a>– 重播录音<em>Chrome 开发者工具记录器。</em></p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/151190/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.1</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/151191/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/151190/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.1</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/151191/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p>📊<a href="https://javascriptweekly.com/link/151192/rss" style=" color: #3366aa; font-weight: 600;   ">gridstack.js 10.1</a>– 快速构建响应式交互式仪表板。</p>
@@ -702,7 +702,7 @@
 <p><a href="https://javascriptweekly.com/link/150840/rss" style=" color: #3366aa; font-weight: 600;   ">法克8.4</a>– 大规模、按需生成假/虚拟数据。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/150841/rss" style=" color: #3366aa; font-weight: 600;   ">jquery.terminal 2.38</a>– 创建基于 Web 的终端体验。 (<a href="https://javascriptweekly.com/link/150842/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/150841/rss" style=" color: #3366aa; font-weight: 600;   ">jquery.terminal 2.38</a>– 创建基于 Web 的终端体验。 （<a href="https://javascriptweekly.com/link/150842/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/150843/rss" style=" color: #3366aa; font-weight: 600;   ">抛光4.3</a>– 在 JavaScript 中编写样式的轻量级方法。</p>
@@ -970,13 +970,13 @@
             <guid>https://javascriptweekly.com/issues/672</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，整体上增加了更多的类型安全性，并引入了新的验证库等功能。然后是关于Vite的视频教程，介绍了Vite的能力，包括打包、优化静态资源、热模块重载和插件生态系统等。接着介绍了QuickJS，一个小巧且可嵌入的JavaScript引擎，支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JS特性支持。
+    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来，文章介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，并增加了更多的类型安全性和新的验证库。然后，文章推荐了一个关于Vite的视频课程，介绍了Vite的功能和插件生态系统。接着，文章介绍了QuickJS，一个小巧且完整的JavaScript引擎，它支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JavaScript特性支持。
 
 文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间等。
 
-在发布方面，介绍了Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1、Qwik 1.4、Expo Router v3和Redux Toolkit 2.1等版本的发布。
+在文章的后半部分，列举了一些发布的内容，包括Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1等。
 
-文章还包括了一些教程</summary>
+最后，文章提供了一些文章和教程的链接，包括使用Web组件构建应用程序、使用Alpine、HTMX和Astro构建Wordle应</summary>
     <div>
     <div>OriginTitle: Modern shell scripting with JavaScript</div>
 
@@ -1097,7 +1097,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150520/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Jint 3.0：.NET 的 JavaScript 解释器</a></span>— 在 .NET 应用程序中运行 JavaScript 并将 .NET 对象和函数公开给 JavaScript 代码。<a href="https://javascriptweekly.com/link/150521/rss" style=" color: #3366aa;   ">v3</a>之后到达<em>7年</em>工作量最大，并且是完全在 .NET 中运行的最符合标准的 JS 引擎。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150520/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Jint 3.0：.NET 的 JavaScript 解释器</a></span>— 在 .NET 应用程序中运行 JavaScript 并向 JavaScript 代码公开 .NET 对象和函数。<a href="https://javascriptweekly.com/link/150521/rss" style=" color: #3366aa;   ">v3</a>之后到达<em>7年</em>工作量最大，并且是完全在 .NET 中运行的最符合标准的 JS 引擎。</p>
   <p>塞巴斯蒂安·罗斯</p>
 </td></tr></tbody></table>
 
