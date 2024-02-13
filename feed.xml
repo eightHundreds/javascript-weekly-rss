@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者关于启用Corepack和解除npm绑定的讨论、Svelte 5的创始人Rich Harris的采访、Deno项目的发展和未来计划、Remix和Next.js在React框架生态系统中的角色、Node.js安全更新、React Native调查结果、各种工具和库的发布等。文章涵盖了JavaScript开发的各个方面和最新动态。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些文章和教程，以及一些发布的代码和工具。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
