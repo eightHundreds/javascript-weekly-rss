@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些文章和教程，以及一些发布的代码和工具。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会信息、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访、Deno项目的发展、Remix和Next.js在React框架生态系统中的角色、Node.js安全更新、React Native调查结果、一些工具和库的发布等。文章还包括一些技术文章和教程，涵盖了V8引擎、JavaScript错误和性能监控、动画效果、htmx、CORS、Tabulator、React Native、Marked.js、Storybook、Vue.js等主题。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
@@ -217,7 +217,7 @@
 <p><a href="https://javascriptweekly.com/link/151188/rss" style=" color: #3366aa; font-weight: 600;   ">傀儡师重播3.0</a>– 重播录音<em>Chrome 开发者工具记录器。</em></p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/151190/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.1</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/151191/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/151190/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.1</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/151191/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p>📊<a href="https://javascriptweekly.com/link/151192/rss" style=" color: #3366aa; font-weight: 600;   ">gridstack.js 10.1</a>– 快速构建响应式交互式仪表板。</p>
@@ -702,7 +702,7 @@
 <p><a href="https://javascriptweekly.com/link/150840/rss" style=" color: #3366aa; font-weight: 600;   ">法克8.4</a>– 大规模、按需生成假/虚拟数据。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/150841/rss" style=" color: #3366aa; font-weight: 600;   ">jquery.terminal 2.38</a>– 创建基于 Web 的终端体验。 （<a href="https://javascriptweekly.com/link/150842/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/150841/rss" style=" color: #3366aa; font-weight: 600;   ">jquery.terminal 2.38</a>– 创建基于 Web 的终端体验。 (<a href="https://javascriptweekly.com/link/150842/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/150843/rss" style=" color: #3366aa; font-weight: 600;   ">抛光4.3</a>– 在 JavaScript 中编写样式的轻量级方法。</p>
@@ -970,13 +970,7 @@
             <guid>https://javascriptweekly.com/issues/672</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，整体上增加了更多的类型安全性，并引入了新的验证库等功能。然后是关于Vite的视频教程，介绍了Vite的能力，包括打包、优化静态资源、热模块重载和插件生态系统等。接着介绍了QuickJS，一个小巧且可嵌入的JavaScript引擎，支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JS特性支持。
-
-文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间等。
-
-在发布方面，介绍了Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1、Qwik 1.4、Expo Router v3和Redux Toolkit 2.1等版本的发布。
-
-文章还包括了一些教程</summary>
+    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，整体上增加了更多的类型安全性，并引入了新的验证库等功能。然后是关于Vite的视频教程，介绍了Vite的能力，包括打包、优化静态资源、热模块重载和插件生态系统等。接着介绍了QuickJS，一个小巧且完整的JavaScript引擎，最新版本支持ES2023，并添加了模块中的顶级等待和一些前沿的JavaScript特性支持。文章还提到了一些其他的新闻和发布，以及一些有关Web组件、React项目、代码工具和库的文章和教程。</summary>
     <div>
     <div>OriginTitle: Modern shell scripting with JavaScript</div>
 
@@ -1133,7 +1127,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150534/rss" title="" style=" color: #3366aa;    font-size: 1.05em;">接收、身份验证、转换、过滤、路由和交付 Webhooks</a></span>— Hookdeck 事件网关是一个可靠的平台，可在整个开发生命周期中支持事件驱动的应用程序开发。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150534/rss" title="" style=" color: #3366aa;    font-size: 1.05em;">接收、身份验证、转换、过滤、路由和交付 Webhook</a></span>— Hookdeck 事件网关是一个可靠的平台，可在整个开发生命周期中支持事件驱动的应用程序开发。</p>
   <p>挂钩甲板<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -1419,15 +1413,15 @@
     <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了多个JavaScript相关的主题和工具。以下是文章的要点：
 
 1. 介绍了console.delight，它可以在浏览器控制台中渲染SVG和HTML等内容。
-2. 推荐了AHA Stack，这是一种全栈Web应用程序开发方法，结合了Astro、htmx和Alpine.js，通过发送HTML来实现。
-3. 介绍了SurveyJS Form Libraries，它可以帮助开发者轻松构建、编辑和样式化动态JSON表单。
-4. 提供了React Libraries for 2024，这是一份年度指南，介绍了适用于构建React应用程序的各种库和工具。
-5. 其他文章和教程包括关于测试断言的黄金法则、使用JavaScript编写扫雷游戏、JavaScript前端错误监控和调试、CSS技巧等。
+2. 推荐了AHA Stack，这是一种全栈Web应用程序开发方法，结合了Astro、htmx和Alpine.js，可以通过网络发送HTML。
+3. 介绍了SurveyJS Form Libraries，它可以帮助开发者轻松构建、编辑和样式化基于JSON的动态表单。
+4. 提供了React Libraries for 2024，这是一份年度指南，介绍了适用于构建React应用程序的各种任务的库和工具。
+5. 其他文章和教程包括：如何编写更好的测试、用JavaScript实现扫雷游戏、JavaScript前端错误监控和调试、CSS技巧、从Zod迁移到Valibot的经验等。
 6. 介绍了一些发布的工具和库，如Prettier 3.2、Knip 4.0、ReScript 11.0等。
-7. 提供了一些代码和工具，如Heat.js热力图可视化库、Tinybench基准测试库、Sutra.js行为树库等。
+7. 提供了一些代码和工具，如Heat.js、Tinybench、Orbital Object Toolkit、worker-timers等。
 8. 列出了一些即将发布的工具和库，如Schedule-X 1.9、LangChain 0.1.0、Frappe 15.10等。
 
-总的来说，本文涵盖了JavaScript的各个方面</summary>
+总的来说，本文涵盖了JavaScript的各个</summary>
     <div>
     <div>OriginTitle: Astro + htmx + Alpine.js == AHA</div>
 
