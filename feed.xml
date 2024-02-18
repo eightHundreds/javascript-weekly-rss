@@ -455,7 +455,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者关于启用Corepack和解除npm绑定的讨论、Svelte 5的创始人Rich Harris的采访、Deno项目的发展和未来计划、Remix和Next.js在React框架生态系统中的角色、Node.js安全更新、React Native调查结果、各种工具和库的发布等。文章内容涵盖了JavaScript开发的各个方面。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些工具和库的更新和发布。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
@@ -936,13 +936,12 @@
 3. FlexGrid by Wijmo：一个快速灵活的DataGrid，适用于构建现代Web应用程序。
 4. Deno 1.40发布：引入了Temporal API、decorators和更多WebGPU功能。
 5. Node.js安全更新预计于下周发布。
-6. pnpm项目维护了一个包管理器的基准测试。
+6. pnpm项目维护了一个包管理器的基准测试，比较了npm、pnpm和Yarn的性能。
 7. Bouncy Ball展示了22种在浏览器中实现弹跳球动画的比较。
 8. Porffor是一个实验性的JS到WASM编译器。
-9. 发布了htmx 2.0.0-alpha1、Puppeteer 21.10.0、Neutralinojs 5.0、Primate 0.28、Prisma 5.9、Ember 5.6和Pixi.js 7.4等工具和库。
-10. 文章和教程方面，包括使用Astro进行React的比较、导入断言和导入属性、Next.js应用程序路由迁移、企业设计系统的改进等。
-11. 介绍了一款用Pixi.JS构建的CivIdle游戏，以及如何进行性能优化。
-12. 介绍了创建</summary>
+9. 发布了一些库和工具，包括htmx 2.0.0-alpha1、Puppeteer 21.10.0、Neutralinojs 5.0、Primate 0.28、Prisma 5.9、Ember 5.6和Pixi.js 7.4。
+10. 文章和教程方面，包括使用Astro进行React的比较、导入断言和导入属性、Next.js应用程序路由迁移、改进企业设计系统等。
+11. 代码和工具方面，包括Labyrinthos.js迷宫生成器</summary>
     <div>
     <div>OriginTitle: A Qwik break from React?</div>
 
@@ -1575,7 +1574,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150534/rss" title="" style=" color: #3366aa;    font-size: 1.05em;">接收、身份验证、转换、过滤、路由和交付 Webhook</a></span>— Hookdeck 事件网关是一个可靠的平台，可在整个开发生命周期中支持事件驱动的应用程序开发。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150534/rss" title="" style=" color: #3366aa;    font-size: 1.05em;">接收、身份验证、转换、过滤、路由和交付 Webhooks</a></span>— Hookdeck 事件网关是一个可靠的平台，可在整个开发生命周期中支持事件驱动的应用程序开发。</p>
   <p>挂钩甲板<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
