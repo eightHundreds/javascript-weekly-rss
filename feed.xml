@@ -455,7 +455,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些工具和库的更新和发布。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些文章和教程，以及一些发布的代码和工具。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
@@ -936,12 +936,13 @@
 3. FlexGrid by Wijmo：一个快速灵活的DataGrid，适用于构建现代Web应用程序。
 4. Deno 1.40发布：引入了Temporal API、decorators和更多WebGPU功能。
 5. Node.js安全更新预计于下周发布。
-6. pnpm项目维护了一个包管理器的基准测试，比较了npm、pnpm和Yarn的性能。
+6. pnpm项目维护了一个包管理器的基准测试。
 7. Bouncy Ball展示了22种在浏览器中实现弹跳球动画的比较。
 8. Porffor是一个实验性的JS到WASM编译器。
-9. 发布了一些库和工具，包括htmx 2.0.0-alpha1、Puppeteer 21.10.0、Neutralinojs 5.0、Primate 0.28、Prisma 5.9、Ember 5.6和Pixi.js 7.4。
-10. 文章和教程方面，包括使用Astro进行React的比较、导入断言和导入属性、Next.js应用程序路由迁移、改进企业设计系统等。
-11. 代码和工具方面，包括Labyrinthos.js迷宫生成器</summary>
+9. 发布了htmx 2.0.0-alpha1、Puppeteer 21.10.0、Neutralinojs 5.0、Primate 0.28、Prisma 5.9、Ember 5.6和Pixi.js 7.4等工具和库。
+10. 文章和教程方面，包括使用Astro进行React的比较、导入断言和导入属性、Next.js应用程序路由迁移、企业设计系统的改进等。
+11. 介绍了一款用Pixi.JS构建的CivIdle游戏，以及如何进行性能优化。
+12. 介绍了创建</summary>
     <div>
     <div>OriginTitle: A Qwik break from React?</div>
 
@@ -1411,13 +1412,13 @@
             <guid>https://javascriptweekly.com/issues/672</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，整体上增加了更多的类型安全性，并引入了新的验证库等功能。然后是关于Vite的视频教程，介绍了Vite的能力，包括打包、优化静态资源、热模块重载和插件生态系统等。接着介绍了QuickJS，一个小巧且可嵌入的JavaScript引擎，支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JS特性支持。
+    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来，文章介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，并增加了更多的类型安全性和新的验证库。然后，文章推荐了一个关于Vite的视频课程，介绍了Vite的功能和插件生态系统。接着，文章介绍了QuickJS，一个小巧且完整的JavaScript引擎，最新版本支持ES2023，并添加了模块中的顶级等待和一些前沿的JavaScript特性支持。
 
-文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间等。
+文章还提到了一些其他内容，包括检测到的恶意包、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间和地点等。
 
-在发布方面，介绍了Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1、Qwik 1.4、Expo Router v3和Redux Toolkit 2.1等版本的发布。
+在文章的后半部分，列举了一些发布的版本和一些文章和教程。其中包括一个关于使用Web Components和JavaScript构建整个应用程序的教程，一个使用Alpine、HTMX和Astro构建Wordle克隆应用的教程，以及一些关于React项目、Next.js和RSC应用开发的教程。
 
-文章还包括了一些教程</summary>
+最</summary>
     <div>
     <div>OriginTitle: Modern shell scripting with JavaScript</div>
 
