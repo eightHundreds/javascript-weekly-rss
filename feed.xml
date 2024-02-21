@@ -196,7 +196,7 @@
 <p>🗓<a href="https://javascriptweekly.com/link/151440/rss" style=" color: #3366aa; font-weight: 600;   ">反应大日历 1.10</a>– 类似 GCal/Outlook 的日历组件。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/151441/rss" style=" color: #3366aa; font-weight: 600;   ">乏味17.0</a>– 用于连接到 Microsoft SQL Server 的 TDS 模块。</p>
+<p><a href="https://javascriptweekly.com/link/151441/rss" style=" color: #3366aa; font-weight: 600;   ">乏味17.0</a>– 用于连接 Microsoft SQL Server 的 TDS 模块。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/151442/rss" style=" color: #3366aa; font-weight: 600;   ">启发树7.0</a>– Perf 驱动的无头树组件。</p>
@@ -455,7 +455,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些文章和教程，以及一些发布的代码和工具。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些工具和库的更新和发布。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
@@ -1412,13 +1412,13 @@
             <guid>https://javascriptweekly.com/issues/672</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来，文章介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，并增加了更多的类型安全性和新的验证库。然后，文章推荐了一个关于Vite的视频课程，介绍了Vite的功能和插件生态系统。接着，文章介绍了一个小巧的JavaScript引擎QuickJS，它支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JavaScript特性支持。
+    <summary>本文是2024年1月25日的JavaScript周报。文章首先介绍了Bun Shell，一个性能优化的服务器端运行时，它通过简化、跨平台友好和减少冗余的方式改进了JavaScript Shell脚本编写。接下来，文章介绍了AdonisJS v6的发布，这是一个具有出色文档和丰富功能的后端Web框架，v6版本在默认情况下采用了ESM，并增加了更多的类型安全性和新的验证库。然后，文章推荐了一个关于Vite的视频课程，介绍了Vite的功能和插件生态系统。接着，文章介绍了一个小巧的JavaScript引擎QuickJS，它支持ES2023，并在最新版本中添加了模块中的顶级等待和一些前沿的JS特性支持。
 
-文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间和地点等。
+文章还提到了一些其他内容，如Twitter上的恶意软件包检测、JetBrains的WebStorm 2024.1早期访问计划、React Conf 2024的举办时间等。
 
-在文章的后半部分，列举了一些发布的更新和一些文章和教程。其中包括一个关于使用Web Components和JavaScript构建整个应用程序的教程，一个使用Alpine、HTMX和Astro构建Wordle克隆应用的教程，以及一些关于React项目、Next.js和RSC应用开发的教程。
+在文章的后半部分，列举了一些发布的内容，包括Astro 4.2、Node.js 21.6.1、Puppeteer 21.9、Next.js 14.1等。
 
-最</summary>
+接着，文章列出了一些文章和教程，包括使用Web组件构建应用程序、使用Alpine、HTMX和Astro构建Wordle应用程序、使用Wallaby</summary>
     <div>
     <div>OriginTitle: Modern shell scripting with JavaScript</div>
 
@@ -1500,7 +1500,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/150513/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">基于 Alpine、HTMX 和 Astro 的 Wordle 应用程序</a></span>— 流行的 YouTube 开发者 Jack 演示了使用现代 Alpine、HTMX 和 Astro 堆栈构建 Wordle 克隆。 或者你可以去<a href="https://javascriptweekly.com/link/150514/rss" style=" color: #3366aa;   ">直接看代码</a>， 如果你更喜欢。</p>
-  <p>杰克·赫灵顿</p>
+  <p>杰克·赫林顿</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1575,7 +1575,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150534/rss" title="" style=" color: #3366aa;    font-size: 1.05em;">接收、身份验证、转换、过滤、路由和交付 Webhooks</a></span>— Hookdeck 事件网关是一个可靠的平台，可在整个开发生命周期中支持事件驱动的应用程序开发。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/150534/rss" title="" style=" color: #3366aa;    font-size: 1.05em;">接收、身份验证、转换、过滤、路由和交付 Webhook</a></span>— Hookdeck 事件网关是一个可靠的平台，可在整个开发生命周期中支持事件驱动的应用程序开发。</p>
   <p>挂钩甲板<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
