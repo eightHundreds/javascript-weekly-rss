@@ -23,9 +23,11 @@
 
 此外，文章还提到了Node.js在2023年的发展情况，包括Node.js的安全性和Web存在的增强。
 
-文章还列举了一些其他的新闻和更新，包括Node.js项目的新吉祥物Rocket Turtle的发布，npm上20%最受欢迎的高影响包现在包含ESM，以及一个256字节的Frogger游戏等。
+文章还列举了一些其他的新闻和更新，包括Node.js项目的新吉祥物Rocket Turtle的发布，npm上20%最受欢迎的高影响包现在包含ESM，以及一个256字节的“Frogger”游戏等。
 
-最后，文章列举了一些发布的版本和一些有用的文章和教程，以及一些代码和工具的介绍。</summary>
+最后，文章列举了一些发布的更新和一些有用的文章和教程，包括如何在现代应用程序中使用localStorage，如何使用TypeScript设置基本的Node服务器应用程序，以及HTMX与React的比较等。
+
+此外，还介绍了一些代码和工具，如数据可视化组件Perspective 2.8、Vue 3管理</summary>
     <div>
     <div>OriginTitle: A big update for ECharts</div>
 
@@ -191,7 +193,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151739/rss" title="david.deno.dev" style=" color: #3366aa;    font-size: 1.05em;">Dax：Node 的跨平台 Shell 工具</a></span>— 类似于谷歌的<a href="https://javascriptweekly.com/link/151740/rss" style=" color: #3366aa;   ">zx</a>但使用带有常见内置命令的跨平台 shell，因此更多代码可以跨平台运行。 Dax 最初是为 Deno 编写的，但现在也支持 Node。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151739/rss" title="david.deno.dev" style=" color: #3366aa;    font-size: 1.05em;">Dax：Node 的跨平台 Shell 工具</a></span>— 类似于谷歌的<a href="https://javascriptweekly.com/link/151740/rss" style=" color: #3366aa;   ">zx</a>但使用带有常见内置命令的跨平台 shell，因此更多代码可以跨平台工作。 Dax 最初是为 Deno 编写的，但现在也支持 Node。</p>
   <p>大卫·谢雷特</p>
 </td></tr></tbody></table>
 
@@ -931,7 +933,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者对Corepack和npm的讨论、Svelte 5的创始人Rich Harris的采访等。此外，还介绍了一些文章和教程，以及一些发布的代码和工具。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者关于启用Corepack和解除npm绑定的讨论、Svelte 5的创始人Rich Harris的采访、Deno项目的发展和未来计划、Remix和Next.js在React框架生态系统中的角色、Node.js安全更新、React Native调查结果、各种工具和库的发布等。文章涵盖了JavaScript开发的各个方面和最新动态。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
@@ -993,7 +995,7 @@
 <p><em>新堆栈</em>理查德·麦克马纳斯 (Richard MacManus) 采访了 Remix 首席执行官迈克尔·杰克逊 (Michael Jackson)<a href="https://javascriptweekly.com/link/151144/rss" style=" color: #3366aa; font-weight: 600;   ">说说Remix和Next.js的作用</a>在 React 框架生态系统的背景下。</p>
 </li>
 <li>
-<p>🎙<a href="https://javascriptweekly.com/link/151145/rss" style=" color: #3366aa; font-weight: 600;   ">丹·阿布拉莫夫最近接受采访</a>于<em>火箭舱</em>播客，如果您想了解他的想法。</p>
+<p>🎙<a href="https://javascriptweekly.com/link/151145/rss" style=" color: #3366aa; font-weight: 600;   ">丹·阿布拉莫夫最近接受采访</a>在<em>火箭舱</em>播客，如果您想了解他的想法。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/151147/rss" style=" color: #3366aa; font-weight: 600;   ">一些 Node.js 安全版本</a>预计今天发布，其中包括四个严重问题的修复。 🤞</p>
