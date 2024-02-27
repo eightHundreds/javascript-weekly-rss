@@ -74,7 +74,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151710/rss" title="blog.rafaelgss.dev" style=" color: #3366aa;    font-size: 1.05em;">Node.js 的 2023 年总结</a></span>— Node.js TSC 和 Fastify 核心团队的 Rafael 分享了有关 Node.js 在过去一年的演变的有用更新、团队如何确保 Node 经过良好的测试和可靠、Node 的供应商依赖性的变化（其中获得<em>三</em>2023 年），以及 Node 安全性和 Web 存在的增强。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151710/rss" title="blog.rafaelgss.dev" style=" color: #3366aa;    font-size: 1.05em;">Node.js 的 2023 年总结</a></span>— Node.js TSC 和 Fastify 核心团队的 Rafael 分享了有关 Node.js 在过去一年的发展的有用更新、团队如何确保 Node 经过良好的测试和可靠、Node 的供应商依赖性的变化（其中获得<em>三</em>2023 年），以及 Node 安全性和 Web 存在的增强。</p>
   <p>拉斐尔冈萨加</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -933,7 +933,7 @@
             <guid>https://javascriptweekly.com/issues/674</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者关于启用Corepack和解除npm绑定的讨论、Svelte 5的创始人Rich Harris的采访、Deno项目的发展和未来计划、Remix和Next.js在React框架生态系统中的角色、Node.js安全更新、React Native调查结果、各种工具和库的发布等。文章涵盖了JavaScript开发的各个方面和最新动态。</summary>
+    <summary>本文是2024年2月8日的JavaScript周报，主要内容包括jQuery 4.0.0 Beta的发布、Backbone.js 1.6的更新、使用JavaScript重新实现GORILLAS.BAS游戏的教程、Postman的API大会POST/CON 2024的提醒、Node.js开发者关于启用Corepack和解除npm绑定的讨论、Svelte 5的创造者Rich Harris的采访、Deno项目的发展和未来计划、Remix和Next.js在React框架生态系统中的角色、Node.js安全更新、React Native调查结果、一些工具和库的发布等。文章涵盖了JavaScript开发的各个方面，包括框架、工具、安全性和性能监控等。</summary>
     <div>
     <div>OriginTitle: Gorillas</div>
 
