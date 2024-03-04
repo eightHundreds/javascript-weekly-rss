@@ -34,7 +34,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且压缩后仅 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且 gzip 后只有 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
   <p>ElectricSQL / Neon</p>
 </td></tr></tbody></table>
 
@@ -224,7 +224,7 @@
 <p><a href="https://javascriptweekly.com/link/152036/rss" style=" color: #3366aa; font-weight: 600;   ">React 严格 DOM (RSD)</a>– React DOM 和 StyleX 的实验性集成，以标准化样式化 React 组件（Web 和本机）的开发。</p>
 </li>
 <li>
-<p>🗓<a href="https://javascriptweekly.com/link/152037/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.2</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/152038/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p>🗓<a href="https://javascriptweekly.com/link/152037/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.2</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/152038/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152039/rss" style=" color: #3366aa; font-weight: 600;   ">webdav 客户端 5.4</a>– 用于 Node 和浏览器的 WebDAV 客户端库。</p>
@@ -991,7 +991,7 @@
 2. LLRT（低延迟运行时）：亚马逊开源的JS运行时，专注于快速启动，适用于无服务器等临时使用场景。
 3. 使用Hasura和TypeScript函数轻松实现GraphQL：Hasura连接到数据源，生成GraphQL API，并全球部署，同时支持直接在GraphQL API中编写和使用TypeScript函数。
 4. Node.js发布了安全更新，修复了一些漏洞，包括涉及HTTP DoS攻击和权限提升的高危漏洞。
-5. ECMAScript语言的提案现在有一个新的阶段：2.7阶段，3阶段现在有额外的测试要求。
+5. ECMAScript语言的提案现在有一个新的阶段：2.7，之前的3阶段现在有额外的测试要求。
 6. Express框架的最新状态和未来计划。
 7. 谷歌发布了最新版本的Gemini AI模型，支持上下文中的100万个标记。
 8. 即将推出的JavaScript注册表jsr。
@@ -1631,7 +1631,7 @@
 <p><a href="https://javascriptweekly.com/link/151188/rss" style=" color: #3366aa; font-weight: 600;   ">傀儡师重播3.0</a>– 重播录音<em>Chrome 开发者工具记录器。</em></p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/151190/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.1</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/151191/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/151190/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.1</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/151191/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p>📊<a href="https://javascriptweekly.com/link/151192/rss" style=" color: #3366aa; font-weight: 600;   ">gridstack.js 10.1</a>– 快速构建响应式交互式仪表板。</p>
