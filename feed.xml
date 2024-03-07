@@ -181,7 +181,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152023/rss" title="www.embla-carousel.com" style=" color: #3366aa;    font-size: 1.05em;">Embla Carousel 8：具有流畅运动和“滑动精度”的旋转木马</a></span>— 轮播是一种流行的 UI 元素，尽管经常受到诟病，但是<a href="https://javascriptweekly.com/link/152024/rss" style=" color: #3366aa;   ">例子</a>对我们来说工作得很好。 与库无关，但如果需要，可以轻松集成 React、Solid 和 Angular。 这<a href="https://javascriptweekly.com/link/152025/rss" style=" color: #3366aa;   ">v8.0 发行说明</a>触及许多新功能。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152023/rss" title="www.embla-carousel.com" style=" color: #3366aa;    font-size: 1.05em;">Embla Carousel 8：具有流畅运动和“滑动精度”的旋转木马</a></span>— 轮播是一种流行的 UI 元素，尽管经常受到诟病，但是<a href="https://javascriptweekly.com/link/152024/rss" style=" color: #3366aa;   ">例子</a>对我们来说工作得很好。 与库无关，但如果需要，可以轻松集成 React、Solid 和 Angular。 这<a href="https://javascriptweekly.com/link/152025/rss" style=" color: #3366aa;   ">v8.0 发行说明</a>接触许多新功能。</p>
   <p>大卫·杰勒克</p>
 </td></tr></tbody></table>
 
@@ -568,7 +568,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151710/rss" title="blog.rafaelgss.dev" style=" color: #3366aa;    font-size: 1.05em;">Node.js 的 2023 年总结</a></span>— Node.js TSC 和 Fastify 核心团队的 Rafael 分享了有关 Node.js 在过去一年的演变的有用更新、团队如何确保 Node 经过良好的测试和可靠、Node 的供应商依赖性的变化（其中获得<em>三</em>2023 年），以及 Node 安全性和 Web 存在的增强。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151710/rss" title="blog.rafaelgss.dev" style=" color: #3366aa;    font-size: 1.05em;">Node.js 的 2023 年总结</a></span>— Node.js TSC 和 Fastify 核心团队的 Rafael 分享了有关 Node.js 在过去一年的发展的有用更新、团队如何确保 Node 经过良好的测试和可靠、Node 的供应商依赖性的变化（其中获得<em>三</em>2023 年），以及 Node 安全性和 Web 存在的增强。</p>
   <p>拉斐尔冈萨加</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -607,14 +607,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151721/rss" title="rxdb.info" style=" color: #3366aa;    font-size: 1.05em;">使用指南<code>本地存储</code>在现代应用程序中</a></span>—<code>本地存储</code>大多数浏览器已经支持十五年多了，因此它是一种可靠的客户端数据存储方式，尽管仍然存在您不想使用它的情况。 一本很好的入门书，但重点是替代选项。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151721/rss" title="rxdb.info" style=" color: #3366aa;    font-size: 1.05em;">使用指南<code>本地存储</code>在现代应用程序中</a></span>—<code>本地存储</code>大多数浏览器已经支持十五年多了，因此它是一种在客户端存储数据的可靠方法，尽管仍然存在您不想使用它的情况。 一本很好的入门书，但重点是替代选项。</p>
   <p>接收数据库项目</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151722/rss" title="www.learnwithjason.dev" style=" color: #3366aa;    font-size: 1.05em;">2024 年如何使用 TypeScript 设置基本节点服务器应用程序</a></span>— 受欢迎的开发教育家 Jason 提供了有关如何使用 TypeScript 设置现代 Node 项目、实时重新加载和加载环境变量的快速教程。</p>
-  <p>杰森·朗斯托夫</p>
+  <p>贾森·朗斯托夫</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -985,7 +985,19 @@
             <guid>https://javascriptweekly.com/issues/675</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是2024年2月15日的JavaScript周报。文章中介绍了一些与JavaScript相关的新工具和库。其中包括Tempo，一个用于处理日期的工具集；LLRT，亚马逊开源的JS运行时；Hasura，一个与TypeScript函数一起使用的无缝GraphQL解决方案；以及Node.js的安全更新。此外，还提到了ECMAScript语言的新阶段、Express框架的更新计划、Google的新AI模型等。文章还包括一些教程和工具，如使用Set对象的新功能、使用Array.prototype.with方法更新不可变数组、使用Sentry进行错误和性能监控等。最后，还列举了一些新发布的工具和库，如Peggy、vue-metamorph、canvas-size等。</summary>
+    <summary>本文是2024年2月15日的JavaScript周刊，主要内容包括：
+
+1. Tempo：一个更简单的处理日期的工具集，使用原生的Date对象，提供了格式化、解析和操作日期的简单API。
+2. LLRT（低延迟运行时）：亚马逊开源的JS运行时，专注于快速启动，适用于无服务器等临时使用场景。
+3. 使用Hasura和TypeScript函数轻松实现GraphQL：Hasura连接到数据源，生成GraphQL API，并全球部署，同时支持直接在GraphQL API中编写和使用TypeScript函数。
+4. Node.js发布了安全更新，修复了一些漏洞，包括涉及HTTP DoS攻击和权限提升的高危漏洞。
+5. ECMAScript语言的提案现在有一个新的阶段：2.7阶段，3阶段现在有额外的测试要求。
+6. Express框架的最新状态和未来计划。
+7. 谷歌发布了最新版本的Gemini AI模型，支持上下文中的100万个标记。
+8. 即将推出的JavaScript注册表jsr。
+9. Vue.js DevTools 6.6发布，带来了全新的用户界面。
+10. Hono 4.0发布，这个轻量级的Web框架迈出了重要的一步。
+11. JointJS 4.0发布，这个强大的交互式图表/流程图库不</summary>
     <div>
     <div>OriginTitle: TC39 adds a new stage for ECMAScript proposals</div>
 
@@ -1077,7 +1089,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151418/rss" title="www.sonarsource.com" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 集合中包含并集、交集、差集等</a></span>—<a href="https://javascriptweekly.com/link/151419/rss" style=" color: #3366aa;   "><code>放</code></a>在 ECMAScript 2015（又名 ES6）中引入，但仅内置了一些基本方法。 Phil 研究了集合的功能以及即将推出的新功能。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151418/rss" title="www.sonarsource.com" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 集合中包含并集、交集、差集等</a></span>—<a href="https://javascriptweekly.com/link/151419/rss" style=" color: #3366aa;   "><code>放</code></a>早在 ECMAScript 2015（又名 ES6）中就引入了，但仅内置了一些基本方法。 Phil 研究了集合的功能以及即将推出的新功能。</p>
   <p>菲尔·纳什</p>
 </td></tr></tbody></table>
 
@@ -1436,7 +1448,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151131/rss" title="blog.jquery.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">jQuery 4.0.0 测试版</a></span>——我最近看了<a href="https://javascriptweekly.com/link/151132/rss" style=" color: #3366aa;   ">问题#1</a>的<em>JavaScript 周刊</em>最上面的两项是 jQuery，所以很高兴能展示它:-)<em>你</em>可能没有使用 jQuery，但它仍然无处不在，包括 WordPress。 v4 告别了 IE 10 支持，删除了许多已弃用的 API，并稍微步入了现代世界（甚至迁移到了 ESM）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151131/rss" title="blog.jquery.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">jQuery 4.0.0 测试版</a></span>——我最近看了<a href="https://javascriptweekly.com/link/151132/rss" style=" color: #3366aa;   ">问题#1</a>的<em>JavaScript 周刊</em>前两项是 jQuery，所以很高兴能展示它:-)<em>你</em>可能没有使用 jQuery，但它仍然无处不在，包括 WordPress。 v4 告别了 IE 10 支持，删除了许多已弃用的 API，并稍微步入了现代世界（甚至迁移到了 ESM）。</p>
   <p>jQuery 基金会</p>
 </td></tr></tbody></table>
 
