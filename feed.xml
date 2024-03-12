@@ -479,7 +479,7 @@
             <guid>https://javascriptweekly.com/issues/677</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些新的代码和工具，如PrimeVue 3.49.0、Waku、Embla Carousel 8等。</summary>
+    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些开源工具，如PrimeVue 3.49.0、Embla Carousel 8和Readability.js等。</summary>
     <div>
     <div>OriginTitle: Postgres in TypeScript</div>
 
@@ -983,9 +983,11 @@
 
 此外，文章还提到了Node.js在2023年的发展情况，包括Node.js的安全性和Web存在的增强。
 
-文章还列举了一些其他的新闻和更新，包括Node.js项目的新吉祥物Rocket Turtle的发布，npm上20%最受欢迎的高影响包现在包含ESM，以及一个256字节的Frogger游戏等。
+文章还列举了一些其他的新闻和更新，包括Node.js项目的新吉祥物Rocket Turtle的发布，npm上20%最受欢迎的高影响包现在包含ESM，以及一个256字节的“Frogger”游戏等。
 
-最后，文章列举了一些发布的版本和一些有用的文章和教程，以及一些代码和工具的介绍。</summary>
+最后，文章列举了一些发布的更新和一些有用的文章和教程，包括如何在现代应用程序中使用localStorage，如何使用TypeScript设置基本的Node服务器应用程序，以及HTMX与React的比较等。
+
+此外，还介绍了一些代码和工具，如数据可视化组件Perspective 2.8、Vue 3管理</summary>
     <div>
     <div>OriginTitle: A big update for ECharts</div>
 
