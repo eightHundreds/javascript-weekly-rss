@@ -184,7 +184,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152618/rss" title="cmdk.paco.me" style=" color: #3366aa;    font-size: 1.05em;">⌘K 1.0：React 应用程序的可组合、无样式“命令菜单”</a></span>— 主页包含一些各种风格的简洁示例。<a href="https://javascriptweekly.com/link/152619/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152618/rss" title="cmdk.paco.me" style=" color: #3366aa;    font-size: 1.05em;">⌘K 1.0：适用于 React 应用程序的可组合、无样式“命令菜单”</a></span>— 主页包含一些各种风格的简洁示例。<a href="https://javascriptweekly.com/link/152619/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>帕科·库西</p>
 </td></tr></tbody></table>
 
@@ -562,7 +562,7 @@
   <p>火船</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>火船有一个<a href="https://javascriptweekly.com/link/152309/rss" style=" color: #3366aa; font-weight: 600;">▶️ 100秒视频展示世博会</a>也提供了基于 React Native 的工具包的快速解释。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>火船有一个<a href="https://javascriptweekly.com/link/152309/rss" style=" color: #3366aa; font-weight: 600;">▶️100秒视频展示世博会</a>也提供了基于 React Native 的工具包的快速解释。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -921,7 +921,7 @@
             <guid>https://javascriptweekly.com/issues/677</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些开源工具和库，如PrimeVue、Waku、Embla Carousel和Viz.js等。</summary>
+    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些开源工具，如PrimeVue 3.49.0、Embla Carousel 8和Readability.js等。</summary>
     <div>
     <div>OriginTitle: Postgres in TypeScript</div>
 
@@ -942,7 +942,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且 gzip 后只有 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且压缩后仅 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
   <p>ElectricSQL / Neon</p>
 </td></tr></tbody></table>
 
@@ -1425,11 +1425,11 @@
 
 此外，文章还提到了Node.js在2023年的发展情况，包括Node.js的安全性和Web存在的增强。
 
-文章还列举了一些其他的新闻和更新，包括Node.js项目的新吉祥物Rocket Turtle的发布，npm上20%最受欢迎的高影响包现在包含ESM，以及一个256字节的Frogger游戏等。
+文章还列举了一些其他的新闻和更新，包括Node.js项目的新吉祥物Rocket Turtle的发布，npm上20%最受欢迎的高影响包现在包含ESM，以及一个256字节的“Frogger”游戏等。
 
-最后，文章列举了一些发布的版本和一些有用的文章和教程，以及一些代码和工具的介绍。
+最后，文章列举了一些发布的更新和一些有用的文章和教程，包括如何在现代应用程序中使用localStorage，如何使用TypeScript设置基本的Node服务器应用程序，以及HTMX与React的比较等。
 
-总的来说，本文涵盖了一些与JavaScript相关的新闻和更新，包括库和框架的发布，以及一些有用的文章和教程。</summary>
+此外，还介绍了一些代码和工具，如数据可视化组件Perspective 2.8、Vue 3管理</summary>
     <div>
     <div>OriginTitle: A big update for ECharts</div>
 
@@ -1515,7 +1515,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151721/rss" title="rxdb.info" style=" color: #3366aa;    font-size: 1.05em;">使用指南<code>本地存储</code>在现代应用程序中</a></span>—<code>本地存储</code>大多数浏览器已经支持十五年多了，因此它是一种在客户端存储数据的可靠方法，尽管仍然存在您不想使用它的情况。 一本很好的入门书，但重点是替代选项。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151721/rss" title="rxdb.info" style=" color: #3366aa;    font-size: 1.05em;">使用指南<code>本地存储</code>在现代应用程序中</a></span>—<code>本地存储</code>大多数浏览器已经支持十五年多了，因此它是一种可靠的客户端数据存储方式，尽管仍然存在您不想使用它的情况。 一本很好的入门书，但重点是替代选项。</p>
   <p>接收数据库项目</p>
 </td></tr></tbody></table>
 
