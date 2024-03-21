@@ -123,7 +123,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152597/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用泛型让你的 TypeScript 函数更加可重用</a></span>— Matt 首先向您提出一个需要考虑的挑战，然后展示如何通过使用类型参数而不是使用类型参数来使函数更加灵活和类型安全。<code>任何</code>。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -533,7 +533,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152297/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">Sentry 发布周：让调试变得有趣</a></span>— 我们将使调试变得有趣，抽奖礼物并讨论开发人员的所有事情。 单身的。 天。 （一星期。）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152297/rss" title="sentry.io" style=" color: #3366aa;    font-size: 1.05em;">Sentry 发布周：让调试变得有趣</a></span>— 我们将使调试变得有趣，抽奖礼物并谈论开发人员的所有事情。 单身的。 天。 （一星期。）</p>
   <p>哨兵<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>📒 文章和教程</p></td></tr></tbody></table>
@@ -601,7 +601,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152319/rss" title="www.uxpin.com" style=" color: #3366aa;    font-size: 1.05em;">您的 Google 翻译 UI ↔️ 代码</a></span>— 不要迷失在翻译中。 使用代码构建 UI 并从您的设计中复制干净的 JSX。</p>
-  <p>用户体验引脚合并<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+  <p>UXP引脚合并<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -921,7 +921,7 @@
             <guid>https://javascriptweekly.com/issues/677</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些开源工具，如PrimeVue 3.49.0、Embla Carousel 8和Readability.js等。</summary>
+    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些新的代码和工具，如PrimeVue 3.49.0、Waku、Embla Carousel 8等。</summary>
     <div>
     <div>OriginTitle: Postgres in TypeScript</div>
 
@@ -948,7 +948,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151987/rss" title="socket.dev" style=" color: #3366aa;    font-size: 1.05em;">JSR：到目前为止我们对 Deno 新 JS 包注册表的了解</a></span>— Deno 团队正在准备中<a href="https://javascriptweekly.com/link/151988/rss" style=" color: #3366aa;   ">JSR</a>（仍在等待名单后面），一个新的 JavaScript 包<em>注册表</em>（不仅仅是一个包管理工具，如 pnpm 或 Yarn）来解决各种 npm 限制，包括甚至不打算使用 Deno 的 Node 用户。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151987/rss" title="socket.dev" style=" color: #3366aa;    font-size: 1.05em;">JSR：到目前为止我们对 Deno 新 JS 包注册表的了解</a></span>— Deno 团队正在准备中<a href="https://javascriptweekly.com/link/151988/rss" style=" color: #3366aa;   ">JSR</a>（仍在等候名单后面），一个新的 JavaScript 包<em>注册表</em>（不仅仅是一个包管理工具，如 pnpm 或 Yarn）来解决各种 npm 限制，包括甚至不打算使用 Deno 的 Node 用户。</p>
   <p>莎拉·古丁（Socket）</p>
 </td></tr></tbody></table>
 
@@ -1025,7 +1025,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152008/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">StackBlitz 如何打造一款可自行呈现的 T 恤</a></span>— 我们如何使用有效的 JavaScript 设计一件 T 恤，这也是图像本身的源代码（以及如何获得它）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152008/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">StackBlitz 如何打造一款可自行渲染的 T 恤</a></span>— 我们如何使用有效的 JavaScript 设计一件 T 恤，这也是图像本身的源代码（以及如何获得它）。</p>
   <p>堆栈闪电战<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -1095,7 +1095,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152026/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Readability.js：从 HTML 文档中提取可读内容</a></span>— 用于支持 Firefox 的库的独立版本<a href="https://javascriptweekly.com/link/152027/rss" style=" color: #3366aa;   ">读者浏览。</a>自从我们与此链接以来已经有几年了，但它仍在不断改进。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152026/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">Readability.js：从 HTML 文档中提取可读内容</a></span>— 用于支持 Firefox 的库的独立版本<a href="https://javascriptweekly.com/link/152027/rss" style=" color: #3366aa;   ">读者浏览。</a>我们与此联系已经有几年了，但它仍在不断改进。</p>
   <p>莫兹拉</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1111,7 +1111,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>🎨</span>&nbsp;<a href="https://javascriptweekly.com/link/152031/rss" title="vue-color-wheel.vercel.app" style=" color: #3366aa;    font-size: 1.05em;">Vue Color Wheel：Vue 3 的轮式颜色选择器</a></span>— 远不是一个新想法，但在其主页上进行了优雅的展示。<a href="https://javascriptweekly.com/link/152032/rss" style=" color: #3366aa;   ">科罗里斯</a>如果不需要车轮视图，那么在这个空间中这是一个不错的普通替代方案。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>🎨</span>&nbsp;<a href="https://javascriptweekly.com/link/152031/rss" title="vue-color-wheel.vercel.app" style=" color: #3366aa;    font-size: 1.05em;">Vue Color Wheel：Vue 3 的轮式颜色选择器</a></span>— 远不是一个新想法，但在其主页上进行了优雅的展示。<a href="https://javascriptweekly.com/link/152032/rss" style=" color: #3366aa;   ">科罗里斯</a>如果不需要车轮视图，那么在这个空间中这是一个很好的普通替代方案。</p>
   <p>罗伯特·肖</p>
 </td></tr></tbody></table>
 
@@ -1595,7 +1595,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151739/rss" title="david.deno.dev" style=" color: #3366aa;    font-size: 1.05em;">Dax：Node 的跨平台 Shell 工具</a></span>— 类似于谷歌的<a href="https://javascriptweekly.com/link/151740/rss" style=" color: #3366aa;   ">zx</a>但使用带有常见内置命令的跨平台 shell，因此更多代码可以跨平台运行。 Dax 最初是为 Deno 编写的，但现在也支持 Node。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151739/rss" title="david.deno.dev" style=" color: #3366aa;    font-size: 1.05em;">Dax：Node 的跨平台 Shell 工具</a></span>— 类似于谷歌的<a href="https://javascriptweekly.com/link/151740/rss" style=" color: #3366aa;   ">zx</a>但使用带有常见内置命令的跨平台 shell，因此更多代码可以跨平台工作。 Dax 最初是为 Deno 编写的，但现在也支持 Node。</p>
   <p>大卫·谢雷特</p>
 </td></tr></tbody></table>
 
