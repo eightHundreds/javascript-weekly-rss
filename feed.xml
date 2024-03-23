@@ -136,13 +136,13 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152901/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用 TypeScript 构建 Node 应用程序</a></span>— 如何建立无缝的 TypeScript 开发体验，将现代 Node 应用程序与 pnpm 和 ES 模块捆绑在一起，作者是对 TypeScript 有一定了解的人。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152929/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">类型谓词推断：TS 5.5 出人意料的功能</a></span>——还有来自 Matt 的另一篇文章，他对即将在 TypeScript 5.5 中包含来自函数体的类型谓词推断感到兴奋。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -181,7 +181,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152931/rss" title="onerepo.tools" style=" color: #3366aa;    font-size: 1.05em;">oneRepo 1.0：适用于团队的全新 Monorepo 工具套件</a></span>— 当讨论 JS monorepo 管理工具时，似乎总是有人不满，但也许<a href="https://javascriptweekly.com/link/152932/rss" style=" color: #3366aa;   ">保罗的方法能赢得你的青睐吗？</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152931/rss" title="onerepo.tools" style=" color: #3366aa;    font-size: 1.05em;">oneRepo 1.0：适用于团队的全新 Monorepo 工具套件</a></span>— 当讨论 JS monorepo 管理工具时，似乎总是存在不满，但也许<a href="https://javascriptweekly.com/link/152932/rss" style=" color: #3366aa;   ">保罗的方法能赢得你的青睐吗？</a></p>
   <p>保罗·阿姆斯特朗</p>
 </td></tr></tbody></table>
 
@@ -484,7 +484,7 @@
   <p>德文·戈维特</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>𝕏 德文郡详细介绍<a href="https://javascriptweekly.com/link/152568/rss" style=" color: #3366aa; font-weight: 600;">🐦 在这个 Twitter/X 线程中。</a>您还可以再次访问<a href="https://javascriptweekly.com/link/152569/rss" style=" color: #3366aa; font-weight: 600;">Parcel 2.12.0 发布</a>了解更多。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>𝕏 德文郡详细介绍<a href="https://javascriptweekly.com/link/152568/rss" style=" color: #3366aa; font-weight: 600;">🐦 在 Twitter/X 线程中。</a>您还可以再次访问<a href="https://javascriptweekly.com/link/152569/rss" style=" color: #3366aa; font-weight: 600;">Parcel 2.12.0 发布</a>了解更多。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/152562/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/a5c6905f.png" width="180" height="53" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
@@ -554,14 +554,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152596/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">设计系统团队可以从开源维护人员那里学到的 5 个教训</a></span>— 设计系统团队必须在传播与维护和开发之间取得平衡。 事实证明，开源也是如此。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152596/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">设计系统团队可以从开源维护者那里学到的 5 个教训</a></span>— 设计系统团队必须在传播与维护和开发之间取得平衡。 事实证明，开源也是如此。</p>
   <p>堆栈闪电战<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152597/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用泛型让你的 TypeScript 函数更加可重用</a></span>— Matt 首先向您提出一个需要考虑的挑战，然后展示如何通过使用类型参数而不是使用类型参数来使函数更加灵活和类型安全。<code>任何</code>。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -948,7 +948,7 @@
 <p>📅 今年的<a href="https://javascriptweekly.com/link/152287/rss" style=" color: #3366aa; font-weight: 600;   ">JSH英雄会议</a>5 月 23 日至 24 日在罗马尼亚举行。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152288/rss" style=" color: #3366aa; font-weight: 600;   ">客户端安全性已经消亡，还是未来的关键部分？</a>盖尔·魏茨曼问道。</p>
+<p><a href="https://javascriptweekly.com/link/152288/rss" style=" color: #3366aa; font-weight: 600;   ">客户端安全是否已经消亡，还是未来的关键部分？</a>盖尔·魏茨曼问道。</p>
 </li>
 </ul>
 <p><strong>发布：</strong></p>
@@ -1039,7 +1039,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152319/rss" title="www.uxpin.com" style=" color: #3366aa;    font-size: 1.05em;">您的 Google 翻译 UI ↔️ 代码</a></span>— 不要迷失在翻译中。 使用代码构建 UI 并从您的设计中复制干净的 JSX。</p>
-  <p>用户体验引脚合并<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+  <p>UXP引脚合并<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1084,7 +1084,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152332/rss" title="first2apply.com" style=" color: #3366aa;    font-size: 1.05em;">让你的 JavaScript 求职进入自动驾驶模式</a></span>— First 2 Apply 自动监控最受欢迎的招聘网站，并向您发送有关新列表的即时通知。 免费试用。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152332/rss" title="first2apply.com" style=" color: #3366aa;    font-size: 1.05em;">让你的 JavaScript 求职进入自动驾驶仪模式</a></span>— First 2 Apply 自动监控最受欢迎的招聘网站，并向您发送有关新列表的即时通知。 免费试用。</p>
   <p>首先2申请<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1359,7 +1359,7 @@
             <guid>https://javascriptweekly.com/issues/677</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的有趣代码、以及使用Astro、Tailwind CSS和Alpine.js创建侧边栏导航等。最后，还列举了一些新的代码和工具，如PrimeVue 3.49.0、Waku、Embla Carousel 8和Readability.js等。</summary>
+    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些开源工具，如PrimeVue 3.49.0、Embla Carousel 8和Readability.js等。</summary>
     <div>
     <div>OriginTitle: Postgres in TypeScript</div>
 
@@ -1380,7 +1380,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且压缩后仅 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且 gzip 后只有 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
   <p>ElectricSQL / Neon</p>
 </td></tr></tbody></table>
 
@@ -1463,7 +1463,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152008/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">StackBlitz 如何打造一款可自行渲染的 T 恤</a></span>— 我们如何使用有效的 JavaScript 设计一件 T 恤，这也是图像本身的源代码（以及如何获得它）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152008/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">StackBlitz 如何打造一款可自行呈现的 T 恤</a></span>— 我们如何使用有效的 JavaScript 设计一件 T 恤，这也是图像本身的源代码（以及如何获得它）。</p>
   <p>堆栈闪电战<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
