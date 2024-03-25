@@ -17,15 +17,17 @@
 
 文章首先介绍了一个方便的工具，可以可视化不同JavaScript运行时（如Bun、Deno、Node等）之间的Web API和JavaScript特性的兼容性。
 
-接着介绍了一个名为Vlt的团队，他们正在开发一个新的包管理器和注册表，与npm创始人Isaac Z. Schlueter合作。
+接着介绍了一个名为Vlt的团队，由npm的创始人Isaac Z. Schlueter和其他npm CLI团队成员组成，他们正在开发一个新的包管理器和注册表。
 
-文章还提到了Postman的年度用户大会POST/CON 24的注册信息，这是一个全球API社区的交流和学习的机会。
+文章还提到了Postman即将举办的年度用户大会POST/CON 24，并鼓励读者注册参加。
 
-其他内容包括Angular的ngConf 2024的一些有趣的公告，Chrome 123中WebAssembly JSPI进入原始试验阶段，以及Stack Overflow采访了Node的创始人Ryan Dahl关于他为什么转向创建Deno的原因。
+其他内容包括Angular的ngConf 2024的一些有趣的公告、Chrome 123中WebAssembly JSPI进入原始试验阶段、Stack Overflow采访了Node的创始人Ryan Dahl等。
 
-此外，还介绍了一些新的软件发布和工具，以及一些有关JavaScript优化、Node.js和TypeScript的文章和教程。
+文章还列举了一些发布的版本和一些有用的工具和库。
 
-总的来说，本文涵盖了JavaScript生态系统中的多个方面和最新动态。</summary>
+最后，文章提供了一些技术文章和教程，包括优化JavaScript性能、在Node.js中使用require(esm)、构建具有TypeScript的Node应用程序等。
+
+总的来说，本文涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的周刊。</summary>
     <div>
     <div>OriginTitle: Package managers, the new todo app?</div>
 
@@ -163,7 +165,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 (<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 （<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
   <p>典型代码</p>
 </td></tr></tbody></table>
 
@@ -181,7 +183,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152931/rss" title="onerepo.tools" style=" color: #3366aa;    font-size: 1.05em;">oneRepo 1.0：适用于团队的全新 Monorepo 工具套件</a></span>— 当讨论 JS monorepo 管理工具时，似乎总是存在不满，但也许<a href="https://javascriptweekly.com/link/152932/rss" style=" color: #3366aa;   ">保罗的方法能赢得你的青睐吗？</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152931/rss" title="onerepo.tools" style=" color: #3366aa;    font-size: 1.05em;">oneRepo 1.0：适用于团队的全新 Monorepo 工具套件</a></span>— 当讨论 JS monorepo 管理工具时，似乎总是有人不满，但也许<a href="https://javascriptweekly.com/link/152932/rss" style=" color: #3366aa;   ">保罗的方法能赢得你的青睐吗？</a></p>
   <p>保罗·阿姆斯特朗</p>
 </td></tr></tbody></table>
 
@@ -205,7 +207,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 (<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 （<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
@@ -484,7 +486,7 @@
   <p>德文·戈维特</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>𝕏 德文郡详细介绍<a href="https://javascriptweekly.com/link/152568/rss" style=" color: #3366aa; font-weight: 600;">🐦 在 Twitter/X 线程中。</a>您还可以再次访问<a href="https://javascriptweekly.com/link/152569/rss" style=" color: #3366aa; font-weight: 600;">Parcel 2.12.0 发布</a>了解更多。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>𝕏 德文郡详细介绍<a href="https://javascriptweekly.com/link/152568/rss" style=" color: #3366aa; font-weight: 600;">🐦 在这个 Twitter/X 线程中。</a>您还可以再次访问<a href="https://javascriptweekly.com/link/152569/rss" style=" color: #3366aa; font-weight: 600;">Parcel 2.12.0 发布</a>了解更多。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/152562/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/a5c6905f.png" width="180" height="53" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
@@ -637,7 +639,7 @@
 <p><a href="https://javascriptweekly.com/link/152621/rss" style=" color: #3366aa; font-weight: 600;   ">克尼普 5.1</a>– 查找未使用的文件、依赖项和导出。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152622/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.3</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/152623/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/152622/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.3</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/152623/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152624/rss" style=" color: #3366aa; font-weight: 600;   ">覆盖滚动条 2.6</a>– JavaScript 自定义滚动条插件。</p>
@@ -948,7 +950,7 @@
 <p>📅 今年的<a href="https://javascriptweekly.com/link/152287/rss" style=" color: #3366aa; font-weight: 600;   ">JSH英雄会议</a>5 月 23 日至 24 日在罗马尼亚举行。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152288/rss" style=" color: #3366aa; font-weight: 600;   ">客户端安全是否已经消亡，还是未来的关键部分？</a>盖尔·魏茨曼问道。</p>
+<p><a href="https://javascriptweekly.com/link/152288/rss" style=" color: #3366aa; font-weight: 600;   ">客户端安全性已经消亡，还是未来的关键部分？</a>盖尔·魏茨曼问道。</p>
 </li>
 </ul>
 <p><strong>发布：</strong></p>
@@ -1380,7 +1382,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且 gzip 后只有 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且压缩后仅 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
   <p>ElectricSQL / Neon</p>
 </td></tr></tbody></table>
 
@@ -1463,7 +1465,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152008/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">StackBlitz 如何打造一款可自行呈现的 T 恤</a></span>— 我们如何使用有效的 JavaScript 设计一件 T 恤，这也是图像本身的源代码（以及如何获得它）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152008/rss" title="blog.stackblitz.com" style=" color: #3366aa;    font-size: 1.05em;">StackBlitz 如何打造一款可自行渲染的 T 恤</a></span>— 我们如何使用有效的 JavaScript 设计一件 T 恤，这也是图像本身的源代码（以及如何获得它）。</p>
   <p>堆栈闪电战<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -1570,7 +1572,7 @@
 <p><a href="https://javascriptweekly.com/link/152036/rss" style=" color: #3366aa; font-weight: 600;   ">React 严格 DOM (RSD)</a>– React DOM 和 StyleX 的实验性集成，以标准化样式化 React 组件（Web 和本机）的开发。</p>
 </li>
 <li>
-<p>🗓<a href="https://javascriptweekly.com/link/152037/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.2</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/152038/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p>🗓<a href="https://javascriptweekly.com/link/152037/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.2</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/152038/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152039/rss" style=" color: #3366aa; font-weight: 600;   ">webdav 客户端 5.4</a>– 用于 Node 和浏览器的 WebDAV 客户端库。</p>
