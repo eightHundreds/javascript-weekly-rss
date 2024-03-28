@@ -17,17 +17,15 @@
 
 文章首先介绍了一个方便的工具，可以可视化不同JavaScript运行时（如Bun、Deno、Node等）之间的Web API和JavaScript特性的兼容性。
 
-接着介绍了一个名为Vlt的团队，由npm的创始人Isaac Z. Schlueter和其他npm CLI团队成员组成，他们正在开发一个新的包管理器和注册表。
+接着介绍了一个名为Vlt的团队，他们正在开发一个新的包管理器和注册表，与npm创始人Isaac Z. Schlueter合作。
 
-文章还提到了Postman即将举办的年度用户大会POST/CON 24，并鼓励读者注册参加。
+文章还提到了Postman的年度用户大会POST/CON 24的注册信息，这是一个全球API社区的交流和学习的机会。
 
-其他内容包括Angular的ngConf 2024的一些有趣的公告、Chrome 123中WebAssembly JSPI进入原始试验阶段、Stack Overflow采访了Node的创始人Ryan Dahl等。
+其他内容包括Angular的ngConf 2024的一些有趣的公告，Chrome 123中WebAssembly JSPI进入原始试验阶段，以及Stack Overflow采访了Node的创始人Ryan Dahl关于他为什么转向创建Deno的原因。
 
-文章还列举了一些发布的版本和一些有用的工具和库。
+此外，还介绍了一些新的软件发布和工具，以及一些有关JavaScript优化、Node.js和TypeScript的文章和教程。
 
-最后，文章提供了一些技术文章和教程，包括优化JavaScript性能、在Node.js中使用require(esm)、构建具有TypeScript的Node应用程序等。
-
-总的来说，本文涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的周刊。</summary>
+总的来说，本文涵盖了JavaScript生态系统中的多个方面和最新动态。</summary>
     <div>
     <div>OriginTitle: Package managers, the new todo app?</div>
 
@@ -113,7 +111,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>📉</span>&nbsp;<a href="https://javascriptweekly.com/link/152928/rss" title="romgrk.com" style=" color: #3366aa;    font-size: 1.05em;">优化 JavaScript 以获取乐趣和利润</a></span>— 概述了要避免的几件事，以保持代码快速流畅地运行，并附有示例。 虽然我们的表现基础经常发生变化，但其中许多都是良好的常识性做法。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><span>📉</span>&nbsp;<a href="https://javascriptweekly.com/link/152928/rss" title="romgrk.com" style=" color: #3366aa;    font-size: 1.05em;">优化 JavaScript 以获取乐趣和利润</a></span>— 介绍了要避免的几件事，以保持代码快速流畅地运行，并附有示例。 虽然我们的表现基础经常发生变化，但其中许多都是良好的常识性做法。</p>
   <p>罗姆·格克</p>
 </td></tr></tbody></table>
 
@@ -138,13 +136,13 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152901/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用 TypeScript 构建 Node 应用程序</a></span>— 如何建立无缝的 TypeScript 开发体验，将现代 Node 应用程序与 pnpm 和 ES 模块捆绑在一起，作者是对 TypeScript 有一定了解的人。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152929/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">类型谓词推断：TS 5.5 出人意料的功能</a></span>——还有来自 Matt 的另一篇文章，他对即将在 TypeScript 5.5 中包含来自函数体的类型谓词推断感到兴奋。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -210,7 +208,7 @@
 <p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 （<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
+<p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152918/rss" style=" color: #3366aa; font-weight: 600;   ">快乐 DOM 14.2</a>– 网页浏览器的 JS 实现<em>无字体</em>用户界面。</p>
@@ -563,7 +561,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152597/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用泛型让你的 TypeScript 函数更加可重用</a></span>— Matt 首先向您提出一个需要考虑的挑战，然后展示如何通过使用类型参数而不是使用类型参数来使函数更加灵活和类型安全。<code>任何</code>。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -584,7 +582,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152604/rss" title="rolldown.rs" style=" color: #3366aa;    font-size: 1.05em;">Rolldown：一个 Rust 驱动的 JavaScript 捆绑器</a></span>— 进入日益拥挤的市场的新入口，但他们<a href="https://javascriptweekly.com/link/152605/rss" style=" color: #3366aa;   ">解释为什么他们在这里建造它</a>– 它的目的是支持未来的捆绑器用于<a href="https://javascriptweekly.com/link/152606/rss" style=" color: #3366aa;   ">维特</a>，而不是 esbuild 和 Rollup。<a href="https://javascriptweekly.com/link/152607/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152604/rss" title="rolldown.rs" style=" color: #3366aa;    font-size: 1.05em;">Rolldown：一个 Rust 驱动的 JavaScript 捆绑器</a></span>— 进入日益拥挤的市场的新进入者，但他们<a href="https://javascriptweekly.com/link/152605/rss" style=" color: #3366aa;   ">解释为什么他们在这里建造它</a>– 它的目的是支持未来的捆绑器用于<a href="https://javascriptweekly.com/link/152606/rss" style=" color: #3366aa;   ">维特</a>，而不是 esbuild 和 Rollup。<a href="https://javascriptweekly.com/link/152607/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
   <p>滚下来</p>
 </td></tr></tbody></table>
 
@@ -1361,7 +1359,7 @@
             <guid>https://javascriptweekly.com/issues/677</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的有趣代码、以及使用Astro、Tailwind CSS和Alpine.js创建侧边栏导航等。最后，还列举了一些新的代码和工具，如PrimeVue 3.49.0、Waku、Embla Carousel 8和Readability.js等。</summary>
+    <summary>本文主要介绍了一些与JavaScript相关的新闻和工具。其中包括将PostgreSQL打包成TypeScript库在浏览器中运行的PGlite，以及Deno团队正在开发的新的JavaScript包注册表JSR。此外，还介绍了一些新的软件发布，如Express.js 4.18.3、Deno 1.41和Playwright 1.42。文章还包括了一些有关JavaScript的教程和工具，如使用Performance API进行性能报告、使用Promise.race搜索音频文件的示例代码等。最后，还介绍了一些新的代码和工具，如PrimeVue 3.49.0、Waku、Embla Carousel 8等。</summary>
     <div>
     <div>OriginTitle: Postgres in TypeScript</div>
 
@@ -1382,7 +1380,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且 gzip 后只有 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/151985/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">PGlite：WebAssembly（和 TypeScript）中的 PostgreSQL</a></span>— 人们之前已经将 Postgres 引入浏览器，尽管是在 Linux VM WASM 层之上。 然而，PGlite 将 Postgres 的 WASM 版本打包到 TypeScript 库中，该库可以在浏览器或 Node.js 或 Bun 上运行，并且压缩后仅 3.7MB。 你可以玩<a href="https://javascriptweekly.com/link/151986/rss" style=" color: #3366aa;   ">现场部署在这里</a>。</p>
   <p>ElectricSQL / Neon</p>
 </td></tr></tbody></table>
 
