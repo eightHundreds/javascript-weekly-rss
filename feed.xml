@@ -40,7 +40,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/153158/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js：一部关于其起源故事的纪录片</a></span>— 虽然时长一个小时，但这部纪录片很好地介绍了 Node 的历史，包括一切是如何酝酿成 2014 年 io.js 分叉的。也许是复活节周末观看？</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/153158/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js：一部关于其起源故事的纪录片</a></span>— 虽然时长一个小时，但这部纪录片特别详细地介绍了 Node 的历史，包括一切如何酝酿成 2014 年 io.js 分叉。复活节周末观看，也许？</p>
   <p>蜜罐</p>
 </td></tr></tbody></table>
 
@@ -149,7 +149,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153189/rss" title="trix-editor.org" style=" color: #3366aa;    font-size: 1.05em;">Trix 2.1：简洁、丰富的所见即所得 Web 编辑器</a></span>— 由 37signals（被誉为 Ruby on Rails 的诞生地）的人员开发的 WYSIWYG 编辑器。 它在他们的 Basecamp 和 HEY 应用程序中使用，因此经过了尽可能多的压力测试。<a href="https://javascriptweekly.com/link/153190/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153189/rss" title="trix-editor.org" style=" color: #3366aa;    font-size: 1.05em;">Trix 2.1：简洁、丰富的所见即所得 Web 编辑器</a></span>— 由 37signals（被誉为 Ruby on Rails 的诞生地）的人员开发的 WYSIWYG 编辑器。 它在他们的 Basecamp 和 HEY 应用程序中使用，因此几乎经过了尽可能多的压力测试。<a href="https://javascriptweekly.com/link/153190/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>37信号</p>
 </td></tr></tbody></table>
 
@@ -509,7 +509,7 @@
 <p><a href="https://javascriptweekly.com/link/152890/rss" style=" color: #3366aa; font-weight: 600;   ">sh.mhs / 简写 javascript</a>是一些 JavaScript 的一个可爱的例子<em>打高尔夫球</em>使用一些经过深思熟虑但仍然可读的别名。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152926/rss" style=" color: #3366aa; font-weight: 600;   ">▶️ Honeypot 的 Node.js 纪录片</a>今天晚些时候在 YouTube 上首播（<em>但就在我们发稿后</em>）。</p>
+<p><a href="https://javascriptweekly.com/link/152926/rss" style=" color: #3366aa; font-weight: 600;   ">▶️ Honeypot 的 Node.js 纪录片</a>今天晚些时候在 YouTube 上首播（<em>但就在我们发稿之后</em>）。</p>
 </li>
 <li>
 <p>上周我们精选了<a href="https://javascriptweekly.com/link/152885/rss" style=" color: #3366aa; font-weight: 600;   ">WinterJS v1.0 发布</a>，一个基于SpiderMonkey的JS运行时，但是<a href="https://javascriptweekly.com/link/152886/rss" style=" color: #3366aa; font-weight: 600;   ">与其他替代方案相比，它的速度有多快？</a></p>
