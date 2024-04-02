@@ -40,7 +40,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/153158/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js：一部关于其起源故事的纪录片</a></span>— 虽然时长一个小时，但这部纪录片很好地介绍了 Node 的历史，包括一切是如何酝酿成 2014 年 io.js 分叉的。也许是复活节周末观看？</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/153158/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js：一部关于其起源故事的纪录片</a></span>— 虽然时长一个小时，但这部纪录片特别详细地介绍了 Node 的历史，包括一切如何酝酿成 2014 年 io.js 分叉。复活节周末观看，也许？</p>
   <p>蜜罐</p>
 </td></tr></tbody></table>
 
@@ -150,7 +150,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153189/rss" title="trix-editor.org" style=" color: #3366aa;    font-size: 1.05em;">Trix 2.1：简洁、丰富的所见即所得 Web 编辑器</a></span>— 由 37signals（被誉为 Ruby on Rails 的诞生地）的人员开发的 WYSIWYG 编辑器。 它在他们的 Basecamp 和 HEY 应用程序中使用，因此几乎经过了尽可能多的压力测试。<a href="https://javascriptweekly.com/link/153190/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
-  <p>37个信号</p>
+  <p>37信号</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -447,17 +447,15 @@
 
 文章首先介绍了一个方便的工具，可以可视化不同JavaScript运行时（如Bun、Deno、Node等）之间的Web API和JavaScript特性的兼容性。
 
-接着介绍了一个名为Vlt的团队，由npm的创始人Isaac Z. Schlueter和其他npm CLI团队成员组成，他们正在开发一个新的包管理器和注册表。
+接着介绍了一个名为Vlt的团队，他们正在开发一个新的包管理器和注册表，与npm创始人Isaac Z. Schlueter合作。
 
-文章还提到了Postman即将举办的年度用户大会POST/CON 24的注册信息。
+文章还提到了Postman的年度用户大会POST/CON 24的注册信息，这是一个全球API社区的交流和学习的机会。
 
-其他内容包括Angular的ngConf 2024的一些有趣的公告、Chrome 123中WebAssembly JSPI进入原始试验阶段、Stack Overflow采访了Node的创始人Ryan Dahl等。
+其他内容包括Angular的ngConf 2024的一些有趣的公告，Chrome 123中WebAssembly JSPI进入原始试验阶段，以及Stack Overflow采访了Node的创始人Ryan Dahl关于他为什么转向创建Deno的原因。
 
-文章还列举了一些发布的版本和一些有用的工具和代码库。
+此外，还介绍了一些新的软件发布和工具，以及一些有关JavaScript优化、Node.js和TypeScript的文章和教程。
 
-最后，文章提供了一些技术文章和教程，包括优化JavaScript性能、在Node.js中使用require(esm)、构建具有TypeScript的Node应用程序等。
-
-总的来说，本文涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的周刊。</summary>
+总的来说，本文涵盖了JavaScript生态系统中的多个方面和最新动态。</summary>
     <div>
     <div>OriginTitle: Package managers, the new todo app?</div>
 
@@ -568,13 +566,13 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152901/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用 TypeScript 构建 Node 应用程序</a></span>— 如何建立无缝的 TypeScript 开发体验，将现代 Node 应用程序与 pnpm 和 ES 模块捆绑在一起，作者是对 TypeScript 有一定了解的人。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152929/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">类型谓词推断：TS 5.5 出人意料的功能</a></span>——还有来自 Matt 的另一篇文章，他对即将在 TypeScript 5.5 中包含来自函数体的类型谓词推断感到兴奋。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -595,7 +593,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 (<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 （<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
   <p>典型代码</p>
 </td></tr></tbody></table>
 
@@ -619,7 +617,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152908/rss" title="eta.js.org" style=" color: #3366aa;    font-size: 1.05em;">Eta 3.4：适用于 Node、Deno 和浏览器的嵌入式 JS 模板引擎</a></span>— 拥有比 EJS 更轻、更快的特性，但具有许多相同的功能（它看起来<em>很多</em>就像 Ruby 的 ERB，如果你喜欢那种氛围的话）。<a href="https://javascriptweekly.com/link/152909/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152908/rss" title="eta.js.org" style=" color: #3366aa;    font-size: 1.05em;">Eta 3.4：适用于 Node、Deno 和浏览器的嵌入式 JS 模板引擎</a></span>— 拥有比 EJS 更轻、更快的特性，但具有许多相同的功能（它看起来<em>很多</em>就像 Ruby 的 ERB，如果你喜欢那种氛围）。<a href="https://javascriptweekly.com/link/152909/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>本·古柏勒</p>
 </td></tr></tbody></table>
 
@@ -637,7 +635,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 (<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 （<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
@@ -993,7 +991,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152597/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用泛型让你的 TypeScript 函数更加可重用</a></span>— Matt 首先向您提出一个需要考虑的挑战，然后展示如何通过使用类型参数而不是使用类型参数来使函数更加灵活和类型安全。<code>任何</code>。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1014,7 +1012,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152604/rss" title="rolldown.rs" style=" color: #3366aa;    font-size: 1.05em;">Rolldown：一个 Rust 驱动的 JavaScript 捆绑器</a></span>— 进入日益拥挤的市场的新进入者，但他们<a href="https://javascriptweekly.com/link/152605/rss" style=" color: #3366aa;   ">解释为什么他们在这里建造它</a>– 它的目的是支持未来的捆绑器用于<a href="https://javascriptweekly.com/link/152606/rss" style=" color: #3366aa;   ">维特</a>，而不是 esbuild 和 Rollup。<a href="https://javascriptweekly.com/link/152607/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152604/rss" title="rolldown.rs" style=" color: #3366aa;    font-size: 1.05em;">Rolldown：一个 Rust 驱动的 JavaScript 捆绑器</a></span>— 进入日益拥挤的市场的新入口，但他们<a href="https://javascriptweekly.com/link/152605/rss" style=" color: #3366aa;   ">解释为什么他们在这里建造它</a>– 它的目的是支持未来的捆绑器用于<a href="https://javascriptweekly.com/link/152606/rss" style=" color: #3366aa;   ">维特</a>，而不是 esbuild 和 Rollup。<a href="https://javascriptweekly.com/link/152607/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
   <p>滚下来</p>
 </td></tr></tbody></table>
 
@@ -1069,7 +1067,7 @@
 <p><a href="https://javascriptweekly.com/link/152621/rss" style=" color: #3366aa; font-weight: 600;   ">克尼普 5.1</a>– 查找未使用的文件、依赖项和导出。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152622/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.3</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/152623/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/152622/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.3</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/152623/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152624/rss" style=" color: #3366aa; font-weight: 600;   ">覆盖滚动条 2.6</a>– JavaScript 自定义滚动条插件。</p>
@@ -1386,7 +1384,7 @@
 <p><strong>发布：</strong></p>
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/152290/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js v21.7（当前）</a>– Node 获得了输出彩色文本、加载和解析环境变量以及支持多行值的内置方法<code>.env</code>文件。</p>
+<p><a href="https://javascriptweekly.com/link/152290/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js v21.7（当前）</a>– Node 获得了一种内置的方式来输出彩色文本、加载和解析环境变量以及支持多行值<code>.env</code>文件。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152291/rss" style=" color: #3366aa; font-weight: 600;   ">打字稿 5.4</a>– 改进的类型缩小，<code>不推断</code>实用型，<code>对象.groupBy</code>,<code>映射.groupBy</code>， 和更多。</p>
@@ -1432,7 +1430,7 @@
   <p>火船</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>火船有一个<a href="https://javascriptweekly.com/link/152309/rss" style=" color: #3366aa; font-weight: 600;">▶️100秒视频展示世博会</a>也提供了基于 React Native 的工具包的快速解释。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>火船有一个<a href="https://javascriptweekly.com/link/152309/rss" style=" color: #3366aa; font-weight: 600;">▶️ 100秒视频展示世博会</a>也提供了基于 React Native 的工具包的快速解释。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
@@ -1471,7 +1469,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152319/rss" title="www.uxpin.com" style=" color: #3366aa;    font-size: 1.05em;">您的 Google 翻译 UI ↔️ 代码</a></span>— 不要迷失在翻译中。 使用代码构建 UI 并从您的设计中复制干净的 JSX。</p>
-  <p>UXP引脚合并<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
+  <p>用户体验引脚合并<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1482,7 +1480,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152324/rss" title="pixijs.com" style=" color: #3366aa;    font-size: 1.05em;">PixiJS v8：构建引人注目的 2D WebGL 体验</a></span>—<a href="https://javascriptweekly.com/link/152325/rss" style=" color: #3366aa;   ">PixiJS</a>是一个<em>非常</em>成熟、历史悠久的渲染库，消除了为 Web 构建快速 2D 图形体验的所有痛苦。 v8 拥有<em>重要的</em>性能改进、WebGPU 支持的渲染器以及各种 API 改进。 如果您是 Pixi 新手，这里有<a href="https://javascriptweekly.com/link/152326/rss" style=" color: #3366aa;   ">交互式教程</a>向您展示诀窍。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152324/rss" title="pixijs.com" style=" color: #3366aa;    font-size: 1.05em;">PixiJS v8：构建引人注目的 2D WebGL 体验</a></span>—<a href="https://javascriptweekly.com/link/152325/rss" style=" color: #3366aa;   ">PixiJS</a>是一个<em>非常</em>成熟、历史悠久的渲染库，消除了为 Web 构建快速 2D 图形体验的所有痛苦。 v8 拥有<em>重要的</em>性能改进、WebGPU 支持的渲染器以及各种 API 改进。 如果您是 Pixi 新手，这里有<a href="https://javascriptweekly.com/link/152326/rss" style=" color: #3366aa;   ">互动教程</a>向您展示诀窍。</p>
   <p>PixiJS团队</p>
 </td></tr></tbody></table>
 
