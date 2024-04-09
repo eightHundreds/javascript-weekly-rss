@@ -21,13 +21,13 @@
 
 3. JS-Torch：这是一个类似于Python的PyTorch的JavaScript库，提供了一些机器学习的功能，可以在浏览器中进行演示。
 
-4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在已经支持Windows 10及以上版本，这对于其采用具有重要意义，同时还改进了与Node.js的兼容性。
+4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，这是其在Windows上的关键一步。
 
-5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte框架的一次误解、Deno、Babylon.js和Node.js等的最新版本发布。
+5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte的一个误解、Deno、Babylon.js和Node.js等的最新版本发布。
 
-6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展历程、构建设计系统的经验、浏览器的BFCache优化、在浏览器中运行OCR等。
+6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、设计系统的扩展经验、浏览器的BFCache优化、在浏览器中运行OCR等。
 
-7. 代码和工具：包括一个</summary>
+7. 代码和工具：包括一个日历组件库、基于Cloudflare的可扩展网络分析工具、音乐</summary>
     <div>
     <div>OriginTitle: A signal boost for JavaScript</div>
 
@@ -905,11 +905,11 @@
 
 接着介绍了一个名为Vlt的团队，由npm的创始人Isaac Z. Schlueter和其他npm CLI团队成员组成，他们正在开发一个新的包管理器和注册表。
 
-文章还提到了Postman即将举办的年度用户大会POST/CON 24，并鼓励读者注册参加。
+文章还提到了Postman即将举办的年度用户大会POST/CON 24的注册信息。
 
 其他内容包括Angular的ngConf 2024的一些有趣的公告、Chrome 123中WebAssembly JSPI进入原始试验阶段、Stack Overflow采访了Node的创始人Ryan Dahl等。
 
-文章还列举了一些发布的版本和一些有用的工具和库。
+文章还列举了一些发布的版本和一些有用的工具和代码库。
 
 最后，文章提供了一些技术文章和教程，包括优化JavaScript性能、在Node.js中使用require(esm)、构建具有TypeScript的Node应用程序等。
 
@@ -1024,13 +1024,13 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152901/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用 TypeScript 构建 Node 应用程序</a></span>— 如何建立无缝的 TypeScript 开发体验，将现代 Node 应用程序与 pnpm 和 ES 模块捆绑在一起，作者是对 TypeScript 有一定了解的人。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152929/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">类型谓词推断：TS 5.5 出人意料的功能</a></span>——还有来自 Matt 的另一篇文章，他对即将在 TypeScript 5.5 中包含来自函数体的类型谓词推断感到兴奋。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1449,7 +1449,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152597/rss" title="www.totaltypescript.com" style=" color: #3366aa;    font-size: 1.05em;">使用泛型让你的 TypeScript 函数更加可重用</a></span>— Matt 首先向您提出一个需要考虑的挑战，然后展示如何通过使用类型参数而不是使用类型参数来使函数更加灵活和类型安全。<code>任何</code>。</p>
-  <p>马特·波考克</p>
+  <p>马特·波科克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
