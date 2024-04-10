@@ -17,17 +17,19 @@
 
 1. ECMAScript/JavaScript新增功能提案：提案了一种新的功能——信号，旨在统一各种流行框架的思想，使得在处理状态和基于状态变化进行更新时能够达成一致。
 
-2. 使用MongoDB和Node.js构建RAG Chatbot应用：介绍了一个使用Atlas Vector Search和Node.js构建自己的聊天机器人应用的开发者活动。
+2. 使用MongoDB和Node.js构建RAG Chatbot应用：介绍了一个使用Atlas Vector Search和Node.js构建自己的Chatbot应用的开发者活动。
 
 3. JS-Torch：这是一个类似于Python的PyTorch的JavaScript库，提供了一些机器学习的功能，可以在浏览器中进行演示。
 
-4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，这是其在Windows上的关键一步。
+4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，这是其在Windows平台上的关键一步。
 
-5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte的一个误解、Deno、Babylon.js和Node.js等的最新版本发布。
+5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte框架的一次误解、Deno 1.42的更新等。
 
-6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、设计系统的扩展经验、浏览器的BFCache优化、在浏览器中运行OCR等。
+6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、构建设计系统的经验等。
 
-7. 代码和工具：包括一个日历组件库、基于Cloudflare的可扩展网络分析工具、音乐</summary>
+7. 代码和工具：包括一个日历组件库、一个基于Cloudflare的可扩展网络分析工具、一个音乐理论库等。
+
+8. 发布的更新：包括Deno、Babylon.js、Node.js等</summary>
     <div>
     <div>OriginTitle: A signal boost for JavaScript</div>
 
@@ -48,7 +50,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期阶段的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们达成共识。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期阶段的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们处于同一页面上。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
   <p>罗布·艾森伯格和丹尼尔·埃伦伯格</p>
 </td></tr></tbody></table>
 
@@ -66,14 +68,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153407/rss" title="bun.sh" style=" color: #3366aa;    font-size: 1.05em;">Bun 1.1 发布：现在也支持 Windows</a></span>— 轻松愉快的代号<em>邦多斯</em>，替代服务器端运行时现在直接在 Windows 10 及更高版本上运行（当然还有 WSL、macOS 和 Linux）。 这是其采用的关键一步，甚至具有以下功能：<a href="https://javascriptweekly.com/link/153408/rss" style=" color: #3366aa;   ">包子壳</a>开箱即用，对 Windows 感到满意。 节点兼容性不断提高，支持<code>节点：http2</code>Bun 和 Node 进程之间的 IPC 支持。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153407/rss" title="bun.sh" style=" color: #3366aa;    font-size: 1.05em;">Bun 1.1 发布：现在也支持 Windows</a></span>— 轻松愉快的代号<em>邦多斯</em>，替代服务器端运行时现在可以直接在 Windows 10 及更高版本上运行（当然还有 WSL、macOS 和 Linux）。 这是其采用的关键一步，甚至具有以下功能：<a href="https://javascriptweekly.com/link/153408/rss" style=" color: #3366aa;   ">包子壳</a>开箱即用，对 Windows 感到满意。 节点兼容性不断提高，支持<code>节点：http2</code>Bun 和 Node 进程之间的 IPC 支持。</p>
   <p>整个包子团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p>V8 团队的 Samuel Groß<a href="https://javascriptweekly.com/link/153409/rss" style=" color: #3366aa; font-weight: 600;   ">解释 V8 沙箱</a>，一种安全机制，旨在防止 V8 引擎中的内存损坏影响进程中的其他内存。</p>
+<p>V8 团队的 Samuel Groß<a href="https://javascriptweekly.com/link/153409/rss" style=" color: #3366aa; font-weight: 600;   ">解释 V8 沙盒</a>，一种安全机制，旨在防止 V8 引擎中的内存损坏影响进程中的其他内存。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153461/rss" style=" color: #3366aa; font-weight: 600;   ">Dexie.js</a>是 IndexedDB 的流行包装器，它的创建者已经推出<a href="https://javascriptweekly.com/link/153462/rss" style=" color: #3366aa; font-weight: 600;   ">德克西云</a>，一个在应用程序之间存储和同步数据的平台。</p>
@@ -94,7 +96,7 @@
 <p><a href="https://javascriptweekly.com/link/153414/rss" style=" color: #3366aa; font-weight: 600;   ">德诺 1.42</a>– 替代 JS 运行时添加了一流的支持<a href="https://javascriptweekly.com/link/153415/rss" style=" color: #3366aa; font-weight: 600;   ">JSR</a>并进一步提高了 Node.js 的兼容性。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153416/rss" style=" color: #3366aa; font-weight: 600;   ">巴比伦.js 7</a>（<a href="https://javascriptweekly.com/link/153417/rss" style=" color: #3366aa; font-weight: 600;   ">主页</a>) – 流行渲染引擎的关键版本。</p>
+<p><a href="https://javascriptweekly.com/link/153416/rss" style=" color: #3366aa; font-weight: 600;   ">巴比伦.js 7</a>(<a href="https://javascriptweekly.com/link/153417/rss" style=" color: #3366aa; font-weight: 600;   ">主页</a>) – 流行渲染引擎的关键版本。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153418/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js 4 月 3 日安全版本</a>– 包括<a href="https://javascriptweekly.com/link/153419/rss" style=" color: #3366aa; font-weight: 600;   ">18.20.1</a>,<a href="https://javascriptweekly.com/link/153420/rss" style=" color: #3366aa; font-weight: 600;   ">20.12.1</a>&amp;amp;<a href="https://javascriptweekly.com/link/153421/rss" style=" color: #3366aa; font-weight: 600;   ">21.7.2</a>。</p>
@@ -114,7 +116,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153424/rss" title="blog.trl.sn" style=" color: #3366aa;    font-size: 1.05em;">甚至什么<em>是</em>JSON 数字？</a></span>— 尽管存在围绕 JSON 的标准，但答案比您想象的要复杂，特别是在与 JavaScript 以外的其他生态系统和语言进行交互时。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153424/rss" title="blog.trl.sn" style=" color: #3366aa;    font-size: 1.05em;">甚至什么<em>是</em>JSON 数字？</a></span>— 尽管存在围绕 JSON 的标准，但答案比您想象的要复杂，尤其是在与 JavaScript 以外的其他生态系统和语言进行交互时。</p>
   <p>布赖恩·特尔森</p>
 </td></tr></tbody></table>
 
@@ -132,7 +134,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153431/rss" title="www.sabatino.dev" style=" color: #3366aa;    font-size: 1.05em;">BFCache 解释</a></span>- 这<a href="https://javascriptweekly.com/link/153432/rss" style=" color: #3366aa;   ">后退/前进缓存</a>('bfcache') 是一种浏览器优化，可以使浏览器中的后退和前进变得更快 - 它已经存在多年，通常让 JavaScript 开发人员独自一人，但有一些事情值得注意。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153431/rss" title="www.sabatino.dev" style=" color: #3366aa;    font-size: 1.05em;">BFCache 解释</a></span>- 这<a href="https://javascriptweekly.com/link/153432/rss" style=" color: #3366aa;   ">后退/前进缓存</a>('bfcache') 是一种浏览器优化，可以让浏览器中的后退和前进变得更快 - 它已经存在多年，通常让 JavaScript 开发人员独自一人，但有一些事情值得注意。</p>
   <p>萨巴蒂诺·马萨拉</p>
 </td></tr></tbody></table>
 
@@ -221,7 +223,7 @@
 <p><a href="https://javascriptweekly.com/link/153454/rss" style=" color: #3366aa; font-weight: 600;   ">迷你匹配9.0.4</a>– 全局匹配函数 – 使用<code>新项目管理</code>本身。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153455/rss" style=" color: #3366aa; font-weight: 600;   ">vue-电话输入 9.0</a>– Vue 的电话号码输入。 （<a href="https://javascriptweekly.com/link/153456/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/153455/rss" style=" color: #3366aa; font-weight: 600;   ">vue-电话输入 9.0</a>– Vue 的电话号码输入。 (<a href="https://javascriptweekly.com/link/153456/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153457/rss" style=" color: #3366aa; font-weight: 600;   ">覆盖滚动条 2.7</a>– JS自定义滚动条插件。</p>
@@ -496,7 +498,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/153158/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js：一部关于其起源故事的纪录片</a></span>— 虽然时长一个小时，但这部纪录片特别详细地介绍了 Node 的历史，包括一切如何酝酿成 2014 年 io.js 分叉。复活节周末观看，也许？</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/153158/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">Node.js：一部关于其起源故事的纪录片</a></span>— 虽然时长一个小时，但这部纪录片很好地介绍了 Node 的历史，包括一切是如何酝酿成 2014 年 io.js 分叉的。也许是复活节周末观看？</p>
   <p>蜜罐</p>
 </td></tr></tbody></table>
 
@@ -521,7 +523,7 @@
 <p>这<a href="https://javascriptweekly.com/link/153163/rss" style=" color: #3366aa; font-weight: 600;   ">RedwoodJS 框架现在也支持 React Server 组件</a>，作为传统的基于 GraphQL 的方法的替代方案。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153164/rss" style=" color: #3366aa; font-weight: 600;   ">运行JS 播放</a>是一个简洁的基于 Web 的 JavaScript 游乐场，可以在每行旁边显示即时实时反馈。</p>
+<p><a href="https://javascriptweekly.com/link/153164/rss" style=" color: #3366aa; font-weight: 600;   ">运行JS 播放</a>是一个简洁的基于 Web 的 JavaScript 游乐场，可以在每一行旁边显示即时实时反馈。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153165/rss" style=" color: #3366aa; font-weight: 600;   ">Vercel 现在完全支持 Node.js 20</a>对于构建和功能。</p>
@@ -903,17 +905,15 @@
 
 文章首先介绍了一个方便的工具，可以可视化不同JavaScript运行时（如Bun、Deno、Node等）之间的Web API和JavaScript特性的兼容性。
 
-接着介绍了一个名为Vlt的团队，由npm的创始人Isaac Z. Schlueter和其他npm CLI团队成员组成，他们正在开发一个新的包管理器和注册表。
+接着介绍了一个名为Vlt的团队，他们正在开发一个新的包管理器和注册表，与npm创始人Isaac Z. Schlueter合作。
 
-文章还提到了Postman即将举办的年度用户大会POST/CON 24的注册信息。
+文章还提到了Postman的年度用户大会POST/CON 24的注册信息，这是一个全球API社区的交流和学习的机会。
 
-其他内容包括Angular的ngConf 2024的一些有趣的公告、Chrome 123中WebAssembly JSPI进入原始试验阶段、Stack Overflow采访了Node的创始人Ryan Dahl等。
+其他内容包括Angular的ngConf 2024的一些有趣的公告，Chrome 123中WebAssembly JSPI进入原始试验阶段，以及Stack Overflow采访了Node的创始人Ryan Dahl关于他为什么转向创建Deno的原因。
 
-文章还列举了一些发布的版本和一些有用的工具和代码库。
+此外，还介绍了一些新的软件发布和工具，以及一些有关JavaScript优化、Node.js和TypeScript的文章和教程。
 
-最后，文章提供了一些技术文章和教程，包括优化JavaScript性能、在Node.js中使用require(esm)、构建具有TypeScript的Node应用程序等。
-
-总的来说，本文涵盖了多个JavaScript相关的主题和新闻，对于关注JavaScript开发的读者来说是一份有价值的周刊。</summary>
+总的来说，本文涵盖了JavaScript生态系统中的多个方面和最新动态。</summary>
     <div>
     <div>OriginTitle: Package managers, the new todo app?</div>
 
@@ -1051,7 +1051,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 （<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 (<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
   <p>典型代码</p>
 </td></tr></tbody></table>
 
@@ -1069,7 +1069,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152931/rss" title="onerepo.tools" style=" color: #3366aa;    font-size: 1.05em;">oneRepo 1.0：适用于团队的全新 Monorepo 工具套件</a></span>— 当讨论 JS monorepo 管理工具时，似乎总是存在不满，但也许<a href="https://javascriptweekly.com/link/152932/rss" style=" color: #3366aa;   ">保罗的方法能赢得你的青睐吗？</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152931/rss" title="onerepo.tools" style=" color: #3366aa;    font-size: 1.05em;">oneRepo 1.0：适用于团队的全新 Monorepo 工具套件</a></span>— 当讨论 JS monorepo 管理工具时，似乎总是有人不满，但也许<a href="https://javascriptweekly.com/link/152932/rss" style=" color: #3366aa;   ">保罗的方法能赢得你的青睐吗？</a></p>
   <p>保罗·阿姆斯特朗</p>
 </td></tr></tbody></table>
 
@@ -1093,7 +1093,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 （<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 (<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
@@ -1372,7 +1372,7 @@
   <p>德文·戈维特</p>
 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>𝕏 德文郡详细介绍<a href="https://javascriptweekly.com/link/152568/rss" style=" color: #3366aa; font-weight: 600;">🐦 在这个 Twitter/X 线程中。</a>您还可以再次访问<a href="https://javascriptweekly.com/link/152569/rss" style=" color: #3366aa; font-weight: 600;">Parcel 2.12.0 发布</a>了解更多。</p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>𝕏 德文郡详细介绍<a href="https://javascriptweekly.com/link/152568/rss" style=" color: #3366aa; font-weight: 600;">🐦 在 Twitter/X 线程中。</a>您还可以再次访问<a href="https://javascriptweekly.com/link/152569/rss" style=" color: #3366aa; font-weight: 600;">Parcel 2.12.0 发布</a>了解更多。</p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   <a href="https://javascriptweekly.com/link/152562/rss" style=" color: #3366aa;   "><img src="https://copm.s3.amazonaws.com/a5c6905f.png" width="180" height="53" style="padding-top: 12px; padding-left: 12px;     line-height: 100%;    "></a>
@@ -1525,7 +1525,7 @@
 <p><a href="https://javascriptweekly.com/link/152621/rss" style=" color: #3366aa; font-weight: 600;   ">克尼普 5.1</a>– 查找未使用的文件、依赖项和导出。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152622/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.3</a>– 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/152623/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/152622/rss" style=" color: #3366aa; font-weight: 600;   ">React 日期选择器 6.3</a>– 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/152623/rss" style=" color: #3366aa; font-weight: 600;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152624/rss" style=" color: #3366aa; font-weight: 600;   ">覆盖滚动条 2.6</a>– JavaScript 自定义滚动条插件。</p>
