@@ -13,7 +13,7 @@
             <guid>https://javascriptweekly.com/issues/683</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列出了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以在浏览器中编写和部署TypeScript函数的在线平台Val Town获得了550万美元的融资。此外，还提到了一些新的JavaScript工具和库的发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。文章还分享了一些有关开发Figma插件、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的工具和库，如Madge、PythonMonkey、Faces.js和Color.js等。最后，还提到了一些新版本的软件和库，如Mikro ORM 6.2、Pixi.js 8.1和Reveal.js 5.1等。</summary>
     <div>
     <div>OriginTitle: An easy way to experiment with signals</div>
 
@@ -138,7 +138,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153733/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PythonMonkey：Python VM 中的 JavaScript 引擎</a></span>— 如果您需要使用 Python，但也想运行 JavaScript，这为您提供了一种方法，将 Mozilla SpiderMonkey JS 引擎嵌入到 Python 运行时中，并由 Python 提供主机环境。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153733/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">PythonMonkey：Python VM 中的 JavaScript 引擎</a></span>— 如果您需要使用 Python 但也想运行 JavaScript，这为您提供了一种方法，将 Mozilla SpiderMonkey JS 引擎嵌入到 Python 运行时中，并由 Python 提供主机环境。</p>
   <p>分配性</p>
 </td></tr></tbody></table>
 
@@ -461,21 +461,19 @@
     <h1>GPT总结</h1>
     <summary>本文是《JavaScript Weekly》的一期周刊，主要内容包括以下几个方面：
 
-1. ECMAScript/JavaScript新增功能提案：提案了一种新的功能——信号，旨在统一各种流行框架的思想，使我们在处理状态和基于状态变化进行更新时达成一致。
+1. ECMAScript/JavaScript新增功能提案：提案了一种新的功能——信号，旨在统一各种流行框架的思想，使得在处理状态和基于状态变化进行更新时能够达成一致。
 
 2. 使用MongoDB和Node.js构建RAG Chatbot应用：介绍了一个使用Atlas Vector Search和Node.js构建自己的聊天机器人应用的开发者活动。
 
-3. JS-Torch：这是一个类似于Python的PyTorch的JavaScript库，提供了一些PyTorch的功能，可以在JavaScript中进行机器学习。
+3. JS-Torch：这是一个类似于Python的PyTorch的JavaScript库，提供了一些机器学习的功能，可以在浏览器中进行演示。
 
-4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，并且在Windows上的兼容性不断提高。
+4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，这是其在Windows上的关键一步。
 
-5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte框架的一次误解、Deno 1.42的更新等。
+5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte的一个误解、Deno、Babylon.js和Node.js等的更新发布。
 
-6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、构建设计系统的经验等。
+6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、设计系统的扩展经验、浏览器的BFCache优化、在浏览器中运行OCR等。
 
-7. 代码和工具：包括一个日历组件库、一个基于Cloudflare的可扩展网络分析工具、一个音乐理论库等。
-
-8. 发布的更新：包括Deno、Babylon.js、Node.js等的更新</summary>
+7. 代码和工具：包括一个日历组件库、基于Cloudflare的可扩展网络分析工具、音乐理论</summary>
     <div>
     <div>OriginTitle: A signal boost for JavaScript</div>
 
@@ -496,7 +494,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期阶段的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们达成共识。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们达成共识。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
   <p>罗布·艾森伯格和丹尼尔·埃伦伯格</p>
 </td></tr></tbody></table>
 
@@ -521,7 +519,7 @@
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p>V8 团队的 Samuel Groß<a href="https://javascriptweekly.com/link/153409/rss" style=" color: #3366aa; font-weight: 600;   ">解释 V8 沙箱</a>，一种安全机制，旨在防止 V8 引擎中的内存损坏影响进程中的其他内存。</p>
+<p>V8 团队的 Samuel Groß<a href="https://javascriptweekly.com/link/153409/rss" style=" color: #3366aa; font-weight: 600;   ">解释 V8 沙盒</a>，一种安全机制，旨在防止 V8 引擎中的内存损坏影响进程中的其他内存。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153461/rss" style=" color: #3366aa; font-weight: 600;   ">Dexie.js</a>是 IndexedDB 的流行包装器，它的创建者已经推出<a href="https://javascriptweekly.com/link/153462/rss" style=" color: #3366aa; font-weight: 600;   ">德克西云</a>，一个在应用程序之间存储和同步数据的平台。</p>
@@ -542,7 +540,7 @@
 <p><a href="https://javascriptweekly.com/link/153414/rss" style=" color: #3366aa; font-weight: 600;   ">德诺 1.42</a>– 替代 JS 运行时添加了一流的支持<a href="https://javascriptweekly.com/link/153415/rss" style=" color: #3366aa; font-weight: 600;   ">JSR</a>并进一步提高了 Node.js 的兼容性。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153416/rss" style=" color: #3366aa; font-weight: 600;   ">巴比伦.js 7</a>（<a href="https://javascriptweekly.com/link/153417/rss" style=" color: #3366aa; font-weight: 600;   ">主页</a>) – 流行渲染引擎的关键版本。</p>
+<p><a href="https://javascriptweekly.com/link/153416/rss" style=" color: #3366aa; font-weight: 600;   ">巴比伦.js 7</a>(<a href="https://javascriptweekly.com/link/153417/rss" style=" color: #3366aa; font-weight: 600;   ">主页</a>) – 流行渲染引擎的关键版本。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153418/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js 4 月 3 日安全版本</a>– 包括<a href="https://javascriptweekly.com/link/153419/rss" style=" color: #3366aa; font-weight: 600;   ">18.20.1</a>,<a href="https://javascriptweekly.com/link/153420/rss" style=" color: #3366aa; font-weight: 600;   ">20.12.1</a>&amp;amp;<a href="https://javascriptweekly.com/link/153421/rss" style=" color: #3366aa; font-weight: 600;   ">21.7.2</a>。</p>
@@ -669,7 +667,7 @@
 <p><a href="https://javascriptweekly.com/link/153454/rss" style=" color: #3366aa; font-weight: 600;   ">迷你匹配9.0.4</a>– 全局匹配函数 – 使用<code>新项目管理</code>本身。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153455/rss" style=" color: #3366aa; font-weight: 600;   ">vue-电话输入 9.0</a>– Vue 的电话号码输入。 （<a href="https://javascriptweekly.com/link/153456/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/153455/rss" style=" color: #3366aa; font-weight: 600;   ">vue-电话输入 9.0</a>– Vue 的电话号码输入。 (<a href="https://javascriptweekly.com/link/153456/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153457/rss" style=" color: #3366aa; font-weight: 600;   ">覆盖滚动条 2.7</a>– JS自定义滚动条插件。</p>
@@ -1497,7 +1495,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 （<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/152903/rss" title="typicode.github.io" style=" color: #3366aa;    font-size: 1.05em;">MistCSS：仅使用 CSS 编写 React 组件</a></span>— 忘记 CSS-in-JS.. JS 怎么样？<em>从</em>-CSS？ 这种方法提供了一种将纯 CSS React 组件编译为 TypeScript 等效组件的方法。 (<a href="https://javascriptweekly.com/link/152904/rss" style=" color: #3366aa;   ">代码示例。</a>）</p>
   <p>典型代码</p>
 </td></tr></tbody></table>
 
@@ -1539,7 +1537,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 （<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/152923/rss" style=" color: #3366aa; font-weight: 600;   ">范JS 1.5</a>– 小而甜蜜的反应式 UI 框架。 (<a href="https://javascriptweekly.com/link/152924/rss" style=" color: #3366aa; font-weight: 600;   ">主页。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
