@@ -463,17 +463,19 @@
 
 1. ECMAScript/JavaScript新增功能提案：提案了一种新的功能——信号，旨在统一各种流行框架的思想，使得在处理状态和基于状态变化进行更新时能够达成一致。
 
-2. 使用MongoDB和Node.js构建RAG Chatbot应用：介绍了一个使用Atlas Vector Search和Node.js构建自己的聊天机器人应用的开发者活动。
+2. 使用MongoDB和Node.js构建RAG Chatbot应用：介绍了一个使用Atlas Vector Search和Node.js构建自己的Chatbot应用的开发者活动。
 
-3. JS-Torch：这是一个类似于Python的PyTorch的JavaScript库，提供了一些机器学习的功能，可以在浏览器中进行演示。
+3. JS-Torch：这是一个类似于Python的PyTorch的JavaScript库，提供了一些机器学习的功能，目前还处于早期阶段。
 
-4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，这是其在Windows上的关键一步。
+4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在已经支持Windows 10及以上版本，这是其在Windows平台上的关键一步。
 
-5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte的一个误解、Deno、Babylon.js和Node.js等的更新发布。
+5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte框架的一次误解、Deno 1.42的更新等。
 
-6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、设计系统的扩展经验、浏览器的BFCache优化、在浏览器中运行OCR等。
+6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、构建设计系统的经验等。
 
-7. 代码和工具：包括一个日历组件库、基于Cloudflare的可扩展网络分析工具、音乐理论</summary>
+7. 代码和工具：包括一个日历组件库、一个基于Cloudflare的可扩展网络分析工具、一个音乐理论库等。
+
+8. 发布的更新：包括Deno、Babylon.js、Node.js</summary>
     <div>
     <div>OriginTitle: A signal boost for JavaScript</div>
 
@@ -1543,7 +1545,7 @@
 <p><a href="https://javascriptweekly.com/link/152917/rss" style=" color: #3366aa; font-weight: 600;   ">水星14.0</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/152918/rss" style=" color: #3366aa; font-weight: 600;   ">快乐 DOM 14.2</a>– 网页浏览器的 JS 实现<em>无字体</em>用户界面。</p>
+<p><a href="https://javascriptweekly.com/link/152918/rss" style=" color: #3366aa; font-weight: 600;   ">快乐 DOM 14.2</a>– 网页浏览器的 JS 实现<em>无衬线</em>用户界面。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/152920/rss" style=" color: #3366aa; font-weight: 600;   ">编码.js 2.1</a>– 字符编码转换和检测。</p>
