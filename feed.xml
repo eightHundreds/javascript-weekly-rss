@@ -70,7 +70,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群落</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
   <p>生物群落核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -415,7 +415,7 @@
             <guid>https://javascriptweekly.com/issues/683</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列出了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列举了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
     <div>
     <div>OriginTitle: An easy way to experiment with signals</div>
 
