@@ -126,7 +126,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/154330/rss" style=" color: #3366aa; font-weight: 500 !important;   ">问题在于<code>新网址()</code>， 如何<code>URL.parse()</code>解决这个问题</a> <cite>基利安·瓦尔克霍夫</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154331/rss" style=" color: #3366aa; font-weight: 500 !important;   ">这<code>国际分段器</code>对象现在是基线的一部分</a>– 可互操作、区域敏感的文本分段。<cite>雷切尔·安德鲁</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的幕后黑手。<cite>拉马纳坦和威尔金森</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的底层。<cite>拉马纳坦和威尔金森</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154333/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TypeScript 功能的制作：推断类型谓词</a> <cite>丹·范德卡姆</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154334/rss" style=" color: #3366aa; font-weight: 500 !important;   ">添加 ESLint 并自动修复现有 TypeScript 项目</a> <cite>丹尼尔·杜布罗夫金</cite></p>
 <p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫灵顿</cite></p>
@@ -484,7 +484,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群落</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
   <p>生物群系核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -868,7 +868,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153696/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">zx v8.0：使用 Node 编写更好的 Shell 脚本</a></span>— 一种流行的方法，通过有用的包装器在 Node 中使 shell 脚本编写成为更愉快的体验<code>子进程</code>、参数转义和合理的默认值。 v8.0 制作 zx<em>缩小 20 倍</em>，速度更快，可以更轻松地终止进程、将输入传递给命令等。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153696/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">zx v8.0：使用 Node 编写更好的 Shell 脚本</a></span>— 一种流行的方法，通过有用的包装器在 Node 中使 shell 脚本编写成为更愉快的体验<code>子进程</code>、参数转义和合理的默认值。 v8.0 制作zx<em>缩小 20 倍</em>，速度更快，可以更轻松地终止进程、将输入传递给命令等。</p>
   <p>谷歌</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -967,7 +967,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153737/rss" title="zengm.com" style=" color: #3366aa;    font-size: 1.05em;">Faces.js：用于生成基于矢量的卡通面孔的库</a></span>— 最终结果是<em>有些</em>让人想起任天堂 Wii 如何生成随机数<em>三井</em>s。 面孔被绘制为 SVG，每个面孔也由 JavaScript 对象表示，因此您可以稍后再次绘制它们。</p>
-  <p>泽恩GM</p>
+  <p>禅宗GM</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
