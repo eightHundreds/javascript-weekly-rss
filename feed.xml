@@ -90,7 +90,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric，Render 的工程师，详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric 是 Render 的工程师，他详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
   <p>刘艾里克</p>
 </td></tr></tbody></table>
 
@@ -157,7 +157,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154343/rss" title="typed-xlsx.vercel.app" style=" color: #3366aa;    font-size: 1.05em;">typed-xlsx：功能丰富的类型安全 Excel 报告</a></span>— 定义强类型电子表格模式，然后直接从 JS/TS 填充和使用工作表，例如为用户生成报告 —<a href="https://javascriptweekly.com/link/154344/rss" style=" color: #3366aa;   ">示例代码</a>。 环绕 SheetJS。<a href="https://javascriptweekly.com/link/154345/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154343/rss" title="typed-xlsx.vercel.app" style=" color: #3366aa;    font-size: 1.05em;">typed-xlsx：功能丰富的类型安全 Excel 报告</a></span>— 定义强类型电子表格架构，然后直接从 JS/TS 填充和使用工作表，例如为用户生成报告 —<a href="https://javascriptweekly.com/link/154344/rss" style=" color: #3366aa;   ">示例代码</a>。 环绕 SheetJS。<a href="https://javascriptweekly.com/link/154345/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>西普里安·陶</p>
 </td></tr></tbody></table>
 
@@ -184,7 +184,7 @@
 <p><a href="https://javascriptweekly.com/link/154349/rss" style=" color: #3366aa; font-weight: 500 !important;   ">迷雾CSS 0.4</a>– 仅使用 CSS 创建组件，即 JS-from-CSS。<a href="https://javascriptweekly.com/link/154350/rss" style=" color: #3366aa; font-weight: 500 !important;   ">v0.4</a>添加了 Hono 和 CSS 变量支持。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 (<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
@@ -429,15 +429,17 @@
     <h1>GPT总结</h1>
     <summary>本文是2024年4月18日发布的《JavaScript Weekly》周刊。文章主要介绍了一些与JavaScript相关的新闻、工具和教程。
 
-首先介绍了Quill 2.0版本的发布，这是一个功能强大的富文本编辑器，进行了重大更新和现代化改进。同时，还提到了Airbnb的JavaScript代码风格指南，以及WorkOS提供的企业级身份验证服务。
+首先介绍了Quill 2.0版本的发布，这是一个功能强大的富文本编辑器，进行了重大更新和现代化改进。同时，还提到了Airbnb的JavaScript编码规范和WorkOS企业级认证工具。
 
-接下来，文章提到了jQuery团队和OpenJS基金会合作推出的“Healthy Web Checkup”工具，用于检查网站上的jQuery版本是否过时。此外，还介绍了Biome v1.7版本的更新，以及一些与JavaScript相关的视频和工具。
+接下来，文章提到了jQuery团队和OpenJS基金会合作推出的“Healthy Web Checkup”工具，用于检查网站上的jQuery版本是否过时。还介绍了Biome v1.7版本的更新，该工具是一个全能的JavaScript、TypeScript和JSX格式化和检查工具。
 
-在文章的后半部分，提供了一些教程和文章的链接。其中包括使用TypeScript和oclif从零开始构建CLI工具、比较Qwik和Next.js框架、使用Chrome的性能面板对Node.js性能进行分析等。
+文章还提到了一些有趣的内容，如一部关于现代开发和复杂生态系统的讽刺视频、300个JavaScript相关视频的列表、用于处理JSON数据的命令行工具f(x)等。
 
-最后，文章列举了一些新发布的工具，如TresJS、Next.js 14.2、Wedges等，以及一些更新的版本，如Cytoscape.js 3.29、RxDB 15.18等。
+在教程方面，文章介绍了使用TypeScript和oclif从零开始构建CLI工具的教程，以及Qwik和Next.js之间的比较。
 
-总的来说，本文涵盖了JavaScript领域的一些重要新闻和工具，以及一些教程和文章的链接，对于关注JavaScript开发的读者来说是一份有价值的资讯。</summary>
+在工具方面，文章介绍了一些新发布的工具，如TresJS用于构建基于Vue.js的3D体验、Next.js 14.2版本的发布、Otto 0.4用于在Go中解析和执行JavaScript代码等。
+
+最后，文章提到了一篇关于可视化算法的经典文章，由D3.js的创</summary>
     <div>
     <div>OriginTitle: Visualizing algorithms</div>
 
@@ -458,7 +460,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多正在进行中</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多事情正在发生</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
   <p>板坯公司</p>
 </td></tr></tbody></table>
 
@@ -482,7 +484,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群落</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
   <p>生物群系核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -539,7 +541,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154018/rss" title="developer.chrome.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Chrome 的性能面板分析 Node.js 性能</a></span>— 了解如何使用 Chrome 分析 Node 性能<em>表现</em>控制板。<em>(<a href="https://javascriptweekly.com/link/154019/rss" style=" color: #3366aa;   ">JS Profiler 即将消失</a>在 Chrome 124 中，因此您需要熟悉新方法。）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154018/rss" title="developer.chrome.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Chrome 的性能面板分析 Node.js 性能</a></span>— 了解如何使用 Chrome 分析 Node 性能<em>表现</em>控制板。<em>（<a href="https://javascriptweekly.com/link/154019/rss" style=" color: #3366aa;   ">JS Profiler 即将消失</a>在 Chrome 124 中，因此您需要熟悉新方法。）</em></p>
   <p>Chrome 开发者版</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -562,7 +564,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">100 万月活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">每月有 100 万活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
   <p>德尔巴·德·奥利维拉和蒂姆·纽特肯斯</p>
 </td></tr></tbody></table>
 
@@ -827,7 +829,7 @@
             <guid>https://javascriptweekly.com/issues/683</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列举了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列出了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
     <div>
     <div>OriginTitle: An easy way to experiment with signals</div>
 
@@ -873,7 +875,7 @@
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/153697/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓦尔镇</a>是一个很棒的在线平台，用于直接从浏览器编写和部署 TypeScript 函数，并且具有<a href="https://javascriptweekly.com/link/153698/rss" style=" color: #3366aa; font-weight: 500 !important;   ">刚刚筹集了 550 万美元的资金。</a></p>
+<p><a href="https://javascriptweekly.com/link/153697/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓦尔镇</a>是一个很棒的在线平台，可以直接从浏览器编写和部署 TypeScript 函数，并且具有<a href="https://javascriptweekly.com/link/153698/rss" style=" color: #3366aa; font-weight: 500 !important;   ">刚刚筹集了 550 万美元的资金。</a></p>
 </li>
 <li>
 <p>这<a href="https://javascriptweekly.com/link/153699/rss" style=" color: #3366aa; font-weight: 500 !important;   ">设置方法提案</a>本周在 TC39 晋级到第 4 阶段。<a href="https://javascriptweekly.com/link/153700/rss" style=" color: #3366aa; font-weight: 500 !important;   "><code>Promise.try</code></a>和<a href="https://javascriptweekly.com/link/153701/rss" style=" color: #3366aa; font-weight: 500 !important;   "><code>数学和精确</code></a>已升级至2.7阶段。</p>
@@ -965,7 +967,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153737/rss" title="zengm.com" style=" color: #3366aa;    font-size: 1.05em;">Faces.js：用于生成基于矢量的卡通面孔的库</a></span>— 最终结果是<em>有些</em>让人想起任天堂 Wii 如何生成随机数<em>三井</em>s。 面孔被绘制为 SVG，每个面孔也由 JavaScript 对象表示，因此您可以稍后再次绘制它们。</p>
-  <p>泽恩GM</p>
+  <p>禅宗GM</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; ">
@@ -998,7 +1000,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了支持的数据库列表。</p>
+<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了受支持的数据库列表。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153744/rss" style=" color: #3366aa; font-weight: 500 !important;   ">RS包0.6</a>– 基于 Rust 的快速网络捆绑器。</p>
@@ -1016,7 +1018,7 @@
 <p><a href="https://javascriptweekly.com/link/153748/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Reveal.js 5.1</a>– 用于构建 HTML 演示文稿的框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153750/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Xterm.js 5.5</a>– 在 Web 上创建终端体验。</p>
+<p><a href="https://javascriptweekly.com/link/153750/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Xterm.js 5.5</a>– 在网络上创建终端体验。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153751/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TIFF 6.0</a>– 纯 JS TIFF 图像解码器。</p>
@@ -1308,7 +1310,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们达成共识。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们处于同一页面上。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
   <p>罗布·艾森伯格和丹尼尔·埃伦伯格</p>
 </td></tr></tbody></table>
 
@@ -1354,7 +1356,7 @@
 <p><a href="https://javascriptweekly.com/link/153414/rss" style=" color: #3366aa; font-weight: 600;   ">德诺 1.42</a>– 替代 JS 运行时添加了一流的支持<a href="https://javascriptweekly.com/link/153415/rss" style=" color: #3366aa; font-weight: 600;   ">JSR</a>并进一步提高了 Node.js 的兼容性。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153416/rss" style=" color: #3366aa; font-weight: 600;   ">巴比伦.js 7</a>(<a href="https://javascriptweekly.com/link/153417/rss" style=" color: #3366aa; font-weight: 600;   ">主页</a>) – 流行渲染引擎的关键版本。</p>
+<p><a href="https://javascriptweekly.com/link/153416/rss" style=" color: #3366aa; font-weight: 600;   ">巴比伦.js 7</a>（<a href="https://javascriptweekly.com/link/153417/rss" style=" color: #3366aa; font-weight: 600;   ">主页</a>) – 流行渲染引擎的关键版本。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153418/rss" style=" color: #3366aa; font-weight: 600;   ">Node.js 4 月 3 日安全版本</a>– 包括<a href="https://javascriptweekly.com/link/153419/rss" style=" color: #3366aa; font-weight: 600;   ">18.20.1</a>,<a href="https://javascriptweekly.com/link/153420/rss" style=" color: #3366aa; font-weight: 600;   ">20.12.1</a>&amp;amp;<a href="https://javascriptweekly.com/link/153421/rss" style=" color: #3366aa; font-weight: 600;   ">21.7.2</a>。</p>
@@ -1380,7 +1382,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153425/rss" title="medium.com" style=" color: #3366aa;    font-size: 1.05em;">Dart 中 JS 互操作的历史</a></span>— 大约十二年前，谷歌推出了<a href="https://javascriptweekly.com/link/153426/rss" style=" color: #3366aa;   ">镖</a>，这种语言最初似乎将接管 JavaScript 的许多用例，但最终找到了自己的利基（特别是<a href="https://javascriptweekly.com/link/153427/rss" style=" color: #3366aa;   ">扑</a>）。 不过，JS 互操作性仍然很重要，而且<a href="https://javascriptweekly.com/link/153428/rss" style=" color: #3366aa;   ">飞镖3.3</a>已经得到<a href="https://javascriptweekly.com/link/153429/rss" style=" color: #3366aa;   ">明显更好</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153425/rss" title="medium.com" style=" color: #3366aa;    font-size: 1.05em;">Dart 中 JS 互操作的历史</a></span>— 大约十二年前，谷歌推出了<a href="https://javascriptweekly.com/link/153426/rss" style=" color: #3366aa;   ">镖</a>，这种语言最初似乎要接管 JavaScript 的许多用例，但最终找到了自己的利基（特别是<a href="https://javascriptweekly.com/link/153427/rss" style=" color: #3366aa;   ">扑</a>）。 不过，JS 互操作性仍然很重要，而且<a href="https://javascriptweekly.com/link/153428/rss" style=" color: #3366aa;   ">飞镖3.3</a>已经得到<a href="https://javascriptweekly.com/link/153429/rss" style=" color: #3366aa;   ">明显更好</a>。</p>
   <p>西格蒙德·切雷姆（谷歌）</p>
 </td></tr></tbody></table>
 
@@ -1481,7 +1483,7 @@
 <p><a href="https://javascriptweekly.com/link/153454/rss" style=" color: #3366aa; font-weight: 600;   ">迷你匹配9.0.4</a>– 全局匹配函数 – 使用<code>新项目管理</code>本身。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153455/rss" style=" color: #3366aa; font-weight: 600;   ">vue-电话输入 9.0</a>– Vue 的电话号码输入。 (<a href="https://javascriptweekly.com/link/153456/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/153455/rss" style=" color: #3366aa; font-weight: 600;   ">vue-电话输入 9.0</a>– Vue 的电话号码输入。 （<a href="https://javascriptweekly.com/link/153456/rss" style=" color: #3366aa; font-weight: 600;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153457/rss" style=" color: #3366aa; font-weight: 600;   ">覆盖滚动条 2.7</a>– JS自定义滚动条插件。</p>
