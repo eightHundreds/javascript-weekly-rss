@@ -187,7 +187,7 @@
 <p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
+<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154354/rss" style=" color: #3366aa; font-weight: 500 !important;   ">视觉相机4.0</a>– React Native 的高级相机控制。</p>
@@ -460,7 +460,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多事情正在发生</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多正在进行中</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
   <p>板坯公司</p>
 </td></tr></tbody></table>
 
@@ -564,7 +564,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">每月有 100 万活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">每月有 100 万活跃开发者</a>并发布了一个版本，支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等等。</p>
   <p>德尔巴·德·奥利维拉和蒂姆·纽特肯斯</p>
 </td></tr></tbody></table>
 
@@ -600,7 +600,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>⚙️<a href="https://javascriptweekly.com/link/154039/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Zoompinch：Vue 3 的自然感觉“捏缩放”</a>– 预计会及时推出 React 和 Web Component 变体。<cite>莫里斯·康拉德</cite></p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154040/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Craft.js</a>– 用于构建拖放页面编辑器的 React 框架。<cite>上一页 黄</cite></p>
-<p>⚙️<a href="https://javascriptweekly.com/link/154041/rss" style=" color: #3366aa; font-weight: 500 !important;   ">科特坎</a>– 一个基于 Bun 构建并支持 React 服务器组件的简单 React 框架。<cite>本尼迪克特·穆勒</cite></p>
+<p>⚙️<a href="https://javascriptweekly.com/link/154041/rss" style=" color: #3366aa; font-weight: 500 !important;   ">科特坎</a>– 一个基于 Bun 并支持 React 服务器组件的简单 React 框架。<cite>本尼迪克特·穆勒</cite></p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154042/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Cytoscape.js 3.29</a>– 图论/网络可视化和分析库。</p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154043/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Tailwind Next.js 入门博客 2.2</a>– 博客入门模板。</p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154044/rss" style=" color: #3366aa; font-weight: 500 !important;   ">接收数据库 15.18</a>– JS 应用程序的离线优先、反应式数据库。</p>
@@ -829,7 +829,7 @@
             <guid>https://javascriptweekly.com/issues/683</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列出了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列举了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
     <div>
     <div>OriginTitle: An easy way to experiment with signals</div>
 
@@ -1000,7 +1000,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了受支持的数据库列表。</p>
+<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了支持的数据库列表。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153744/rss" style=" color: #3366aa; font-weight: 500 !important;   ">RS包0.6</a>– 基于 Rust 的快速网络捆绑器。</p>
@@ -1285,11 +1285,11 @@
 
 4. Bun 1.1发布：Bun是一个替代服务器端运行时的项目，现在支持Windows 10及以上版本，这是其在Windows上的关键一步。
 
-5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte框架的一次误解、Deno、Babylon.js、Node.js等的更新发布。
+5. 其他简要内容：包括V8引擎的安全机制、Dexie.js的新平台Dexie Cloud、Svelte的一个误解、Deno、Babylon.js和Node.js等的更新发布。
 
-6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、构建设计系统的经验、浏览器的BFCache优化、在浏览器中运行OCR等。
+6. 文章和教程：包括关于JSON数字的解释、Dart中JS互操作性的发展、设计系统的扩展经验、浏览器的BFCache优化、在浏览器中运行OCR等。
 
-7. 代码和工具：包括一个开源的日历组件库、基于Cloudflare的可扩展网络分析工</summary>
+7. 代码和工具：包括一个日历组件库、基于Cloudflare的可扩展网络分析工具、音乐理论</summary>
     <div>
     <div>OriginTitle: A signal boost for JavaScript</div>
 
@@ -1310,7 +1310,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们处于同一页面上。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153402/rss" title="github.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">添加提案<em>信号</em>到 JavaScript</a></span>— 一个（非常）早期阶段的提案，为 ECMAScript/JavaScript 带来新功能：<em>信号</em>！ 该提案引入了一系列流行框架的想法，旨在使每个人保持一致，并在处理状态并根据状态更改进行更新时使我们达成一致。<a href="https://javascriptweekly.com/link/153403/rss" style=" color: #3366aa;   ">Rob 在此处详细介绍了该提案</a>。</p>
   <p>罗布·艾森伯格和丹尼尔·埃伦伯格</p>
 </td></tr></tbody></table>
 
@@ -1328,14 +1328,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153407/rss" title="bun.sh" style=" color: #3366aa;    font-size: 1.05em;">Bun 1.1 发布：现在也支持 Windows</a></span>— 轻松愉快的代号<em>邦多斯</em>，替代服务器端运行时现在可以直接在 Windows 10 及更高版本上运行（当然还有 WSL、macOS 和 Linux）。 这是其采用的关键一步，甚至具有以下功能：<a href="https://javascriptweekly.com/link/153408/rss" style=" color: #3366aa;   ">包子壳</a>开箱即用，对 Windows 感到满意。 节点兼容性不断提高，支持<code>节点：http2</code>Bun 和 Node 进程之间的 IPC 支持。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153407/rss" title="bun.sh" style=" color: #3366aa;    font-size: 1.05em;">Bun 1.1 发布：现在也支持 Windows</a></span>— 轻松愉快的代号<em>邦多斯</em>，替代服务器端运行时现在直接在 Windows 10 及更高版本上运行（当然还有 WSL、macOS 和 Linux）。 这是其采用的关键一步，甚至具有以下功能：<a href="https://javascriptweekly.com/link/153408/rss" style=" color: #3366aa;   ">包子壳</a>开箱即用，对 Windows 感到满意。 节点兼容性不断提高，支持<code>节点：http2</code>Bun 和 Node 进程之间的 IPC 支持。</p>
   <p>整个包子团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p>V8 团队的 Samuel Groß<a href="https://javascriptweekly.com/link/153409/rss" style=" color: #3366aa; font-weight: 600;   ">解释 V8 沙箱</a>，一种安全机制，旨在防止 V8 引擎中的内存损坏影响进程中的其他内存。</p>
+<p>V8 团队的 Samuel Groß<a href="https://javascriptweekly.com/link/153409/rss" style=" color: #3366aa; font-weight: 600;   ">解释 V8 沙盒</a>，一种安全机制，旨在防止 V8 引擎中的内存损坏影响进程中的其他内存。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153461/rss" style=" color: #3366aa; font-weight: 600;   ">Dexie.js</a>是 IndexedDB 的流行包装器，它的创建者已经推出<a href="https://javascriptweekly.com/link/153462/rss" style=" color: #3366aa; font-weight: 600;   ">德克西云</a>，一个在应用程序之间存储和同步数据的平台。</p>
@@ -1376,7 +1376,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153424/rss" title="blog.trl.sn" style=" color: #3366aa;    font-size: 1.05em;">甚至什么<em>是</em>JSON 数字？</a></span>— 尽管存在围绕 JSON 的标准，但答案比您想象的要复杂，特别是在与 JavaScript 以外的其他生态系统和语言进行交互时。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153424/rss" title="blog.trl.sn" style=" color: #3366aa;    font-size: 1.05em;">甚至什么<em>是</em>JSON 数字？</a></span>— 尽管存在围绕 JSON 的标准，但答案比您想象的要复杂，尤其是在与 JavaScript 以外的其他生态系统和语言进行交互时。</p>
   <p>布赖恩·特尔森</p>
 </td></tr></tbody></table>
 
