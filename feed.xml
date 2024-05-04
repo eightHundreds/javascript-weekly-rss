@@ -67,7 +67,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154649/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">宣布推出 TypeScript 5.5 Beta</a></span>— 它甚至还不是最终版本（预计在一两个月内），但 5.5 让很多人兴奋不已，因为它有许多重大增强功能，包括<a href="https://javascriptweekly.com/link/154650/rss" style=" color: #3366aa;   ">推断类型谓词</a>， 的能力<a href="https://javascriptweekly.com/link/154651/rss" style=" color: #3366aa;   ">在 JSDoc 中导入类型</a>通过注释、正则表达式语法检查、<a href="https://javascriptweekly.com/link/154652/rss" style=" color: #3366aa;   ">孤立的声明</a>， 和更多。 如果你想要更多实际例子，Matt Pocock<a href="https://javascriptweekly.com/link/154653/rss" style=" color: #3366aa;   ">🐦 写了一个很好的 Twitter 帖子</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154649/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">宣布推出 TypeScript 5.5 Beta</a></span>— 这甚至不是最终版本（预计在一两个月内），但 5.5 让很多人兴奋不已，因为它有许多重大增强功能，包括<a href="https://javascriptweekly.com/link/154650/rss" style=" color: #3366aa;   ">推断类型谓词</a>， 的能力<a href="https://javascriptweekly.com/link/154651/rss" style=" color: #3366aa;   ">在 JSDoc 中导入类型</a>通过注释、正则表达式语法检查、<a href="https://javascriptweekly.com/link/154652/rss" style=" color: #3366aa;   ">孤立的声明</a>， 和更多。 如果你想要更多实际例子，Matt Pocock<a href="https://javascriptweekly.com/link/154653/rss" style=" color: #3366aa;   ">🐦 写了一个很好的 Twitter 帖子</a>。</p>
   <p>微软</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -130,8 +130,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort(比较器)</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>Array.sort()</code>作品..”</em></p>
-  <p>詹姆斯·克尔</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
+  <p>詹姆斯·科尔</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -622,7 +622,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154343/rss" title="typed-xlsx.vercel.app" style=" color: #3366aa;    font-size: 1.05em;">typed-xlsx：功能丰富的类型安全 Excel 报告</a></span>— 定义强类型电子表格模式，然后直接从 JS/TS 填充和使用工作表，例如为用户生成报告 —<a href="https://javascriptweekly.com/link/154344/rss" style=" color: #3366aa;   ">示例代码</a>。 环绕 SheetJS。<a href="https://javascriptweekly.com/link/154345/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154343/rss" title="typed-xlsx.vercel.app" style=" color: #3366aa;    font-size: 1.05em;">typed-xlsx：功能丰富的类型安全 Excel 报告</a></span>— 定义强类型电子表格架构，然后直接从 JS/TS 填充和使用工作表，例如为用户生成报告 —<a href="https://javascriptweekly.com/link/154344/rss" style=" color: #3366aa;   ">示例代码</a>。 环绕 SheetJS。<a href="https://javascriptweekly.com/link/154345/rss" style=" color: #3366aa;   ">GitHub 仓库</a>。</p>
   <p>西普里安·陶</p>
 </td></tr></tbody></table>
 
@@ -943,7 +943,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154002/rss" title="blog.jquery.com" style=" color: #3366aa;    font-size: 1.05em;">升级 jQuery：致力于健康的 Web</a></span>— jQuery 仍然遍布整个 Web，jQuery 团队和 OpenJS 基金会联手确保网站保持最新状态。 他们的<a href="https://javascriptweekly.com/link/154003/rss" style=" color: #3366aa;   ">“健康网络检查”工具</a>可以告诉您网站上的 jQuery 版本是否已过时（..很可能是“是”😅）。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154002/rss" title="blog.jquery.com" style=" color: #3366aa;    font-size: 1.05em;">升级 jQuery：努力打造健康的 Web</a></span>— jQuery 仍然遍布整个 Web，jQuery 团队和 OpenJS 基金会联手确保网站保持最新状态。 他们的<a href="https://javascriptweekly.com/link/154003/rss" style=" color: #3366aa;   ">“健康网络检查”工具</a>可以告诉您网站上的 jQuery 版本是否已过时（..很可能是“是”😅）。</p>
   <p>蒂米·威利森 (jQuery)</p>
 </td></tr></tbody></table>
 
@@ -1333,7 +1333,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153696/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">zx v8.0：使用 Node 编写更好的 Shell 脚本</a></span>— 一种流行的方法，通过有用的包装器在 Node 中使 shell 脚本编写成为更愉快的体验<code>子进程</code>、参数转义和合理的默认值。 v8.0 制作 zx<em>缩小 20 倍</em>，速度更快，可以更轻松地终止进程、将输入传递给命令等。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153696/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">zx v8.0：使用 Node 编写更好的 Shell 脚本</a></span>— 一种流行的方法，通过有用的包装器在 Node 中使 shell 脚本编写成为更愉快的体验<code>子进程</code>、参数转义和合理的默认值。 v8.0 制作zx<em>缩小 20 倍</em>，速度更快，可以更轻松地终止进程、将输入传递给命令等。</p>
   <p>谷歌</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1465,7 +1465,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了支持的数据库列表。</p>
+<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了受支持的数据库列表。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153744/rss" style=" color: #3366aa; font-weight: 500 !important;   ">RS包0.6</a>– 基于 Rust 的快速网络捆绑器。</p>
