@@ -19,14 +19,14 @@
 2. TypeScript 5.5测试版发布，包含许多重大改进，如类型推断、JSDoc中导入类型、正则表达式语法检查等。
 3. Svelte 5发布候选版，没有预期的重大变化。
 4. Node.js 22.1和Deno 1.43发布。
-5. htmx是一种使用HTML属性而不是手动编写JavaScript来实现现代动态浏览器功能的方法。
+5. htmx是一种使用HTML属性而不是手动编写JavaScript来使用现代浏览器功能的方法。
 6. Node 22开始支持CJS/ESM互操作性。
 7. 解释了Array.sort(comparator)函数的工作原理。
 8. 提供了一种在CSS中根据浏览器是否支持JavaScript来提供不同的CSS规则的方法。
 9. 提供了一些有关构建高级交互体验的教程和工具。
 10. 提供了一些有关构建浏览器扩展、Svelte图形库、密码历史等工具和库的信息。
 
-此外，还介绍了一些新发布的工具和库，如extension.js、Layer Cake、Tagify等。最后，还提到了一个有趣的项目，可以在浏览器中运行Linux、Windows、BSD等系统的虚拟机。</summary>
+此外，还介绍了一些新的软件发布，如Emoji Mart 5.6、Atrament 4.2、React-PDF 8.0等。最后，还推荐了一个基于JavaScript和WASM的x86虚拟化项目，可以在浏览器中运行Linux、Windows、BSD等系统。</summary>
     <div>
     <div>OriginTitle: Svelte 5 is almost here</div>
 
@@ -67,7 +67,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154649/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">宣布推出 TypeScript 5.5 Beta</a></span>— 这甚至不是最终版本（预计在一两个月内），但 5.5 让很多人兴奋不已，因为它有许多重大增强功能，包括<a href="https://javascriptweekly.com/link/154650/rss" style=" color: #3366aa;   ">推断类型谓词</a>， 的能力<a href="https://javascriptweekly.com/link/154651/rss" style=" color: #3366aa;   ">在 JSDoc 中导入类型</a>通过注释、正则表达式语法检查、<a href="https://javascriptweekly.com/link/154652/rss" style=" color: #3366aa;   ">孤立的声明</a>， 和更多。 如果你想要更多实际例子，Matt Pocock<a href="https://javascriptweekly.com/link/154653/rss" style=" color: #3366aa;   ">🐦 写了一个很好的 Twitter 帖子</a>。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154649/rss" title="devblogs.microsoft.com" style=" color: #3366aa;    font-size: 1.05em;">宣布推出 TypeScript 5.5 Beta</a></span>— 它甚至还不是最终版本（预计在一两个月内），但 5.5 让很多人兴奋不已，因为它有许多重大增强功能，包括<a href="https://javascriptweekly.com/link/154650/rss" style=" color: #3366aa;   ">推断类型谓词</a>， 的能力<a href="https://javascriptweekly.com/link/154651/rss" style=" color: #3366aa;   ">在 JSDoc 中导入类型</a>通过注释、正则表达式语法检查、<a href="https://javascriptweekly.com/link/154652/rss" style=" color: #3366aa;   ">孤立的声明</a>， 和更多。 如果你想要更多实际例子，Matt Pocock<a href="https://javascriptweekly.com/link/154653/rss" style=" color: #3366aa;   ">🐦 写了一个很好的 Twitter 帖子</a>。</p>
   <p>微软</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -131,7 +131,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
-  <p>詹姆斯·科尔</p>
+  <p>詹姆斯·克尔</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -652,7 +652,7 @@
 <p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
+<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154354/rss" style=" color: #3366aa; font-weight: 500 !important;   ">视觉相机4.0</a>– React Native 的高级相机控制。</p>
@@ -949,8 +949,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
-  <p>生物群系核心团队</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群落</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
+  <p>生物群落核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
@@ -1294,7 +1294,7 @@
             <guid>https://javascriptweekly.com/issues/683</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列举了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列出了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
     <div>
     <div>OriginTitle: An easy way to experiment with signals</div>
 
@@ -1340,7 +1340,7 @@
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/153697/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓦尔镇</a>是一个很棒的在线平台，用于直接从浏览器编写和部署 TypeScript 函数，并且具有<a href="https://javascriptweekly.com/link/153698/rss" style=" color: #3366aa; font-weight: 500 !important;   ">刚刚筹集了 550 万美元的资金。</a></p>
+<p><a href="https://javascriptweekly.com/link/153697/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓦尔镇</a>是一个很棒的在线平台，可以直接从浏览器编写和部署 TypeScript 函数，并且具有<a href="https://javascriptweekly.com/link/153698/rss" style=" color: #3366aa; font-weight: 500 !important;   ">刚刚筹集了 550 万美元的资金。</a></p>
 </li>
 <li>
 <p>这<a href="https://javascriptweekly.com/link/153699/rss" style=" color: #3366aa; font-weight: 500 !important;   ">设置方法提案</a>本周在 TC39 晋级到第 4 阶段。<a href="https://javascriptweekly.com/link/153700/rss" style=" color: #3366aa; font-weight: 500 !important;   "><code>Promise.try</code></a>和<a href="https://javascriptweekly.com/link/153701/rss" style=" color: #3366aa; font-weight: 500 !important;   "><code>数学和精确</code></a>已升级至2.7阶段。</p>
