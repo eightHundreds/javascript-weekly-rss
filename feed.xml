@@ -19,14 +19,14 @@
 2. TypeScript 5.5测试版发布，包含许多重大改进，如类型推断、JSDoc中导入类型、正则表达式语法检查等。
 3. Svelte 5发布候选版，没有预期的重大变化。
 4. Node.js 22.1和Deno 1.43发布。
-5. htmx是一种使用HTML属性而不是手动编写JavaScript来使用现代浏览器功能的方法。
+5. htmx是一种使用HTML属性而不是手动编写JavaScript来实现现代动态浏览器功能的方法。
 6. Node 22开始支持CJS/ESM互操作性。
 7. 解释了Array.sort(comparator)函数的工作原理。
 8. 提供了一种在CSS中根据浏览器是否支持JavaScript来提供不同的CSS规则的方法。
 9. 提供了一些有关构建高级交互体验的教程和工具。
 10. 提供了一些有关构建浏览器扩展、Svelte图形库、密码历史等工具和库的信息。
 
-此外，还介绍了一些新的软件发布，如Emoji Mart 5.6、Atrament 4.2、React-PDF 8.0等。最后，还推荐了一个基于JavaScript和WASM的x86虚拟化项目，可以在浏览器中运行Linux、Windows、BSD等系统。</summary>
+此外，还介绍了一些新发布的工具和库，如extension.js、Layer Cake、Tagify等。最后，还提到了一个有趣的项目，可以在浏览器中运行Linux、Windows、BSD等系统的虚拟机。</summary>
     <div>
     <div>OriginTitle: Svelte 5 is almost here</div>
 
@@ -124,7 +124,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154663/rss" title="zacharylee.substack.com" style=" color: #3366aa;    font-size: 1.05em;">从 Node 22 开始对 CJS/ESM 互操作性的本机支持</a></span>— Node 开发人员使用 CommonJS 和 ECMAScript 模块的新时代概述。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154663/rss" title="zacharylee.substack.com" style=" color: #3366aa;    font-size: 1.05em;">从 Node 22 开始对 CJS/ESM 互操作性的本机支持</a></span>— Node 开发人员使用 CommonJS 和 ECMAScript 模块时的新时代概述。</p>
   <p>扎卡里·李</p>
 </td></tr></tbody></table>
 
@@ -146,7 +146,7 @@
   <p>堆栈闪电战<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>📄<a href="https://javascriptweekly.com/link/154667/rss" style=" color: #3366aa; font-weight: 500 !important;   ">从 JS 沙箱中挖掘隧道</a>–<em>“......发现 Deno 中一些不同漏洞的旅程。”</em> <cite>安全性</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154667/rss" style=" color: #3366aa; font-weight: 500 !important;   ">从 JS 沙箱中挖掘隧道</a>–<em>“……发掘 Deno 中一些不同漏洞的旅程。”</em> <cite>安全性</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154668/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何使用 Node 和 Fastify 构建文档齐全且经过验证的 API</a> <cite>朱利安·杜克 (Heroku)</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154669/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用Vite重建NPM工作区本地依赖</a> <cite>普罗索波</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154670/rss" style=" color: #3366aa; font-weight: 500 !important;   ">什么<em>是</em>Vite（以及为什么如此受欢迎）？</a>–<cite>埃里克·西蒙斯</cite></p>
@@ -652,7 +652,7 @@
 <p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
+<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154354/rss" style=" color: #3366aa; font-weight: 500 !important;   ">视觉相机4.0</a>– React Native 的高级相机控制。</p>
@@ -949,8 +949,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群落</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
-  <p>生物群落核心团队</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
+  <p>生物群系核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
