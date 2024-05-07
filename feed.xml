@@ -19,7 +19,7 @@
 2. TypeScript 5.5测试版发布，包含许多重大改进，如类型推断、JSDoc中导入类型、正则表达式语法检查等。
 3. Svelte 5发布候选版，没有预期的重大变化。
 4. Node.js 22.1和Deno 1.43发布。
-5. htmx是一种使用HTML属性而不是手动编写JavaScript来实现现代动态浏览器功能的方法。
+5. htmx是一种使用HTML属性而不是手动编写JavaScript来使用现代浏览器功能的方法。
 6. Node 22开始支持CJS/ESM互操作性。
 7. 解释了Array.sort(comparator)函数的工作原理。
 8. 提供了一种在CSS中根据浏览器是否支持JavaScript来提供不同的CSS规则的方法。
@@ -124,14 +124,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154663/rss" title="zacharylee.substack.com" style=" color: #3366aa;    font-size: 1.05em;">从 Node 22 开始对 CJS/ESM 互操作性的本机支持</a></span>— Node 开发人员使用 CommonJS 和 ECMAScript 模块时的新时代概述。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154663/rss" title="zacharylee.substack.com" style=" color: #3366aa;    font-size: 1.05em;">从 Node 22 开始对 CJS/ESM 互操作性的本机支持</a></span>— Node 开发人员使用 CommonJS 和 ECMAScript 模块的新时代概述。</p>
   <p>扎卡里·李</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
-  <p>詹姆斯·克尔</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>Array.sort()</code>作品..”</em></p>
+  <p>詹姆斯·科尔</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -146,7 +146,7 @@
   <p>堆栈闪电战<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>📄<a href="https://javascriptweekly.com/link/154667/rss" style=" color: #3366aa; font-weight: 500 !important;   ">从 JS 沙箱中挖掘隧道</a>–<em>“……发掘 Deno 中一些不同漏洞的旅程。”</em> <cite>安全性</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154667/rss" style=" color: #3366aa; font-weight: 500 !important;   ">从 JS 沙箱中挖掘隧道</a>–<em>“......发现 Deno 中一些不同漏洞的旅程。”</em> <cite>安全性</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154668/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何使用 Node 和 Fastify 构建文档齐全且经过验证的 API</a> <cite>朱利安·杜克 (Heroku)</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154669/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用Vite重建NPM工作区本地依赖</a> <cite>普罗索波</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154670/rss" style=" color: #3366aa; font-weight: 500 !important;   ">什么<em>是</em>Vite（以及为什么如此受欢迎）？</a>–<cite>埃里克·西蒙斯</cite></p>
@@ -179,7 +179,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154678/rss" title="yaireo.github.io" style=" color: #3366aa;    font-size: 1.05em;">Tagify 4.26：优雅的标签输入组件</a></span>— 精美的演示表明这里付出了很多努力。<a href="https://javascriptweekly.com/link/154679/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
-  <p>Yair 双或</p>
+  <p>亚尔偶或</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -505,7 +505,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154305/rss" title="openjsf.org" style=" color: #3366aa;    font-size: 1.05em;">Node.js v22（当前）已发布</a></span>— Node 的最新、最前沿的主要版本带来了一些关键的增强功能。 v22 成为新的“当前”版本（于 10 月成为活跃的 LTS）。 它增加了对<code>要求</code>-ing ESM，获得内置 WebSocket 客户端，升级到 V8 12.4，并包括<a href="https://javascriptweekly.com/link/154306/rss" style=" color: #3366aa;   ">任务运行者</a>（例如<code>节点--运行任务名称</code>）。<a href="https://javascriptweekly.com/link/154307/rss" style=" color: #3366aa;   ">这篇博文</a>仔细看看。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154305/rss" title="openjsf.org" style=" color: #3366aa;    font-size: 1.05em;">Node.js v22（当前）已发布</a></span>— Node 的最新、最前沿的主要版本带来了一些关键的增强功能。 v22 成为新的“当前”版本（10 月份成为活跃的 LTS）。 它增加了对<code>要求</code>-ing ESM，获得内置 WebSocket 客户端，升级到 V8 12.4，并包括<a href="https://javascriptweekly.com/link/154306/rss" style=" color: #3366aa;   ">任务运行者</a>（例如<code>节点--运行任务名称</code>）。<a href="https://javascriptweekly.com/link/154307/rss" style=" color: #3366aa;   ">这篇博文</a>仔细看看。</p>
   <p>拉斐尔冈萨加</p>
 </td></tr></tbody></table>
 
@@ -555,7 +555,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric 是 Render 的工程师，他详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric，Render 的工程师，详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
   <p>刘艾里克</p>
 </td></tr></tbody></table>
 
@@ -591,10 +591,10 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/154330/rss" style=" color: #3366aa; font-weight: 500 !important;   ">问题在于<code>新网址()</code>， 如何<code>URL.parse()</code>解决这个问题</a> <cite>基利安·瓦尔克霍夫</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154331/rss" style=" color: #3366aa; font-weight: 500 !important;   ">这<code>国际分段器</code>对象现在是基线的一部分</a>– 可互操作、区域敏感的文本分段。<cite>雷切尔·安德鲁</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的底层。<cite>拉马纳坦和威尔金森</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的幕后黑手。<cite>拉马纳坦和威尔金森</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154333/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TypeScript 功能的制作：推断类型谓词</a> <cite>丹·范德卡姆</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154334/rss" style=" color: #3366aa; font-weight: 500 !important;   ">添加 ESLint 并自动修复现有 TypeScript 项目</a> <cite>丹尼尔·杜布罗夫金</cite></p>
-<p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫林顿</cite></p>
+<p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫灵顿</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154336/rss" style=" color: #3366aa; font-weight: 500 !important;   ">转义 JavaScript 的怪癖<code>脚本</code>标签</a> <cite>詹姆斯·费舍尔</cite></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
@@ -649,10 +649,10 @@
 <p><a href="https://javascriptweekly.com/link/154349/rss" style=" color: #3366aa; font-weight: 500 !important;   ">迷雾CSS 0.4</a>– 仅使用 CSS 创建组件，即 JS-from-CSS。<a href="https://javascriptweekly.com/link/154350/rss" style=" color: #3366aa; font-weight: 500 !important;   ">v0.4</a>添加了 Hono 和 CSS 变量支持。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 (<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
+<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154354/rss" style=" color: #3366aa; font-weight: 500 !important;   ">视觉相机4.0</a>– React Native 的高级相机控制。</p>
@@ -1006,7 +1006,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154018/rss" title="developer.chrome.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Chrome 的性能面板分析 Node.js 性能</a></span>— 了解如何使用 Chrome 分析 Node 性能<em>表现</em>控制板。<em>（<a href="https://javascriptweekly.com/link/154019/rss" style=" color: #3366aa;   ">JS Profiler 即将消失</a>在 Chrome 124 中，因此您需要熟悉新方法。）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154018/rss" title="developer.chrome.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Chrome 的性能面板分析 Node.js 性能</a></span>— 了解如何使用 Chrome 分析 Node 性能<em>表现</em>控制板。<em>(<a href="https://javascriptweekly.com/link/154019/rss" style=" color: #3366aa;   ">JS Profiler 即将消失</a>在 Chrome 124 中，因此您需要熟悉新方法。）</em></p>
   <p>Chrome 开发者版</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1029,7 +1029,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">每月有 100 万活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">100 万月活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
   <p>德尔巴·德·奥利维拉和蒂姆·纽特肯斯</p>
 </td></tr></tbody></table>
 
@@ -1465,7 +1465,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了受支持的数据库列表。</p>
+<p><a href="https://javascriptweekly.com/link/153743/rss" style=" color: #3366aa; font-weight: 500 !important;   ">米克罗 ORM 6.2</a>– 基于数据映射器的 Node.js TypeScript ORM。 SQL Server 和 libSQL/Turso 加入了支持的数据库列表。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153744/rss" style=" color: #3366aa; font-weight: 500 !important;   ">RS包0.6</a>– 基于 Rust 的快速网络捆绑器。</p>
@@ -1483,7 +1483,7 @@
 <p><a href="https://javascriptweekly.com/link/153748/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Reveal.js 5.1</a>– 用于构建 HTML 演示文稿的框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153750/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Xterm.js 5.5</a>– 在网络上创建终端体验。</p>
+<p><a href="https://javascriptweekly.com/link/153750/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Xterm.js 5.5</a>– 在 Web 上创建终端体验。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153751/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TIFF 6.0</a>– 纯 JS TIFF 图像解码器。</p>
