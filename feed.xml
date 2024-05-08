@@ -21,7 +21,7 @@
 4. Node.js 22.1和Deno 1.43发布。
 5. htmx是一种使用HTML属性而不是手动编写JavaScript来使用现代浏览器功能的方法。
 6. Node 22开始支持CJS/ESM互操作性。
-7. 解释了Array.sort(comparator)函数的工作原理。
+7. 解释了Array.sort()中比较函数的工作原理。
 8. 提供了一种在CSS中根据浏览器是否支持JavaScript来提供不同的CSS规则的方法。
 9. 提供了一些有关构建高级交互体验的教程和工具。
 10. 提供了一些有关构建浏览器扩展、Svelte图形库、密码历史等工具和库的信息。
@@ -594,7 +594,7 @@
 <p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的幕后黑手。<cite>拉马纳坦和威尔金森</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154333/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TypeScript 功能的制作：推断类型谓词</a> <cite>丹·范德卡姆</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154334/rss" style=" color: #3366aa; font-weight: 500 !important;   ">添加 ESLint 并自动修复现有 TypeScript 项目</a> <cite>丹尼尔·杜布罗夫金</cite></p>
-<p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫灵顿</cite></p>
+<p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫林顿</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154336/rss" style=" color: #3366aa; font-weight: 500 !important;   ">转义 JavaScript 的怪癖<code>脚本</code>标签</a> <cite>詹姆斯·费舍尔</cite></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
@@ -649,7 +649,7 @@
 <p><a href="https://javascriptweekly.com/link/154349/rss" style=" color: #3366aa; font-weight: 500 !important;   ">迷雾CSS 0.4</a>– 仅使用 CSS 创建组件，即 JS-from-CSS。<a href="https://javascriptweekly.com/link/154350/rss" style=" color: #3366aa; font-weight: 500 !important;   ">v0.4</a>添加了 Hono 和 CSS 变量支持。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 (<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
@@ -1006,7 +1006,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154018/rss" title="developer.chrome.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Chrome 的性能面板分析 Node.js 性能</a></span>— 了解如何使用 Chrome 分析 Node 性能<em>表现</em>控制板。<em>(<a href="https://javascriptweekly.com/link/154019/rss" style=" color: #3366aa;   ">JS Profiler 即将消失</a>在 Chrome 124 中，因此您需要熟悉新方法。）</em></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154018/rss" title="developer.chrome.com" style=" color: #3366aa;    font-size: 1.05em;">使用 Chrome 的性能面板分析 Node.js 性能</a></span>— 了解如何使用 Chrome 分析 Node 性能<em>表现</em>控制板。<em>（<a href="https://javascriptweekly.com/link/154019/rss" style=" color: #3366aa;   ">JS Profiler 即将消失</a>在 Chrome 124 中，因此您需要熟悉新方法。）</em></p>
   <p>Chrome 开发者版</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
