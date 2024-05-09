@@ -112,7 +112,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154661/rss" title="konfigthis.com" style=" color: #3366aa;    font-size: 1.05em;">“我查看了 HTMX 上的 1,000 条意见”</a></span>—<a href="https://javascriptweekly.com/link/154662/rss" style=" color: #3366aa;   ">HTMX</a>是一种越来越流行的方式，通过创造性地使用 HTML 属性来使用现代动态浏览器功能，而不是为所有内容手动编写 JS。 迪伦从社区情绪的角度来看待利弊。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154661/rss" title="konfigthis.com" style=" color: #3366aa;    font-size: 1.05em;">“我查看了 HTMX 上的 1,000 条意见”</a></span>—<a href="https://javascriptweekly.com/link/154662/rss" style=" color: #3366aa;   ">HTMX</a>是一种越来越流行的方式，通过创造性地使用 HTML 属性来使用现代动态浏览器功能，而不是手动编写 JS。 迪伦从社区情绪的角度来看待利弊。</p>
   <p>黄迪伦</p>
 </td></tr></tbody></table>
 
@@ -179,7 +179,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154678/rss" title="yaireo.github.io" style=" color: #3366aa;    font-size: 1.05em;">Tagify 4.26：优雅的标签输入组件</a></span>— 精美的演示表明这里付出了很多努力。<a href="https://javascriptweekly.com/link/154679/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
-  <p>亚尔偶或</p>
+  <p>Yair 双或</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -478,7 +478,7 @@
             <guid>https://javascriptweekly.com/issues/685</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文主要介绍了一些与JavaScript相关的新闻和更新。其中包括Node.js v22的发布，介绍了一些新功能和改进；还有一个名为JSR的新的包管理工具，旨在适应现代的ES模块时代；还有一些有关JavaScript知识测试、包管理工具pnpm的更新、以及一些发布和文章教程的介绍。文章还提到了一些其他的工具和库的更新和发布。</summary>
+    <summary>本文主要介绍了一些与JavaScript相关的新闻和更新。其中包括了Node.js v22的发布，介绍了一些新的功能和改进。还提到了一个名为JSR的新的包管理工具，它是为现代时代定制的，与ES模块兼容。此外，还介绍了一些其他的更新和工具，如pnpm 9.0、React Native 0.74、Electron 30.0等。文章还包括了一些教程和文章，涵盖了各种主题，如迁移项目、前端开发手册、JavaScript库的使用等。最后，还介绍了一些代码和工具，如Unovis、ReScript 11.1、typed-xlsx等。</summary>
     <div>
     <div>OriginTitle: JSR isn't another tool, it's a fundamental shift</div>
 
@@ -505,7 +505,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154305/rss" title="openjsf.org" style=" color: #3366aa;    font-size: 1.05em;">Node.js v22（当前）已发布</a></span>— Node 的最新、最前沿的主要版本带来了一些关键的增强功能。 v22 成为新的“当前”版本（10 月份成为活跃的 LTS）。 它增加了对<code>要求</code>-ing ESM，获得内置 WebSocket 客户端，升级到 V8 12.4，并包括<a href="https://javascriptweekly.com/link/154306/rss" style=" color: #3366aa;   ">任务运行者</a>（例如<code>节点--运行任务名称</code>）。<a href="https://javascriptweekly.com/link/154307/rss" style=" color: #3366aa;   ">这篇博文</a>仔细看看。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154305/rss" title="openjsf.org" style=" color: #3366aa;    font-size: 1.05em;">Node.js v22（当前）已发布</a></span>— Node 的最新、最前沿的主要版本带来了一些关键的增强功能。 v22 成为新的“当前”版本（于 10 月成为活跃的 LTS）。 它增加了对<code>要求</code>-ing ESM，获得内置 WebSocket 客户端，升级到 V8 12.4，并包括<a href="https://javascriptweekly.com/link/154306/rss" style=" color: #3366aa;   ">任务运行者</a>（例如<code>节点--运行任务名称</code>）。<a href="https://javascriptweekly.com/link/154307/rss" style=" color: #3366aa;   ">这篇博文</a>仔细看看。</p>
   <p>拉斐尔冈萨加</p>
 </td></tr></tbody></table>
 
@@ -555,7 +555,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric，Render 的工程师，详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric 是 Render 的工程师，他详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
   <p>刘艾里克</p>
 </td></tr></tbody></table>
 
@@ -591,7 +591,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/154330/rss" style=" color: #3366aa; font-weight: 500 !important;   ">问题在于<code>新网址()</code>， 如何<code>URL.parse()</code>解决这个问题</a> <cite>基利安·瓦尔克霍夫</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154331/rss" style=" color: #3366aa; font-weight: 500 !important;   ">这<code>国际分段器</code>对象现在是基线的一部分</a>– 可互操作、区域敏感的文本分段。<cite>雷切尔·安德鲁</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的幕后黑手。<cite>拉马纳坦和威尔金森</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的底层。<cite>拉马纳坦和威尔金森</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154333/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TypeScript 功能的制作：推断类型谓词</a> <cite>丹·范德卡姆</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154334/rss" style=" color: #3366aa; font-weight: 500 !important;   ">添加 ESLint 并自动修复现有 TypeScript 项目</a> <cite>丹尼尔·杜布罗夫金</cite></p>
 <p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫林顿</cite></p>
@@ -652,7 +652,7 @@
 <p><a href="https://javascriptweekly.com/link/154351/rss" style=" color: #3366aa; font-weight: 500 !important;   ">无障碍自动完成 3.0</a>– 英国政府自己的自动完成输入组件。 （<a href="https://javascriptweekly.com/link/154352/rss" style=" color: #3366aa; font-weight: 500 !important;   ">例子。</a>）</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实现 GraphQL 服务器和网关。</p>
+<p><a href="https://javascriptweekly.com/link/154353/rss" style=" color: #3366aa; font-weight: 500 !important;   ">墨丘利 14.1</a>– 在 Fastify 上实施 GraphQL 服务器和网关。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154354/rss" style=" color: #3366aa; font-weight: 500 !important;   ">视觉相机4.0</a>– React Native 的高级相机控制。</p>
@@ -900,9 +900,9 @@
 
 文章还提到了一些有趣的内容，如一部关于现代开发和复杂生态系统的讽刺视频、300个JavaScript相关视频的列表、用于处理JSON数据的命令行工具f(x)等。
 
-在教程方面，文章介绍了使用TypeScript和oclif从零开始构建CLI工具的教程，以及Qwik和Next.js之间的比较。
+在教程方面，文章介绍了使用TypeScript和oclif从零开始构建CLI工具的方法，以及Qwik和Next.js之间的比较。
 
-在工具方面，文章介绍了一些新发布的工具，如TresJS用于构建基于Vue.js的3D体验、Next.js 14.2版本的发布、Otto 0.4用于在Go中解析和执行JavaScript代码等。
+在工具方面，文章介绍了一些新发布的工具，如TresJS用于构建基于Vue.js的3D场景、Next.js 14.2版本的发布、Otto 0.4用于在Go应用程序中添加脚本等。
 
 最后，文章提到了一篇关于可视化算法的经典文章，由D3.js的创</summary>
     <div>
@@ -1029,7 +1029,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">100 万月活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">每月有 100 万活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
   <p>德尔巴·德·奥利维拉和蒂姆·纽特肯斯</p>
 </td></tr></tbody></table>
 
@@ -1294,7 +1294,7 @@
             <guid>https://javascriptweekly.com/issues/683</guid>
             <content:encoded><![CDATA[<div>
     <h1>GPT总结</h1>
-    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列出了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
+    <summary>本文是《JavaScript Weekly》的一期周刊，涵盖了前端开发、JavaScript工具和库的最新动态。文章中介绍了使用Svelte构建现代前端应用的深入研究，以及一个可以用来实验TC39信号提案的JS Bin。此外，还提到了一个用于在JavaScript应用中添加类似Excel电子表格功能的SpreadJS库。文章还包括了一些有关Figma插件开发、React Server Components和DevTools技巧的文章和教程。在工具方面，介绍了一些有用的库和工具，如Madge、PythonMonkey、Faces.js和Color.js等。此外，还列举了一些最新的软件发布，如ESLint 9.0、VitePress 1.1和npm 10.5.2等。最后，文章还提到了一个有趣的JavaScript项目，将iPod的点击轮以JavaScript形式重新实现。</summary>
     <div>
     <div>OriginTitle: An easy way to experiment with signals</div>
 
@@ -1483,7 +1483,7 @@
 <p><a href="https://javascriptweekly.com/link/153748/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Reveal.js 5.1</a>– 用于构建 HTML 演示文稿的框架。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/153750/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Xterm.js 5.5</a>– 在 Web 上创建终端体验。</p>
+<p><a href="https://javascriptweekly.com/link/153750/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Xterm.js 5.5</a>– 在网络上创建终端体验。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/153751/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TIFF 6.0</a>– 纯 JS TIFF 图像解码器。</p>
