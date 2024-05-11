@@ -76,7 +76,7 @@
 <p>Ben Hong 提出了一个很有帮助的<a href="https://javascriptweekly.com/link/154949/rss" style=" color: #3366aa; font-weight: 500 !important;   ">看看截至 2024 年的 Vue 生态系统。</a></p>
 </li>
 <li>
-<p>📅<a href="https://javascriptweekly.com/link/154950/rss" style=" color: #3366aa; font-weight: 500 !important;   ">反应会议 2024</a>下周举行。 没有门票，但是可以<a href="https://javascriptweekly.com/link/154951/rss" style=" color: #3366aa; font-weight: 500 !important;   ">注册免费直播</a>才能从远处欣赏它。</p>
+<p>📅<a href="https://javascriptweekly.com/link/154950/rss" style=" color: #3366aa; font-weight: 500 !important;   ">反应会议 2024</a>下周举行。 没有门票，但是可以<a href="https://javascriptweekly.com/link/154951/rss" style=" color: #3366aa; font-weight: 500 !important;   ">注册免费直播</a>远远地欣赏它。</p>
 </li>
 <li>
 <p>Node.js 核心邀请您<a href="https://javascriptweekly.com/link/154952/rss" style=" color: #3366aa; font-weight: 500 !important;   ">参与最新的 Node.js<em>下 10</em>民意调查</a>帮助他们决定在哪里使用 Node<em>下一个。</em></p>
@@ -131,7 +131,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154970/rss" title="pavel-romanov.com" style=" color: #3366aa;    font-size: 1.05em;">五个节点版本管理器比较</a></span>— 理想情况下，我们可以使用 Node 的最新 LTS 版本来完成所有事情，但实际上我们经常需要切换版本。 有许多工具可以让您做到这一点。<a href="https://javascriptweekly.com/link/154971/rss" style=" color: #3366aa;   ">非易失性存储器</a>是最有名的，但是 N、FNM、Volta，甚至<a href="https://javascriptweekly.com/link/154972/rss" style=" color: #3366aa;   ">PNPM</a>可以更适合你吗？</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154970/rss" title="pavel-romanov.com" style=" color: #3366aa;    font-size: 1.05em;">五个节点版本管理器比较</a></span>— 理想情况下，我们可以使用 Node 的最新 LTS 版本来完成所有事情，但实际上我们经常需要切换版本。 许多工具可以让您做到这一点。<a href="https://javascriptweekly.com/link/154971/rss" style=" color: #3366aa;   ">非易失性存储器</a>是最有名的，但是 N、FNM、Volta，甚至<a href="https://javascriptweekly.com/link/154972/rss" style=" color: #3366aa;   ">PNPM</a>可以更适合你吗？</p>
   <p>帕维尔·罗曼诺夫</p>
 </td></tr></tbody></table>
 
@@ -142,7 +142,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📺<a href="https://javascriptweekly.com/link/154975/rss" style=" color: #3366aa; font-weight: 500 !important;   ">探索 Node 22 的新增功能</a>– 真正的完成主义者的 90 分钟。<cite>马泰奥·科里纳</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/154976/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何在关闭选项卡时安全地发送请求</a>– 经常被遗忘的<code>发送信标()</code>来救援。<cite>扎卡里·李</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154976/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何在关闭选项卡时安全地发送请求</a>– 经常被遗忘的<code>发送信标（）</code>来救援。<cite>扎卡里·李</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154977/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用 React Three Fiber 探索 3D 文本扭曲效果</a> <cite>九 / Codrops</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154978/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用 yt-dlp、Whisper.cpp 和 Node 自动生成播客节目注释</a> <cite>安东尼·坎波罗</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154979/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 开发人员学习 SolidJS 的指南</a> <cite>特里斯坦·戴尔</cite></p>
@@ -203,7 +203,7 @@
 <p><a href="https://javascriptweekly.com/link/154996/rss" style=" color: #3366aa; font-weight: 500 !important;   ">曼汀7.9</a>– 流行的 React 组件库。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154997/rss" style=" color: #3366aa; font-weight: 500 !important;   ">节点 OracleDB 6.5</a>– Oracle 自己的官方 Node.js 数据库驱动程序，现在支持 Oracle 最新的矢量搜索功能。</p>
+<p><a href="https://javascriptweekly.com/link/154997/rss" style=" color: #3366aa; font-weight: 500 !important;   ">节点 oracledb 6.5</a>– Oracle 自己的官方 Node.js 数据库驱动程序，现在支持 Oracle 最新的矢量搜索功能。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154998/rss" style=" color: #3366aa; font-weight: 500 !important;   ">js-bson 6.7</a>– 用于 Node 和浏览器的 MongoDB BSON 解析器。</p>
@@ -445,7 +445,7 @@
 2. TypeScript 5.5测试版发布，包含许多重大改进，如类型推断、JSDoc中导入类型、正则表达式语法检查等。
 3. Svelte 5发布候选版，没有预期的重大变化。
 4. Node.js 22.1和Deno 1.43发布。
-5. htmx是一种使用HTML属性而不是手动编写JavaScript来使用现代浏览器功能的方法。
+5. htmx是一种使用HTML属性而不是手动编写JavaScript来实现现代动态浏览器功能的方法。
 6. Node 22开始支持CJS/ESM互操作性。
 7. 解释了Array.sort(comparator)函数的工作原理。
 8. 提供了一种在CSS中根据浏览器是否支持JavaScript来提供不同的CSS规则的方法。
@@ -550,14 +550,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154663/rss" title="zacharylee.substack.com" style=" color: #3366aa;    font-size: 1.05em;">从 Node 22 开始对 CJS/ESM 互操作性的本机支持</a></span>— Node 开发人员使用 CommonJS 和 ECMAScript 模块的新时代概述。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154663/rss" title="zacharylee.substack.com" style=" color: #3366aa;    font-size: 1.05em;">从 Node 22 开始对 CJS/ESM 互操作性的本机支持</a></span>— Node 开发人员使用 CommonJS 和 ECMAScript 模块时的新时代概述。</p>
   <p>扎卡里·李</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>Array.sort()</code>作品..”</em></p>
-  <p>詹姆斯·科尔</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort(比较器)</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
+  <p>詹姆斯·克尔</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -626,7 +626,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p>😀<a href="https://javascriptweekly.com/link/154683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">表情集市5.6</a>– Web 表情符号选择组件<em>（多于）。</em></p>
+<p>😀<a href="https://javascriptweekly.com/link/154683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">表情集市5.6</a>– 网络表情符号选择组件<em>（多于）。</em></p>
 </li>
 <li>
 <p>✍️<a href="https://javascriptweekly.com/link/154684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">阿特拉门4.2</a>– 在画布上优雅的绘画和手写。</p>
@@ -945,7 +945,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154309/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">pnpm 9.0：注重效率的包管理器</a></span>—<a href="https://javascriptweekly.com/link/154310/rss" style=" color: #3366aa;   ">PNPM</a>长期以来，对于那些希望节省磁盘空间和 CPU 周期（或因其出色的<a href="https://javascriptweekly.com/link/154311/rss" style=" color: #3366aa;   ">单一仓库支持</a>）同时保留了 npm 的大部分优点。 v9.0 放弃了 Node 16 和 17 兼容性，尊重<code>包管理器</code>领域在<code>包.json</code>，进行了一些默认配置更改，并采用了 Lockfile v9。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154309/rss" title="github.com" style=" color: #3366aa;    font-size: 1.05em;">pnpm 9.0：注重效率的包管理器</a></span>—<a href="https://javascriptweekly.com/link/154310/rss" style=" color: #3366aa;   ">PNPM</a>长期以来，对于那些希望节省磁盘空间和 CPU 周期（或者其出色的性能）的人们来说，它是一个绝佳的选择<a href="https://javascriptweekly.com/link/154311/rss" style=" color: #3366aa;   ">单一仓库支持</a>）同时保留了 npm 的大部分优点。 v9.0 放弃了 Node 16 和 17 兼容性，尊重<code>包管理器</code>领域在<code>包.json</code>，进行了一些默认配置更改，并采用了 Lockfile v9。</p>
   <p>PNPM</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -981,7 +981,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric 是 Render 的工程师，他详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154322/rss" title="render.com" style=" color: #3366aa;    font-size: 1.05em;">将项目迁移到 Bun 的故事</a></span>— Eric，Render 的工程师，详细介绍了他如何迁移其<a href="https://javascriptweekly.com/link/154323/rss" style=" color: #3366aa;   ">斯维尔德</a>项目到<a href="https://javascriptweekly.com/link/154324/rss" style=" color: #3366aa;   ">包子</a>（在此过程中取代 Yarn 和 Vitest），包括他遇到的一些小问题，以及速度的提升。</p>
   <p>刘艾里克</p>
 </td></tr></tbody></table>
 
@@ -1017,7 +1017,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/154330/rss" style=" color: #3366aa; font-weight: 500 !important;   ">问题在于<code>新网址()</code>， 如何<code>URL.parse()</code>解决这个问题</a> <cite>基利安·瓦尔克霍夫</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154331/rss" style=" color: #3366aa; font-weight: 500 !important;   ">这<code>国际分段器</code>对象现在是基线的一部分</a>– 可互操作、区域敏感的文本分段。<cite>雷切尔·安德鲁</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的底层。<cite>拉马纳坦和威尔金森</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的幕后黑手。<cite>拉马纳坦和威尔金森</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154333/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TypeScript 功能的制作：推断类型谓词</a> <cite>丹·范德卡姆</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154334/rss" style=" color: #3366aa; font-weight: 500 !important;   ">添加 ESLint 并自动修复现有 TypeScript 项目</a> <cite>丹尼尔·杜布罗夫金</cite></p>
 <p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫林顿</cite></p>
@@ -1376,7 +1376,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
-  <p>生物群系核心团队</p>
+  <p>生物群落核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
@@ -1455,7 +1455,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">每月有 100 万活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154028/rss" title="nextjs.org" style=" color: #3366aa;    font-size: 1.05em;">Next.js 14.2 发布</a></span>— Next.js 即将迎来八岁生日<a href="https://javascriptweekly.com/link/154029/rss" style=" color: #3366aa;   ">100 万月活跃开发者</a>并发布了一个支持使用 Turbopack 来改进本地开发、内存使用、CSS 和缓存优化、改进的错误消息等的版本。</p>
   <p>德尔巴·德·奥利维拉和蒂姆·纽特肯斯</p>
 </td></tr></tbody></table>
 
@@ -1491,7 +1491,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>⚙️<a href="https://javascriptweekly.com/link/154039/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Zoompinch：Vue 3 的自然感觉“捏缩放”</a>– 预计会及时推出 React 和 Web Component 变体。<cite>莫里斯·康拉德</cite></p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154040/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Craft.js</a>– 用于构建拖放页面编辑器的 React 框架。<cite>上一页 黄</cite></p>
-<p>⚙️<a href="https://javascriptweekly.com/link/154041/rss" style=" color: #3366aa; font-weight: 500 !important;   ">科特坎</a>– 一个基于 Bun 构建并支持 React 服务器组件的简单 React 框架。<cite>本尼迪克特·穆勒</cite></p>
+<p>⚙️<a href="https://javascriptweekly.com/link/154041/rss" style=" color: #3366aa; font-weight: 500 !important;   ">科特坎</a>– 一个基于 Bun 并支持 React 服务器组件的简单 React 框架。<cite>本尼迪克特·穆勒</cite></p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154042/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Cytoscape.js 3.29</a>– 图论/网络可视化和分析库。</p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154043/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Tailwind Next.js 入门博客 2.2</a>– 博客入门模板。</p>
 <p>⚙️<a href="https://javascriptweekly.com/link/154044/rss" style=" color: #3366aa; font-weight: 500 !important;   ">接收数据库 15.18</a>– JS 应用程序的离线优先、反应式数据库。</p>
