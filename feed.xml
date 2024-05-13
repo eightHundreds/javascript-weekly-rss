@@ -23,11 +23,9 @@
 
 4. Gulp的开发者调查：提到了Gulp这个构建系统和工具，介绍了最新的Gulp 5.0版本，并邀请读者参与开发者调查。
 
-5. 其他内容：包括Vue生态系统的概述、React Conf 2024即将举行、Node.js Next 10调查、esbuild、Docusaurus、Ionic等版本发布，以及一些文章和教程的介绍。
+5. 其他内容：包括Vue生态系统的概述、React Conf 2024即将举行、Node.js Next 10调查、esbuild、Docusaurus、Ionic等工具的最新版本发布，以及一些技术文章和教程的介绍。
 
-6. 文章和教程：包括使用浏览器API创建更优雅的拖放体验、修改全局API的危害、避免累积布局移位的方法、比较不同的Node版本管理工具等。
-
-7. 代码和工具：包括Pint</summary>
+总的来说，本文介绍了一些有趣的JavaScript技术和工具，以及一些开发经验和最新的版本发布。</summary>
     <div>
     <div>OriginTitle: Gulp is back - did it ever leave?</div>
 
@@ -557,7 +555,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
-  <p>詹姆斯·克尔</p>
+  <p>詹姆斯·科尔</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1020,7 +1018,7 @@
 <p>📄<a href="https://javascriptweekly.com/link/154332/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 中的事件调度</a>– 新事件委托系统的底层。<cite>拉马纳坦和威尔金森</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154333/rss" style=" color: #3366aa; font-weight: 500 !important;   ">TypeScript 功能的制作：推断类型谓词</a> <cite>丹·范德卡姆</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154334/rss" style=" color: #3366aa; font-weight: 500 !important;   ">添加 ESLint 并自动修复现有 TypeScript 项目</a> <cite>丹尼尔·杜布罗夫金</cite></p>
-<p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫灵顿</cite></p>
+<p>📺<a href="https://javascriptweekly.com/link/154335/rss" style=" color: #3366aa; font-weight: 500 !important;   ">今天在 React 和 Svelte 中使用 TC39 建议的信号</a>–<cite>杰克·赫林顿</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/154336/rss" style=" color: #3366aa; font-weight: 500 !important;   ">转义 JavaScript 的怪癖<code>脚本</code>标签</a> <cite>詹姆斯·费舍尔</cite></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
@@ -1324,13 +1322,11 @@
 
 接下来，文章提到了jQuery团队和OpenJS基金会合作推出的“Healthy Web Checkup”工具，用于检查网站上的jQuery版本是否过时。还介绍了Biome v1.7版本的更新，该工具是一个全能的JavaScript、TypeScript和JSX格式化和检查工具。
 
-文章还提到了一些有趣的内容，如一部关于现代开发和复杂生态系统的讽刺视频、300个JavaScript相关视频的列表、用于处理JSON数据的命令行工具f(x)等。
+在文章的“文章和教程”部分，介绍了一些有关构建CLI工具、React和Vue.js的教程和文章。还提到了一些有趣的工具和库，如TresJS、Next.js 14.2和HyperFormula。
 
-在教程方面，文章介绍了使用TypeScript和oclif从零开始构建CLI工具的教程，以及Qwik和Next.js之间的比较。
+最后，文章推荐了一篇名为“Visualizing Algorithms”的经典文章，由D3.js的作者Mike Bostock撰写，通过可视化演示和代码向读者展示了一些算法。
 
-在工具方面，文章介绍了一些新发布的工具，如TresJS用于构建基于Vue.js的3D体验、Next.js 14.2版本的发布、Otto 0.4用于在Go中解析和执行JavaScript代码等。
-
-最后，文章提到了一篇关于可视化算法的经典文章，由D3.js的创</summary>
+总的来说，本文介绍了一些与JavaScript相关的新闻、工具和教程，涵盖了前端开发的不同方面。</summary>
     <div>
     <div>OriginTitle: Visualizing algorithms</div>
 
@@ -1351,7 +1347,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多正在进行中</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多事情正在发生</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
   <p>板坯公司</p>
 </td></tr></tbody></table>
 
@@ -1382,7 +1378,7 @@
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p>🤡<a href="https://javascriptweekly.com/link/154006/rss" style=" color: #3366aa; font-weight: 500 !important;   ">▶️ 2024 年高级 JS 开发人员访谈</a>是对现代发展状况和日益复杂的生态系统的讽刺（？）。 注意要么笑，要么哭。<em>（6 分钟。）</em></p>
+<p>🤡<a href="https://javascriptweekly.com/link/154006/rss" style=" color: #3366aa; font-weight: 500 !important;   ">▶️ 2024 年高级 JS 开发人员访谈</a>是对现代发展状况和日益复杂的生态系统的讽刺（？）。 观看时要么笑，要么哭。<em>（6 分钟。）</em></p>
 </li>
 <li>
 <p>📺 Bartek Szwej 整理了一个<a href="https://javascriptweekly.com/link/154007/rss" style=" color: #3366aa; font-weight: 500 !important;   ">300 个 JavaScript 相关视频列表</a>过去一年的数据，按 YouTube 观看次数排序。</p>
