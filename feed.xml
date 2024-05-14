@@ -17,15 +17,15 @@
 
 1. xkcd的'Machine'技术解析：介绍了xkcd今年愚人节的玩笑作品'Machine'的技术实现，使用了大量的TypeScript和Haskell。
 
-2. Figma从Skew语言迁移到TypeScript的经验：介绍了Figma团队如何自动将他们使用Skew编写的代码迁移到TypeScript，而不会中断开发。
+2. Figma从Skew语言迁移到TypeScript的经验：Figma团队介绍了他们如何自动将使用Skew编写的代码迁移到TypeScript，而不会中断开发。
 
-3. 强大的JavaScript开发工具：介绍了一些强大的JavaScript开发工具，包括SpreadJS类似Excel的电子表格组件、ActiveReportsJS报表工具、Wijmo UI组件套件和Document Solutions查看器。
+3. 强大的JavaScript开发工具：介绍了一些强大的JavaScript开发工具，包括SpreadJS类似Excel的电子表格组件、ActiveReportsJS报表工具、Wijmo UI组件套件以及用于PDF、Excel、图像等的Document Solutions查看器。
 
-4. Gulp的开发者调查：提到了Gulp这个构建系统和工具，介绍了最新的Gulp 5.0版本，并邀请读者参与开发者调查。
+4. Gulp的开发者调查：提到了Gulp这个构建系统和工具，介绍了最新发布的Gulp 5.0版本，并邀请开发者参与调查，帮助改进Gulp。
 
 5. 其他内容：包括Vue生态系统的概述、React Conf 2024即将举行、Node.js Next 10调查、esbuild、Docusaurus、Ionic等工具的最新版本发布，以及一些技术文章和教程的介绍。
 
-总的来说，本文介绍了一些有趣的JavaScript技术和工具，以及一些开发经验和最新的版本发布。</summary>
+总体来说，本文介绍了一些有趣的JavaScript技术和工具，以及一些开发经验和最新的版本发布。</summary>
     <div>
     <div>OriginTitle: Gulp is back - did it ever leave?</div>
 
@@ -201,7 +201,7 @@
 <p><a href="https://javascriptweekly.com/link/154996/rss" style=" color: #3366aa; font-weight: 500 !important;   ">曼汀7.9</a>– 流行的 React 组件库。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/154997/rss" style=" color: #3366aa; font-weight: 500 !important;   ">节点 OracleDB 6.5</a>– Oracle 自己的官方 Node.js 数据库驱动程序，现在支持 Oracle 最新的矢量搜索功能。</p>
+<p><a href="https://javascriptweekly.com/link/154997/rss" style=" color: #3366aa; font-weight: 500 !important;   ">节点 oracledb 6.5</a>– Oracle 自己的官方 Node.js 数据库驱动程序，现在支持 Oracle 最新的向量搜索功能。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/154998/rss" style=" color: #3366aa; font-weight: 500 !important;   ">js-bson 6.7</a>– 用于 Node 和浏览器的 MongoDB BSON 解析器。</p>
@@ -443,7 +443,7 @@
 2. TypeScript 5.5测试版发布，包含许多重大改进，如类型推断、JSDoc中导入类型、正则表达式语法检查等。
 3. Svelte 5发布候选版，没有预期的重大变化。
 4. Node.js 22.1和Deno 1.43发布。
-5. htmx是一种使用HTML属性而不是手动编写JavaScript来实现现代动态浏览器功能的方法。
+5. htmx是一种使用HTML属性而不是手动编写JavaScript来使用现代浏览器功能的方法。
 6. Node 22开始支持CJS/ESM互操作性。
 7. 解释了Array.sort(comparator)函数的工作原理。
 8. 提供了一种在CSS中根据浏览器是否支持JavaScript来提供不同的CSS规则的方法。
@@ -554,8 +554,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort（比较器）</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
-  <p>詹姆斯·科尔</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154665/rss" title="www.jameskerr.blog" style=" color: #3366aa;    font-size: 1.05em;">终于明白如何<code>Array.sort(比较器)</code>作品</a></span>—<em>“使用 JavaScript 13 年之后，我终于有办法记住比较器在<code>数组.sort()</code>作品..”</em></p>
+  <p>詹姆斯·克尔</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -603,7 +603,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154678/rss" title="yaireo.github.io" style=" color: #3366aa;    font-size: 1.05em;">Tagify 4.26：优雅的标签输入组件</a></span>— 精美的演示表明这里付出了很多努力。<a href="https://javascriptweekly.com/link/154679/rss" style=" color: #3366aa;   ">GitHub 存储库。</a></p>
-  <p>亚尔偶或</p>
+  <p>Yair 双或</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -624,7 +624,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <ul>
 <li>
-<p>😀<a href="https://javascriptweekly.com/link/154683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">表情集市5.6</a>– 网络表情符号选择组件<em>（多于）。</em></p>
+<p>😀<a href="https://javascriptweekly.com/link/154683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">表情集市5.6</a>– Web 表情符号选择组件<em>（多于）。</em></p>
 </li>
 <li>
 <p>✍️<a href="https://javascriptweekly.com/link/154684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">阿特拉门4.2</a>– 在画布上优雅的绘画和手写。</p>
@@ -1322,11 +1322,13 @@
 
 接下来，文章提到了jQuery团队和OpenJS基金会合作推出的“Healthy Web Checkup”工具，用于检查网站上的jQuery版本是否过时。还介绍了Biome v1.7版本的更新，该工具是一个全能的JavaScript、TypeScript和JSX格式化和检查工具。
 
-在文章的“文章和教程”部分，介绍了一些有关构建CLI工具、React和Vue.js的教程和文章。还提到了一些有趣的工具和库，如TresJS、Next.js 14.2和HyperFormula。
+文章还提到了一些有趣的内容，如一部关于现代开发和复杂生态系统的讽刺视频、300个JavaScript相关视频的列表、用于处理JSON数据的命令行工具f(x)等。
 
-最后，文章推荐了一篇名为“Visualizing Algorithms”的经典文章，由D3.js的作者Mike Bostock撰写，通过可视化演示和代码向读者展示了一些算法。
+在教程方面，文章介绍了使用TypeScript和oclif从零开始构建CLI工具的教程，以及Qwik和Next.js之间的比较。
 
-总的来说，本文介绍了一些与JavaScript相关的新闻、工具和教程，涵盖了前端开发的不同方面。</summary>
+在工具方面，文章介绍了一些新发布的工具，如TresJS用于构建基于Vue.js的3D体验、Next.js 14.2版本的发布、Otto 0.4用于在Go中解析和执行JavaScript代码等。
+
+最后，文章提到了一篇关于可视化算法的经典文章，由D3.js的创</summary>
     <div>
     <div>OriginTitle: Visualizing algorithms</div>
 
@@ -1347,7 +1349,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多事情正在发生</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/153997/rss" title="quilljs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">Quill 2.0：强大的 Web 富文本编辑器</a></span>— 开源 WYSIWYG 编辑器的主要版本和重大现代化。 在<a href="https://javascriptweekly.com/link/153998/rss" style=" color: #3366aa;   ">宣布 Quill 2.0</a>，我们了解了 Quill 向 TypeScript 的过渡以及对现代浏览器功能的改进使用，但是<a href="https://javascriptweekly.com/link/153999/rss" style=" color: #3366aa;   ">更多正在进行中</a>还有，比如它的 ESM 包装。 想玩一些代码吗？<a href="https://javascriptweekly.com/link/154000/rss" style=" color: #3366aa;   ">有一个游乐场。</a></p>
   <p>板坯公司</p>
 </td></tr></tbody></table>
 
@@ -1371,14 +1373,14 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群系</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/154004/rss" title="biomejs.dev" style=" color: #3366aa;    font-size: 1.05em;">Biome v1.7：更快的格式化和 Linting，现在更容易迁移到</a></span>—<a href="https://javascriptweekly.com/link/154005/rss" style=" color: #3366aa;   ">生物群落</a>是一种日益引人注目的一体化 JavaScript、TypeScript 和 JSX Prettier 兼容格式化程序和 linter。 v1.7 可以更轻松地从 ESLint 和 Prettier 迁移到，可以发出机器可读的 JSON 报告，并且有一些规则更新。</p>
   <p>生物群系核心团队</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
 <ul>
 <li>
-<p>🤡<a href="https://javascriptweekly.com/link/154006/rss" style=" color: #3366aa; font-weight: 500 !important;   ">▶️ 2024 年高级 JS 开发人员访谈</a>是对现代发展状况和日益复杂的生态系统的讽刺（？）。 观看时要么笑，要么哭。<em>（6 分钟。）</em></p>
+<p>🤡<a href="https://javascriptweekly.com/link/154006/rss" style=" color: #3366aa; font-weight: 500 !important;   ">▶️ 2024 年高级 JS 开发人员访谈</a>是对现代发展状况和日益复杂的生态系统的讽刺（？）。 注意要么笑，要么哭。<em>（6 分钟。）</em></p>
 </li>
 <li>
 <p>📺 Bartek Szwej 整理了一个<a href="https://javascriptweekly.com/link/154007/rss" style=" color: #3366aa; font-weight: 500 !important;   ">300 个 JavaScript 相关视频列表</a>过去一年的数据，按 YouTube 观看次数排序。</p>
