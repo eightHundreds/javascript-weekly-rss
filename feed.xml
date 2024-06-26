@@ -31,13 +31,13 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156653/rss" title="2023.stateofjs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">结果<em>2023 年 JavaScript 现状</em> 民意调查</a></span>  — 2024 年 6 月包含有关 2023 年的事情感觉很奇怪，但主要的年度 JavaScript 开发者调查结果现已出炉。 很有趣的看到<a href="https://javascriptweekly.com/link/156654/rss" style=" color: #3366aa;   ">JS 开发人员使用和不使用哪些功能</a>,<a href="https://javascriptweekly.com/link/156655/rss" style=" color: #3366aa;   ">图书馆受欢迎程度随时间的变化</a>,<a href="https://javascriptweekly.com/link/156656/rss" style=" color: #3366aa;   ">人们正在使用什么构建工具</a>， 这<a href="https://javascriptweekly.com/link/156657/rss" style=" color: #3366aa;   ">JavaScript 和 TypeScript 使用之间的区别</a>，还有更多。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156653/rss" title="2023.stateofjs.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">结果<em>2023 年 JavaScript 现状</em> 民意调查</a></span>  — 2024 年 6 月包含有关 2023 年的事情感觉很奇怪，但主要的年度 JavaScript 开发者调查结果现已出炉。 很有趣的看到<a href="https://javascriptweekly.com/link/156654/rss" style=" color: #3366aa;   ">JS 开发人员使用和不使用哪些功能</a>,<a href="https://javascriptweekly.com/link/156655/rss" style=" color: #3366aa;   ">图书馆受欢迎程度随时间的变化</a>,<a href="https://javascriptweekly.com/link/156656/rss" style=" color: #3366aa;   ">人们正在使用什么构建工具</a>， 这<a href="https://javascriptweekly.com/link/156657/rss" style=" color: #3366aa;   ">JavaScript 和 TypeScript 使用的区别</a>，还有更多。</p>
   <p>地形学</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员放弃 CommonJS 时丢失的功能。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员远离 CommonJS 时丢失的功能。</p>
   <p>玛丽·布兰斯科姆/新堆栈</p>
 </td></tr></tbody></table>
 
@@ -121,12 +121,12 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156679/rss" title="johnnyreilly.com" style=" color: #3366aa;    font-size: 1.05em;">双出版 ESM 和 CJS 模块<code>楚普</code> 和“类型是否错误”</a></span> —<a href="https://javascriptweekly.com/link/156680/rss" style=" color: #3366aa;   ">楚普</a> 可以轻松捆绑 TypeScript 库和<a href="https://javascriptweekly.com/link/156681/rss" style=" color: #3366aa;   ">“类型有错吗？”</a> 分析包的类型问题。</p>
-  <p>约翰·赖利</p>
+  <p>约翰赖利</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/156682/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何使用 Google Sheets 作为 React 的“数据库”</a> <cite>保罗·斯坎伦</cite></p>
 <p>📺<a href="https://javascriptweekly.com/link/156683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Svelte 和 RSC 如何改变 Web 开发</a> – 小组讨论，包括 Svelte 的 Rich Harris、Tracy Lee、Ben Lesh 和 Adam Rackis。<cite>这个点媒体</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/156684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">掌握日期格式使用<code>国际日期时间格式</code></a>  <cite>拉斐尔·卡马戈</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用以下命令掌握日期格式<code>国际日期时间格式</code></a>  <cite>拉斐尔·卡马戈</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156685/rss" style=" color: #3366aa; font-weight: 500 !important;   ">MobX 记忆组件（你不需要 React 编译器）</a> – 如果您实际上正在使用<a href="https://javascriptweekly.com/link/156686/rss" style=" color: #3366aa; font-weight: 500 !important;   ">莫布X</a>， 那是。<cite>迈克·约翰逊</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156687/rss" style=" color: #3366aa; font-weight: 500 !important;   ">将滚动驱动动画从 JavaScript 重构为 CSS</a>  <cite>安德里科·卡鲁拉</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156690/rss" style=" color: #3366aa; font-weight: 500 !important;   ">UUIDv7 以 20 种语言实现</a> – 令人惊讶的简短而甜蜜。<cite>安东·日亚诺夫</cite></p>
@@ -464,7 +464,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156369/rss" title="jrsinclair.com" style=" color: #3366aa;    font-size: 1.05em;">如何编写带有多个参数的 JS 函数</a></span> —<em>“函数组合很美”</em> James 说道，他继续以他一贯优雅的方式解释了部分应用程序、柯里化、复合数据结构等的使用。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156369/rss" title="jrsinclair.com" style=" color: #3366aa;    font-size: 1.05em;">如何编写带有多个参数的 JS 函数</a></span> —<em>“函数组合很美”</em> James 说道，他接着以他通常优雅的方式解释了部分应用程序、柯里化、复合数据结构等的使用。</p>
   <p>詹姆斯·辛克莱</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -533,7 +533,7 @@
   <p>雅各布·史密斯</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>📄<a href="https://javascriptweekly.com/link/156392/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用页面可见性 API</a> – 设置事件侦听器以在页面可见性发生变化时执行操作。<cite>布赖恩·史密斯</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156392/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用页面可见性 API</a> – 设置事件侦听器以在页面可见性发生变化时执行操作。<cite>布莱恩·史密斯</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156393/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Directus 和 Preact 入门</a> –<a href="https://javascriptweekly.com/link/156394/rss" style=" color: #3366aa; font-weight: 500 !important;   ">直达</a> 是一个构建在 Node 和 Vue 之上的无头 CMS。<cite>杰·巴拉迪亚</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156395/rss" style=" color: #3366aa; font-weight: 500 !important;   ">通过 WebAssembly 使用 Rust 为 Angular 提供支持</a> – 如何开始在 Angular 应用程序中使用 Rust。<cite>叶夫根尼·奥兹</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156396/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 指令与 Vue 指令</a>  <cite>克里斯蒂安·恩万巴</cite></p>
@@ -1032,7 +1032,7 @@
 <p><a href="https://javascriptweekly.com/link/156121/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ts电路</a> – 使用基于 React 的方法设计电路板。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – Node.js 和 TypeScript 的流行 ORM。</p>
+<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – 适用于 Node.js 和 TypeScript 的流行 ORM。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156123/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓜JS 17.3</a> – 轻量级 HTML5 游戏引擎。</p>
@@ -1050,7 +1050,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156125/rss" title="katex.org" style=" color: #3366aa;    font-size: 1.05em;">KaTeX：最快的网络数学排版库</a></span>  — 如今所有这些人工智能和机器学习论文和博客文章都充满了数学符号，那么使用无依赖性、基于 TeX 的方法来渲染它们怎么样？ 这<a href="https://javascriptweekly.com/link/156126/rss" style=" color: #3366aa;   ">沙箱演示页面</a> 展示它是多么光滑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156125/rss" title="katex.org" style=" color: #3366aa;    font-size: 1.05em;">KaTeX：最快的网络数学排版库</a></span>  — 如今所有这些人工智能和机器学习论文和博客文章都充满了数学符号，那么使用无依赖性、基于 TeX 的方法来渲染它们怎么样？ 这<a href="https://javascriptweekly.com/link/156126/rss" style=" color: #3366aa;   ">沙盒演示页面</a> 展示它是多么光滑。</p>
   <p>艾米丽·艾森伯格和索菲·阿尔珀特</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1058,7 +1058,7 @@
   <a href="https://javascriptweekly.com/link/156127/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/i0w8d1edpcs8nkc9fwvr.jpg" width="640" style="    line-height: 100%;         "></a>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>其次，你可能还记得去年（<a href="https://javascriptweekly.com/link/156131/rss" style=" color: #3366aa; font-weight: 500 !important;   ">第 654 期</a>） 我提到<strong>一场新的人工智能工程盛会</strong> 由两个名为的 JavaScript 开发人员设计<em>人工智能工程师峰会。</em> 事实证明它太棒了，本月晚些时候它以一种更大的形式回归，称为<a href="https://javascriptweekly.com/link/156127/rss" style=" color: #3366aa; font-weight: 500 !important;   ">人工智能工程师世界博览会</a> （6 月 25 日至 27 日，旧金山）。</p>
+<p>其次，你可能还记得去年（<a href="https://javascriptweekly.com/link/156131/rss" style=" color: #3366aa; font-weight: 500 !important;   ">654期</a>） 我提到<strong>一场新的人工智能工程盛会</strong> 由两个名为的 JavaScript 开发人员设计<em>人工智能工程师峰会。</em> 事实证明它太棒了，本月晚些时候它以一种更大的形式回归，称为<a href="https://javascriptweekly.com/link/156127/rss" style=" color: #3366aa; font-weight: 500 !important;   ">人工智能工程师世界博览会</a> （6 月 25 日至 27 日，旧金山）。</p>
 <p>演讲者名单是机器学习开发领域名副其实的“名人录”，所有主要的 LLM 提供商也都出席了，所以我在最后一刻决定，我需要参加！ 如果你也有兴趣去的话<a href="https://javascriptweekly.com/link/156128/rss" style=" color: #3366aa; font-weight: 500 !important;   ">他们给了我们一个所有票价 30% 折扣的链接</a> 供您使用。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1307,7 +1307,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/155772/rss" title="blog.1password.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">1Password 如何使用 esbuild 来缩短浏览器扩展构建时间</a></span>  — 1Password 是一种流行的密码管理工具，它依赖浏览器扩展在 Web 上填写密码。 单个构建的时间超过一分钟，开发人员的事情开始变得缓慢。 可以<a href="https://javascriptweekly.com/link/155773/rss" style=" color: #3366aa;   ">esbuild</a>  帮助？ 一个有趣的故事，包含大量技术细节。</p>
-  <p>贾里克·萨米克</p>
+  <p>贾雷克·萨米克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1340,7 +1340,7 @@
 <p>如果你还没有下过<a href="https://javascriptweekly.com/link/155782/rss" style=" color: #3366aa; font-weight: 500 !important;   ">JSR</a> 兔子洞还没有，让<a href="https://javascriptweekly.com/link/155783/rss" style=" color: #3366aa; font-weight: 500 !important;   ">▶️ 瑞恩·达尔 (Ryan Dahl) 说服你</a> 通过他的 DevWorld 2024 演讲。<em>（29 分钟。）</em></p>
 </li>
 <li>
-<p>三.js介绍<a href="https://javascriptweekly.com/link/155784/rss" style=" color: #3366aa; font-weight: 500 !important;   ">它自己的“TSL”着色器语言</a> 作为使用 JavaScript 而不是 WebGPU 着色语言编写 WebGPU 着色器的一种方式。</p>
+<p>三.js介绍<a href="https://javascriptweekly.com/link/155784/rss" style=" color: #3366aa; font-weight: 500 !important;   ">它自己的“TSL”着色器语言</a> 作为使用 JavaScript 而不是 WebGPU 着色语言编写 WebGPU 着色器的一种方法。</p>
 </li>
 </ul>
 </td></tr></tbody></table>
@@ -1459,7 +1459,7 @@
 <p><a href="https://javascriptweekly.com/link/155815/rss" style=" color: #3366aa; font-weight: 500 !important;   ">颗粒物 5.4</a> – 流行的基于 Node.js 的生产流程管理器。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/155816/rss" style=" color: #3366aa; font-weight: 500 !important;   ">混杂4.0</a> – 适用于 JavaScript 开发人员的 OCaml 编译器。</p>
+<p><a href="https://javascriptweekly.com/link/155816/rss" style=" color: #3366aa; font-weight: 500 !important;   ">混色4.0</a> – 适用于 JavaScript 开发人员的 OCaml 编译器。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/155817/rss" style=" color: #3366aa; font-weight: 500 !important;   ">中性元素 5.2</a> – 轻量级跨平台桌面应用程序框架。</p>
