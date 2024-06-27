@@ -102,7 +102,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156675/rss" title="colinhacks.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript Monorepo 中的实时类型</a></span> — 几种让 TypeScript monorepo 在传播变化的意义上感觉更加“活跃”的策略。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156675/rss" title="colinhacks.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript Monorepo 中的实时类型</a></span> — 几种使 TypeScript monorepo 在传播变化的意义上感觉更加“活跃”的策略。</p>
   <p>科林·麦克唐纳</p>
 </td></tr></tbody></table>
 
@@ -121,7 +121,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156679/rss" title="johnnyreilly.com" style=" color: #3366aa;    font-size: 1.05em;">双出版 ESM 和 CJS 模块<code>楚普</code> 和“类型是否错误”</a></span> —<a href="https://javascriptweekly.com/link/156680/rss" style=" color: #3366aa;   ">楚普</a> 可以轻松捆绑 TypeScript 库和<a href="https://javascriptweekly.com/link/156681/rss" style=" color: #3366aa;   ">“类型有错吗？”</a> 分析包的类型问题。</p>
-  <p>约翰赖利</p>
+  <p>约翰·赖利</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/156682/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何使用 Google Sheets 作为 React 的“数据库”</a> <cite>保罗·斯坎伦</cite></p>
@@ -178,7 +178,7 @@
 <p><a href="https://javascriptweekly.com/link/156706/rss" style=" color: #3366aa; font-weight: 500 !important;   ">电子商店10.0</a> – Electron 应用程序的简单数据持久性。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156707/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 日期选择器 7.1</a>  – 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/156708/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/156707/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 日期选择器 7.1</a>  – 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/156708/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156709/rss" style=" color: #3366aa; font-weight: 500 !important;   ">单子 0.7</a> – 铁锈启发<code>选项</code>,<code>结果</code>， 和<code>任何一个</code> 类型。</p>
@@ -1032,7 +1032,7 @@
 <p><a href="https://javascriptweekly.com/link/156121/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ts电路</a> – 使用基于 React 的方法设计电路板。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – 适用于 Node.js 和 TypeScript 的流行 ORM。</p>
+<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – Node.js 和 TypeScript 的流行 ORM。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156123/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓜JS 17.3</a> – 轻量级 HTML5 游戏引擎。</p>
@@ -1050,7 +1050,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156125/rss" title="katex.org" style=" color: #3366aa;    font-size: 1.05em;">KaTeX：最快的网络数学排版库</a></span>  — 如今所有这些人工智能和机器学习论文和博客文章都充满了数学符号，那么使用无依赖性、基于 TeX 的方法来渲染它们怎么样？ 这<a href="https://javascriptweekly.com/link/156126/rss" style=" color: #3366aa;   ">沙盒演示页面</a> 展示它是多么光滑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156125/rss" title="katex.org" style=" color: #3366aa;    font-size: 1.05em;">KaTeX：最快的网络数学排版库</a></span>  — 如今所有这些人工智能和机器学习论文和博客文章都充满了数学符号，那么使用无依赖性、基于 TeX 的方法来渲染它们怎么样？ 这<a href="https://javascriptweekly.com/link/156126/rss" style=" color: #3366aa;   ">沙箱演示页面</a> 展示它是多么光滑。</p>
   <p>艾米丽·艾森伯格和索菲·阿尔珀特</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1058,7 +1058,7 @@
   <a href="https://javascriptweekly.com/link/156127/rss" style=" color: #3366aa;"><img src="https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/i0w8d1edpcs8nkc9fwvr.jpg" width="640" style="    line-height: 100%;         "></a>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>其次，你可能还记得去年（<a href="https://javascriptweekly.com/link/156131/rss" style=" color: #3366aa; font-weight: 500 !important;   ">654期</a>） 我提到<strong>一场新的人工智能工程盛会</strong> 由两个名为的 JavaScript 开发人员设计<em>人工智能工程师峰会。</em> 事实证明它太棒了，本月晚些时候它以一种更大的形式回归，称为<a href="https://javascriptweekly.com/link/156127/rss" style=" color: #3366aa; font-weight: 500 !important;   ">人工智能工程师世界博览会</a> （6 月 25 日至 27 日，旧金山）。</p>
+<p>其次，你可能还记得去年（<a href="https://javascriptweekly.com/link/156131/rss" style=" color: #3366aa; font-weight: 500 !important;   ">第 654 期</a>） 我提到<strong>一场新的人工智能工程盛会</strong> 由两个名为的 JavaScript 开发人员设计<em>人工智能工程师峰会。</em> 事实证明它太棒了，本月晚些时候它以一种更大的形式回归，称为<a href="https://javascriptweekly.com/link/156127/rss" style=" color: #3366aa; font-weight: 500 !important;   ">人工智能工程师世界博览会</a> （6 月 25 日至 27 日，旧金山）。</p>
 <p>演讲者名单是机器学习开发领域名副其实的“名人录”，所有主要的 LLM 提供商也都出席了，所以我在最后一刻决定，我需要参加！ 如果你也有兴趣去的话<a href="https://javascriptweekly.com/link/156128/rss" style=" color: #3366aa; font-weight: 500 !important;   ">他们给了我们一个所有票价 30% 折扣的链接</a> 供您使用。</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
@@ -1307,7 +1307,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/155772/rss" title="blog.1password.com" style=" color: #3366aa;    font-size: 1.1em; line-height: 1.4em;">1Password 如何使用 esbuild 来缩短浏览器扩展构建时间</a></span>  — 1Password 是一种流行的密码管理工具，它依赖浏览器扩展在 Web 上填写密码。 单个构建的时间超过一分钟，开发人员的事情开始变得缓慢。 可以<a href="https://javascriptweekly.com/link/155773/rss" style=" color: #3366aa;   ">esbuild</a>  帮助？ 一个有趣的故事，包含大量技术细节。</p>
-  <p>贾雷克·萨米克</p>
+  <p>贾里克·萨米克</p>
 </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -1325,7 +1325,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/155775/rss" title="aem1k.com" style=" color: #3366aa;    font-size: 1.05em;">aem1k：各种 JS 黑客和创意编码</a></span>  ——这是一件有趣的事。 Martin 通过他的项目集合真正捕捉到了 JavaScript 和 Web 的乐趣和表现力，无论是提供<a href="https://javascriptweekly.com/link/155776/rss" style=" color: #3366aa;   ">NSFW 命名的工具</a> 将 JavaScript 转换为仅六个字符，渲染<a href="https://javascriptweekly.com/link/155777/rss" style=" color: #3366aa;   ">1KB JS 中的旋转地球仪</a>， 这<a href="https://javascriptweekly.com/link/155778/rss" style=" color: #3366aa;   ">176 字节的生命游戏</a>， 和<em>还有很多</em> 这样的实验。</p>
-  <p>马丁·克莱佩</p>
+  <p>马丁·克莱普</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p><strong>简单来说：</strong></p>
@@ -1380,7 +1380,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/155794/rss" title="aws.amazon.com" style=" color: #3366aa;    font-size: 1.05em;">AWS 推出新的 Fullstack TypeScript DX</a></span>  — 使用 TypeScript 构建应用程序云后端的每个部分：auth？ 打字稿。 数据？ 打字稿。 贮存？ 打字稿。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/155794/rss" title="aws.amazon.com" style=" color: #3366aa;    font-size: 1.05em;">推出来自 AWS 的新 Fullstack TypeScript DX</a></span>  — 使用 TypeScript 构建应用程序云后端的每个部分：auth？ 打字稿。 数据？ 打字稿。 贮存？ 打字稿。</p>
   <p>AWS 放大<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -1501,7 +1501,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/155827/rss" title="aem1k.com" style=" color: #3366aa;    font-size: 1.05em;">Qlock：JavaScript Quine 时钟</a></span>  — 我们之前链接到了 Martin 的一系列创造性 JavaScript 实验，但为什么不以一个特别让我们兴奋的实验来结束呢？ A<a href="https://javascriptweekly.com/link/155828/rss" style=" color: #3366aa;   ">奎因</a>  是一个不接受输入但能够生成自己的源代码作为输出的程序。 这是一个有趣的 JavaScript 示例，它不仅是一个 quine，而且还是一个时钟。</p>
-  <p>马丁·克莱佩</p>
+  <p>马丁·克莱普</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
 </div>
