@@ -96,7 +96,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156969/rss" title="www.powersync.com" style=" color: #3366aa;    font-size: 1.05em;">同步引擎将解锁本地优先开发</a></span>  — 同步引擎是 Linear 和 Figma 等应用程序令人惊叹的用户体验的背后。 PowerSync 是用于网络应用程序的插件同步引擎。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156969/rss" title="www.powersync.com" style=" color: #3366aa;    font-size: 1.05em;">同步引擎将解锁本地优先开发</a></span>  — 同步引擎是 Linear 和 Figma 等应用程序令人惊叹的用户体验的背后。 PowerSync 是一个用于网络应用程序的插件同步引擎。</p>
   <p>电源同步<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 
@@ -114,7 +114,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156972/rss" title="userfront.com" style=" color: #3366aa;    font-size: 1.05em;">在用户界面绘制 Auth Owl | 变革性的身份验证和身份</a></span>  — 阅读 Userfront 背后的故事。 包括公司背后的愿景以及授权应该（和不应该）拥有什么。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156972/rss" title="userfront.com" style=" color: #3366aa;    font-size: 1.05em;">在用户前端绘制 Auth Owl | 变革性的身份验证和身份</a></span>  — 阅读 Userfront 背后的故事。 包括公司背后的愿景以及授权应该（和不应该）拥有什么。</p>
   <p>用户界面<span style="text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #993 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            ">赞助</span></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
@@ -172,13 +172,13 @@
 <p><a href="https://javascriptweekly.com/link/156987/rss" style=" color: #3366aa; font-weight: 500 !important;   ">凯1.4</a> – 基于浏览器、Node 和 Deno 的 Fetch 的简单 HTTP 客户端。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156988/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React Awesome 查询生成器 6.6</a>  – 逻辑查询生成器控制。 (<a href="https://javascriptweekly.com/link/156989/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/156988/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React Awesome 查询生成器 6.6</a>  – 逻辑查询生成器控制。 （<a href="https://javascriptweekly.com/link/156989/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156990/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Matter.js 0.20</a> – 2D 刚体物理引擎。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156991/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ka表11.0</a>  – 轻量级 React 表组件。 (<a href="https://javascriptweekly.com/link/156992/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/156991/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ka表11.0</a>  – 轻量级 React 表组件。 （<a href="https://javascriptweekly.com/link/156992/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156993/rss" style=" color: #3366aa; font-weight: 500 !important;   ">覆盖滚动条 2.9</a> – JS自定义滚动条插件。</p>
@@ -424,7 +424,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员远离 CommonJS 时丢失的功能。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员放弃 CommonJS 时丢失的功能。</p>
   <p>玛丽·布兰斯科姆/新堆栈</p>
 </td></tr></tbody></table>
 
@@ -483,7 +483,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/156673/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">使用光线投射的 TypeScript 3D</a></span> — 光线投射是一种有点老式的渲染 3D 环境的技术（您可能在 1992 年见过它<em>德军总部 3D</em>）但它很容易理解并且值得至少实施一次。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;">▶<a href="https://javascriptweekly.com/link/156673/rss" title="www.youtube.com" style=" color: #3366aa;    font-size: 1.05em;">使用光线投射在 TypeScript 中实现 3D</a></span> — 光线投射是一种有点老式的渲染 3D 环境的技术（您可能在 1992 年见过它<em>德军总部 3D</em>）但它很容易理解并且值得至少实施一次。</p>
   <p>措丁日报</p>
 </td></tr></tbody></table>
 
@@ -565,7 +565,7 @@
 <p><a href="https://javascriptweekly.com/link/156706/rss" style=" color: #3366aa; font-weight: 500 !important;   ">电子商店10.0</a> – Electron 应用程序的简单数据持久性。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156707/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 日期选择器 7.1</a>  – 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/156708/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/156707/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 日期选择器 7.1</a>  – 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/156708/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156709/rss" style=" color: #3366aa; font-weight: 500 !important;   ">单子 0.7</a> – 铁锈启发<code>选项</code>,<code>结果</code>， 和<code>任何一个</code> 类型。</p>
@@ -920,7 +920,7 @@
   <p>雅各布·史密斯</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>📄<a href="https://javascriptweekly.com/link/156392/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用页面可见性 API</a> – 设置事件侦听器以在页面可见性发生变化时执行操作。<cite>布莱恩·史密斯</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156392/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用页面可见性 API</a> – 设置事件侦听器以在页面可见性发生变化时执行操作。<cite>布赖恩·史密斯</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156393/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Directus 和 Preact 入门</a> –<a href="https://javascriptweekly.com/link/156394/rss" style=" color: #3366aa; font-weight: 500 !important;   ">直达</a> 是一个构建在 Node 和 Vue 之上的无头 CMS。<cite>杰·巴拉迪亚</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156395/rss" style=" color: #3366aa; font-weight: 500 !important;   ">通过 WebAssembly 使用 Rust 为 Angular 提供支持</a> – 如何开始在 Angular 应用程序中使用 Rust。<cite>叶夫根尼·奥兹</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156396/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 指令与 Vue 指令</a>  <cite>克里斯蒂安·恩万巴</cite></p>
@@ -1419,7 +1419,7 @@
 <p><a href="https://javascriptweekly.com/link/156121/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ts电路</a> – 使用基于 React 的方法设计电路板。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – 适用于 Node.js 和 TypeScript 的流行 ORM。</p>
+<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – Node.js 和 TypeScript 的流行 ORM。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156123/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓜JS 17.3</a> – 轻量级 HTML5 游戏引擎。</p>
@@ -1437,7 +1437,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156125/rss" title="katex.org" style=" color: #3366aa;    font-size: 1.05em;">KaTeX：最快的网络数学排版库</a></span>  — 如今所有这些人工智能和机器学习论文和博客文章都充满了数学符号，那么使用无依赖性、基于 TeX 的方法来渲染它们怎么样？ 这<a href="https://javascriptweekly.com/link/156126/rss" style=" color: #3366aa;   ">沙盒演示页面</a> 展示它是多么光滑。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156125/rss" title="katex.org" style=" color: #3366aa;    font-size: 1.05em;">KaTeX：最快的网络数学排版库</a></span>  — 如今所有这些人工智能和机器学习论文和博客文章都充满了数学符号，那么使用无依赖性、基于 TeX 的方法来渲染它们怎么样？ 这<a href="https://javascriptweekly.com/link/156126/rss" style=" color: #3366aa;   ">沙箱演示页面</a> 展示它是多么光滑。</p>
   <p>艾米丽·艾森伯格和索菲·阿尔珀特</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
