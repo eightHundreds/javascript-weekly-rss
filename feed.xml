@@ -59,7 +59,7 @@
 <p>📊 Socket 的 Sarah Gooding 已经整理好了<a href="https://javascriptweekly.com/link/156957/rss" style=" color: #3366aa; font-weight: 500 !important;   ">一个很好的、容易浏览的综述<em>JS 2023 状况</em> 调查结果</a>。</p>
 </li>
 <li>
-<p>🧊 有人创建了一个<a href="https://javascriptweekly.com/link/156958/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ASCII 3D 渲染器</a>  在 JavaScript 中。 为什么？ 为什么不！ 有一个<a href="https://javascriptweekly.com/link/156959/rss" style=" color: #3366aa; font-weight: 500 !important;   ">现场演示在这里。</a></p>
+<p>🧊 有人创建了<a href="https://javascriptweekly.com/link/156958/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ASCII 3D 渲染器</a>  在 JavaScript 中。 为什么？ 为什么不！ 有一个<a href="https://javascriptweekly.com/link/156959/rss" style=" color: #3366aa; font-weight: 500 !important;   ">现场演示在这里。</a></p>
 </li>
 </ul>
 </td></tr></tbody></table>
@@ -119,7 +119,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/156973/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Slack 的人工智能驱动的从 Enzyme 到 React 测试库的转换</a> – 如果机器人正在抢走工作，至少它们是我们通常不想做的工作。<cite>谢尔盖·戈尔巴乔夫 (Slack)</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/156974/rss" style=" color: #3366aa; font-weight: 500 !important;   ">编写 Angular 测试时如何模拟子组件</a>  <cite>凯西·法尔科斯基</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156974/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何在编写 Angular 测试时模拟子组件</a>  <cite>凯西·法尔科斯基</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156975/rss" style=" color: #3366aa; font-weight: 500 !important;   ">SVG 中任意路径的变形</a>  <cite>亚历山德鲁·加布里埃尔·伊卡</cite></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
@@ -424,7 +424,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员放弃 CommonJS 时丢失的功能。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员远离 CommonJS 时丢失的功能。</p>
   <p>玛丽·布兰斯科姆/新堆栈</p>
 </td></tr></tbody></table>
 
@@ -489,7 +489,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156675/rss" title="colinhacks.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript Monorepo 中的实时类型</a></span> — 几种使 TypeScript monorepo 在传播变化的意义上感觉更加“活跃”的策略。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156675/rss" title="colinhacks.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript Monorepo 中的实时类型</a></span> — 几种让 TypeScript monorepo 在传播变化的意义上感觉更加“活跃”的策略。</p>
   <p>科林·麦克唐纳</p>
 </td></tr></tbody></table>
 
@@ -513,7 +513,7 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/156682/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何使用 Google Sheets 作为 React 的“数据库”</a> <cite>保罗·斯坎伦</cite></p>
 <p>📺<a href="https://javascriptweekly.com/link/156683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Svelte 和 RSC 如何改变 Web 开发</a> – 小组讨论，包括 Svelte 的 Rich Harris、Tracy Lee、Ben Lesh 和 Adam Rackis。<cite>这个点媒体</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/156684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用以下命令掌握日期格式<code>国际日期时间格式</code></a>  <cite>拉斐尔·卡马戈</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">掌握日期格式使用<code>国际日期时间格式</code></a>  <cite>拉斐尔·卡马戈</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156685/rss" style=" color: #3366aa; font-weight: 500 !important;   ">MobX 记忆组件（你不需要 React 编译器）</a> – 如果您实际上正在使用<a href="https://javascriptweekly.com/link/156686/rss" style=" color: #3366aa; font-weight: 500 !important;   ">莫布X</a>， 那是。<cite>迈克·约翰逊</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156687/rss" style=" color: #3366aa; font-weight: 500 !important;   ">将滚动驱动动画从 JavaScript 重构为 CSS</a>  <cite>安德里科·卡鲁拉</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156690/rss" style=" color: #3366aa; font-weight: 500 !important;   ">UUIDv7 以 20 种语言实现</a> – 令人惊讶的简短而甜蜜。<cite>安东·日亚诺夫</cite></p>
@@ -822,7 +822,7 @@
 <td align="right" style="padding-right: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "><p><a href="https://javascriptweekly.com/link/156423/rss" style=" color: #3366aa;">在网上阅读</a></p></td>
 </tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 最近，我遇到了一些读者，他们惊讶地发现这不是我们唯一的 JavaScript 时事通讯。 我们有<a href="https://javascriptweekly.com/link/156361/rss" style=" color: #3366aa; font-weight: 600;">节点周刊</a> 和<a href="https://javascriptweekly.com/link/156363/rss" style=" color: #3366aa; font-weight: 600;">反应状态</a>  也 – 如果您是 Node.js 或 React 开发人员，请查看它们，因为我们在那里更关注它们！ :-)<br>__<br><em>你的编辑彼得·库珀</em></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;"><p>📝 最近，我遇到了一些读者，他们惊讶地发现这不是我们唯一的 JavaScript 新闻通讯。 我们有<a href="https://javascriptweekly.com/link/156361/rss" style=" color: #3366aa; font-weight: 600;">节点周刊</a> 和<a href="https://javascriptweekly.com/link/156363/rss" style=" color: #3366aa; font-weight: 600;">反应状态</a>  也 – 如果您是 Node.js 或 React 开发人员，请查看它们，因为我们在那里更关注它们！ :-)<br>__<br><em>你的编辑彼得·库珀</em></p></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style=" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; "></td></tr></tbody></table>
     
@@ -1419,7 +1419,7 @@
 <p><a href="https://javascriptweekly.com/link/156121/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ts电路</a> – 使用基于 React 的方法设计电路板。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – Node.js 和 TypeScript 的流行 ORM。</p>
+<p><a href="https://javascriptweekly.com/link/156122/rss" style=" color: #3366aa; font-weight: 500 !important;   ">棱镜5.15</a> – 适用于 Node.js 和 TypeScript 的流行 ORM。</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156123/rss" style=" color: #3366aa; font-weight: 500 !important;   ">瓜JS 17.3</a> – 轻量级 HTML5 游戏引擎。</p>
