@@ -82,7 +82,7 @@
 <p>一筏<a href="https://javascriptweekly.com/link/157207/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Node.js 安全版本</a> 截止日期为 7 月 8 日。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/157208/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ESLint 9.6</a>,<a href="https://javascriptweekly.com/link/157209/rss" style=" color: #3366aa; font-weight: 500 !important;   ">普莱姆Vue 4.0</a>,<a href="https://javascriptweekly.com/link/157210/rss" style=" color: #3366aa; font-weight: 500 !important;   ">包子1.1.18</a></p>
+<p><a href="https://javascriptweekly.com/link/157208/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ESLint 9.6</a>,<a href="https://javascriptweekly.com/link/157209/rss" style=" color: #3366aa; font-weight: 500 !important;   ">PrimeVue 4.0</a>,<a href="https://javascriptweekly.com/link/157210/rss" style=" color: #3366aa; font-weight: 500 !important;   ">包子1.1.18</a></p>
 </li>
 </ul>
 </td></tr></tbody></table>
@@ -538,7 +538,7 @@
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/156973/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Slack 的人工智能驱动的从 Enzyme 到 React 测试库的转换</a> – 如果机器人正在抢走工作，至少它们是我们通常不想做的工作。<cite>谢尔盖·戈尔巴乔夫 (Slack)</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/156974/rss" style=" color: #3366aa; font-weight: 500 !important;   ">编写 Angular 测试时如何模拟子组件</a>  <cite>凯西·法尔科斯基</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156974/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何在编写 Angular 测试时模拟子组件</a>  <cite>凯西·法尔科斯基</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156975/rss" style=" color: #3366aa; font-weight: 500 !important;   ">SVG 中任意路径的变形</a>  <cite>亚历山德鲁·加布里埃尔·伊卡</cite></p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;"><p>🛠 代码和工具</p></td></tr></tbody></table>
@@ -591,13 +591,13 @@
 <p><a href="https://javascriptweekly.com/link/156987/rss" style=" color: #3366aa; font-weight: 500 !important;   ">凯1.4</a> – 基于浏览器、Node 和 Deno 的 Fetch 的简单 HTTP 客户端。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156988/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React Awesome 查询生成器 6.6</a>  – 逻辑查询生成器控制。 （<a href="https://javascriptweekly.com/link/156989/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/156988/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React Awesome 查询生成器 6.6</a>  – 逻辑查询生成器控制。 (<a href="https://javascriptweekly.com/link/156989/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156990/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Matter.js 0.20</a> – 2D 刚体物理引擎。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156991/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ka表11.0</a>  – 轻量级 React 表组件。 （<a href="https://javascriptweekly.com/link/156992/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
+<p><a href="https://javascriptweekly.com/link/156991/rss" style=" color: #3366aa; font-weight: 500 !important;   ">ka表11.0</a>  – 轻量级 React 表组件。 (<a href="https://javascriptweekly.com/link/156992/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示。</a>）</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156993/rss" style=" color: #3366aa; font-weight: 500 !important;   ">覆盖滚动条 2.9</a> – JS自定义滚动条插件。</p>
@@ -843,7 +843,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员远离 CommonJS 时丢失的功能。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156658/rss" title="thenewstack.io" style=" color: #3366aa;    font-size: 1.05em;">JavaScript 如何最终改善模块体验</a></span> — 多个长期提案统称为“模块和谐”，将完成开发人员放弃 CommonJS 时丢失的功能。</p>
   <p>玛丽·布兰斯科姆/新堆栈</p>
 </td></tr></tbody></table>
 
@@ -908,7 +908,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
-  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156675/rss" title="colinhacks.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript Monorepo 中的实时类型</a></span> — 几种使 TypeScript monorepo 在传播变化的意义上感觉更加“活跃”的策略。</p>
+  <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156675/rss" title="colinhacks.com" style=" color: #3366aa;    font-size: 1.05em;">TypeScript Monorepo 中的实时类型</a></span> — 几种让 TypeScript monorepo 在传播变化的意义上感觉更加“活跃”的策略。</p>
   <p>科林·麦克唐纳</p>
 </td></tr></tbody></table>
 
@@ -927,13 +927,13 @@
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
   
   <p><span style="font-weight: 600; font-size: 1.1em; color: #000;"><a href="https://javascriptweekly.com/link/156679/rss" title="johnnyreilly.com" style=" color: #3366aa;    font-size: 1.05em;">双出版 ESM 和 CJS 模块<code>楚普</code> 和“类型是否错误”</a></span> —<a href="https://javascriptweekly.com/link/156680/rss" style=" color: #3366aa;   ">楚普</a> 可以轻松捆绑 TypeScript 库和<a href="https://javascriptweekly.com/link/156681/rss" style=" color: #3366aa;   ">“类型有错吗？”</a> 分析包的类型问题。</p>
-  <p>约翰赖利</p>
+  <p>约翰·赖利</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
 <p>📄<a href="https://javascriptweekly.com/link/156682/rss" style=" color: #3366aa; font-weight: 500 !important;   ">如何使用 Google Sheets 作为 React 的“数据库”</a> <cite>保罗·斯坎伦</cite></p>
 <p>📺<a href="https://javascriptweekly.com/link/156683/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Svelte 和 RSC 如何改变 Web 开发</a> – 小组讨论，包括 Svelte 的 Rich Harris、Tracy Lee、Ben Lesh 和 Adam Rackis。<cite>这个点媒体</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/156684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用以下命令掌握日期格式<code>国际日期时间格式</code></a>  <cite>拉斐尔·卡马戈</cite></p>
-<p>📄<a href="https://javascriptweekly.com/link/156685/rss" style=" color: #3366aa; font-weight: 500 !important;   ">MobX 记忆组件（你不需要 React 编译器）</a> – 如果您实际上正在使用<a href="https://javascriptweekly.com/link/156686/rss" style=" color: #3366aa; font-weight: 500 !important;   ">莫布X</a>， 那是。<cite>迈克·约翰逊</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156684/rss" style=" color: #3366aa; font-weight: 500 !important;   ">掌握日期格式使用<code>国际日期时间格式</code></a>  <cite>拉斐尔·卡马戈</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156685/rss" style=" color: #3366aa; font-weight: 500 !important;   ">MobX 记忆组件（你不需要 React 编译器）</a> – 如果您实际上正在使用<a href="https://javascriptweekly.com/link/156686/rss" style=" color: #3366aa; font-weight: 500 !important;   ">莫布克斯</a>， 那是。<cite>迈克·约翰逊</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156687/rss" style=" color: #3366aa; font-weight: 500 !important;   ">将滚动驱动动画从 JavaScript 重构为 CSS</a>  <cite>安德里科·卡鲁拉</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156690/rss" style=" color: #3366aa; font-weight: 500 !important;   ">UUIDv7 以 20 种语言实现</a> – 令人惊讶的简短而甜蜜。<cite>安东·日亚诺夫</cite></p>
 </td></tr></tbody></table>
@@ -984,7 +984,7 @@
 <p><a href="https://javascriptweekly.com/link/156706/rss" style=" color: #3366aa; font-weight: 500 !important;   ">电子商店10.0</a> – Electron 应用程序的简单数据持久性。</p>
 </li>
 <li>
-<p><a href="https://javascriptweekly.com/link/156707/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 日期选择器 7.1</a>  – 简单的日期选择器组件。 （<a href="https://javascriptweekly.com/link/156708/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示</a>.)</p>
+<p><a href="https://javascriptweekly.com/link/156707/rss" style=" color: #3366aa; font-weight: 500 !important;   ">React 日期选择器 7.1</a>  – 简单的日期选择器组件。 (<a href="https://javascriptweekly.com/link/156708/rss" style=" color: #3366aa; font-weight: 500 !important;   ">演示</a>.)</p>
 </li>
 <li>
 <p><a href="https://javascriptweekly.com/link/156709/rss" style=" color: #3366aa; font-weight: 500 !important;   ">单子 0.7</a> – 铁锈启发<code>选项</code>,<code>结果</code>， 和<code>任何一个</code> 类型。</p>
@@ -1339,7 +1339,7 @@
   <p>雅各布·史密斯</p>
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;">
-<p>📄<a href="https://javascriptweekly.com/link/156392/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用页面可见性 API</a> – 设置事件侦听器以在页面可见性发生变化时执行操作。<cite>布莱恩·史密斯</cite></p>
+<p>📄<a href="https://javascriptweekly.com/link/156392/rss" style=" color: #3366aa; font-weight: 500 !important;   ">使用页面可见性 API</a> – 设置事件侦听器以在页面可见性发生变化时执行操作。<cite>布赖恩·史密斯</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156393/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Directus 和 Preact 入门</a> –<a href="https://javascriptweekly.com/link/156394/rss" style=" color: #3366aa; font-weight: 500 !important;   ">直达</a> 是一个构建在 Node 和 Vue 之上的无头 CMS。<cite>杰·巴拉迪亚</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156395/rss" style=" color: #3366aa; font-weight: 500 !important;   ">通过 WebAssembly 使用 Rust 为 Angular 提供支持</a> – 如何开始在 Angular 应用程序中使用 Rust。<cite>叶夫根尼·奥兹</cite></p>
 <p>📄<a href="https://javascriptweekly.com/link/156396/rss" style=" color: #3366aa; font-weight: 500 !important;   ">Angular 指令与 Vue 指令</a>  <cite>克里斯蒂安·恩万巴</cite></p>
